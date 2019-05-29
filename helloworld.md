@@ -63,6 +63,11 @@
 ## 2019-04-09 11:30:51
 ## Latest ESET research describes the inner workings of a recently found addition to OceanLotus’s toolset for targeting Mac users
 ## https://www.welivesecurity.com/2019/04/09/oceanlotus-macos-malware-update/<br><br><br>
+# Turla LightNeuron: An email too far
+## ESET
+## 2019-05-07 14:00:21
+## ESET research uncovers Microsoft Exchange malware remotely controlled via steganographic PDF and JPG email attachments
+## https://www.welivesecurity.com/2019/05/07/turla-lightneuron-email-too-far/<br><br><br>
 # Insights into Iranian Cyber Espionage: APT33 Targets Aerospace andEnergy Sectors and has Ties to Destructive Malware
 ## Fireeye
 ## Sep 20
