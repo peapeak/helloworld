@@ -1,3 +1,8 @@
+# Zebrocy’s Multilanguage Malware Salad
+## Kaspersky
+## 2019-06-03T14:00:21+00:00
+## Zebrocy is Russian speaking APT that presents a strange set of stripes. Essentially, at our SAS2019 presentation, we publicly provided original insights on Zebrocy and their characteristics for the first time, based on five years of research and private reports on this group.
+## https://securelist.com/zebrocys-multilanguage-malware-salad/90680/<br><br><br>
 # A dive into Turla PowerShell usage
 ## ESET
 ## 2019-05-29 11:30:29
