@@ -1,3 +1,38 @@
+# ➢  “绿斑”行动——持续多年的攻击
+## 安天
+## 2018-09-19
+## “绿斑”组织的攻击以互联网暴露目标和资产为攻击入口，采用社工邮件结合漏洞进行攻击，其活跃周期可能长达十年以上。
+## https://www.antiy.cn/research/notice&report/research_report/20180919.html<br><br><br>
+# ➢  国际黑产组织针对部分东亚国家金融从业者攻击活动的报告
+## 安天
+## 2019-03-22
+## 安天CERT对近期通过钓鱼邮件传播FlawedAmmyy远控木马的攻击活动进行分析，认为攻击活动发起方可能为全球的黑产组织TA505。
+## https://www.antiy.cn/research/notice&report/research_report/20190322.html<br><br><br>
+# ➢  海莲花组织针对中国APT攻击的最新样本分析
+## 安天
+## 2019-03-23
+## 安天CERT对最新捕获的多例针对中国用户的恶意宏文档攻击样本进行分析，认为这些攻击活动是海莲花APT组织所为。
+## https://www.antiy.cn/research/notice&report/research_report/20190323.html<br><br><br>
+# ➢  响尾蛇APT组织针对巴基斯坦的定向攻击事件分析
+## 安天
+## 2019-05-08
+## 安天CERT近期发现响尾蛇（SideWinder）APT组织针对巴基斯坦进行的鱼叉式钓鱼邮件攻击事件，该组织近两年比较活跃，擅长使用Nday漏洞、PowerShell、代码混淆技术以及利用开源武器代码。据安全厂商公开资料和地缘关系分析来看，该组织很可能来自南亚某国，目前未发现相关活动与白象等相关威胁行为体的关联，但不排除是同一攻击背景来源方向或新的攻击组织或分支小组。
+## https://www.antiy.cn/research/notice&report/research_report/20190508.html<br><br><br>
+# ➢  FIN6组织的针对性勒索软件攻击事件分析
+## 安天
+## 2019-05-09
+## 安天CERT针对LockerGoga与Ryuk勒索软件进行了多个维度上的关联分析，揭示了LockerGoga与Ryuk勒索软件之间的关联性与同源性，确定了两个勒索软件的运营者为同一组织。
+## https://www.antiy.cn/research/notice&report/research_report/20190509.html<br><br><br>
+# ➢  关于海莲花组织针对移动设备攻击的分析报告
+## 安天
+## 2019-05-24
+## "海莲花"（又名APT-TOCS、APT32、OceanLotus），被认为是来自中南半岛某国的APT攻击组织，自2012年活跃以来，一直针对中国的敏感目标进行攻击活动，是近几年来针对中国大陆进行攻击活动的最活跃的APT攻击组织之一。
+## https://www.antiy.cn/research/notice&report/research_report/20190524.html<br><br><br>
+# ➢  “方程式组织”攻击SWIFT服务提供商EastNets事件复盘分析报告
+## 安天
+## 2019-06-01
+## 安天以态势感知视角复盘分析相关事件，提出建设动态防御体系的关键原则。转发语：安天基于多年持续跟踪分析超高能力网空威胁行为体的分析成果，结合影子经纪人所泄露信息，以态势感知视角，完整复盘方程式组织攻击中东最大SWIFT服务商Eastnets的整个过程，并从威胁框架层面进行了映射解读。通过对这其高级威胁事件的分析梳理，进一步提出叠加演进能力导向的网络安全建设指引规划设计实践中的关键原则，以及建设可支撑实战化运行的战术型态势感知平台的重要意义。
+## https://www.antiy.cn/research/notice&report/research_report/20190601.html<br><br><br>
 # FINTEAM: Trojanized TeamViewer Against Government Targets
 ## Checkpoint
 ## April 22, 2019
