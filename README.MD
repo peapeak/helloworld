@@ -1,3 +1,8 @@
+# BabyShark Malware Part Two – Attacks Continue Using KimJongRAT and PCRat
+## Paloaltonetworks
+## 2019-04-26T18:40:48+00:00
+## Unit 42 digs into the recent OilRig data dump and finds new information on the breadth of attacks and OilRig’s toolset. Our analysis show OilRig attacks are broader than previously thought: 97 organizations in 27 countries, including the Middle East and China and 18 industries – including government, technology, telecommunications and transportation.
+## https://unit42.paloaltonetworks.com/babyshark-malware-part-two-attacks-continue-using-kimjongrat-and-pcrat/<br><br><br>
 # The Muddy Waters of APT Attacks
 ## Checkpoint
 ## April 10, 2019
