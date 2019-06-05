@@ -1,3 +1,8 @@
+# Platinum is back
+## Kaspersky
+## 2019-06-05T11:07:41+00:00
+## In June 2018, we came across an unusual set of samples spreading throughout South and Southeast Asian countries targeting diplomatic, government and military entities. 
+## https://securelist.com/platinum-is-back/91135/<br><br><br>
 # A journey to Zebrocy land
 ## ESET
 ## 2019-05-22 11:30:35
