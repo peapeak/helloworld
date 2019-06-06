@@ -1,4 +1,10 @@
 # @VK_Intel
+## 2019-06-06 10:48:35
+## Well. It is more than just Cobalt Strike usage as stated by Frank ->
+## https://twitter.com/r3c0nst/status/1136580965218869249 …
+## I agree the Cobalt Group name is also not ideal but better than some other obscure APT AV names I have heard for them.
+## https://twitter.com/VK_Intel/status/1136585672536526848<br><br><br><br><br>
+# @VK_Intel
 ## 2019-06-06 10:29:36
 ## I would at least go with the active group name as 'Cobalt Group', not the one that disappeared. 
 ## It helps connect technical intel together for those tracking it from the technical side.
