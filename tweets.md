@@ -1,4 +1,10 @@
 # @Rmy_Reserve
+## 2019-06-06 23:43:07
+## #APT
+## The sample of #APT39 #Chafer implant
+## Thanks to @Arkbird_SOLGhttps://twitter.com/Arkbird_SOLG/status/1136719357416038400 …
+## https://twitter.com/Rmy_Reserve/status/1136780590575841280<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-06-06 23:32:28
 ## #APT
 ## The sample of #APT28 #zekapad implant
