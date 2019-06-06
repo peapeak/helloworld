@@ -1,4 +1,9 @@
 # @VK_Intel
+## 2019-06-06 10:29:36
+## I would at least go with the active group name as 'Cobalt Group', not the one that disappeared. 
+## It helps connect technical intel together for those tracking it from the technical side.
+## https://twitter.com/VK_Intel/status/1136580894389678080<br><br><br><br><br>
+# @VK_Intel
 ## 2019-06-06 10:12:57
 ## Great forensics report. I would change the Carbanak name to Cobalt Group though.
 ## https://twitter.com/VK_Intel/status/1136576703676002305<br><br><br><br><br>
