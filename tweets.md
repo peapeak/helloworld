@@ -1,3 +1,10 @@
+# @Rmy_Reserve
+## 2019-06-06 23:32:28
+## #APT
+## The sample of #APT28 #zekapad implant
+## Thanks to @DrunkBinary 
+## cc:@Arkbird_SOLGhttps://twitter.com/DrunkBinary/status/1136735263420555277 …
+## https://twitter.com/Rmy_Reserve/status/1136777910809792512<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-06 21:30:41
 ## Platinum APT hides backdoor communication in texthttp://www.zdnet.com/article/platinum-apt-hides-backdoor-communication-in-text/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5cf985ff5f25b20001a1920a&utm_medium=trueAnthem&utm_source=twitter …
