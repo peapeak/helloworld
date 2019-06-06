@@ -1,3 +1,12 @@
+# @DrunkBinary
+## 2019-06-06 13:35:31
+## Turla Implant
+## 06c7fff3ab4549e7730cc55ba4f3d7e5
+## https://twitter.com/DrunkBinary/status/1136627681695608832<br><br><br><br><br>
+# @ESET
+## 2019-06-06 13:37:01
+## ICYMI: ESET researchers have analyzed new TTPs attributed to the espionage group #Turla aka #Snake and have leveraged #Powershell to run malware in-memory only:https://bit.ly/2Z3VhQO 
+## https://twitter.com/ESET/status/1136628060357353472<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-06 13:30:49
 ## Huawei tests 5G downloads in China as government due to issue licenseshttp://www.zdnet.com/article/huawei-tests-5g-downloads-in-china-as-government-due-to-issue-licenses/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5cf915875f25b20001a18b71&utm_medium=trueAnthem&utm_source=twitter …
