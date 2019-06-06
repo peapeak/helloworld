@@ -1,3 +1,11 @@
+# @VK_Intel
+## 2019-06-06 03:02:14
+## 2019-06-06: #FIN7 Group Profiler Script
+## [Insight] -> Searches Active Directory| Domain Information | OS & Desktop Monitor Setup | UAC Level| Process List | VM Check  
+## send -> "action=add_info&info={component}
+## Pushed the profiler script to Git->
+## https://github.com/k-vitali/Malware-Misc-RE/blob/master/2019-06-06-FIN7-JS-Loader-second-stage-profiler-script-vk.js …pic.twitter.com/OnON3n94Oz
+## https://twitter.com/VK_Intel/status/1136468311099752450<br><br><br><br><br>
 # @blackorbird
 ## 2019-06-04 06:57:06
 ## #Apt28 
