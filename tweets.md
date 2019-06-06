@@ -1,4 +1,8 @@
 # @VK_Intel
+## 2019-06-06 10:12:57
+## Great forensics report. I would change the Carbanak name to Cobalt Group though.
+## https://twitter.com/VK_Intel/status/1136576703676002305<br><br><br><br><br>
+# @VK_Intel
 ## 2019-06-06 10:00:50
 ## Amazing forensic insights into the group lengthy recon & lateral movement we call #CobaltGroup (CG). 
 ## I would not necessarily agree w/ equating it w/ #Carbanak as that group seized operation quite some time ago &  their former members likely joined CG & others w/ similar TTPs.pic.twitter.com/gIi4ETzyLS
