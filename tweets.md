@@ -1,3 +1,13 @@
+# @securityaffairs
+## 2019-06-06 11:02:29
+## @Marco_Ramilli Analyzing the #APT34's #Jason project
+## https://securityaffairs.co/wordpress/86680/hacking/analyzing-apt34-jason-project.html …
+## #securityaffairs #hacking #APT #Iran @yoroisecurity @zlab_team @_odisseus
+## https://twitter.com/securityaffairs/status/1136589171622141952<br><br><br><br><br>
+# @BleepinComputer
+## 2019-06-06 11:00:08
+## The MuddyWater APT Group Adds New Tools to Their Arsenal - by @sergheihttps://www.bleepingcomputer.com/news/security/the-muddywater-apt-group-adds-new-tools-to-their-arsenal/ …
+## https://twitter.com/BleepinComputer/status/1136588580074205184<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-06 10:53:27
 ## Platinum APT hides backdoor communication in text https://zd.net/2HYegX8  by @SecurityCharlie
