@@ -1,3 +1,7 @@
+# @DrunkBinary
+## 2019-06-06 19:12:19
+## Turla Kotel Implanthttps://twitter.com/DrunkBinary/status/1136627681695608832 …
+## https://twitter.com/DrunkBinary/status/1136712439309975554<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-06 18:03:11
 ## #Platinum #APT and leverages #steganography to hide C2 communications -
