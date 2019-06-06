@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-06-06 09:13:30
+## Good analysis of #jason project of #APT34 group
+## Thanks to @Marco_Ramilli
+## @Arkbird_SOLGhttps://twitter.com/Marco_Ramilli/status/1136556342234230784 …
+## https://twitter.com/Rmy_Reserve/status/1136561741653897216<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-06 08:15:32
 ## Huawei tests 5G downloads in China as government due to issue licenseshttp://www.zdnet.com/article/huawei-tests-5g-downloads-in-china-as-government-due-to-issue-licenses/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5cf8cba25f25b20001a186ce&utm_medium=trueAnthem&utm_source=twitter …
