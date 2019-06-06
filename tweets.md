@@ -1,3 +1,8 @@
+# @VK_Intel
+## 2019-06-06 11:31:40
+## 2019-06-06: I highly recommend reading & reviewing forensic insights into the group lengthy recon & lateral movement we call #CobaltGroup (CG) (not necessarily Carbanak) | @Bitdefender
+## Known chains/TTPs w/ more_eggs & CS beacons & w/ bank net intrusion insights/timelinehttps://twitter.com/Bank_Security/status/1136568891063316480 …
+## https://twitter.com/VK_Intel/status/1136596512748818432<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-06 11:02:29
 ## @Marco_Ramilli Analyzing the #APT34's #Jason project
