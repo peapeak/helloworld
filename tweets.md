@@ -1,3 +1,7 @@
+# @0xffff0800
+## 2019-06-06 07:36:15
+## https://krypt3ia.wordpress.com/2019/06/05/shaqgegpbanuq24g-onion-alleged-iranian-espionage-sale-site/ …
+## https://twitter.com/0xffff0800/status/1136537267521097728<br><br><br><br><br>
 # @VK_Intel
 ## 2019-06-06 03:02:14
 ## 2019-06-06: #FIN7 Group Profiler Script
