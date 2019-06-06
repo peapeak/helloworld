@@ -1,4 +1,8 @@
 # @VK_Intel
+## 2019-06-06 12:16:22
+## I agree. It is more about reducing confusion here that it is Cobalt Group rather than Carbanak (Carberp+Anunak) or Carberp.
+## https://twitter.com/VK_Intel/status/1136607761180037120<br><br><br><br><br>
+# @VK_Intel
 ## 2019-06-06 12:08:01
 ## I agree with you, Andrew, regarding verifiable overlaps and organic conclusions as a whole. This case as we track these TTPs pretty universally to the 'Cobalt Group' was evident to me and others that are this exact group.
 ## https://twitter.com/VK_Intel/status/1136605661624754176<br><br><br><br><br>
