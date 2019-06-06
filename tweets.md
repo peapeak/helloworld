@@ -1,3 +1,19 @@
+# @securityaffairs
+## 2019-06-06 18:03:11
+## #Platinum #APT and leverages #steganography to hide C2 communications -
+## https://securityaffairs.co/wordpress/86664/apt/platinum-apt-campaign.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1136695040988893184<br><br><br><br><br>
+# @securityaffairs
+## 2019-06-06 18:03:41
+## Analyzing the #APT34's #Jason project-
+## https://securityaffairs.co/wordpress/86680/hacking/analyzing-apt34-jason-project.html …
+## #securityaffairs #hacking #APT #Iran
+## https://twitter.com/securityaffairs/status/1136695168688635904<br><br><br><br><br>
+# @z3roTrust
+## 2019-06-06 18:01:41
+## "PLATINUM APT Found Using Text-based Steganography to Hide Backdoor" by @z3roTrust on @Peerlysthttps://www.peerlyst.com/posts/platinum-apt-found-using-text-based-steganography-to-hide-backdoor-z3ro-trust?utm_source=twitter&utm_medium=Application_Share&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post …
+## https://twitter.com/z3roTrust/status/1136694665707581441<br><br><br><br><br>
 # @z3roTrust
 ## 2019-06-06 17:51:58
 ## I just published PLATINUM APT Found Using Text-based Steganography to Hide Backdoorhttps://link.medium.com/CbIDahOXiX 
