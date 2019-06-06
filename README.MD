@@ -1,3 +1,8 @@
+# Shade Ransomware Hits High-Tech, Wholesale, Education Sectors in U.S, Japan, India, Thailand, Canada
+## Paloaltonetworks
+## 2019-05-22T16:00:14+00:00
+## Our latest research shows attacks against Middle East government Sharepoint servers using a newly patched vulnerability. In our blog, we provide details of the tools and tactics, explain how we believe these connect to the Emissary Panda threat group, correlate our findings with those of the Saudi Arabian National Cyber Security Center and the Canadian Center for Cyber Security, and provide indicators of compromise (IoCs) from our research.
+## https://unit42.paloaltonetworks.com/shade-ransomware-hits-high-tech-wholesale-education-sectors-in-u-s-japan-india-thailand-canada/<br><br><br>
 # Platinum is back
 ## Kaspersky
 ## 2019-06-05T11:07:41+00:00
