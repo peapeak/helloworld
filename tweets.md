@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-06-06 08:15:32
+## Huawei tests 5G downloads in China as government due to issue licenseshttp://www.zdnet.com/article/huawei-tests-5g-downloads-in-china-as-government-due-to-issue-licenses/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5cf8cba25f25b20001a186ce&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1136547155861221376<br><br><br><br><br>
 # @0xffff0800
 ## 2019-06-06 07:36:15
 ## https://krypt3ia.wordpress.com/2019/06/05/shaqgegpbanuq24g-onion-alleged-iranian-espionage-sale-site/ …
