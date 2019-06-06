@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-06-06 19:39:48
+## #APT39 Chafer Implant @VK_Intel @0xffff0800 @JAMESWT_MHT @James_inthe_box https://www.virustotal.com/gui/file/becbefc2bc8eacd0d82c4820e04fb78881e2cb33e06a009cf6def115d0390aaf/details …
+## https://twitter.com/Arkbird_SOLG/status/1136719357416038400<br><br><br><br><br>
 # @DrunkBinary
 ## 2019-06-06 19:12:19
 ## Turla Kotel Implanthttps://twitter.com/DrunkBinary/status/1136627681695608832 …
