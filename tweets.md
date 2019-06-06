@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-06-06 10:53:27
+## Platinum APT hides backdoor communication in text https://zd.net/2HYegX8  by @SecurityCharlie
+## https://twitter.com/ZDNet/status/1136586898242121728<br><br><br><br><br>
 # @VK_Intel
 ## 2019-06-06 10:48:35
 ## Well. It is more than just Cobalt Strike usage as stated by Frank ->
