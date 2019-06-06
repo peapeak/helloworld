@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-06-06 13:30:49
+## Huawei tests 5G downloads in China as government due to issue licenseshttp://www.zdnet.com/article/huawei-tests-5g-downloads-in-china-as-government-due-to-issue-licenses/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5cf915875f25b20001a18b71&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1136626499455467521<br><br><br><br><br>
 # @VK_Intel
 ## 2019-06-06 12:16:22
 ## I agree. It is more about reducing confusion here that it is Cobalt Group rather than Carbanak (Carberp+Anunak) or Carberp.
