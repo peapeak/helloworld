@@ -1,3 +1,8 @@
+# @DrunkBinary
+## 2019-06-06 20:43:00
+## APT28 Zekapab Implant
+## e795ba49aaf09119a2e95795857a62c0
+## https://twitter.com/DrunkBinary/status/1136735263420555277<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-06-06 19:39:48
 ## #APT39 Chafer Implant @VK_Intel @0xffff0800 @JAMESWT_MHT @James_inthe_box https://www.virustotal.com/gui/file/becbefc2bc8eacd0d82c4820e04fb78881e2cb33e06a009cf6def115d0390aaf/details …
