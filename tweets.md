@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-06-06 16:15:47
+## Platinum APT hides backdoor communication in texthttp://www.zdnet.com/article/platinum-apt-hides-backdoor-communication-in-text/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5cf93c315f25b20001a18dd2&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1136668014840111104<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-06 13:41:48
 ## #Platinum #APT and leverages #steganography to hide C2 communications
