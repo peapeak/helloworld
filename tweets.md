@@ -1,4 +1,9 @@
 # @Rmy_Reserve
+## 2019-06-06 09:50:32
+## #Carbanak APT 
+## Thanks to @Bank_Securityhttps://twitter.com/Bank_Security/status/1136568891063316480 …
+## https://twitter.com/Rmy_Reserve/status/1136571061351268352<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-06-06 09:13:30
 ## Good analysis of #jason project of #APT34 group
 ## Thanks to @Marco_Ramilli
