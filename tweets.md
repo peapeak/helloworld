@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-06-06 11:56:37
+## @e_kaspersky @kaspersky @KasperskyLabIT @Kaspersky_ru @KasperskyLabIT @MauraFrusone #Platinum #APT and leverages #steganography to hide C2 communications
+## https://securityaffairs.co/wordpress/86664/apt/platinum-apt-campaign.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1136602791953219584<br><br><br><br><br>
 # @VK_Intel
 ## 2019-06-06 11:50:47
 ## You stated in your original opinion essentially saying presently multiple groups "use" Carberp/Anunak (not the case AFAIK). 
