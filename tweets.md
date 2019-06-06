@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-06-06 21:30:41
+## Platinum APT hides backdoor communication in texthttp://www.zdnet.com/article/platinum-apt-hides-backdoor-communication-in-text/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5cf985ff5f25b20001a1920a&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1136747262317608961<br><br><br><br><br>
 # @DrunkBinary
 ## 2019-06-06 21:01:18
 ## Turla has to work for it sometimes...
