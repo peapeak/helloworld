@@ -1,4 +1,9 @@
 # @VK_Intel
+## 2019-06-06 11:50:47
+## You stated in your original opinion essentially saying presently multiple groups "use" Carberp/Anunak (not the case AFAIK). 
+## However, we call this group more appropriately as 'Cobalt Group' as they are active and still in the wild and attributable by a plethora of indicators.
+## https://twitter.com/VK_Intel/status/1136601323351265281<br><br><br><br><br>
+# @VK_Intel
 ## 2019-06-06 11:31:40
 ## 2019-06-06: I highly recommend reading & reviewing forensic insights into the group lengthy recon & lateral movement we call #CobaltGroup (CG) (not necessarily Carbanak) | @Bitdefender
 ## Known chains/TTPs w/ more_eggs & CS beacons & w/ bank net intrusion insights/timelinehttps://twitter.com/Bank_Security/status/1136568891063316480 …
