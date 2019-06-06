@@ -1,3 +1,7 @@
+# @VK_Intel
+## 2019-06-06 12:00:14
+## It will be news to me if you were able to prove us incorrect that this is not the 'Cobalt Group' but other groups that use 'Anunak' with the TTPs from the report (no word on Anunak there).
+## https://twitter.com/VK_Intel/status/1136603701941088257<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-06 11:56:37
 ## @e_kaspersky @kaspersky @KasperskyLabIT @Kaspersky_ru @KasperskyLabIT @MauraFrusone #Platinum #APT and leverages #steganography to hide C2 communications
