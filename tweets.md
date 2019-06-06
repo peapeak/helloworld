@@ -1,4 +1,8 @@
 # @VK_Intel
+## 2019-06-06 12:08:01
+## I agree with you, Andrew, regarding verifiable overlaps and organic conclusions as a whole. This case as we track these TTPs pretty universally to the 'Cobalt Group' was evident to me and others that are this exact group.
+## https://twitter.com/VK_Intel/status/1136605661624754176<br><br><br><br><br>
+# @VK_Intel
 ## 2019-06-06 12:00:14
 ## It will be news to me if you were able to prove us incorrect that this is not the 'Cobalt Group' but other groups that use 'Anunak' with the TTPs from the report (no word on Anunak there).
 ## https://twitter.com/VK_Intel/status/1136603701941088257<br><br><br><br><br>
