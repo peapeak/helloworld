@@ -1,3 +1,15 @@
+# @securityaffairs
+## 2019-06-06 13:41:48
+## #Platinum #APT and leverages #steganography to hide C2 communications
+## https://securityaffairs.co/wordpress/86664/apt/platinum-apt-campaign.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1136629264940507141<br><br><br><br><br>
+# @securityaffairs
+## 2019-06-06 13:41:55
+## Analyzing the #APT34's #Jason project
+## https://securityaffairs.co/wordpress/86680/hacking/analyzing-apt34-jason-project.html …
+## #securityaffairs #hacking #APT #Iran
+## https://twitter.com/securityaffairs/status/1136629292941631490<br><br><br><br><br>
 # @DrunkBinary
 ## 2019-06-06 13:35:31
 ## Turla Implant
