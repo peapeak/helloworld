@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-06-06 17:51:58
+## I just published PLATINUM APT Found Using Text-based Steganography to Hide Backdoorhttps://link.medium.com/CbIDahOXiX 
+## https://twitter.com/z3roTrust/status/1136692218717097985<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-06 16:15:47
 ## Platinum APT hides backdoor communication in texthttp://www.zdnet.com/article/platinum-apt-hides-backdoor-communication-in-text/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5cf93c315f25b20001a18dd2&utm_medium=trueAnthem&utm_source=twitter …
