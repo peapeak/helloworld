@@ -1,4 +1,8 @@
 # @DrunkBinary
+## 2019-06-06 21:01:18
+## Turla has to work for it sometimes...
+## https://twitter.com/DrunkBinary/status/1136739864865624064<br><br><br><br><br>
+# @DrunkBinary
 ## 2019-06-06 20:43:00
 ## APT28 Zekapab Implant
 ## e795ba49aaf09119a2e95795857a62c0
