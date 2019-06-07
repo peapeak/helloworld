@@ -1,3 +1,13 @@
+# @VK_Intel
+## 2019-06-07 15:14:28
+## 2019-06-07: #Lazarus #DRPK Loader -> Employee Ruse as #Redbanc
+## #Signed Listen/Enum Tool -> [ORDARA LTD]
+## Write/Read "C:\windows\temp\tmp0207"
+## 'WTSEnumerateProcesses enums process on a Terminal Server'
+## OpenProc -> Alloc
+## h/t @KevinPerlow
+## MD5: b9ad0cc2a2e0f513ce716cdf037da907pic.twitter.com/bcgNGIsR0u
+## https://twitter.com/VK_Intel/status/1137014972440031234<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-06-07 14:59:51
 ## #MuddyWater @VK_Intel @0xffff0800 @James_inthe_box @JAMESWT_MHT I have forgot to mention this but in more the fake for loop (don't have a variable on the param of the for loop) , there are some loop with conditionals args who do the equivalent of a while 1.pic.twitter.com/nbKfwLbtwJ
