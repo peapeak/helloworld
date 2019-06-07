@@ -1,3 +1,14 @@
+# @kaspersky
+## 2019-06-07 12:55:17
+## The next Kaspersky podcast looks at 
+## 
+##  GCHQ and German government are looking to crack down on encrypted messages,
+##  Football fraud to the tune of half a million euros,
+##  More POS malware,
+##  Google is set to block ad-blockers in Chrome
+## 
+## Tune in --> https://kas.pr/rb62 pic.twitter.com/jlVFzdt1Kr
+## https://twitter.com/kaspersky/status/1136979945245282304<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-07 10:15:28
 ## Platinum APT hides backdoor communication in texthttp://www.zdnet.com/article/platinum-apt-hides-backdoor-communication-in-text/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5cfa393eba8a6c00014cbd70&utm_medium=trueAnthem&utm_source=twitter …
