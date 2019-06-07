@@ -1,3 +1,7 @@
+# @threatpost
+## 2019-06-07 16:00:00
+## 40 percent of Dark Web merchants offer spearphishing-as-a-service and targeted #hacking services, a new report found.https://threatpost.com/espionage-as-a-service-dark-web/145464/ …
+## https://twitter.com/threatpost/status/1137026431211282432<br><br><br><br><br>
 # @VK_Intel
 ## 2019-06-07 15:31:11
 ## It is pretty interesting as this whole case is reminiscent of the research on possible attempted Pakistan (1), #Redbank  (2), VNCERT alert bank intrusion 
