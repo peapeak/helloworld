@@ -1,3 +1,10 @@
+# @Rmy_Reserve
+## 2019-06-07 08:44:00
+## #APT
+## The sample of #turla
+## Thanks to @DrunkBinary
+## Cc:@Arkbird_SOLGhttps://twitter.com/DrunkBinary/status/1136627681695608832 …
+## https://twitter.com/Rmy_Reserve/status/1136916706549329920<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-07 07:37:02
 ## #Platinum #APT and leverages #steganography to hide C2 communications
