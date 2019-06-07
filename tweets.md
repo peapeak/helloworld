@@ -1,3 +1,12 @@
+# @z3roTrust
+## 2019-06-07 19:52:13
+## On imposter syndrome: 
+## 
+## "Real knowledge is to know the extent of one's ignorance."
+## --Confucius
+## 
+## We all have unique .edu backgrounds, experience, skills, & levels of curiosity. Anyone who cares enough about securing information systems & making the internet safer belongs here.
+## https://twitter.com/z3roTrust/status/1137084871069773825<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-06-07 16:34:42
 ## I'm writing an analysis of #muddywater #APT Group aim at Tajikistan 
