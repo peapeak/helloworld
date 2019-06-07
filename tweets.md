@@ -1,4 +1,11 @@
 # @VK_Intel
+## 2019-06-07 15:31:11
+## It is pretty interesting as this whole case is reminiscent of the research on possible attempted Pakistan (1), #Redbank  (2), VNCERT alert bank intrusion 
+## (1) https://www.vkremez.com/2019/01/lets-learn-dissecting-lazarus.html …
+## (2) https://www.flashpoint-intel.com/blog/disclosure-chilean-redbanc-intrusion-lazarus-ties/ …
+## (3) https://norfolkinfosec.com/recent-lazarus-tools/ …pic.twitter.com/FCwZcwnjH4
+## https://twitter.com/VK_Intel/status/1137019176915222528<br><br><br><br><br>
+# @VK_Intel
 ## 2019-06-07 15:14:28
 ## 2019-06-07: #Lazarus #DRPK Loader -> Employee Ruse as #Redbanc
 ## #Signed Listen/Enum Tool -> [ORDARA LTD]
