@@ -1,3 +1,8 @@
+# @Arkbird_SOLG
+## 2019-06-07 23:51:13
+## #Muddywater @VK_Intel @0xffff0800 @James_inthe_box @JAMESWT_MHT Matching Yara rule for the MuddyWater auxiliary tool
+## https://www.virustotal.com/gui/file/9decfd3ee834f7044407d85927adc0bcf93771b55849deb8860f6a5c47ab145d/detection …
+## https://twitter.com/Arkbird_SOLG/status/1137145015816380416<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-07 21:08:12
 ## #Platinum #APT and leverages #steganography to hide C2 communications
