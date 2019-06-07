@@ -1,3 +1,15 @@
+# @securityaffairs
+## 2019-06-07 07:37:02
+## #Platinum #APT and leverages #steganography to hide C2 communications
+## https://securityaffairs.co/wordpress/86664/apt/platinum-apt-campaign.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1136899852833611776<br><br><br><br><br>
+# @securityaffairs
+## 2019-06-07 07:38:02
+## Analyzing the #APT34's #Jason project
+## https://securityaffairs.co/wordpress/86680/hacking/analyzing-apt34-jason-project.html …
+## #securityaffairs #hacking #APT #Iran
+## https://twitter.com/securityaffairs/status/1136900106588958720<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-07 04:00:40
 ## Platinum APT hides backdoor communication in texthttp://www.zdnet.com/article/platinum-apt-hides-backdoor-communication-in-text/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5cf9e16472d8460001dc92db&utm_medium=trueAnthem&utm_source=twitter …
