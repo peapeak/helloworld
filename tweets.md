@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-06-07 13:44:39
+## From phish to network compromise in two hours: How Carbanak operates https://www.csoonline.com/article/3400861/from-phish-to-network-compromise-in-two-hours-how-carbanak-operates.html … via @csoonline
+## https://twitter.com/z3roTrust/status/1136992367246946305<br><br><br><br><br>
 # @kaspersky
 ## 2019-06-07 12:55:17
 ## The next Kaspersky podcast looks at 
