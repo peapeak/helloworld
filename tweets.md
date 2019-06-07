@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-06-07 04:00:40
+## Platinum APT hides backdoor communication in texthttp://www.zdnet.com/article/platinum-apt-hides-backdoor-communication-in-text/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5cf9e16472d8460001dc92db&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1136845401988800512<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-06-06 23:43:07
 ## #APT
