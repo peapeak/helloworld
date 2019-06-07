@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-06-07 14:59:51
+## #MuddyWater @VK_Intel @0xffff0800 @James_inthe_box @JAMESWT_MHT I have forgot to mention this but in more the fake for loop (don't have a variable on the param of the for loop) , there are some loop with conditionals args who do the equivalent of a while 1.pic.twitter.com/nbKfwLbtwJ
+## https://twitter.com/Arkbird_SOLG/status/1137011293595062272<br><br><br><br><br>
 # @z3roTrust
 ## 2019-06-07 13:44:39
 ## From phish to network compromise in two hours: How Carbanak operates https://www.csoonline.com/article/3400861/from-phish-to-network-compromise-in-two-hours-how-carbanak-operates.html … via @csoonline
