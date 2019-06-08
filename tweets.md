@@ -1,4 +1,10 @@
 # @securityaffairs
+## 2019-06-08 22:11:08
+## #Platinum #APT and leverages #steganography to hide C2 communications
+## https://securityaffairs.co/wordpress/86664/apt/platinum-apt-campaign.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1137482215514955776<br><br><br><br><br>
+# @securityaffairs
 ## 2019-06-08 18:21:55
 ## Hunting the #ICEFOG #APT group after years of silence
 ## https://securityaffairs.co/wordpress/86826/apt/icefog-apt-group-return.html …
