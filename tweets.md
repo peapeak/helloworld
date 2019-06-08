@@ -1,3 +1,7 @@
+# @Rmy_Reserve
+## 2019-06-08 13:05:53
+## #APT39https://twitter.com/Arkbird_SOLG/status/1136719357416038400 …
+## https://twitter.com/Rmy_Reserve/status/1137345001912819716<br><br><br><br><br>
 # @VK_Intel
 ## 2019-06-08 11:45:52
 ## Indeed, it seems to be their newer (?) injector tool for persistence.  
