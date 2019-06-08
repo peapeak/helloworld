@@ -1,3 +1,12 @@
+# @VK_Intel
+## 2019-06-08 11:45:52
+## Indeed, it seems to be their newer (?) injector tool for persistence.  
+## "-E" arg seems likely to be just "execute"
+## So we have like the following args used by this #Lazarus  injector sample:
+## -S -> "sleep before execution"
+## -D -> "delete loaded file"
+## -E -> "execute immediately"pic.twitter.com/KEixXcXI4j
+## https://twitter.com/VK_Intel/status/1137324862408708096<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-06-08 03:56:45
 ## #muddywaterhttps://twitter.com/Arkbird_SOLG/status/1137145015816380416 …
