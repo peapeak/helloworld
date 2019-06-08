@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-06-07 23:55:52
+## New Hawkball backdoor attacks government sector in Central Asiahttps://www.scmagazine.com/home/security-news/malware/new-hawkball-backdoor-attacks-government-sector-in-central-asia/ …
+## https://twitter.com/z3roTrust/status/1137146185188118528<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-06-07 23:51:13
 ## #Muddywater @VK_Intel @0xffff0800 @James_inthe_box @JAMESWT_MHT Matching Yara rule for the MuddyWater auxiliary tool
