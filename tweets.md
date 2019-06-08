@@ -1,4 +1,10 @@
 # @securityaffairs
+## 2019-06-08 18:21:55
+## Hunting the #ICEFOG #APT group after years of silence
+## https://securityaffairs.co/wordpress/86826/apt/icefog-apt-group-return.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1137424533005176833<br><br><br><br><br>
+# @securityaffairs
 ## 2019-06-08 15:04:42
 ## Awesome research by @ashley_shen_920 Hunting the #ICEFOG #APT group after years of silence
 ## https://securityaffairs.co/wordpress/86826/apt/icefog-apt-group-return.html …
