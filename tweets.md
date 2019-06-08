@@ -1,3 +1,15 @@
+# @securityaffairs
+## 2019-06-08 15:04:42
+## Awesome research by @ashley_shen_920 Hunting the #ICEFOG #APT group after years of silence
+## https://securityaffairs.co/wordpress/86826/apt/icefog-apt-group-return.html …
+## #securityaffairs #hacking #malware @FireEye @MalwarePatrol @Malwageddon @Marco_Ramilli @zlab_team @yoroisecurity
+## https://twitter.com/securityaffairs/status/1137374902313521152<br><br><br><br><br>
+# @securityaffairs
+## 2019-06-08 15:06:42
+## @kaspersky @KasperskyLabIT @e_kaspersky @Kaspersky_ru Hunting the #ICEFOG #APT group after years of silence
+## https://securityaffairs.co/wordpress/86826/apt/icefog-apt-group-return.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1137375404304535553<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-06-08 13:05:53
 ## #APT39https://twitter.com/Arkbird_SOLG/status/1136719357416038400 …
