@@ -1,4 +1,28 @@
 # @securityaffairs
+## 2019-06-09 13:29:51
+## Hunting the #ICEFOG #APT group after years of silence
+## https://securityaffairs.co/wordpress/86826/apt/icefog-apt-group-return.html …
+## #securityaffairs #hacking #malware -
+## https://twitter.com/securityaffairs/status/1137713421267476481<br><br><br><br><br>
+# @securityaffairs
+## 2019-06-09 22:19:50
+## Hunting the #ICEFOG #APT group after years of silence
+## https://securityaffairs.co/wordpress/86826/apt/icefog-apt-group-return.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1137846795348992000<br><br><br><br><br>
+# @Arkbird_SOLG
+## 2019-06-09 21:45:16
+## #APT33 @0xffff0800 @VK_Intel @JAMESWT_MHT @James_inthe_box 
+## Probably Dropshot malware that inject Turned Up
+## https://attack.mitre.org/software/S0199/ 
+## https://www.virustotal.com/gui/file/6759f8a4ef326f8de63d6157c046009a9efe0716cad79d64373628c3dcca051e/detection …
+## https://twitter.com/Arkbird_SOLG/status/1137838093866811392<br><br><br><br><br>
+# @Rmy_Reserve
+## 2019-06-09 22:21:50
+## #APT
+## possible #APT33https://twitter.com/Arkbird_SOLG/status/1137838093866811392 …
+## https://twitter.com/Rmy_Reserve/status/1137847298174509057<br><br><br><br><br>
+# @securityaffairs
 ## 2019-06-08 22:11:08
 ## #Platinum #APT and leverages #steganography to hide C2 communications
 ## https://securityaffairs.co/wordpress/86664/apt/platinum-apt-campaign.html …
