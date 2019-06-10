@@ -1,3 +1,7 @@
+# @BleepinComputer
+## 2019-06-10 14:35:47
+## MuddyWater Updates POWERSTATS Backdoor For Multi-Stage Attacks - by @sergheihttps://www.bleepingcomputer.com/news/security/muddywater-updates-powerstats-backdoor-for-multi-stage-attacks/ …
+## https://twitter.com/BleepinComputer/status/1138092401174745094<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-10 13:00:40
 ## Platinum APT hides backdoor communication in texthttp://www.zdnet.com/article/platinum-apt-hides-backdoor-communication-in-text/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5cfe5476ba8a6c00014cfff1&utm_medium=trueAnthem&utm_source=twitter …
