@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-06-10 13:00:40
+## Platinum APT hides backdoor communication in texthttp://www.zdnet.com/article/platinum-apt-hides-backdoor-communication-in-text/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5cfe5476ba8a6c00014cfff1&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1138068461651943424<br><br><br><br><br>
 # @blackorbird
 ## 2019-06-10 09:02:01
 ## #kimsuky related #konni report claims that konni maybe attributed to korean, North Korea or China.
