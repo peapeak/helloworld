@@ -1,3 +1,8 @@
+# @malwrhunterteam
+## 2019-06-10 19:26:30
+## Saw someone entering credentials multiple times in an MS hosted phishing page from the network of "Government of the District of Columbia". Of course, the email ended in dc[.]gov...
+## @JayTHL @DanielGallagherpic.twitter.com/tk5qDGNyq6
+## https://twitter.com/malwrhunterteam/status/1138165559382695936<br><br><br><br><br>
 # @BleepinComputer
 ## 2019-06-10 14:35:47
 ## MuddyWater Updates POWERSTATS Backdoor For Multi-Stage Attacks - by @sergheihttps://www.bleepingcomputer.com/news/security/muddywater-updates-powerstats-backdoor-for-multi-stage-attacks/ …
