@@ -1,3 +1,12 @@
+# @blackorbird
+## 2019-06-10 09:02:01
+## #kimsuky related #konni report claims that konni maybe attributed to korean, North Korea or China.
+## http://blog.alyac.co.kr/2347 
+## Konni related many things,such as kimsuky,Nokki, DarkHotel,Group123,Syscon,Carrotbat,Babyface,Amadey and so on
+## 
+## my collection report:
+## https://github.com/blackorbird/APT_REPORT/blob/master/konni/ReadME.md …pic.twitter.com/xepdbaTKXz
+## https://twitter.com/blackorbird/status/1138008403769417728<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-10 07:52:09
 ## Hunting the #ICEFOG #APT group after years of silence
