@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-06-10 22:43:53
+## Hunting the #ICEFOG #APT group after years of silence
+## https://securityaffairs.co/wordpress/86826/apt/icefog-apt-group-return.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1138215234534072320<br><br><br><br><br>
 # @JayTHL
 ## 2019-06-10 21:34:58
 ## a shiz ton of .edu accounts, several governments, not sure i've seen a 1MB phishing dump file.
