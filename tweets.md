@@ -1,3 +1,13 @@
+# @Rmy_Reserve
+## 2019-06-10 23:27:34
+## #APT
+## #Muddywater good reprot
+## https://blog.trendmicro.com/trendlabs-security-intelligence/muddywater-resurfaces-uses-multi-stage-backdoor-powerstats-v3-and-new-post-exploitation-tools/ …https://twitter.com/JaromirHorejsi/status/1138055973225058304 …
+## https://twitter.com/Rmy_Reserve/status/1138226229469835264<br><br><br><br><br>
+# @cylanceinc
+## 2019-06-10 23:31:01
+## #ThreatSpotlight: MenuPass/QuasarRAT Backdoor -- #QuasarRAT is a lightweight remote administration tool. It can collect system information, upload files, log keystrokes, grab screenshots, retrieve system passwords and more. Learn more here: https://bit.ly/2XEorpg pic.twitter.com/C6nTp22NiD
+## https://twitter.com/cylanceinc/status/1138227094822019072<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-10 22:43:53
 ## Hunting the #ICEFOG #APT group after years of silence
