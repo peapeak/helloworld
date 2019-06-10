@@ -1,3 +1,8 @@
+# @JayTHL
+## 2019-06-10 21:34:58
+## a shiz ton of .edu accounts, several governments, not sure i've seen a 1MB phishing dump file.
+## this phish smashed some ass off.https://twitter.com/malwrhunterteam/status/1138165559382695936 …
+## https://twitter.com/JayTHL/status/1138197889979691008<br><br><br><br><br>
 # @0xffff0800
 ## 2019-06-10 20:38:44
 ## I've created a blog post "A MuddyWater Cyber Spy" with the information I've been able to gather through OSINT techniques for awhile now. I plan to add more information when I'm more organized. (link: (link: https://0xffff0800.blogspot.com/2019/06/a-muddywater-cyber-spy.html … #MuddyWater #APT #infosecpic.twitter.com/OWkLyIBv8x
