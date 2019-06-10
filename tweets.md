@@ -1,3 +1,11 @@
+# @VK_Intel
+## 2019-06-10 05:16:11
+## 2019-06-09: Possible #APT28 #Loader/#Backdoor Implant as #AutoHotkey Compiled Script | Packed Exe - AutoHotkey Script 
+## Pretending as "Windows Defender User Interface"- 'Windows Antivirus'
+## MD5: 45721d41dc7da88541424ae7be6ebd89
+## Similar to my prev find->
+## https://twitter.com/VK_Intel/status/1132981746105049090 …pic.twitter.com/5EPz8Gb8sT
+## https://twitter.com/VK_Intel/status/1137951571235540992<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-06-10 01:22:57
 ## #Muddywater I have finished the second layer of PowerShell of the old sample (fake jpeg), according to with last results, this perform in loop the reconnaissance actions (Rights, user, guid, OS, Extern IP). Push the GUID in a Key in the registry (for getting the same GUID)pic.twitter.com/j5JfM0bPGo
