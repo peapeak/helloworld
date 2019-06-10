@@ -1,3 +1,8 @@
+# 污水（MuddyWater）近期针对塔吉克斯坦、土耳其等地的攻击活动汇总
+## 腾讯
+## 2019-06-10 17:16:25
+## 腾讯安全御见威胁情报中心​持续监测到污水（MuddyWater）组织在中亚、中东地区的一些攻击活动，包括塔吉克斯坦的外交、政府部门、土耳其的政府部门等。并且该组织也更新了其攻击TTPs，如宏代码拼接内置硬编码字符串写入VBE；利用注册表，自启动文件夹启动VBE等，此外在受害者选择上也更为精确，通过第
+## https://s.tencent.com/research/report/736.html<br><br><br>
 # Shade Ransomware Hits High-Tech, Wholesale, Education Sectors in U.S, Japan, India, Thailand, Canada
 ## Paloaltonetworks
 ## 2019-05-22T16:00:14+00:00
