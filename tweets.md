@@ -1,3 +1,7 @@
+# @Nima__Nikjoo
+## 2019-06-10 20:36:23
+## for stop #muddywater you do not need complex security systems , just disable Powershell , all sequences of attack will be F**CKED UP
+## https://twitter.com/Nima__Nikjoo/status/1138183146376171520<br><br><br><br><br>
 # @malwrhunterteam
 ## 2019-06-10 19:26:30
 ## Saw someone entering credentials multiple times in an MS hosted phishing page from the network of "Government of the District of Columbia". Of course, the email ended in dc[.]gov...
