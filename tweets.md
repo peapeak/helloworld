@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-06-10 01:22:57
+## #Muddywater I have finished the second layer of PowerShell of the old sample (fake jpeg), according to with last results, this perform in loop the reconnaissance actions (Rights, user, guid, OS, Extern IP). Push the GUID in a Key in the registry (for getting the same GUID)pic.twitter.com/j5JfM0bPGo
+## https://twitter.com/Arkbird_SOLG/status/1137892875612676097<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-09 13:29:51
 ## Hunting the #ICEFOG #APT group after years of silence
