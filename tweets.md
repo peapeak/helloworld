@@ -1,3 +1,10 @@
+# @Rmy_Reserve
+## 2019-06-10 07:31:02
+## good analysis
+## #APT #APT28 #backdoor 
+## Thanks to @VK_Intel
+## @Arkbird_SOLGhttps://twitter.com/VK_Intel/status/1137951571235540992 …
+## https://twitter.com/Rmy_Reserve/status/1137985508267548673<br><br><br><br><br>
 # @VK_Intel
 ## 2019-06-10 05:16:11
 ## 2019-06-09: Possible #APT28 #Loader/#Backdoor Implant as #AutoHotkey Compiled Script | Packed Exe - AutoHotkey Script 
