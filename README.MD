@@ -1,3 +1,8 @@
+# MuddyWater Resurfaces, Uses Multi-Stage Backdoor POWERSTATS V3 and New Post-Exploitation Tools
+## Trendmicro
+## June 10, 2019
+## We found new campaigns that appear to wear the badge of MuddyWater. Analysis of these campaigns revealed the use of new tools and payloads, which indicates that the well-known threat actor group is continuously developing their schemes. We also unearthed and detailed our other findings on MuddyWater, such as its connection to four Android malware families and its use of false flag techniques, among others, in our report “New MuddyWater Findings Uncovered: Threat Actors Used Multi-Stage Backdoor, False Flags, Android Malware, and More.”
+## https://blog.trendmicro.com/trendlabs-security-intelligence/muddywater-resurfaces-uses-multi-stage-backdoor-powerstats-v3-and-new-post-exploitation-tools/<br><br><br>
 # 污水（MuddyWater）近期针对塔吉克斯坦、土耳其等地的攻击活动汇总
 ## 腾讯
 ## 2019-06-10 17:16:25
