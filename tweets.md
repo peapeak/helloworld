@@ -1,4 +1,19 @@
 # @Nima__Nikjoo
+## 2019-06-11 09:34:34
+## When I've discovered many vulnerabilities in many different ways, the Macro and PowerShell approach is really "ridiculous".
+## 
+## #Muddywater
+## https://twitter.com/Nima__Nikjoo/status/1138378984792743936<br><br><br><br><br>
+# @Nima__Nikjoo
+## 2019-06-11 09:36:59
+## However, the Lab_Dookhtegan group in Iran has exposed the behavior of this terrorist group and my name is not on their list, perhaps because their information is more correct.
+## 
+## #Muddywater
+## #Blackwater
+## #Labdookhtegan
+## #GreenLeaks
+## https://twitter.com/Nima__Nikjoo/status/1138379591725305856<br><br><br><br><br>
+# @Nima__Nikjoo
 ## 2019-06-11 09:31:08
 ## My name is on the site as a government official, but in fact there is a contradiction in this article because in one of my blogs my name was presented as a Mossad agent, in fact, I was also confused that i'm working with the Iranian government or Israel
 ## https://twitter.com/Nima__Nikjoo/status/1138378121223299072<br><br><br><br><br>
