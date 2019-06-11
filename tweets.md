@@ -1,3 +1,26 @@
+# @HONKONE_K
+## 2019-06-11 02:39:07
+## #MuddyWater #APT
+## the old sample of MuddyWater
+## 4a88256f5d39591957332c6b804e12c6
+## https://medium.com/@honkonesec/muddywater-new-attack-ee36596cc232 …
+## same decode function ssdeep and TTPs
+## @Arkbird_SOLG @Timele9527 @h4ckakpic.twitter.com/rjy6zaVjTS
+## https://twitter.com/HONKONE_K/status/1138274432219172864<br><br><br><br><br>
+# @ZDNet
+## 2019-06-11 02:30:42
+## Major HSM vulnerabilities impact banks, cloud providers, governmentshttp://www.zdnet.com/article/major-hsm-vulnerabilities-impact-banks-cloud-providers-governments/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5cff1250ba8a6c00014d0afc&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1138272313621848064<br><br><br><br><br>
+# @Rmy_Reserve
+## 2019-06-11 03:29:25
+## #APT #MuddyWater
+## Good analysis
+## thanks to @HONKONE_Khttps://twitter.com/HONKONE_K/status/1138274432219172864 …
+## https://twitter.com/Rmy_Reserve/status/1138287089617784832<br><br><br><br><br>
+# @z3roTrust
+## 2019-06-11 00:55:59
+## Russia accused of hacking EU embassy in Moscowhttps://www.scmagazine.com/home/security-news/apts-cyberespionage/russia-is-believed-to-have-hacked-the-europian-unions-embassy-in-moscow-in-a-sophisticated-cyber-espionage-attack-to-steal-highly-sensitive-material/ …
+## https://twitter.com/z3roTrust/status/1138248478377750529<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-06-10 23:27:34
 ## #APT
