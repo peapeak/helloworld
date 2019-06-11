@@ -1,3 +1,14 @@
+# @securityaffairs
+## 2019-06-11 13:45:50
+## #MuddyWater #APT group updated its multi-stage #PowerShell #backdoor Powerstats
+## https://securityaffairs.co/wordpress/86953/apt/muddywater-powerstats-v3.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1138442218916777984<br><br><br><br><br>
+# @Arkbird_SOLG
+## 2019-06-11 13:40:51
+## According with your analysis @HONKONE_K , this seems to be FIN7.
+## Interesting to see the unused activeX object on the docm file.
+## https://twitter.com/Arkbird_SOLG/status/1138440961611194369<br><br><br><br><br>
 # @z3roTrust
 ## 2019-06-11 13:33:20
 ## MuddyWater, Fin8 and Platinum threat actors back in actionhttps://www.scmagazine.com/home/security-news/apts-cyberespionage/muddywater-fin8-and-platinum-threat-actors-back-in-action/ …
