@@ -1,3 +1,13 @@
+# @blackorbird
+## 2019-06-11 10:47:21
+## #APT
+## Recent "hot" #muddywater report collection.
+## Includes disclosed member information, and the latest three attack technology reports.
+## 
+## Just to share the analysis and tracking skills, I don't want to rise to the political level.
+## Old reports will upload :(
+## https://github.com/blackorbird/APT_REPORT/tree/master/muddywater …pic.twitter.com/Mu1qYiKakk
+## https://twitter.com/blackorbird/status/1138397299954970625<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-11 10:42:39
 ## Hunting the ICEFOG APT group after years of silencehttps://securityaffairs.co/wordpress/86826/apt/icefog-apt-group-return.html …
