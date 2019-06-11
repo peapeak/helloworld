@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-06-11 06:52:35
+## @MalwarePatrol @Malwageddon @TrendMicroRSRCH @TrendMicroItaly @TrendMicro @TrendMicroUK #MuddyWater #APT group updated its multi-stage #PowerShell #backdoor Powerstats
+## https://securityaffairs.co/wordpress/86953/apt/muddywater-powerstats-v3.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1138338217839775744<br><br><br><br><br>
 # @HONKONE_K
 ## 2019-06-11 04:25:51
 ## In this days, i have monitor some interesting samples, which dropped js loader which with obfuscation,but all of the js loader are not complete,the TTPs look like #FIN7, i need monitor a complete one to sure my assume
