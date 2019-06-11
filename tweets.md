@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-06-11 07:30:33
+## Major HSM vulnerabilities impact banks, cloud providers, governmentshttp://www.zdnet.com/article/major-hsm-vulnerabilities-impact-banks-cloud-providers-governments/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5cff5897ba8a6c00014d0fb0&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1138347773730967552<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-11 06:52:35
 ## @MalwarePatrol @Malwageddon @TrendMicroRSRCH @TrendMicroItaly @TrendMicro @TrendMicroUK #MuddyWater #APT group updated its multi-stage #PowerShell #backdoor Powerstats
