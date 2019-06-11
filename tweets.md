@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-06-11 12:00:38
+## Major HSM vulnerabilities impact banks, cloud providers, governmentshttp://www.zdnet.com/article/major-hsm-vulnerabilities-impact-banks-cloud-providers-governments/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5cff97e3ba8a6c00014d13ec&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1138415742267875329<br><br><br><br><br>
 # @blackorbird
 ## 2019-06-11 10:47:21
 ## #APT
