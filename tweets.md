@@ -1,3 +1,7 @@
+# @securityaffairs
+## 2019-06-11 09:54:50
+## MuddyWater APT group updated its multi-stage PowerShell backdoor Powerstatshttps://securityaffairs.co/wordpress/86953/apt/muddywater-powerstats-v3.html …
+## https://twitter.com/securityaffairs/status/1138384084181430273<br><br><br><br><br>
 # @Nima__Nikjoo
 ## 2019-06-11 09:34:34
 ## When I've discovered many vulnerabilities in many different ways, the Macro and PowerShell approach is really "ridiculous".
