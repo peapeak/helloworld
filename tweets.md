@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-06-11 13:33:20
+## MuddyWater, Fin8 and Platinum threat actors back in actionhttps://www.scmagazine.com/home/security-news/apts-cyberespionage/muddywater-fin8-and-platinum-threat-actors-back-in-action/ …
+## https://twitter.com/z3roTrust/status/1138439071930302465<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-11 12:00:38
 ## Major HSM vulnerabilities impact banks, cloud providers, governmentshttp://www.zdnet.com/article/major-hsm-vulnerabilities-impact-banks-cloud-providers-governments/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5cff97e3ba8a6c00014d13ec&utm_medium=trueAnthem&utm_source=twitter …
