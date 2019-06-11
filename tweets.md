@@ -1,4 +1,33 @@
 # @securityaffairs
+## 2019-06-11 19:00:34
+## #MuddyWater #APT group updated its multi-stage #PowerShell #backdoor Powerstats.
+## https://securityaffairs.co/wordpress/86953/apt/muddywater-powerstats-v3.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1138521421725032448<br><br><br><br><br>
+# @Arkbird_SOLG
+## 2019-06-11 16:26:22
+## #DarkHydrus @VK_Intel @0xffff0800 @James_inthe_box @JAMESWT_MHT 
+## New sample who use the same ip that the latest samples 
+## The TTPs rest the same and continue to use cobalt strike.
+## https://www.virustotal.com/gui/file/4b3a828b74301895bc21a8fffbd5782eaac0cba4f474f1c194d8185fd0be7a4f/detection …pic.twitter.com/TgIcAZAjqP
+## https://twitter.com/Arkbird_SOLG/status/1138482617991516160<br><br><br><br><br>
+# @Arkbird_SOLG
+## 2019-06-11 16:29:33
+## As trojan downloader , the IP continue to drop the #DarkHydrus samples k1.rar (PE) is still alive. https://www.virustotal.com/gui/file/e0d2ade63251bd7ef8b5a6ebaba7ea468bff25b163ae2bc16657718c0fcdf39d/details …pic.twitter.com/kLHbBsBduY
+## https://twitter.com/Arkbird_SOLG/status/1138483418948390912<br><br><br><br><br>
+# @Nima__Nikjoo
+## 2019-06-11 21:53:15
+## How to Stop #MuddyWater #APT using #ESET #HIPS Technologyhttps://www.youtube.com/watch?v=oplI2-Vs8Sw&feature=youtu.be …
+## https://twitter.com/Nima__Nikjoo/status/1138564881509228545<br><br><br><br><br>
+# @Nima__Nikjoo
+## 2019-06-11 22:03:17
+## of course but #muddywater is so similar to kiddy malware , no 0-day, no lpe, no private technique , just phishing via macro; so may it-admins can provide some rules for their client within AD or anything to make them secure against this type of stupid attacks
+## https://twitter.com/Nima__Nikjoo/status/1138567406320803840<br><br><br><br><br>
+# @ZDNet
+## 2019-06-11 21:45:33
+## Major HSM vulnerabilities impact banks, cloud providers, governmentshttp://www.zdnet.com/article/major-hsm-vulnerabilities-impact-banks-cloud-providers-governments/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d0020faba8a6c00014d1c2d&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1138562941425475584<br><br><br><br><br>
+# @securityaffairs
 ## 2019-06-11 13:45:50
 ## #MuddyWater #APT group updated its multi-stage #PowerShell #backdoor Powerstats
 ## https://securityaffairs.co/wordpress/86953/apt/muddywater-powerstats-v3.html …
