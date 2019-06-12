@@ -1,3 +1,10 @@
+# @Rmy_Reserve
+## 2019-06-12 10:25:19
+## #APT
+## #Muddywater SAMPLE
+## Same TTPs
+## Thanks to @Timele9527https://twitter.com/Timele9527/status/1138694954140594176 …
+## https://twitter.com/Rmy_Reserve/status/1138754143022010369<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-12 06:45:27
 ## Major HSM vulnerabilities impact banks, cloud providers, governmentshttp://www.zdnet.com/article/major-hsm-vulnerabilities-impact-banks-cloud-providers-governments/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d009f84fe86c30001b478e2&utm_medium=trueAnthem&utm_source=twitter …
