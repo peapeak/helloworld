@@ -1,3 +1,8 @@
+# Shifting Tactics: Breaking Down TA505 Group’s Use of HTML, RATs and Other Techniques in Latest Campaigns
+## Trendmicro
+## June 12, 2019
+## In TA505 group’s latest campaign, they started using HTML attachments to deliver malicious .XLS files that lead to downloader and backdoor FlawedAmmyy, mostly to target users in South Korea. We also touch on the latest TA505 developments, including an email stealer, their use of legitimate software and MSI Installer, and more.
+## https://blog.trendmicro.com/trendlabs-security-intelligence/shifting-tactics-breaking-down-ta505-groups-use-of-html-rats-and-other-techniques-in-latest-campaigns/<br><br><br>
 # MuddyWater Resurfaces, Uses Multi-Stage Backdoor POWERSTATS V3 and New Post-Exploitation Tools
 ## Trendmicro
 ## June 10, 2019
