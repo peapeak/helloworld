@@ -1,4 +1,23 @@
 # @Nima__Nikjoo
+## 2019-06-12 00:08:55
+## Gladiator_CRK Presents .... !!!
+## How to Stop #MuddyWater #APT using #ESET #HIPS Technologyhttps://www.youtube.com/watch?v=oplI2-Vs8Sw …
+## https://twitter.com/Nima__Nikjoo/status/1138599020451045376<br><br><br><br><br>
+# @HONKONE_K
+## 2019-06-12 03:02:01
+## https://www.sentinelone.com/blog/lazarus-apt-targets-mac-users-poisoned-word-document/ …
+## https://twitter.com/HONKONE_K/status/1138642581485641731<br><br><br><br><br>
+# @ZDNet
+## 2019-06-12 02:15:40
+## Major HSM vulnerabilities impact banks, cloud providers, governmentshttp://www.zdnet.com/article/major-hsm-vulnerabilities-impact-banks-cloud-providers-governments/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d00604afe86c30001b4749c&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1138630919668060160<br><br><br><br><br>
+# @Rmy_Reserve
+## 2019-06-12 02:14:40
+## #APT
+## The sample of #Darkhotel
+## Thanks to @Arkbird_SOLGhttps://twitter.com/Arkbird_SOLG/status/1138482617991516160 …
+## https://twitter.com/Rmy_Reserve/status/1138630669297278976<br><br><br><br><br>
+# @Nima__Nikjoo
 ## 2019-06-11 22:34:57
 ## Gladiator_CRK Provides .... !!!
 ## How to Stop #MuddyWater #APT using #ESET #HIPS Technologyhttps://www.youtube.com/watch?v=oplI2-Vs8Sw …
