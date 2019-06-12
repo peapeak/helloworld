@@ -1,3 +1,7 @@
+# @securityaffairs
+## 2019-06-12 14:32:34
+## MuddyWater APT group updated its multi-stage PowerShell backdoor Powerstatshttps://securityaffairs.co/wordpress/86953/apt/muddywater-powerstats-v3.html …
+## https://twitter.com/securityaffairs/status/1138816365303873536<br><br><br><br><br>
 # @cylanceinc
 ## 2019-06-12 20:00:20
 ## #ThreatSpotlight: MenuPass/QuasarRAT Backdoor -- #QuasarRAT is a lightweight remote administration tool. It can collect system information, upload files, log keystrokes, grab screenshots, retrieve system passwords and more. Learn more here: https://bit.ly/2XEorpg pic.twitter.com/XQ5NjYNfYH
