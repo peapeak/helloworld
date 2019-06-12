@@ -1,4 +1,10 @@
 # @Rmy_Reserve
+## 2019-06-12 10:21:02
+## #APT
+## the sample of #DarkHydrus group
+## Thanks to @Arkbird_SOLGhttps://twitter.com/Arkbird_SOLG/status/1138482617991516160 …
+## https://twitter.com/Rmy_Reserve/status/1138753067644465152<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-06-12 10:25:19
 ## #APT
 ## #Muddywater SAMPLE
