@@ -1,3 +1,8 @@
+# @Arkbird_SOLG
+## 2019-06-13 12:38:08
+## @blackorbird @Timele9527 @VK_Intel @0xffff0800 @James_inthe_box @JAMESWT_MHT  
+## List of IOC of APT Muddywater (FUD - 12 June) :https://pastebin.com/778gS0mu 
+## https://twitter.com/Arkbird_SOLG/status/1139149956227436544<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-06-13 12:09:34
 ## #APT #Oceanlotus sample
