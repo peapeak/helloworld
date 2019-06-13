@@ -1,3 +1,10 @@
+# @JayTHL
+## 2019-06-13 17:50:55
+## what YOU are describing is closer to OSINT pivoting and plain-old private eye detective work.
+## you can already do that legally in cybers.
+## you CAN'T trespass to do it though.
+## and government's should be giving trespass permission slips because companies "want to."
+## https://twitter.com/JayTHL/status/1139228670072119296<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-06-13 12:38:08
 ## @blackorbird @Timele9527 @VK_Intel @0xffff0800 @James_inthe_box @JAMESWT_MHT  
