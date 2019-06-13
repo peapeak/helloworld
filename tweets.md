@@ -1,3 +1,10 @@
+# @Arkbird_SOLG
+## 2019-06-13 13:02:33
+## New samples of #DarkHydrus @VK_Intel @0xffff0800 @James_inthe_box @JAMESWT_MHT @Rmy_Reserve @blackorbird @Timele9527  
+## Same still use Cobalt Strike.
+## https://www.virustotal.com/fr/file/41b7eee3f0cce34f2fe261470573d15984db9a793b67788aeb0df8f71d2344bb/analysis/ …
+## https://www.virustotal.com/fr/file/753125c69e0cb3e88a382e0354ec5d8fed674a16b6a455526f5a273d66ec58db/analysis/ …
+## https://twitter.com/Arkbird_SOLG/status/1139156100819931136<br><br><br><br><br>
 # @JayTHL
 ## 2019-06-13 17:50:55
 ## what YOU are describing is closer to OSINT pivoting and plain-old private eye detective work.
