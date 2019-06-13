@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-06-13 12:09:34
+## #APT #Oceanlotus sample
+## Thanks to @h4ckak
+## @Arkbird_SOLG @MinhTrietPThttps://twitter.com/h4ckak/status/1139072672464134145 …
+## https://twitter.com/Rmy_Reserve/status/1139142766796009472<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-12 14:32:34
 ## MuddyWater APT group updated its multi-stage PowerShell backdoor Powerstatshttps://securityaffairs.co/wordpress/86953/apt/muddywater-powerstats-v3.html …
