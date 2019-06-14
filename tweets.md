@@ -1,3 +1,7 @@
+# @Nima__Nikjoo
+## 2019-06-14 17:43:13
+## I don't know, most of macro based malwares uses same techniques so it does not matter you are fighting #muddywater or ... , #HIPS is nightmare for this type of malwares
+## https://twitter.com/Nima__Nikjoo/status/1139589118537740288<br><br><br><br><br>
 # @threatpost
 ## 2019-06-14 20:15:12
 ## #Ransomware: A persistent #security scourge requiring corporate action nowhttps://threatpost.com/ransomware-a-persistent-scourge-requiring-corporate-action-now/145731/ …
