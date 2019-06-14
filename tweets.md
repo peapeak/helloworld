@@ -1,3 +1,9 @@
+# @Nima__Nikjoo
+## 2019-06-14 16:52:51
+## Block #MuddyWater #APT in McAfee ( also block any other macro based malware )
+## 
+## Don't forget restrict startup key modification.https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/configuring-mcafee-ens-and-vse-to-prevent-macroless-code-execution-in-office-apps/ …
+## https://twitter.com/Nima__Nikjoo/status/1139576445062254592<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-14 16:45:25
 ## This 'most dangerous' hacking group is now probing power gridshttp://www.zdnet.com/article/this-most-dangerous-hacking-group-is-now-probing-power-grids/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d03cf23b1a3150001dd2f10&utm_medium=trueAnthem&utm_source=twitter …
