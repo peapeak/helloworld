@@ -1,3 +1,12 @@
+# @JayTHL
+## 2019-06-14 15:03:37
+## hackback legislation thing.
+## 
+## @RepTomGraves 
+## please explain how government having the authority to grant trespass permission to companies against private property is a conservative ideal.
+## 
+## It isn't. You don't have the authority to grant access to my property sans judicial process.
+## https://twitter.com/JayTHL/status/1139548957590339590<br><br><br><br><br>
 # @cylanceinc
 ## 2019-06-14 08:00:15
 ## #ThreatSpotlight: MenuPass/QuasarRAT Backdoor -- #QuasarRAT is a lightweight remote administration tool. It can collect system information, upload files, log keystrokes, grab screenshots, retrieve system passwords and more. Learn more here: https://bit.ly/2XEorpg pic.twitter.com/bWVV4XXaVQ
