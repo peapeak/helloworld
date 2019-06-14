@@ -1,3 +1,7 @@
+# @threatpost
+## 2019-06-14 20:15:12
+## #Ransomware: A persistent #security scourge requiring corporate action nowhttps://threatpost.com/ransomware-a-persistent-scourge-requiring-corporate-action-now/145731/ …
+## https://twitter.com/threatpost/status/1139627368082006021<br><br><br><br><br>
 # @Nima__Nikjoo
 ## 2019-06-14 16:52:51
 ## Block #MuddyWater #APT in McAfee ( also block any other macro based malware )
