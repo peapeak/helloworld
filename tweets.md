@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-06-14 08:00:15
+## #ThreatSpotlight: MenuPass/QuasarRAT Backdoor -- #QuasarRAT is a lightweight remote administration tool. It can collect system information, upload files, log keystrokes, grab screenshots, retrieve system passwords and more. Learn more here: https://bit.ly/2XEorpg pic.twitter.com/bWVV4XXaVQ
+## https://twitter.com/cylanceinc/status/1139442412223434753<br><br><br><br><br>
 # @z3roTrust
 ## 2019-06-14 03:31:52
 ## The Outlaw hacking group back to spreading cryptominers and backdoorshttps://www.scmagazine.com/home/security-news/malware/the-outlaw-hacking-group-was-detected-in-the-early-stages-of-a-botnet-campaign-spreading-monero-miners-bundled-with-perl-based-backdoors/ …
