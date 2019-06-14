@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-06-14 16:45:25
+## This 'most dangerous' hacking group is now probing power gridshttp://www.zdnet.com/article/this-most-dangerous-hacking-group-is-now-probing-power-grids/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d03cf23b1a3150001dd2f10&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1139574574054592512<br><br><br><br><br>
 # @cylanceinc
 ## 2019-06-14 15:00:38
 ## The White Company: Inside the Operation Shaheen Espionage Campaign. Learn more: https://bit.ly/2B1CA7f  #OpShaheen #cybersecurity #securitypic.twitter.com/pf9j8lqFEY
