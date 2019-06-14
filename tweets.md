@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-06-14 03:31:52
+## The Outlaw hacking group back to spreading cryptominers and backdoorshttps://www.scmagazine.com/home/security-news/malware/the-outlaw-hacking-group-was-detected-in-the-early-stages-of-a-botnet-campaign-spreading-monero-miners-bundled-with-perl-based-backdoors/ …
+## https://twitter.com/z3roTrust/status/1139374873002663938<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-06-13 13:02:33
 ## New samples of #DarkHydrus @VK_Intel @0xffff0800 @James_inthe_box @JAMESWT_MHT @Rmy_Reserve @blackorbird @Timele9527  
