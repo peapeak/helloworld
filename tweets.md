@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-06-15 11:30:39
+## This 'most dangerous' hacking group is now probing power gridshttp://www.zdnet.com/article/this-most-dangerous-hacking-group-is-now-probing-power-grids/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d04d6deb1a3150001dd3f81&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1139857748907065345<br><br><br><br><br>
 # @daphiel
 ## 2019-06-15 12:49:23
 ## #APT #APT28 Fancy Bear #ioc
