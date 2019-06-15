@@ -1,3 +1,13 @@
+# @daphiel
+## 2019-06-15 12:49:23
+## #APT #APT28 Fancy Bear #ioc
+## 
+## 51.15.182.229
+## 82.118.242.168
+## 185.141.63.81
+## 
+## Confidence: lowpic.twitter.com/fsa2hrOGoo
+## https://twitter.com/daphiel/status/1139877561796894720<br><br><br><br><br>
 # @Nima__Nikjoo
 ## 2019-06-14 17:43:13
 ## I don't know, most of macro based malwares uses same techniques so it does not matter you are fighting #muddywater or ... , #HIPS is nightmare for this type of malwares
