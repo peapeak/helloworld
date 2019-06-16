@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-06-16 06:00:07
+## #Cybersecurity: Biometric Privacy Tensions and Evolving Litigation Issues -- With the rise in  #hacking and data breaches, companies and government agencies are looking for ways to protect their data that offer a higher level of security than passwords. https://bit.ly/2YceYW8 pic.twitter.com/KG6Hms1NQ1
+## https://twitter.com/cylanceinc/status/1140136954270507008<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-15 21:00:39
 ## This 'most dangerous' hacking group is now probing power gridshttp://www.zdnet.com/article/this-most-dangerous-hacking-group-is-now-probing-power-grids/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d055c74b1a3150001dd4795&utm_medium=trueAnthem&utm_source=twitter …
