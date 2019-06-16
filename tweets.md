@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-06-16 06:00:33
+## Mysterious Iranian group is hacking into DNA sequencershttp://www.zdnet.com/article/mysterious-iranian-group-is-hacking-into-dna-sequencers/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d05daffb1a3150001dd4f3b&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1140137062525472768<br><br><br><br><br>
 # @cylanceinc
 ## 2019-06-16 06:00:07
 ## #Cybersecurity: Biometric Privacy Tensions and Evolving Litigation Issues -- With the rise in  #hacking and data breaches, companies and government agencies are looking for ways to protect their data that offer a higher level of security than passwords. https://bit.ly/2YceYW8 pic.twitter.com/KG6Hms1NQ1
