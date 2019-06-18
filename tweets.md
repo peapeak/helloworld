@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-06-18 05:35:57
+## NSW Budget allocates millions to create more 'agile' government https://zd.net/2XjfXHs  by @ashabeeeee
+## https://twitter.com/ZDNet/status/1140855649179336705<br><br><br><br><br>
 # @ThreatBookLabs
 ## 2019-06-17 12:50:40
 ## #APT32 #OceanLotus #C2 api[.]ciscofreak[.]com  Samples: Noi dung chi tiet thu moi tham du hoi nghi va thong tin lich trinh dien ra hoi nghi tai Singapore.exe
