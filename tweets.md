@@ -1,3 +1,11 @@
+# @blackorbird
+## 2019-06-18 04:14:06
+## #donot sample upload VT again
+## KashmirVoice.apk
+## 3ec56f0cfa6a0a158f6ee69f46f14351
+## related report
+## https://ti.360.net/blog/articles/stealjob-new-android-malware-used-by-donot-apt-group-en/ …
+## https://twitter.com/blackorbird/status/1140835051812216832<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-18 05:35:57
 ## NSW Budget allocates millions to create more 'agile' government https://zd.net/2XjfXHs  by @ashabeeeee
