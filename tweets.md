@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-06-18 16:30:56
+## Microsoft acquires Pull Panda for code-review collaborationhttp://www.zdnet.com/article/microsoft-acquires-pull-panda-for-code-review-collaboration/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d0911a4e84fc20001ceec19&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1141020480457121792<br><br><br><br><br>
 # @cylanceinc
 ## 2019-06-18 15:00:52
 ## The White Company: Inside the Operation Shaheen Espionage Campaign. Learn more: https://bit.ly/2B1CA7f  #OpShaheen #cybersecurity #securitypic.twitter.com/Qm8XoMvPeu
