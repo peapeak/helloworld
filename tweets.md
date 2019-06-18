@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-06-18 15:00:52
+## The White Company: Inside the Operation Shaheen Espionage Campaign. Learn more: https://bit.ly/2B1CA7f  #OpShaheen #cybersecurity #securitypic.twitter.com/Qm8XoMvPeu
+## https://twitter.com/cylanceinc/status/1140997816518680577<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-18 10:30:52
 ## NSW Budget allocates millions to create more 'agile' governmenthttp://www.zdnet.com/article/nsw-budget-allocates-millions-to-create-more-agile-government/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d08bd47b1a3150001dd7d99&utm_medium=trueAnthem&utm_source=twitter …
