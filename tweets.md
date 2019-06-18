@@ -1,3 +1,8 @@
+# @ThreatBookLabs
+## 2019-06-17 12:50:40
+## #APT32 #OceanLotus #C2 api[.]ciscofreak[.]com  Samples: Noi dung chi tiet thu moi tham du hoi nghi va thong tin lich trinh dien ra hoi nghi tai Singapore.exe
+## https://s.threatbook.cn/report/file/848ae465aa317815fe5090068a92a361351f5e0322476852b3317945e4592aef/?sign=history&env=win7_sp1_enx86_office2013 …pic.twitter.com/PdPFXBuIZc
+## https://twitter.com/ThreatBookLabs/status/1140602662787747841<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-17 22:30:59
 ## Microsoft acquires Pull Panda for code-review collaborationhttp://www.zdnet.com/article/microsoft-acquires-pull-panda-for-code-review-collaboration/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d08148fb1a3150001dd7277&utm_medium=trueAnthem&utm_source=twitter …
