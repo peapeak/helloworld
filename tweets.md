@@ -1,3 +1,7 @@
+# @ESET
+## 2019-06-18 20:21:01
+## As we wrap up day 2 at #GartnerSEC, we want to remind attendees to mark their agendas for Ben Reed’s presentation happening tomorrow at 10:45 AM on Advanced Persistent Threats. See you there! https://bit.ly/2X3qFOH pic.twitter.com/XRLgxIYaUg
+## https://twitter.com/ESET/status/1141078384279261184<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-18 16:30:56
 ## Microsoft acquires Pull Panda for code-review collaborationhttp://www.zdnet.com/article/microsoft-acquires-pull-panda-for-code-review-collaboration/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d0911a4e84fc20001ceec19&utm_medium=trueAnthem&utm_source=twitter …
