@@ -1,3 +1,8 @@
+# @BleepinComputer
+## 2019-06-17 20:48:58
+## Accidental Cat Filter Makes Politician's Live Stream Hilarious - by @LawrenceAbrams
+## https://www.bleepingcomputer.com/news/government/accidental-cat-filter-makes-politicians-live-stream-hilarious/ …
+## https://twitter.com/BleepinComputer/status/1140723031347736581<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-16 06:00:33
 ## Mysterious Iranian group is hacking into DNA sequencershttp://www.zdnet.com/article/mysterious-iranian-group-is-hacking-into-dna-sequencers/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d05daffb1a3150001dd4f3b&utm_medium=trueAnthem&utm_source=twitter …
