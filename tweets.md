@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-06-17 22:30:59
+## Microsoft acquires Pull Panda for code-review collaborationhttp://www.zdnet.com/article/microsoft-acquires-pull-panda-for-code-review-collaboration/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d08148fb1a3150001dd7277&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1140748704065961985<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-06-17 12:49:30
 ## yep it is #Oceanlotus thanks
