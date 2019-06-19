@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-06-19 06:00:08
+## #Cybersecurity: Biometric Privacy Tensions and Evolving Litigation Issues -- With the rise in  #hacking and data breaches, companies and government agencies are looking for ways to protect their data that offer a higher level of security than passwords. https://bit.ly/2YceYW8 pic.twitter.com/0dlQ2I96Z8
+## https://twitter.com/cylanceinc/status/1141224124863459328<br><br><br><br><br>
 # @Timele9527
 ## 2019-06-19 02:54:59
 ## #APT #Muddywater
