@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-06-19 12:12:59
+## @VK_Intel @0xffff0800 @James_inthe_box @JAMESWT_MHT @blackorbird @Rmy_Reserve Use template injection for launches the eps exploit, this matching with the used technic supposed by APT28 on the @FireEye report about eps exploit (2017) https://www.fireeye.com/blog/threat-research/2017/05/eps-processing-zero-days.html …pic.twitter.com/I8y06rnd23
+## https://twitter.com/Arkbird_SOLG/status/1141317954124038144<br><br><br><br><br>
 # @cylanceinc
 ## 2019-06-19 06:00:08
 ## #Cybersecurity: Biometric Privacy Tensions and Evolving Litigation Issues -- With the rise in  #hacking and data breaches, companies and government agencies are looking for ways to protect their data that offer a higher level of security than passwords. https://bit.ly/2YceYW8 pic.twitter.com/0dlQ2I96Z8
