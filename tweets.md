@@ -1,3 +1,9 @@
+# @HONKONE_K
+## 2019-06-19 03:11:25
+## #APT #Gorgon Group(Maybe)
+## save the remote template document in a normal site. they embedding ten remote link which named range a to j. the remote template document is same as before, all things is saved in pastebin
+## [43b1fee15096edb5b3eb18999b84b838]pic.twitter.com/Y4JwMePeZw
+## https://twitter.com/HONKONE_K/status/1141181664296501252<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-19 03:00:58
 ## Microsoft acquires Pull Panda for code-review collaborationhttp://www.zdnet.com/article/microsoft-acquires-pull-panda-for-code-review-collaboration/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d09a554b1a3150001dd8b4f&utm_medium=trueAnthem&utm_source=twitter …
