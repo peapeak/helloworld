@@ -1,3 +1,7 @@
+# @symantec
+## 2019-06-20 15:30:08
+## 10 countries, three cyber campaigns and a first for our researchers. Here's how Waterbug infiltrated governments and orgs across the globe. #turla #crambus #oilrig https://symc.ly/2X10SLm pic.twitter.com/oEKyZ6FomH
+## https://twitter.com/symantec/status/1141729956004847616<br><br><br><br><br>
 # @BleepinComputer
 ## 2019-06-20 16:34:32
 ## Turla Espionage Group Hacks OilRig APT Infrastructure - by @Ionut_Ilascu
