@@ -1,4 +1,10 @@
 # @Rmy_Reserve
+## 2019-06-20 09:11:40
+## #Gamaredon #APT
+## Thanks to @ThreatBookLabs
+## @Arkbird_SOLGhttps://twitter.com/ThreatBookLabs/status/1141550125170348032 …
+## https://twitter.com/Rmy_Reserve/status/1141634713813000192<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-06-20 09:12:37
 ## #APT #Gamaredon 
 ## Thanks to @ThreatBookLabs
