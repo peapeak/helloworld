@@ -1,3 +1,7 @@
+# @blackorbird
+## 2019-06-20 10:15:36
+## I think this sample is an attack that mimics the Oceanlotus.
+## https://twitter.com/blackorbird/status/1141650800369754113<br><br><br><br><br>
 # @RedDrip7
 ## 2019-06-20 06:47:12
 ## #APT
