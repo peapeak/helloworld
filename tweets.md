@@ -1,4 +1,11 @@
 # @blackorbird
+## 2019-06-20 06:58:07
+## Some supplements
+## name:Thanks Mr. Dang Vu Luong for further advice on environmental topics
+## Mr. Dang Vu Luong is core member of Green Trees in Vietnam  for IT professionals. Protest pollution accident in 2016 in Vietnam
+## OceanLotus maybe attacked civil environmental group to monitorhttps://twitter.com/RedDrip7/status/1141598356113780737 …
+## https://twitter.com/blackorbird/status/1141601101927419904<br><br><br><br><br>
+# @blackorbird
 ## 2019-06-20 10:15:36
 ## I think this sample is an attack that mimics the Oceanlotus.
 ## https://twitter.com/blackorbird/status/1141650800369754113<br><br><br><br><br>
