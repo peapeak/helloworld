@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-06-20 09:18:17
+## #Oceanlotus #APT
+## Thanks to @RedDrip7
+## @Arkbird_SOLG @MinhTrietPThttps://twitter.com/RedDrip7/status/1141634238803873793 …
+## https://twitter.com/Rmy_Reserve/status/1141636375495659520<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-06-19 12:12:59
 ## @VK_Intel @0xffff0800 @James_inthe_box @JAMESWT_MHT @blackorbird @Rmy_Reserve Use template injection for launches the eps exploit, this matching with the used technic supposed by APT28 on the @FireEye report about eps exploit (2017) https://www.fireeye.com/blog/threat-research/2017/05/eps-processing-zero-days.html …pic.twitter.com/I8y06rnd23
