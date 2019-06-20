@@ -1,3 +1,10 @@
+# @ThreatBookLabs
+## 2019-06-20 03:35:33
+## #Gamaredon
+## bfc8f56c28efa2a07844c6f9ff33556de0baf052b5ced421c9bb04a94f3ded0f
+## C2: http://rnbo-ua.ddns.net 
+## RL: https://s.threatbook.cn/report/file/bfc8f56c28efa2a07844c6f9ff33556de0baf052b5ced421c9bb04a94f3ded0f/?sign=history&env=win7_sp1_enx86_office2013 …pic.twitter.com/aOEwWptUvJ
+## https://twitter.com/ThreatBookLabs/status/1141550125170348032<br><br><br><br><br>
 # @Nima__Nikjoo
 ## 2019-06-20 00:32:34
 ## Fast & Sloppy Analysis of #MuddyWater Sample Performance_Eval_Employee.doc
