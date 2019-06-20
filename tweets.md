@@ -1,4 +1,12 @@
 # @ThreatBookLabs
+## 2019-06-20 03:34:13
+## #Gamaredon
+## 8e6e6e1c1943bcd2c1adcaa963b78725311cf8c978af673a2361c33501daaf24
+## WN: Р’РћР‘_529(autosave_04.06.2019).scr
+## C2: military-ua[.]ddns[.]net
+## RL: https://s.threatbook.cn/report/file/8e6e6e1c1943bcd2c1adcaa963b78725311cf8c978af673a2361c33501daaf24/?env=win7_sp1_enx86_office2013 …
+## https://twitter.com/ThreatBookLabs/status/1141549788019609601<br><br><br><br><br>
+# @ThreatBookLabs
 ## 2019-06-20 03:35:33
 ## #Gamaredon
 ## bfc8f56c28efa2a07844c6f9ff33556de0baf052b5ced421c9bb04a94f3ded0f
