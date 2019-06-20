@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-06-20 12:59:42
+## #BouncingGolf #cyberespionage campaign targets #Android users in #MiddleEast
+## https://securityaffairs.co/wordpress/87357/uncategorized/bouncing-golf-cyberespionage.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1141692096266539008<br><br><br><br><br>
 # @blackorbird
 ## 2019-06-20 02:28:21
 ## I work at a Oceanlotus , we use Cobalt Strike to eat lunch.
