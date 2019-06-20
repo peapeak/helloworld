@@ -1,4 +1,12 @@
 # @ThreatBookLabs
+## 2019-06-20 03:31:10
+## #Gamaredon
+## 909a9e67517a49ac10e8859c2efa5a613166f2a36ec8761905e4b5a8c3a90f57
+## WN: Депутатське звернення  №3601765-501 від 17.06.2019 року щодо виявленого кримінального правопорушення.scr
+## C2: bit-rnbo[.]ddns[.]net
+## RL: https://s.threatbook.cn/report/file/909a9e67517a49ac10e8859c2efa5a613166f2a36ec8761905e4b5a8c3a90f57/?sign=history&env=win7_sp1_enx86_office2013 …
+## https://twitter.com/ThreatBookLabs/status/1141549020726222849<br><br><br><br><br>
+# @ThreatBookLabs
 ## 2019-06-20 03:33:08
 ## #Gamaredon
 ## 044e14f9a6766d116646914829282fe78784b55d031224a99b1ca68eb099bf30
