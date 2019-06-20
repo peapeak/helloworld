@@ -1,3 +1,9 @@
+# @RedDrip7
+## 2019-06-20 14:55:31
+## Seems #Lazarus uses #cryptocurrency as a bait to attack #Korean by using #EPS vulnerability to inject shellcode into expoler.exe and download subsequent backdoor from https://gozdeelektronik.net/wp-content/themes/0111/movie.png ….
+## 
+## https://www.virustotal.com/gui/file/c5153d6f6c103862f9163814d996f428c4bfe45bed5224d4b21ca239a1ccfcdc/detection …pic.twitter.com/q0yEbRBdBq
+## https://twitter.com/RedDrip7/status/1141721243999232007<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-06-20 15:06:38
 ## #APT #Lazarus
