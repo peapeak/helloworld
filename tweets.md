@@ -1,4 +1,12 @@
 # @RedDrip7
+## 2019-06-20 06:47:12
+## #APT
+## #Oceanlotus uses new technology to attack Vietnamese environmentalists.
+## They use cactusTorch ,new loader and new DLL side-loading technology this time.
+## detail see the blog:
+## https://ti.qianxin.com/blog/articles/english-version-of-new-approaches-utilized-by-oceanLotus-to-target-vietnamese-environmentalist/ …pic.twitter.com/Y7CKpYfO8U
+## https://twitter.com/RedDrip7/status/1141598356113780737<br><br><br><br><br>
+# @RedDrip7
 ## 2019-06-20 09:09:47
 ## Targets in #China get attacked by #OceanLotus again. While executing the #Cobalt Strike payload through DLL side-loading of #google installer, a misleading dialog box get displayed to conceal its malicious background activities.
 ## 
