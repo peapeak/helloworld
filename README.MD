@@ -1,3 +1,18 @@
+# Waterbug: Espionage Group Rolls Out Brand-New Toolset in Attacks Against Governments
+## Symantec
+## 19 Jun, 2019
+## Waterbug: Espionage Group Rolls Out Brand-New Toolset in Attacks Against Governments
+## https://www.symantec.com/blogs/threat-intelligence/waterbug-espionage-governments<br><br><br>
+# 海莲花组织使用新技术手段攻击越南某环保组织
+## 奇安信
+## 2019-06-20By红雨滴团队|事件追踪
+## 海莲花（OceanLotus），是一个据称越南背景的APT组织。该组织最早于2015年5月被天眼实验室（奇安信威胁情报中心红雨滴团队的前身）所揭露并命名，其攻击活动最早可追溯到2012年4月，攻击目标包括中国海事机构、海域建设部门、科研院所和航运企业，后扩展到几乎所有重要的组织机构，并持续活跃至今。红雨滴（@RedDrip7）团队一直对海莲花团伙的活动保持高强度的跟踪，在近期发布了重磅报告《海莲花团伙对中南半岛国家攻击活动的总结：目标、手法及技术演进》后，再次发现一起针对越南攻击，该活动主要针对一名越南环保人士，攻击过程中使用了新的恶意载荷以及恶意软件，在此我们披露了此次攻击活动的细节与安全业界一起完善关于海莲花这个团伙的拼图。
+## https://ti.360.net/blog/tag/APT/<br><br><br>
+# NewApproachesUtilizedbyOceanLotustoTargetAnEnvironmentalGroupinVietnam
+## 奇安信
+## 2019-06-20By红雨滴团队|事件追踪
+## TheOceanLotus,anAPTgroupsaidtohaveaVietnamesebackground,wasfirstexposedandnamedbySkyEyeLabs(thepredecessoroftheRedDripteamofQiAnXinThreatIntelligenceCenter)inMay2015.ItsattackactivitiescanbetracedbacktoApril2012withinitialtargetsincludingChinesemaritimeinstitutions,maritimeconstruction,scientificresearchinstitutesandshippingenterprises.Theirtargetsexpandedtoalmostallimportantorganizationsafterwardsandrelatedactivitiesarestillactivenow.TheRedDripTeam(@RedDrip7)keepsacloseeyeonactivitiesmadebyOceanLotus.Lastmonthwereleasedanin-depthanalysisreport:OceanLotus’AttackstoIndochinesePeninsula:EvolutionofTargets,TechniquesandProcedure.CurrentlywecaptureanotherattackincidenttargetingaVietnameseenvironmentalistwithnewmalwarepayloadandhopetherevealeddetailscouldleadtomorefindingsinthefuture.
+## https://ti.360.net/blog/tag/APT/<br><br><br>
 # Shifting Tactics: Breaking Down TA505 Group’s Use of HTML, RATs and Other Techniques in Latest Campaigns
 ## Trendmicro
 ## June 12, 2019
