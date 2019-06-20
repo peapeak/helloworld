@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-06-20 18:22:24
+## #BouncingGolf #cyberespionage campaign targets #Android users in #MiddleEast...
+## https://securityaffairs.co/wordpress/87357/uncategorized/bouncing-golf-cyberespionage.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1141773307613724675<br><br><br><br><br>
 # @BleepinComputer
 ## 2019-06-20 19:22:42
 ## Desjardins Group Data Leak Exposes Info of 2.9 Million Members - by @sergheihttps://www.bleepingcomputer.com/news/security/desjardins-group-data-leak-exposes-info-of-29-million-members/ …
