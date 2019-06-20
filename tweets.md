@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-06-20 06:04:37
+## @TrendMicro @TrendMicroRSRCH @TrendMicroItaly @TrendMicroUK #BouncingGolf #cyberespionage campaign targets #Android users in #MiddleEast
+## https://securityaffairs.co/wordpress/87357/uncategorized/bouncing-golf-cyberespionage.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1141587640380248064<br><br><br><br><br>
 # @ThreatBookLabs
 ## 2019-06-20 03:31:10
 ## #Gamaredon
