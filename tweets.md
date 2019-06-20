@@ -1,3 +1,7 @@
+# @BleepinComputer
+## 2019-06-20 19:22:42
+## Desjardins Group Data Leak Exposes Info of 2.9 Million Members - by @sergheihttps://www.bleepingcomputer.com/news/security/desjardins-group-data-leak-exposes-info-of-29-million-members/ …
+## https://twitter.com/BleepinComputer/status/1141788483146723328<br><br><br><br><br>
 # @symantec
 ## 2019-06-20 15:30:08
 ## 10 countries, three cyber campaigns and a first for our researchers. Here's how Waterbug infiltrated governments and orgs across the globe. #turla #crambus #oilrig https://symc.ly/2X10SLm pic.twitter.com/oEKyZ6FomH
