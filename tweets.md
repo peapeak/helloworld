@@ -1,3 +1,8 @@
+# @BleepinComputer
+## 2019-06-20 16:34:32
+## Turla Espionage Group Hacks OilRig APT Infrastructure - by @Ionut_Ilascu
+## https://www.bleepingcomputer.com/news/security/turla-espionage-group-hacks-oilrig-apt-infrastructure/ …
+## https://twitter.com/BleepinComputer/status/1141746160929054721<br><br><br><br><br>
 # @RedDrip7
 ## 2019-06-20 14:55:31
 ## Seems #Lazarus uses #cryptocurrency as a bait to attack #Korean by using #EPS vulnerability to inject shellcode into expoler.exe and download subsequent backdoor from https://gozdeelektronik.net/wp-content/themes/0111/movie.png ….
