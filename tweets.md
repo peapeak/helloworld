@@ -1,4 +1,12 @@
 # @RedDrip7
+## 2019-06-20 09:09:47
+## Targets in #China get attacked by #OceanLotus again. While executing the #Cobalt Strike payload through DLL side-loading of #google installer, a misleading dialog box get displayed to conceal its malicious background activities.
+## 
+## CC: 45.76.193.100:443
+## 
+## https://www.virustotal.com/gui/file/798c01df9552f79d714b94ffc67018be2b6c8eb9bc37e8cd07fa47d9d0f9c2b4/detection …pic.twitter.com/UvatHP7JQJ
+## https://twitter.com/RedDrip7/status/1141634238803873793<br><br><br><br><br>
+# @RedDrip7
 ## 2019-06-20 09:18:42
 ## Thanks for your respond,sir ,Oceanlotus use the frame is opensource and confused ,that is true ,but we attribute it to the OCEANLOTUS  based on the shellcode it uses instead of the CACTUSTORCH.
 ## https://twitter.com/RedDrip7/status/1141636481439502336<br><br><br><br><br>
