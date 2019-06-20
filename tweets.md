@@ -1,4 +1,11 @@
 # @Rmy_Reserve
+## 2019-06-20 09:13:32
+## #APT
+## #Gamaredon 
+## Thanks to @ThreatBookLabs
+## @Arkbird_SOLGhttps://twitter.com/ThreatBookLabs/status/1141549020726222849 …
+## https://twitter.com/Rmy_Reserve/status/1141635183516381185<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-06-20 09:18:17
 ## #Oceanlotus #APT
 ## Thanks to @RedDrip7
