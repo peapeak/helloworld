@@ -1,4 +1,12 @@
 # @ThreatBookLabs
+## 2019-06-20 03:33:08
+## #Gamaredon
+## 044e14f9a6766d116646914829282fe78784b55d031224a99b1ca68eb099bf30
+## WN: Інформаційно-аналітична довідка щодо протидії міжнародному тероризму в країнах ЄС станом на 14.06.2019 року.scr
+## C2: bit-rnbo[.]ddns[.]net
+## RL: https://s.threatbook.cn/report/file/044e14f9a6766d116646914829282fe78784b55d031224a99b1ca68eb099bf30/?env=win7_sp1_enx86_office2013 …pic.twitter.com/3B7h9sOInl
+## https://twitter.com/ThreatBookLabs/status/1141549517675757569<br><br><br><br><br>
+# @ThreatBookLabs
 ## 2019-06-20 03:34:13
 ## #Gamaredon
 ## 8e6e6e1c1943bcd2c1adcaa963b78725311cf8c978af673a2361c33501daaf24
