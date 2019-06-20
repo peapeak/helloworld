@@ -1,3 +1,7 @@
+# @RedDrip7
+## 2019-06-20 09:18:42
+## Thanks for your respond,sir ,Oceanlotus use the frame is opensource and confused ,that is true ,but we attribute it to the OCEANLOTUS  based on the shellcode it uses instead of the CACTUSTORCH.
+## https://twitter.com/RedDrip7/status/1141636481439502336<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-20 06:04:37
 ## @TrendMicro @TrendMicroRSRCH @TrendMicroItaly @TrendMicroUK #BouncingGolf #cyberespionage campaign targets #Android users in #MiddleEast
