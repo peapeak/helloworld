@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-06-21 13:03:42
+## @MalwarePatrol @Malwageddon @SymantecEMEA @symantec @SymantecANZ @SymantecASIA #Russia-Linked #Turla #APT group Hijacked C2 of the Iranian #OilRig
+## https://securityaffairs.co/wordpress/87404/apt/turla-new-campaigns.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1142055493466296321<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-06-21 16:34:05
 ## Tajikistan is current target of the last samples of Muddywater.
