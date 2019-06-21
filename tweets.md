@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-06-21 05:16:07
+## FBI warning: Foreign spies using social media to target government contractorshttp://www.zdnet.com/article/fbi-warning-foreign-spies-using-social-media-to-target-government-contractors/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d0c680db1a3150001ddb829&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1141937821470662656<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-20 18:22:24
 ## #BouncingGolf #cyberespionage campaign targets #Android users in #MiddleEast...
