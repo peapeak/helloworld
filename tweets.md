@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-06-21 06:25:47
+## #BouncingGolf #cyberespionage campaign targets #Android users in #MiddleEast
+## https://securityaffairs.co/wordpress/87357/uncategorized/bouncing-golf-cyberespionage.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1141955353812320256<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-21 05:16:07
 ## FBI warning: Foreign spies using social media to target government contractorshttp://www.zdnet.com/article/fbi-warning-foreign-spies-using-social-media-to-target-government-contractors/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d0c680db1a3150001ddb829&utm_medium=trueAnthem&utm_source=twitter …
