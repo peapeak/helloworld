@@ -1,3 +1,8 @@
+# @Arkbird_SOLG
+## 2019-06-21 16:34:05
+## Tajikistan is current target of the last samples of Muddywater.
+## The TTPs are similar.
+## https://twitter.com/Arkbird_SOLG/status/1142108439499460610<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-21 06:25:47
 ## #BouncingGolf #cyberespionage campaign targets #Android users in #MiddleEast
