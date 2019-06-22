@@ -1,3 +1,8 @@
+# @malwrhunterteam
+## 2019-06-22 19:11:30
+## APT23?
+## pic.twitter.com/iUfhIpjHLo
+## https://twitter.com/malwrhunterteam/status/1142510439315779585<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-22 15:07:02
 ## #Russia-Linked #Turla #APT group Hijacked C2 of the Iranian #OilRig.
