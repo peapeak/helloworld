@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-06-22 20:19:35
+## #BouncingGolf #cyberespionage campaign targets #Android users in #MiddleEast
+## https://securityaffairs.co/wordpress/87357/uncategorized/bouncing-golf-cyberespionage.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1142527574507229184<br><br><br><br><br>
 # @DrunkBinary
 ## 2019-06-22 21:03:04
 ## Turla implant
