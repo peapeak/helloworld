@@ -1,4 +1,9 @@
 # @DrunkBinary
+## 2019-06-22 21:03:04
+## Turla implant
+## 8851f2fd31964f867eb07c398d57112a
+## https://twitter.com/DrunkBinary/status/1142538518335541248<br><br><br><br><br>
+# @DrunkBinary
 ## 2019-06-22 21:04:10
 ## Turla implant
 ## 9456197d0f8b6cabfea5f02ffb0176dd
