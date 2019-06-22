@@ -1,3 +1,10 @@
+# @DrunkBinary
+## 2019-06-22 21:04:10
+## Turla implant
+## 9456197d0f8b6cabfea5f02ffb0176dd
+## 
+## Detection thanks to @cyb3rops
+## https://twitter.com/DrunkBinary/status/1142538795344171008<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-06-22 20:12:53
 ## Only informations that I know about it APT23, interesting https://www.crowdstrike.com/blog/rhetoric-foreshadows-cyber-activity-in-the-south-china-sea/ …pic.twitter.com/MFPqhT3dmd
