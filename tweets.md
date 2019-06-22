@@ -1,3 +1,7 @@
+# @DrunkBinary
+## 2019-06-22 03:41:00
+## Same can be said of Turla and their Phoenix framework, lazy scrubbing of pdb path.
+## https://twitter.com/DrunkBinary/status/1142276273076670466<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-06-22 00:26:44
 ## #Turla APThttps://twitter.com/Int2e_/status/1142022678624264192 …
