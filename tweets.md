@@ -1,4 +1,8 @@
 # @Arkbird_SOLG
+## 2019-06-22 10:40:23
+## Telecoms, Government infrastructure but not against some interesting opportunities
+## https://twitter.com/Arkbird_SOLG/status/1142381813198970885<br><br><br><br><br>
+# @Arkbird_SOLG
 ## 2019-06-22 10:49:47
 ## So a yara rule based on the author of the document which be a good way for hunting new samples of muddywater
 ## https://twitter.com/Arkbird_SOLG/status/1142384180740919296<br><br><br><br><br>
