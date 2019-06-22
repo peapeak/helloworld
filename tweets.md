@@ -1,3 +1,12 @@
+# @VK_Intel
+## 2019-06-22 22:37:02
+## 2019-06-23: Possible #Turla #LightNeuron #Malware
+## Transport Agent "eseutil.dll"  | .NET
+## ContentFilterAgent and SecurityInteropAgent | Process Function
+## Same functionality as by @ESET here -> https://www.welivesecurity.com/wp-content/uploads/2019/05/ESET-LightNeuron.pdf …
+## MD5: 9456197d0f8b6cabfea5f02ffb0176dd 
+## cc/ @DrunkBinarypic.twitter.com/cWlP22HRXx
+## https://twitter.com/VK_Intel/status/1142562163413979137<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-22 20:19:35
 ## #BouncingGolf #cyberespionage campaign targets #Android users in #MiddleEast
