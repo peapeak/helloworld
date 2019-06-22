@@ -1,3 +1,10 @@
+# @Rmy_Reserve
+## 2019-06-22 23:22:50
+## #APT
+## #Turla sample
+## Thanks to @DrunkBinary
+## @Arkbird_SOLGhttps://twitter.com/DrunkBinary/status/1142538795344171008 …
+## https://twitter.com/Rmy_Reserve/status/1142573692725055489<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-06-22 22:43:33
 ## Possible https://www.cyber.nj.gov/alerts-and-advisories/20171109/chinese-apt-group-keyboy-targeting-western-organizations … https://analyze.intezer.com/#/analyses/490055ce-0fd6-474e-950b-e57ed7c25198 …
