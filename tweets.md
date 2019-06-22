@@ -1,3 +1,7 @@
+# @Rmy_Reserve
+## 2019-06-22 10:28:39
+## muddywater
+## https://twitter.com/Rmy_Reserve/status/1142378859465068544<br><br><br><br><br>
 # @DrunkBinary
 ## 2019-06-22 03:41:00
 ## Same can be said of Turla and their Phoenix framework, lazy scrubbing of pdb path.
