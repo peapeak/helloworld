@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-06-22 11:46:10
+## #APT seems #APT-C-36
+## thanks to @1ZRR4H
+## @Arkbird_SOLGhttps://twitter.com/1ZRR4H/status/1142361698927558657 …
+## https://twitter.com/Rmy_Reserve/status/1142398367202308096<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-06-22 10:40:23
 ## Telecoms, Government infrastructure but not against some interesting opportunities
