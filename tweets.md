@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-06-22 08:15:43
+## #Russia-Linked #Turla #APT group Hijacked C2 of the Iranian #OilRig
+## https://securityaffairs.co/wordpress/87404/apt/turla-new-campaigns.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1142345409265831941<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-06-22 10:28:39
 ## muddywater
