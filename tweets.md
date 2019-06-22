@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-06-22 00:30:09
+## You are right
+## The three sample is belong to #MuddyWater Group
+## And it target at Tajikistan
+## https://twitter.com/Rmy_Reserve/status/1142228242801164288<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-21 17:16:30
 ## #Russia-Linked #Turla #APT group Hijacked C2 of the Iranian #OilRig
