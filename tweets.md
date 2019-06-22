@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-06-22 10:49:47
+## So a yara rule based on the author of the document which be a good way for hunting new samples of muddywater
+## https://twitter.com/Arkbird_SOLG/status/1142384180740919296<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-22 08:15:43
 ## #Russia-Linked #Turla #APT group Hijacked C2 of the Iranian #OilRig
