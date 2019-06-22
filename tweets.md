@@ -1,4 +1,11 @@
 # @Rmy_Reserve
+## 2019-06-22 23:22:18
+## #APT
+## #Turla implant
+## Thanks to @DrunkBinary
+## @Arkbird_SOLGhttps://twitter.com/DrunkBinary/status/1142538518335541248 …
+## https://twitter.com/Rmy_Reserve/status/1142573555730669568<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-06-22 23:22:50
 ## #APT
 ## #Turla sample
