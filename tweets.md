@@ -1,3 +1,15 @@
+# @VK_Intel
+## 2019-06-23 06:04:03
+## 2019-06-23: Possible #Turla #LightNeuron #Malware
+## "BPA.Transport.DLL"  | "Companion DLL" for Transfer Agent
+## Export Table:
+## "forLoading"
+## "simpleValidate"
+## "BinaryLogEx"
+## Logging:
+## Path: c:\windows\serviceprofiles\networkservice\
+## MD5: 5924eac8af1f3e3f1f825998bc59c062pic.twitter.com/ciGETwy7HR
+## https://twitter.com/VK_Intel/status/1142674658724065281<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-06-23 11:57:34
 ## #APT33 aim at Americahttps://twitter.com/KorbenD_Intel/status/1139249692028653570 …
