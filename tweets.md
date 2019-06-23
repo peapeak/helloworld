@@ -1,3 +1,7 @@
+# @VK_Intel
+## 2019-06-23 16:19:46
+## Thanks, Nacho. Just took a look - that looks like the nexus with this APT23 sample variant with 41 'best' func matches, 38 'partial' func matches & 205 'unreliable' func matches w/ Diaphora Bindif as there looks like common algo implementation (not sure how unique to APT23) .pic.twitter.com/LPkq1pYDb5
+## https://twitter.com/VK_Intel/status/1142829608397606915<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-06-23 12:04:39
 ## #APT #APT33
