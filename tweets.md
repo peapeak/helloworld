@@ -1,3 +1,7 @@
+# @cyberwar_15
+## 2019-06-23 04:44:17
+## #NorthKorea #Lazarus #Webshell #Russia #Ukraine pic.twitter.com/5SCZHP7Fgp
+## https://twitter.com/cyberwar_15/status/1142654585665773569<br><br><br><br><br>
 # @VK_Intel
 ## 2019-06-23 03:20:05
 ## Awesome analysis & share, Steve! This, indeed, looks like weird (trash)ware. The detection seems to be weird on APT23 - agreed. This driver is suspicious and the installer chain itself with downloaded files and user-mode installs is just...weird.Thank you!
