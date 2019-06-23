@@ -1,3 +1,7 @@
+# @VK_Intel
+## 2019-06-23 03:20:05
+## Awesome analysis & share, Steve! This, indeed, looks like weird (trash)ware. The detection seems to be weird on APT23 - agreed. This driver is suspicious and the installer chain itself with downloaded files and user-mode installs is just...weird.Thank you!
+## https://twitter.com/VK_Intel/status/1142633396117606401<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-06-22 23:22:18
 ## #APT
