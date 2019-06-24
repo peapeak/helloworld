@@ -1,3 +1,7 @@
+# @0xffff0800
+## 2019-06-24 18:20:16
+## I have decided to upload the Leaked Muddyc3 C2 Source on my Github for researchers to download. Enjoy! https://github.com/0xffff0800/muddyc3 … #infosec #APT #MuddyWaterpic.twitter.com/9mtWe2dUQL
+## https://twitter.com/0xffff0800/status/1143222323450908673<br><br><br><br><br>
 # @z3roTrust
 ## 2019-06-24 19:03:36
 ## Waterbug: Espionage Group Rolls Out Brand-New Toolset in Attacks Against Governmentshttps://www.symantec.com/blogs/threat-intelligence/waterbug-espionage-governments …
