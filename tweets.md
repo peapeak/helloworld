@@ -1,3 +1,8 @@
+# @0xffff0800
+## 2019-06-24 06:21:51
+## Muddyc3 C2 framework has been leaked. #infosec #MuddyWater #APT
+## https://documents.trendmicro.com/assets/white_papers/wp_new_muddywater_findings_uncovered.pdf …pic.twitter.com/otwFJjVhzC
+## https://twitter.com/0xffff0800/status/1143041528157413377<br><br><br><br><br>
 # @VK_Intel
 ## 2019-06-23 16:19:46
 ## Thanks, Nacho. Just took a look - that looks like the nexus with this APT23 sample variant with 41 'best' func matches, 38 'partial' func matches & 205 'unreliable' func matches w/ Diaphora Bindif as there looks like common algo implementation (not sure how unique to APT23) .pic.twitter.com/LPkq1pYDb5
