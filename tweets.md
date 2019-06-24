@@ -1,3 +1,8 @@
+# @ximo2006
+## 2019-06-24 09:01:55
+## Targets in #China get attacked by #OceanLotus again.
+## https://www.virustotal.com/gui/file/5cdb89471cf2c2c46427e188cfcda084ea0b8f19bdd3b1060141a4be1874609c …
+## https://twitter.com/ximo2006/status/1143081809502040066<br><br><br><br><br>
 # @0xffff0800
 ## 2019-06-24 06:21:51
 ## Muddyc3 C2 framework has been leaked. #infosec #MuddyWater #APT
