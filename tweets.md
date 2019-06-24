@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-06-24 19:30:03
+## Mental health is so important, sometimes it becomes necessary to "Ctrl-Alt-Delete: Reset Yourself to a Happier Life" -via @z3roTrust #Life #SelfImprovement #EmotionalIntelligence #MentalHealthAwareness #PhilosophyOfMindhttps://medium.com/@z3roTrust/ctrl-alt-delete-reset-yourself-to-a-happier-life-e1d9419f5125?aduc=23RApt31561404603448 …
+## https://twitter.com/z3roTrust/status/1143239884716613632<br><br><br><br><br>
 # @0xffff0800
 ## 2019-06-24 18:20:16
 ## I have decided to upload the Leaked Muddyc3 C2 Source on my Github for researchers to download. Enjoy! https://github.com/0xffff0800/muddyc3 … #infosec #APT #MuddyWaterpic.twitter.com/9mtWe2dUQL
