@@ -1,4 +1,11 @@
 # @Rmy_Reserve
+## 2019-06-25 08:55:12
+## #Oceanlotus
+## The dll search of hijacking of Google
+## Thumbs.db hidden shellcode
+## Why its technique is similar with #plugx?
+## https://twitter.com/Rmy_Reserve/status/1143442507478384640<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-06-25 08:55:59
 ## #Oceanlotus
 ## #APT target at China
