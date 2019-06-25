@@ -1,3 +1,10 @@
+# @Rmy_Reserve
+## 2019-06-25 00:09:32
+## #APT
+## seems #Turla
+## Thanks to @VK_Intel
+## @Arkbird_SOLGhttps://twitter.com/VK_Intel/status/1143306016077037569 …
+## https://twitter.com/Rmy_Reserve/status/1143310217637052416<br><br><br><br><br>
 # @Nima__Nikjoo
 ## 2019-06-24 23:27:22
 ## #APT33
