@@ -1,4 +1,14 @@
 # @VK_Intel
+## 2019-06-26 01:42:32
+## 2019-06-25: #Gamaredon #APT #Pteranodon Implant
+## Targeting  Law Enforcement & Military Gov | { version: "ssu" } | Still Oddity -> "weristotal" 
+## C2 .ddns Serv: 
+## rnbo-ua.ddns .net
+## bit-rnbo.ddns. net/.../index.html (.vbs)
+## h/t @Arkbird_SOLG 
+## MD5: 4774b17b55d5f3b2f204ee3030b3b904pic.twitter.com/rq8WOcfdZR
+## https://twitter.com/VK_Intel/status/1143696009261932544<br><br><br><br><br>
+# @VK_Intel
 ## 2019-06-26 01:46:53
 ## The domain string "rnbo" (both URLs) is possibly related to them trying to appear  "National Security and Defense Council of Ukraine" (http://www.rnbo.gov.ua/en/ ) ...but on ddns. net
 ## This group appears to continue to be persistent targeting various Ukrainian official entities.
