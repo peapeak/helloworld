@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-06-26 00:11:06
+## @0xffff0800 @James_inthe_box @JAMESWT_MHT @blackorbird @Timele9527 #Gamaredon Bat Sample matching with your yara rule @VK_Intel https://www.virustotal.com/gui/file/88b4d7f38d475aaaae4a72b402e65b6dc32cad6411cddff35e025826da08a5f4/detection …
+## https://twitter.com/Arkbird_SOLG/status/1143673002380398592<br><br><br><br><br>
 # @VK_Intel
 ## 2019-06-26 01:42:32
 ## 2019-06-25: #Gamaredon #APT #Pteranodon Implant
