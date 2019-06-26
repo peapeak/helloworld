@@ -1,3 +1,8 @@
+# @VK_Intel
+## 2019-06-26 01:46:53
+## The domain string "rnbo" (both URLs) is possibly related to them trying to appear  "National Security and Defense Council of Ukraine" (http://www.rnbo.gov.ua/en/ ) ...but on ddns. net
+## This group appears to continue to be persistent targeting various Ukrainian official entities.
+## https://twitter.com/VK_Intel/status/1143697106479329280<br><br><br><br><br>
 # @HONKONE_K
 ## 2019-06-26 02:39:38
 ## 450e3f873ee28f84cc9eaf026f178d0e
