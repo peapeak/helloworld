@@ -1,3 +1,11 @@
+# @HONKONE_K
+## 2019-06-26 03:40:33
+## #APT look like #Gamaredon 
+## 895f947abcee4b30e475df0985886f6a
+## without SFX file just DOCX with remote template document
+## http://curt.hopto\.org/tmp.dotm
+## can't download now... so i don't known subsequent execution processpic.twitter.com/iBWfUBfbWq
+## https://twitter.com/HONKONE_K/status/1143725710340587520<br><br><br><br><br>
 # @sudosev
 ## 2019-06-25 16:52:27
 ## Latest from APT-C-35/#DonotGroup - more code revisions to their YTY framework (Windows payload).  0 detections on VT's engines at the time of discovery.  New (?) C2s: strings[.]guitarshop[.]space, new[.]transportfun[.]pw
