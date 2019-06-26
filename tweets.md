@@ -1,3 +1,27 @@
+# @Nima__Nikjoo
+## 2019-06-26 17:54:21
+## Am i responsible for #MuddyWater #APT33 malware?
+## 
+## @Swati_THN
+## @bsmuir
+## @0x2AE
+## @CyberSecInt
+## @Timele9527
+## @blackorbird
+## @BLeeJones
+## @Rmy_Reserve
+## @_jsoo_
+## @Manu_De_Lucia
+## @Treadstone71LLC
+## @thehellu
+## @ZHacker13
+## @read0nL_y
+## @SecurityWaffle
+## @itsdig
+## @BuivanThu
+## @RedDrip7
+## https://bit.ly/2XwBg8h 
+## https://twitter.com/Nima__Nikjoo/status/1143940577253347329<br><br><br><br><br>
 # @threatpost
 ## 2019-06-26 16:26:21
 ## The two Florida cities are the latest in a string of #ransomware attacks targeting local city governments. #Security experts warn that paying the ransom shows hackers that the attacks are profitable, incentivizing them to launch even more attacks against municipalities.pic.twitter.com/xnnjphRqb9
