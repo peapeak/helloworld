@@ -1,3 +1,9 @@
+# @RedDrip7
+## 2019-06-26 03:02:31
+## A New #APT Weapon Used by #MuddyWater which leak from telegram channel.
+## Here is Analysis  of muddyc3  v1.0.0 and v1.0.1.
+## Reference: https://ti.qianxin.com/blog/articles/analysis-of-muddyc3-a-new-weapon-used-by-muddywater/ …pic.twitter.com/WtBjdtLIMO
+## https://twitter.com/RedDrip7/status/1143716138200645632<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-06-26 00:11:06
 ## @0xffff0800 @James_inthe_box @JAMESWT_MHT @blackorbird @Timele9527 #Gamaredon Bat Sample matching with your yara rule @VK_Intel https://www.virustotal.com/gui/file/88b4d7f38d475aaaae4a72b402e65b6dc32cad6411cddff35e025826da08a5f4/detection …
