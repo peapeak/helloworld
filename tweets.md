@@ -1,3 +1,9 @@
+# @sudosev
+## 2019-06-25 16:52:27
+## Latest from APT-C-35/#DonotGroup - more code revisions to their YTY framework (Windows payload).  0 detections on VT's engines at the time of discovery.  New (?) C2s: strings[.]guitarshop[.]space, new[.]transportfun[.]pw
+## 
+## https://www.virustotal.com/gui/file/f2941c2e729bc8d6a8493ce7d638ffdb57acb3e7c347a7c16d1b09b2fa58b8ea/detection …
+## https://twitter.com/sudosev/status/1143562610492760064<br><br><br><br><br>
 # @Nima__Nikjoo
 ## 2019-06-25 20:43:56
 ## Here we have website that leak IRGC operation and they said nowadays Mr.Taghavi is leader of kavosh later as names leaked over net, Malek Mohammadi Nezhad was leader of that company so judge how are trying to lie and who is right...
