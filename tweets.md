@@ -1,3 +1,7 @@
+# @threatpost
+## 2019-06-26 16:26:21
+## The two Florida cities are the latest in a string of #ransomware attacks targeting local city governments. #Security experts warn that paying the ransom shows hackers that the attacks are profitable, incentivizing them to launch even more attacks against municipalities.pic.twitter.com/xnnjphRqb9
+## https://twitter.com/threatpost/status/1143918432141922304<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-06-26 06:08:46
 ## #APT
