@@ -1,3 +1,18 @@
+# ViceLeaker Operation: mobile espionage targeting Middle East
+## Kaspersky
+## 2019-06-26T10:00:58+00:00
+## In May 2018, we discovered a campaign targeting dozens of mobile Android devices belonging to Israeli citizens. We decided to call the operation “ViceLeaker”, because of strings and variables in its code.
+## https://securelist.com/fanning-the-flames-viceleaker-operation/90877/<br><br><br>
+# Waterbug: Espionage Group Rolls Out Brand-New Toolset in Attacks Against Governments
+## Symantec
+## 20 Jun, 2019
+## Waterbug: Espionage Group Rolls Out Brand-New Toolset in Attacks Against Governments
+## https://www.symantec.com/blogs/threat-intelligence/waterbug-espionage-governments<br><br><br>
+# “寄生兽”（DarkHotel）针对中国外贸人士的最新攻击活动披露
+## 腾讯
+## 2019-06-24 10:09:45
+## 腾讯御见威胁情报中心曾在2018年4月披露过"寄生兽"（DarkHotel）在2018年针对中国外贸企业高管的定向攻击活动。近期，我们再次检测到该攻击组织的最新攻击活动，依然针对跟半岛地区相关的外贸企业高管进行的攻击活动。
+## https://s.tencent.com/research/report/741.html<br><br><br>
 # Waterbug: Espionage Group Rolls Out Brand-New Toolset in Attacks Against Governments
 ## Symantec
 ## 19 Jun, 2019
