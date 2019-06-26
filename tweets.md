@@ -1,4 +1,13 @@
 # @HONKONE_K
+## 2019-06-26 02:39:38
+## 450e3f873ee28f84cc9eaf026f178d0e
+## #Gorgon Group
+## #njRAT
+## https://www.virustotal.com/gui/file/cb7fd5d687ec2150d89bb68f2767fb0628b356fc60d84c8df20e1f65d12a1f1d/detection …
+## http://www.m9c\.net/uploads/15614864741.jpg
+## https://pastebin.com/raw/phbZu0vK pic.twitter.com/XWaiKRlM54
+## https://twitter.com/HONKONE_K/status/1143710381581320193<br><br><br><br><br>
+# @HONKONE_K
 ## 2019-06-26 03:40:33
 ## #APT look like #Gamaredon 
 ## 895f947abcee4b30e475df0985886f6a
