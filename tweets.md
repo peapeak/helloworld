@@ -1,4 +1,10 @@
 # @Rmy_Reserve
+## 2019-06-25 09:43:26
+## seems #Oceanlotus
+## thanks to @Timele9527
+## @Arkbird_SOLGhttps://twitter.com/Timele9527/status/1143440643898765313 …
+## https://twitter.com/Rmy_Reserve/status/1143454643839569920<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-06-25 08:55:12
 ## #Oceanlotus
 ## The dll search of hijacking of Google
