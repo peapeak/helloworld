@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-06-26 21:30:56
+## Amazon Web Services scores Australia-wide government cloud deal https://zd.net/2YdAGcV  by @ashabeeeee
+## https://twitter.com/ZDNet/status/1143995083500343296<br><br><br><br><br>
 # @Jouliok
 ## 2019-06-26 21:07:56
 ## 2 more good reports herehttps://github.com/blackorbird/APT_REPORT/tree/master/muddywater …
