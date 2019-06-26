@@ -1,4 +1,10 @@
 # @Rmy_Reserve
+## 2019-06-26 06:10:22
+## #APT #Gorgon
+## Thanks to @HONKONE_K
+## @Arkbird_SOLGhttps://twitter.com/HONKONE_K/status/1143710381581320193 …
+## https://twitter.com/Rmy_Reserve/status/1143763414356860928<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-06-26 06:10:50
 ## #APT #Donot
 ## Thanks to @sudosev
