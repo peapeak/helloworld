@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-06-27 18:21:39
+## Similarities and differences between #MuddyWater and #APT34.
+## https://securityaffairs.co/wordpress/87652/apt/muddywater-apt34-similarities.html …
+## #securityaffairs #hacking #APT
+## https://twitter.com/securityaffairs/status/1144309836403920896<br><br><br><br><br>
 # @VK_Intel
 ## 2019-06-27 17:49:10
 ## 2019-06-27: #FIN7 JS #Loader  '.xlsb' Macro| 
