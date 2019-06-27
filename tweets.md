@@ -1,3 +1,12 @@
+# @VK_Intel
+## 2019-06-27 17:49:10
+## 2019-06-27: #FIN7 JS #Loader  '.xlsb' Macro| 
+## group: "ksoc._24993_1906" June 19 (previously "ksoc*0306") |
+## Same Server: realtek-cdn .com for over 2 weeks | ksoc* group | Same MO 
+## h/t @malz_intel
+## Prev: https://twitter.com/VK_Intel/status/1136151508402225152 …
+## MD5: 2a8303d42ba7fcaf282f6c9c3b72db76 (p/ 1450)pic.twitter.com/hYDb20SpSz
+## https://twitter.com/VK_Intel/status/1144301660266803200<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-27 18:15:41
 ## Amazon Web Services scores Australia-wide government cloud dealhttp://www.zdnet.com/article/amazon-web-services-scores-australia-wide-government-cloud-deal/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d1507cbc0e5900001cb3c94&utm_medium=trueAnthem&utm_source=twitter …
