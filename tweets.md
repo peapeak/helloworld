@@ -1,3 +1,7 @@
+# @0xffff0800
+## 2019-06-27 19:41:34
+## Quite the difference here.. We must remember when reviewing leaked tools/information that at any point original data could be altered or injected with disinformation at any point and distributed. #malware #infosec #MuddyWaterpic.twitter.com/7vRgnNsd35
+## https://twitter.com/0xffff0800/status/1144329944534781952<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-27 18:21:39
 ## Similarities and differences between #MuddyWater and #APT34.
