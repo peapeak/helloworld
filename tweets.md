@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-06-27 05:34:19
+## @Marco_Ramilli @zlab_team @_odisseus @yoroisecurity @MalwarePatrol @Malwageddon Similarities and differences between #MuddyWater and #APT34
+## https://securityaffairs.co/wordpress/87652/apt/muddywater-apt34-similarities.html …
+## #securityaffairs #hacking #APT
+## https://twitter.com/securityaffairs/status/1144116729880154114<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-27 06:00:35
 ## Amazon Web Services scores Australia-wide government cloud dealhttp://www.zdnet.com/article/amazon-web-services-scores-australia-wide-government-cloud-deal/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d145b81c0e5900001cb31d0&utm_medium=trueAnthem&utm_source=twitter …
