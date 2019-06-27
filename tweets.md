@@ -1,3 +1,8 @@
+# @DrunkBinary
+## 2019-06-27 18:53:59
+## Possible Turla Implant
+## 32a29827e7ccf31e33d56cb1026f935e
+## https://twitter.com/DrunkBinary/status/1144317972099555328<br><br><br><br><br>
 # @0xffff0800
 ## 2019-06-27 19:41:34
 ## Quite the difference here.. We must remember when reviewing leaked tools/information that at any point original data could be altered or injected with disinformation at any point and distributed. #malware #infosec #MuddyWaterpic.twitter.com/7vRgnNsd35
