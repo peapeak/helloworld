@@ -1,4 +1,8 @@
 # @securityaffairs
+## 2019-06-27 10:05:58
+## Similarities and differences between MuddyWater and APT34https://securityaffairs.co/wordpress/87652/apt/muddywater-apt34-similarities.html …
+## https://twitter.com/securityaffairs/status/1144185092589445120<br><br><br><br><br>
+# @securityaffairs
 ## 2019-06-27 05:34:19
 ## @Marco_Ramilli @zlab_team @_odisseus @yoroisecurity @MalwarePatrol @Malwageddon Similarities and differences between #MuddyWater and #APT34
 ## https://securityaffairs.co/wordpress/87652/apt/muddywater-apt34-similarities.html …
