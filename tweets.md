@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-06-27 18:15:41
+## Amazon Web Services scores Australia-wide government cloud dealhttp://www.zdnet.com/article/amazon-web-services-scores-australia-wide-government-cloud-deal/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d1507cbc0e5900001cb3c94&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1144308332842405888<br><br><br><br><br>
 # @securityaffairs
 ## 2019-06-27 13:19:51
 ## Similarities and differences between #MuddyWater and #APT34
