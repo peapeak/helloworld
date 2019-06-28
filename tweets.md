@@ -1,3 +1,8 @@
+# @Arkbird_SOLG
+## 2019-06-28 13:01:13
+## Yep, this possible, interesting to see that more eps files are used for malicious campaigns , here Bitter https://twitter.com/Timele9527/status/1141161528080494592 …. 
+## And this isn't the first that "AhnLab" name are used, @VK_Intel have found it on the analysis of the ransomware Mazehttps://twitter.com/VK_Intel/status/1136997171138576384 …
+## https://twitter.com/Arkbird_SOLG/status/1144591584828305408<br><br><br><br><br>
 # @z3roTrust
 ## 2019-06-28 14:59:07
 ## ShadowGate malvertising group serves up SEON ransomware via Greenflash Sundown exploit kithttps://www.scmagazine.com/home/security-news/cybercrime/shadowgate-malvertising-group-serves-up-seon-ransomware-via-greenflash-sundown-exploit-kit/ …
