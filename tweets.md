@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-06-28 00:58:43
+## Russian-based misinformation campaign sends fake news from spoofed accountshttps://www.scmagazine.com/home/government/a-russian-based-information-operations-campaign-used-fake-social-media-accounts-across-multiple-platforms-to-attack-western-interests/ …
+## https://twitter.com/z3roTrust/status/1144409758255833089<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-06-27 21:08:54
 ## #APT #Turla
