@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-06-28 20:58:16
+## Similarities and differences between #MuddyWater and #APT34
+## https://securityaffairs.co/wordpress/87652/apt/muddywater-apt34-similarities.html …
+## #securityaffairs #hacking #APT
+## https://twitter.com/securityaffairs/status/1144711638483898369<br><br><br><br><br>
 # @DrunkBinary
 ## 2019-06-28 15:43:18
 ## APT28/Fancy Bear Zekapab Implant
