@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-06-28 05:00:30
+## Amazon Web Services scores Australia-wide government cloud dealhttp://www.zdnet.com/article/amazon-web-services-scores-australia-wide-government-cloud-deal/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d159eedc0e5900001cb4564&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1144470604508065794<br><br><br><br><br>
 # @Timele9527
 ## 2019-06-28 03:48:42
 ## #APT maybe #Oceanlotus
