@@ -1,3 +1,9 @@
+# @Timele9527
+## 2019-06-28 04:40:03
+## #APT #Oceanlotus 
+## ITW: 886d0dd67e4cf132a1aed84263d661e3
+## FileName: a.rarpic.twitter.com/osXusLmWQ3
+## https://twitter.com/Timele9527/status/1144465458143232000<br><br><br><br><br>
 # @ZDNet
 ## 2019-06-28 05:00:30
 ## Amazon Web Services scores Australia-wide government cloud dealhttp://www.zdnet.com/article/amazon-web-services-scores-australia-wide-government-cloud-deal/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d159eedc0e5900001cb4564&utm_medium=trueAnthem&utm_source=twitter …
