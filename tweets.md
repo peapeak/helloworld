@@ -1,3 +1,11 @@
+# @HONKONE_K
+## 2019-06-28 02:53:16
+## #APT #MuddyWater
+## 1f738218a4da659f3d58ff4abaa4edd7
+## nothing change in their powershell RAT
+## http://104\.237.255.195/p.txt
+## 91\.132.139.196
+## https://twitter.com/HONKONE_K/status/1144438589230419968<br><br><br><br><br>
 # @z3roTrust
 ## 2019-06-28 00:58:43
 ## Russian-based misinformation campaign sends fake news from spoofed accountshttps://www.scmagazine.com/home/government/a-russian-based-information-operations-campaign-used-fake-social-media-accounts-across-multiple-platforms-to-attack-western-interests/ …
