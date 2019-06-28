@@ -1,3 +1,8 @@
+# @DrunkBinary
+## 2019-06-28 15:43:18
+## APT28/Fancy Bear Zekapab Implant
+## 01095fb2e3f6e8bfff536686982998ba
+## https://twitter.com/DrunkBinary/status/1144632372643663872<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-06-28 13:01:13
 ## Yep, this possible, interesting to see that more eps files are used for malicious campaigns , here Bitter https://twitter.com/Timele9527/status/1141161528080494592 …. 
