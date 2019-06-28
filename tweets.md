@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-06-28 14:59:07
+## ShadowGate malvertising group serves up SEON ransomware via Greenflash Sundown exploit kithttps://www.scmagazine.com/home/security-news/cybercrime/shadowgate-malvertising-group-serves-up-seon-ransomware-via-greenflash-sundown-exploit-kit/ …
+## https://twitter.com/z3roTrust/status/1144621251542917125<br><br><br><br><br>
 # @Timele9527
 ## 2019-06-28 04:40:03
 ## #APT #Oceanlotus 
