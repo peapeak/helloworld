@@ -1,4 +1,10 @@
 # @Rmy_Reserve
+## 2019-06-29 06:22:30
+## #APT #Turla
+## Thanks to @dewan202
+## @Arkbird_SOLGhttps://twitter.com/dewan202/status/1144601545775955969 …
+## https://twitter.com/Rmy_Reserve/status/1144853630744330240<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-06-29 06:24:59
 ## #APT #Muddywater
 ## Thanks to @HONKONE_K
