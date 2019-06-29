@@ -1,4 +1,10 @@
 # @Rmy_Reserve
+## 2019-06-29 03:06:06
+## #APT28 implant
+## Thanks to @DrunkBinary
+## @Arkbird_SOLGhttps://twitter.com/DrunkBinary/status/1144632372643663872 …
+## https://twitter.com/Rmy_Reserve/status/1144804203526643713<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-06-29 06:22:30
 ## #APT #Turla
 ## Thanks to @dewan202
