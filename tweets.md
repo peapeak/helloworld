@@ -1,3 +1,9 @@
+# @Arkbird_SOLG
+## 2019-06-29 14:37:38
+## @VK_Intel @0xffff0800 @James_inthe_box @JAMESWT_MHT @blackorbird @Timele9527 @Rmy_Reserve Yep, sample from the second campaign of #waterbug / #Turla reported on the Symantec article in June 2019 : 
+## https://www.symantec.com/blogs/threat-intelligence/waterbug-espionage-governments …
+## IP C2: 94.249.192.182pic.twitter.com/6lAo7Jzo7s
+## https://twitter.com/Arkbird_SOLG/status/1144978235815604224<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-06-29 07:09:25
 ## #MuddyWater #BlackWater Campaign 
