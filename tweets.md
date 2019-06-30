@@ -1,3 +1,13 @@
+# @VK_Intel
+## 2019-06-30 09:58:51
+## 2019-06-30: #APT28/#Zebrocy Delphi #Implant 
+## Custom b64 Decode | Check - lamer.exe & python.exe
+## C2: http://213.252.245 .32/ControllerReset/view/register/comid/sid.php
+## ht/ @DrunkBinary
+## MD5: 01095fb2e3f6e8bfff536686982998ba
+## Similar to previous -> 
+## https://www.vkremez.com/2019/01/lets-learn-overanalyzing-one-of-latest.html …pic.twitter.com/gjdcHD1hGB
+## https://twitter.com/VK_Intel/status/1145270462559195137<br><br><br><br><br>
 # @0xffff0800
 ## 2019-06-30 19:07:34
 ## I have now uploaded many more MuddyWater samples to the Library. Thanks @Arkbird_SOLG for the samples from your collection. RAR password is the usual "infected" Enjoy! /Library/MuddyWaterAPT/
