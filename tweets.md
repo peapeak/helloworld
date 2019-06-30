@@ -1,3 +1,8 @@
+# @0xffff0800
+## 2019-06-30 19:07:34
+## I have now uploaded many more MuddyWater samples to the Library. Thanks @Arkbird_SOLG for the samples from your collection. RAR password is the usual "infected" Enjoy! /Library/MuddyWaterAPT/
+##  #infosec #malware #MuddyWaterpic.twitter.com/8GoPdOEXHi
+## https://twitter.com/0xffff0800/status/1145408553479483392<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-06-29 14:37:38
 ## @VK_Intel @0xffff0800 @James_inthe_box @JAMESWT_MHT @blackorbird @Timele9527 @Rmy_Reserve Yep, sample from the second campaign of #waterbug / #Turla reported on the Symantec article in June 2019 : 
