@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-01 13:51:42
+## #Iran-linked #APT33 updates infrastructure following its public disclosure
+## https://securityaffairs.co/wordpress/87784/apt/apt33-updates-infrastructure.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1145691452267257856<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-01 13:45:26
 ## Singapore government to run another bug bountyhttp://www.zdnet.com/article/singapore-government-to-run-another-bug-bounty/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d1a0e750ca7240001ca4903&utm_medium=trueAnthem&utm_source=twitter …
