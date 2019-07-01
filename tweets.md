@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-07-01 19:30:08
+## #Vietnamese hacking group has a ‘Swiss Army knife’ of tools at its disposal.. "There is “sloppy code & programmatical errors and debug messages not typically present in #OceanLotus malware." @thomas_bonner. More on @CyberScoopNews: https://bit.ly/2xpYzCg  #APT32 #Ratsnifpic.twitter.com/AoojYJ7X3d
+## https://twitter.com/cylanceinc/status/1145776622349508608<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-01 19:22:22
 ## #Singapore Government will run its third #bugbounty program.
