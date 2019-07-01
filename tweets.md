@@ -1,4 +1,10 @@
 # @securityaffairs
+## 2019-07-01 13:51:10
+## #Singapore Government will run its third #bugbounty program
+## https://securityaffairs.co/wordpress/87806/hacking/singapore-bounty-program.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1145691316401127426<br><br><br><br><br>
+# @securityaffairs
 ## 2019-07-01 13:51:42
 ## #Iran-linked #APT33 updates infrastructure following its public disclosure
 ## https://securityaffairs.co/wordpress/87784/apt/apt33-updates-infrastructure.html …
