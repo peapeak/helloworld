@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-01 09:30:30
+## Singapore government to run another bug bountyhttp://www.zdnet.com/article/singapore-government-to-run-another-bug-bounty/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d19d2b48e73cc00016393d0&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1145625717872484359<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-01 06:51:34
 ## #Iran-linked #APT33 updates infrastructure following its public disclosure
