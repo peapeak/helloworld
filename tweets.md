@@ -1,3 +1,7 @@
+# @DrunkBinary
+## 2019-07-01 04:07:15
+## Not Lazarus Group, it's BackNet Rat, had a rule under the wrong group
+## https://twitter.com/DrunkBinary/status/1145544369568698368<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-01 05:00:35
 ## Singapore government to run another bug bounty https://zd.net/2YnNOfn  by @eileenscyu
