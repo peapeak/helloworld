@@ -1,4 +1,10 @@
 # @Rmy_Reserve
+## 2019-07-01 03:53:42
+## #APT #Lazarus implant
+## Thanks to @DrunkBinary
+## @Arkbird_SOLG @Mr_ohadmhttps://twitter.com/DrunkBinary/status/1145529648220164096 …
+## https://twitter.com/Rmy_Reserve/status/1145540960706633728<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-07-01 03:54:15
 ## #APT #Donot sample
 ## Thanks to @RedDrip7
