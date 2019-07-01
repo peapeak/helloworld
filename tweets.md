@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-01 13:45:26
+## Singapore government to run another bug bountyhttp://www.zdnet.com/article/singapore-government-to-run-another-bug-bounty/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d1a0e750ca7240001ca4903&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1145689873220866049<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-01 09:05:13
 ## @arturodicorinto @barbaracarfagna #Singapore Government will run its third #bugbounty program
