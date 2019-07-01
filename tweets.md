@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-01 20:37:13
+## #Iran-linked #APT33 updates infrastructure following its public disclosure
+## https://securityaffairs.co/wordpress/87784/apt/apt33-updates-infrastructure.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1145793503030579200<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-01 19:30:08
 ## #Vietnamese hacking group has a ‘Swiss Army knife’ of tools at its disposal.. "There is “sloppy code & programmatical errors and debug messages not typically present in #OceanLotus malware." @thomas_bonner. More on @CyberScoopNews: https://bit.ly/2xpYzCg  #APT32 #Ratsnifpic.twitter.com/AoojYJ7X3d
