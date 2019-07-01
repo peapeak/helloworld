@@ -1,3 +1,13 @@
+# @VK_Intel
+## 2019-07-01 00:19:45
+## Possible matching decoder code #Yara sig/rule:
+## rule apt28_zebrocy_decoder_jun19 {
+## strings:
+##  $opcode_dec = { 0f b7 fb 8b ?? ?? 0f ?? ?? ?? ?? 0f b7 ce c1 e9 08 [1-2] 88 ?? ?? ?? 8b ?? ?? 0f ?? ?? ?? ?? 66 03 f0 66 69 c6 6d ce 66 05 bf 58 8b f0 43 }
+## condition:
+##  $opcode_dec
+## }pic.twitter.com/FfLg9EpKHK
+## https://twitter.com/VK_Intel/status/1145487118279593984<br><br><br><br><br>
 # @HONKONE_K
 ## 2019-07-01 03:34:16
 ## d71755025f18f3785bad47fc82d098a1
