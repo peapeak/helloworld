@@ -1,3 +1,7 @@
+# @BleepinComputer
+## 2019-07-01 16:38:34
+## OceanLotus APT Uses New Ratsnif Trojan for Network Attacks - by @Ionut_Ilascuhttps://www.bleepingcomputer.com/news/security/oceanlotus-apt-uses-new-ratsnif-trojan-for-network-attacks/ …
+## https://twitter.com/BleepinComputer/status/1145733446192521218<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-01 13:51:10
 ## #Singapore Government will run its third #bugbounty program
