@@ -1,3 +1,9 @@
+# @RedDrip7
+## 2019-07-01 03:49:40
+## #APT #Donot sample seems targeting #Sikhism by purporting to be their popular App (#SikhNet Daily Hukamnama). C2 151.236.11.222:50240 is located on #Google Docs https://docs.google.com/uc?id=0B1RDq_Zx683GbDVBTmpWbFFuaDg ….
+## 
+## https://www.virustotal.com/gui/file/0b5323a256a23ad5f6d0a7468341346a8e1d1fc9490638f9f801ea3981d14040/detection …pic.twitter.com/ciNvg2ds2g
+## https://twitter.com/RedDrip7/status/1145539943323717632<br><br><br><br><br>
 # @VK_Intel
 ## 2019-07-01 00:19:45
 ## Possible matching decoder code #Yara sig/rule:
