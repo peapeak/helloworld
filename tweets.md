@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-01 05:00:35
+## Singapore government to run another bug bounty https://zd.net/2YnNOfn  by @eileenscyu
+## https://twitter.com/ZDNet/status/1145557792645775360<br><br><br><br><br>
 # @RedDrip7
 ## 2019-07-01 03:49:40
 ## #APT #Donot sample seems targeting #Sikhism by purporting to be their popular App (#SikhNet Daily Hukamnama). C2 151.236.11.222:50240 is located on #Google Docs https://docs.google.com/uc?id=0B1RDq_Zx683GbDVBTmpWbFFuaDg ….
