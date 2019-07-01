@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-01 19:17:43
+## Huawei: What it means regarding the government https://zd.net/2Yt4Vg2  by @KarenRoby6
+## https://twitter.com/ZDNet/status/1145773496678506497<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-01 16:26:25
 ## Threat Spotlight: #Ratsnif - New Network Vermin from OceanLotus. The #OceanLotus Group (aka #APT32, #CobaltKitty) is using a suite of remote access trojans dubbed 'Ratsnif' to leverage new network attack capabilities. Learn more. https://bit.ly/2LvDY7U pic.twitter.com/viA4EGqPJ4
