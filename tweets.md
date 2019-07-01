@@ -1,3 +1,10 @@
+# @DrunkBinary
+## 2019-07-01 03:08:45
+## Lazarus Group Implant
+## 783914d1593dbfab0a4e7f13f723cb1c
+## @KevinPerlow
+## #threatintel #malware
+## https://twitter.com/DrunkBinary/status/1145529648220164096<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-07-01 03:53:42
 ## #APT #Lazarus implant
