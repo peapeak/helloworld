@@ -1,4 +1,12 @@
 # @jeFF0Falltrades
+## 2019-07-02 20:10:05
+## After digging into it, it looks like the full C2 of the Powertron sample was:
+## 
+## https[:]//customermgmt[.]net/page/news 
+## 
+## so maybe not the same malware posted by @CNMF_VirusAlert but possibly still #APT33
+## https://twitter.com/jeFF0Falltrades/status/1146149061965373441<br><br><br><br><br>
+# @jeFF0Falltrades
 ## 2019-07-02 19:17:10
 ## Or just related to other APT33 tools; They used RULER to exploit CVE-2017-11774 previously:https://twitter.com/ItsReallyNick/status/1083396757638336513 …
 ## https://twitter.com/jeFF0Falltrades/status/1146135743695327232<br><br><br><br><br>
