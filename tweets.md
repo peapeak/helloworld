@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-02 20:34:32
+## #Iran-linked #APT33 updates infrastructure following its public disclosure
+## https://securityaffairs.co/wordpress/87784/apt/apt33-updates-infrastructure.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1146155213633572866<br><br><br><br><br>
 # @jeFF0Falltrades
 ## 2019-07-02 20:10:05
 ## After digging into it, it looks like the full C2 of the Powertron sample was:
