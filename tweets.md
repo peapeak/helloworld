@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-02 06:23:24
+## After 2 years under the radars, #Ratsnif emerges in #OceanLotus ops
+## https://securityaffairs.co/wordpress/87836/apt/ratsnif-rat-oceanlotus-ops.html …
+## #securityaffairs #malware #APT @cylanceinc @MalwarePatrol @Malwageddon @_odisseus
+## https://twitter.com/securityaffairs/status/1145941019759972356<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-07-02 04:40:06
 ## #APT #Lazarus
