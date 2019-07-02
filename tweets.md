@@ -1,3 +1,9 @@
+# @blackorbird
+## 2019-07-02 03:44:54
+## Good report about Ratsnif relate to #Oceanlotus 
+## But, Which Oceanlotus Sample's C2 relate to Ratsnif？
+## C2 server 66.85.185.126 shows exposed various ports, including HTTP, SMB and RDP, for the purpose of controlling Ratsnif and other OceanLotus malware.https://threatvector.cylance.com/en_us/home/threat-spotlight-ratsnif-new-network-vermin-from-oceanlotus.html …
+## https://twitter.com/blackorbird/status/1145901134466277376<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-01 20:37:13
 ## #Iran-linked #APT33 updates infrastructure following its public disclosure
