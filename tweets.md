@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-02 18:26:57
+## After 2 years under the radars, #Ratsnif emerges in #OceanLotus ops
+## https://securityaffairs.co/wordpress/87836/apt/ratsnif-rat-oceanlotus-ops.html …
+## #securityaffairs #malware #APT
+## https://twitter.com/securityaffairs/status/1146123106936901632<br><br><br><br><br>
 # @jeFF0Falltrades
 ## 2019-07-02 19:07:02
 ## Possibly related to this #APT33 #Powertron sample? Not confirmed, just speculating based on the same C2.
