@@ -1,4 +1,8 @@
 # @jeFF0Falltrades
+## 2019-07-02 19:17:10
+## Or just related to other APT33 tools; They used RULER to exploit CVE-2017-11774 previously:https://twitter.com/ItsReallyNick/status/1083396757638336513 …
+## https://twitter.com/jeFF0Falltrades/status/1146135743695327232<br><br><br><br><br>
+# @jeFF0Falltrades
 ## 2019-07-02 19:19:36
 ## Or if it's related to #APT33 activity in general? They used RULER to exploit CVE-2017-11774 previously:https://twitter.com/ItsReallyNick/status/1083396757638336513 …
 ## https://twitter.com/jeFF0Falltrades/status/1146136357976322051<br><br><br><br><br>
