@@ -1,3 +1,10 @@
+# @jeFF0Falltrades
+## 2019-07-02 19:07:02
+## Possibly related to this #APT33 #Powertron sample? Not confirmed, just speculating based on the same C2.
+## 
+## https://app.any.run/tasks/92c7c3ac-6f52-4558-bc50-bc3bd9ef3bfa/ …
+## https://www.virustotal.com/gui/file/8e75241ddc1b6d2efccc42c4822af8ff13b824a1e792011f80e0debe0099b121/detection …https://twitter.com/CNMF_VirusAlert/status/1146130046127681536 …
+## https://twitter.com/jeFF0Falltrades/status/1146133194439299072<br><br><br><br><br>
 # @cyberwar_15
 ## 2019-07-02 13:02:40
 ## #NorthKorea #APT #DPRK #Lazarus
