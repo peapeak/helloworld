@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-02 08:00:53
+## Singapore government to run another bug bountyhttp://www.zdnet.com/article/singapore-government-to-run-another-bug-bounty/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d1b0f1e0ca7240001ca5834&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1145965552592199680<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-02 06:23:24
 ## After 2 years under the radars, #Ratsnif emerges in #OceanLotus ops
