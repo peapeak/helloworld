@@ -1,3 +1,7 @@
+# @jeFF0Falltrades
+## 2019-07-02 19:19:36
+## Or if it's related to #APT33 activity in general? They used RULER to exploit CVE-2017-11774 previously:https://twitter.com/ItsReallyNick/status/1083396757638336513 …
+## https://twitter.com/jeFF0Falltrades/status/1146136357976322051<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-02 18:26:57
 ## After 2 years under the radars, #Ratsnif emerges in #OceanLotus ops
