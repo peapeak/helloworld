@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-02 06:25:51
+## #Singapore Government will run its third #bugbounty program
+## https://securityaffairs.co/wordpress/87806/hacking/singapore-bounty-program.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1145941636234522624<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-02 08:00:53
 ## Singapore government to run another bug bountyhttp://www.zdnet.com/article/singapore-government-to-run-another-bug-bounty/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d1b0f1e0ca7240001ca5834&utm_medium=trueAnthem&utm_source=twitter …
