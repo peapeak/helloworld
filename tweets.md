@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-07-02 14:29:27
+## In addition, I notice that any people who want learn who can see all the code analysis on muddywater on the backup of @0xffff0800 .This offers the possibility to see the result and understand the methods for deobfuscation of the code.
+## https://twitter.com/Arkbird_SOLG/status/1146063340533252097<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-07-02 10:55:21
 ## #Turla #APT
