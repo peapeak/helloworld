@@ -1,3 +1,17 @@
+# @daphiel
+## 2019-07-02 10:01:34
+## #Turla #APT Waterbug Campaign that use existing #APT34 #OilRig infrastructure.
+## Target: EU|Middle-East|South America|Asia
+## 
+## updatenodes[.]site
+## vision2030[.]cf
+## vision2030[.]tk
+## dubaiexpo2020[.]cf
+## microsoft.updatemeltdownkb7234[.]com
+## 
+## Other #IoC in comments
+## #malware #threatintelpic.twitter.com/LcTWISNdIG
+## https://twitter.com/daphiel/status/1145995924033953792<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-02 06:25:51
 ## #Singapore Government will run its third #bugbounty program
