@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-07-02 10:55:21
+## #Turla #APT
+## seems old
+## @Arkbird_SOLGhttps://twitter.com/daphiel/status/1145995924033953792 …
+## https://twitter.com/Rmy_Reserve/status/1146009457630932992<br><br><br><br><br>
 # @daphiel
 ## 2019-07-02 10:01:34
 ## #Turla #APT Waterbug Campaign that use existing #APT34 #OilRig infrastructure.
