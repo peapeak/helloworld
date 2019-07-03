@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-07-03 12:14:08
+## Cyber Command warns hackers exploiting Outlook vulnerability to attack gov’t agencieshttps://www.scmagazine.com/home/security-news/apts-cyberespionage/cyber-command-warns-outlook-vulnerability-exploited-to-attack-govt-agencies/ …
+## https://twitter.com/z3roTrust/status/1146391672105779200<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-03 09:17:17
 ## US Cyber Command warns of #Iran-linked hackers exploiting CVE-2017-11774 #Outlook flaw
