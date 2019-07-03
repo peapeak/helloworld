@@ -1,3 +1,7 @@
+# @Mr_ohadm
+## 2019-07-03 21:23:16
+## It allowed the regime to spy against their own people. In May we exposed classified documents from the MOIS. Hundreds of documents were about cyber espionages against the Iranian people. National internet will make their mission even easier.
+## https://twitter.com/Mr_ohadm/status/1146529868051623936<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-03 19:00:26
 ## #Threat potlight: Ratsnif - New Network Vermin from OceanLotus. The #OceanLotus Group (aka #APT32, #CobaltKitty) is using a suite of remote access trojans dubbed 'Ratsnif' to leverage new network attack capabilities. Learn more. https://bit.ly/2LvDY7U pic.twitter.com/xZLsoSpARH
