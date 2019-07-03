@@ -1,3 +1,7 @@
+# @jeFF0Falltrades
+## 2019-07-03 12:50:14
+## Can anyone point me to a sample of #APT33 's #POWERTON (not PowertRon, as I butchered it yesterday) malware? Every sample I find labeled as "Powerton" looks to be a downloader for the actual Powerton sample, not Powerton itself.
+## https://twitter.com/jeFF0Falltrades/status/1146400756750323712<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-07-03 12:00:57
 ## This is my report of #Muddywater #APT Group organized the attack on Tajikistan 
