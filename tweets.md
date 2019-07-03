@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-07-03 14:01:59
+## ~ Britain Wants More Women In Cyber Security: Lots of schoolgirls are creating digital waves there are still too few women in the cyber security sector. The UK government want to fix that. http://ow.ly/CXVt30p3697  #cybersecurity @WomenInCyber @GOVUKdigimktpic.twitter.com/SIwMu2N5GT
+## https://twitter.com/CyberSecInt/status/1146418813434585089<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-03 14:04:02
 ## CBP suspends Perceptics from doing government business following data breach https://hubs.ly/H0jCF-b0 
