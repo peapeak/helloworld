@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-07-03 12:00:57
+## This is my report of #Muddywater #APT Group organized the attack on Tajikistan 
+## Link:
+## https://mp.weixin.qq.com/s/ko5ct9mnW78pD_RRqEUSkg …pic.twitter.com/Q4InqCBziO
+## https://twitter.com/Rmy_Reserve/status/1146388355162050561<br><br><br><br><br>
 # @z3roTrust
 ## 2019-07-03 12:14:08
 ## Cyber Command warns hackers exploiting Outlook vulnerability to attack gov’t agencieshttps://www.scmagazine.com/home/security-news/apts-cyberespionage/cyber-command-warns-outlook-vulnerability-exploited-to-attack-govt-agencies/ …
