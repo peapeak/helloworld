@@ -1,3 +1,10 @@
+# @RedDrip7
+## 2019-07-03 06:10:56
+## #InPage exploit (#CVE-2017-12824) seems used by #Bitter #蔓灵花 #APT group to attack #Pakistan with new backdoor malware. The malicious documents (Court_Notice.inp and Press_Note.inp) contain text related to #Karachi and #Delhi.
+## 
+## https://www.virustotal.com/gui/file/d8edf3e69f006f85b9ee4e23704cd5e95e895eb286f9b749021d090448493b6f/detection …
+## https://www.virustotal.com/gui/file/bd293bdf3be0a44a92bdb21e5fa75c124ad1afed3c869697bf90c9732af0e994/detection …pic.twitter.com/14eOHRYWTJ
+## https://twitter.com/RedDrip7/status/1146300270407749632<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-03 06:29:14
 ## @chroniclesec @MalwarePatrol @Malwageddon @zlab_team @yoroisecurity @Marco_Ramilli @arturodicorinto US Cyber Command warns of #Iran-linked hackers exploiting CVE-2017-11774 #Outlook flaw
