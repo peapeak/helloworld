@@ -1,3 +1,10 @@
+# @jeFF0Falltrades
+## 2019-07-03 13:55:10
+## 2 files on VT are detected as "Backdoor.Powerton", but haven't been able to confirm these as #Powerton samples yet. Look quite different, but both connect to known #APT33 domain backupaccount[.]net (see https://twitter.com/ClearskySec/status/1142749950998171648 …):
+## 
+## https://www.virustotal.com/gui/file/6bea9a7c9ded41afbebb72a11a1868345026d8e46d08b89577f30b50f4929e85/detection …
+## https://www.virustotal.com/gui/file/7368b72244d31c0d0a46ec7671ecb1d5841735a1a5832470a88729c4e62e7579/detection …
+## https://twitter.com/jeFF0Falltrades/status/1146417101051219969<br><br><br><br><br>
 # @BleepinComputer
 ## 2019-07-03 12:44:38
 ## Silence Group Likely Behind Recent $3M Bangladesh Bank Heist - by @Ionut_Ilascuhttps://www.bleepingcomputer.com/news/security/silence-group-likely-behind-recent-3m-bangladesh-bank-heist/ …
