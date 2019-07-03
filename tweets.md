@@ -1,3 +1,7 @@
+# @securityaffairs
+## 2019-07-03 13:06:47
+## US Cyber Command warns of Iran-linked hackers exploiting CVE-2017-11774 Outlook flawhttps://securityaffairs.co/wordpress/87895/breaking-news/cve-2017-11774-apt33-attacks.html …
+## https://twitter.com/securityaffairs/status/1146404924617572353<br><br><br><br><br>
 # @jeFF0Falltrades
 ## 2019-07-03 13:55:10
 ## 2 files on VT are detected as "Backdoor.Powerton", but haven't been able to confirm these as #Powerton samples yet. Look quite different, but both connect to known #APT33 domain backupaccount[.]net (see https://twitter.com/ClearskySec/status/1142749950998171648 …):
