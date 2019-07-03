@@ -1,4 +1,10 @@
 # @securityaffairs
+## 2019-07-03 17:59:37
+## Bangladesh Cyber Heist 2.0: #Silence #APT goes global
+## https://securityaffairs.co/wordpress/87923/apt/silence-apt-cyber-heist.html …
+## #securityaffairs #hacking #cybercrime
+## https://twitter.com/securityaffairs/status/1146478615535738880<br><br><br><br><br>
+# @securityaffairs
 ## 2019-07-03 18:00:43
 ## US Cyber Command warns of #Iran-linked hackers exploiting CVE-2017-11774 #Outlook flaw _
 ## https://securityaffairs.co/wordpress/87895/hacking/cve-2017-11774-apt33-attacks.html …
