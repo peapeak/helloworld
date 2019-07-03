@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-03 09:19:03
+## #Singapore Government will run its third #bugbounty program
+## https://securityaffairs.co/wordpress/87806/hacking/singapore-bounty-program.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1146347613463166976<br><br><br><br><br>
 # @RedDrip7
 ## 2019-07-03 06:10:56
 ## #InPage exploit (#CVE-2017-12824) seems used by #Bitter #蔓灵花 #APT group to attack #Pakistan with new backdoor malware. The malicious documents (Court_Notice.inp and Press_Note.inp) contain text related to #Karachi and #Delhi.
