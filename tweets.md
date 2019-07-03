@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-03 23:07:45
+## Amazon Web Services scores Australia-wide government cloud dealhttps://zd.net/2J9ncJT 
+## https://twitter.com/ZDNet/status/1146556161149157376<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-03 22:14:59
 ## Alan Shark, aka @PublicTechGuy, talks with @State_Scoop about why outsourcing IT could be a ransomware fix for local governments https://hubs.ly/H0jC-kp0  by @iamcolinwood
