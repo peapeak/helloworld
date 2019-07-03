@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-03 14:04:02
+## CBP suspends Perceptics from doing government business following data breach https://hubs.ly/H0jCF-b0 
+## https://twitter.com/CyberScoopNews/status/1146419331833782274<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-03 13:06:47
 ## US Cyber Command warns of Iran-linked hackers exploiting CVE-2017-11774 Outlook flawhttps://securityaffairs.co/wordpress/87895/breaking-news/cve-2017-11774-apt33-attacks.html …
