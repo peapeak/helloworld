@@ -1,4 +1,10 @@
 # @securityaffairs
+## 2019-07-03 09:17:17
+## US Cyber Command warns of #Iran-linked hackers exploiting CVE-2017-11774 #Outlook flaw
+## https://securityaffairs.co/wordpress/87895/hacking/cve-2017-11774-apt33-attacks.html …
+## #securityaffairs #hacking #APT
+## https://twitter.com/securityaffairs/status/1146347165465358336<br><br><br><br><br>
+# @securityaffairs
 ## 2019-07-03 09:19:03
 ## #Singapore Government will run its third #bugbounty program
 ## https://securityaffairs.co/wordpress/87806/hacking/singapore-bounty-program.html …
