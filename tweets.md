@@ -1,3 +1,7 @@
+# @BleepinComputer
+## 2019-07-03 12:44:38
+## Silence Group Likely Behind Recent $3M Bangladesh Bank Heist - by @Ionut_Ilascuhttps://www.bleepingcomputer.com/news/security/silence-group-likely-behind-recent-3m-bangladesh-bank-heist/ …
+## https://twitter.com/BleepinComputer/status/1146399350588919808<br><br><br><br><br>
 # @jeFF0Falltrades
 ## 2019-07-03 12:50:14
 ## Can anyone point me to a sample of #APT33 's #POWERTON (not PowertRon, as I butchered it yesterday) malware? Every sample I find labeled as "Powerton" looks to be a downloader for the actual Powerton sample, not Powerton itself.
