@@ -1,3 +1,7 @@
+# @BleepinComputer
+## 2019-07-03 19:31:31
+## Outlook Flaw Exploited by Iranian APT33, US CyberCom Issues Alert - by @sergheihttps://www.bleepingcomputer.com/news/security/outlook-flaw-exploited-by-iranian-apt33-us-cybercom-issues-alert/ …
+## https://twitter.com/BleepinComputer/status/1146501745889226757<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-03 17:59:37
 ## Bangladesh Cyber Heist 2.0: #Silence #APT goes global
