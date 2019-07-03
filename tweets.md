@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-03 22:14:59
+## Alan Shark, aka @PublicTechGuy, talks with @State_Scoop about why outsourcing IT could be a ransomware fix for local governments https://hubs.ly/H0jC-kp0  by @iamcolinwood
+## https://twitter.com/CyberScoopNews/status/1146542881450184711<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-03 21:00:15
 ## #OceanLotus APT Uses New #Ratsnif Trojan for Network Attacks via @BleepinComputer @Ionut_Ilascu #APT32 #CobaltKitty #BlackBerryCylance #BBCy https://bit.ly/2LuQPa5 pic.twitter.com/Wbp3yqmiuM
