@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-03 14:04:26
+## @GroupIB_GIB @GroupIB @Sachkov_GIB Bangladesh Cyber Heist 2.0: #Silence #APT goes global
+## https://securityaffairs.co/wordpress/87923/apt/silence-apt-cyber-heist.html …
+## #securityaffairs #hacking #cybercrime
+## https://twitter.com/securityaffairs/status/1146419432505466880<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-07-03 14:01:59
 ## ~ Britain Wants More Women In Cyber Security: Lots of schoolgirls are creating digital waves there are still too few women in the cyber security sector. The UK government want to fix that. http://ow.ly/CXVt30p3697  #cybersecurity @WomenInCyber @GOVUKdigimktpic.twitter.com/SIwMu2N5GT
