@@ -1,4 +1,8 @@
 # @Arkbird_SOLG
+## 2019-07-04 12:50:43
+## In the same way, the functionality to have two payloads for different OS have been seen in APT38. The logic rest that be an Russian APT again Estonian by the past between the both countries.
+## https://twitter.com/Arkbird_SOLG/status/1146763269228679168<br><br><br><br><br>
+# @Arkbird_SOLG
 ## 2019-07-04 12:51:29
 ## in April 2018, Estonian government have claim to have NATO infantry and military equipments, the annexation Crimea (2014) and the sergei skripal event (march 2018) has increased this fear.
 ## https://twitter.com/Arkbird_SOLG/status/1146763462149902338<br><br><br><br><br>
