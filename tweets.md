@@ -1,3 +1,10 @@
+# @VK_Intel
+## 2019-07-04 06:00:50
+## It is possibly related to the @GroupIB_GIB report "Bangladesh Cyber Heist 2.0: Silence APT goes global" on #Silence op: https://www.group-ib.com/media/silence-apt/ …
+## Options:
+## "compromised the bank’s card processing system" 
+## "used the custom Atmosphere software, a set of tools for ATMs jackpotting"
+## https://twitter.com/VK_Intel/status/1146660115824746496<br><br><br><br><br>
 # @0x2AE
 ## 2019-07-04 03:06:18
 ## https://www.newsweek.com/ucla-professor-stole-missile-secrets-china-219-years-prison-espionage-1447286 …
