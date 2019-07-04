@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-04 20:22:04
+## US Cyber Command warns of #Iran-linked hackers exploiting CVE-2017-11774 #Outlook flaw
+## https://securityaffairs.co/wordpress/87895/hacking/cve-2017-11774-apt33-attacks.html …
+## #securityaffairs #hacking #APT
+## https://twitter.com/securityaffairs/status/1146876853258477568<br><br><br><br><br>
 # @kaspersky
 ## 2019-07-04 18:30:14
 ## #Apple #report now includes data on requests by governments to take down apps from the tech giant’s #app store.https://threatpost.com/apple-transparency-report/146231/?utm_source=twitter&utm_medium=social&utm_campaign=gl_threatpost_Zt0106_organic&utm_content=sm-post&utm_term=gl_twitter_organic_Zt0106_sm-post_social_threatpost …
