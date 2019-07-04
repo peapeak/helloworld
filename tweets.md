@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-07-04 12:53:19
+## In may 2019, the EU elections have been done and Estonian government have been afraid from an interference of Russia. Finally, in this case, this indicates the presence of a technology watch team about TTPs to be included in new campaigns.
+## https://twitter.com/Arkbird_SOLG/status/1146763923879878657<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-04 12:39:00
 ## CBP suspends Perceptics from doing government business following data breach  https://hubs.ly/H0jDdjc0  by @jeffstone500pic.twitter.com/idNPc09dUz
