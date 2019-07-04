@@ -1,3 +1,7 @@
+# @PaloAltoNtwks
+## 2019-07-04 18:08:08
+## #ICYMI See Unit 42 researcher Bryan Lee (@obiwanblee) describe how the espionage-motivated OilRig attack group abused #DNS tunneling in this video, which also covers how you can take back control of DNS. https://bddy.me/2XqJN8E pic.twitter.com/dF8UGTpFer
+## https://twitter.com/PaloAltoNtwks/status/1146843146418081794<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-04 14:33:46
 ## Bangladesh Cyber Heist 2.0: #Silence #APT goes global...
