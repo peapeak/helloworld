@@ -1,3 +1,7 @@
+# @thehellu
+## 2019-07-04 13:09:01
+## Haha, nice find! It seems #MuddyWater hired an ASCII artist: spiders, bulls.... This LaZagne sample is based on latest  version (2.4.2), and does not seem backdoored this time.pic.twitter.com/kx6tuOh7WS
+## https://twitter.com/thehellu/status/1146767873966268416<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-07-04 12:49:34
 ## The macro loads a different payload if the victims use a Mac or windows. This doesn't have additional check for focus only Estonian targets, the spear phishing seems be the only filter. The name of the job created for windows PE has similarities with APT-C-36.pic.twitter.com/f0bou3e8SL
