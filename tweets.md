@@ -1,4 +1,8 @@
 # @Arkbird_SOLG
+## 2019-07-04 12:51:29
+## in April 2018, Estonian government have claim to have NATO infantry and military equipments, the annexation Crimea (2014) and the sergei skripal event (march 2018) has increased this fear.
+## https://twitter.com/Arkbird_SOLG/status/1146763462149902338<br><br><br><br><br>
+# @Arkbird_SOLG
 ## 2019-07-04 12:53:19
 ## In may 2019, the EU elections have been done and Estonian government have been afraid from an interference of Russia. Finally, in this case, this indicates the presence of a technology watch team about TTPs to be included in new campaigns.
 ## https://twitter.com/Arkbird_SOLG/status/1146763923879878657<br><br><br><br><br>
