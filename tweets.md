@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-04 07:36:43
+## US Cyber Command warns of #Iran-linked hackers exploiting CVE-2017-11774 #Outlook flaw
+## https://securityaffairs.co/wordpress/87895/hacking/cve-2017-11774-apt33-attacks.html …
+## #securityaffairs #hacking #APT
+## https://twitter.com/securityaffairs/status/1146684246779670528<br><br><br><br><br>
 # @VK_Intel
 ## 2019-07-04 06:00:50
 ## It is possibly related to the @GroupIB_GIB report "Bangladesh Cyber Heist 2.0: Silence APT goes global" on #Silence op: https://www.group-ib.com/media/silence-apt/ …
