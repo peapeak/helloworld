@@ -1,3 +1,9 @@
+# @Arkbird_SOLG
+## 2019-07-04 12:54:13
+## APT-C-36 TTPs: https://twitter.com/Arkbird_SOLG/status/1142410944104017920 …
+## APT38 TTPs: https://twitter.com/Arkbird_SOLG/status/1111085102036123649 … 
+## cc: @VK_Intel @0xffff0800 @James_inthe_box @JAMESWT_MHT @blackorbird @Timele9527 @RedDrip7
+## https://twitter.com/Arkbird_SOLG/status/1146764147251716097<br><br><br><br><br>
 # @thehellu
 ## 2019-07-04 13:09:01
 ## Haha, nice find! It seems #MuddyWater hired an ASCII artist: spiders, bulls.... This LaZagne sample is based on latest  version (2.4.2), and does not seem backdoored this time.pic.twitter.com/kx6tuOh7WS
