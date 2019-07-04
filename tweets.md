@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-04 12:39:00
+## CBP suspends Perceptics from doing government business following data breach  https://hubs.ly/H0jDdjc0  by @jeffstone500pic.twitter.com/idNPc09dUz
+## https://twitter.com/CyberScoopNews/status/1146760320272277504<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-04 07:35:45
 ## Bangladesh Cyber Heist 2.0: #Silence #APT goes global
