@@ -1,4 +1,8 @@
 # @Arkbird_SOLG
+## 2019-07-04 12:49:34
+## The macro loads a different payload if the victims use a Mac or windows. This doesn't have additional check for focus only Estonian targets, the spear phishing seems be the only filter. The name of the job created for windows PE has similarities with APT-C-36.pic.twitter.com/f0bou3e8SL
+## https://twitter.com/Arkbird_SOLG/status/1146762977045037057<br><br><br><br><br>
+# @Arkbird_SOLG
 ## 2019-07-04 12:50:43
 ## In the same way, the functionality to have two payloads for different OS have been seen in APT38. The logic rest that be an Russian APT again Estonian by the past between the both countries.
 ## https://twitter.com/Arkbird_SOLG/status/1146763269228679168<br><br><br><br><br>
