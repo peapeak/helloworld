@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-04 14:33:46
+## Bangladesh Cyber Heist 2.0: #Silence #APT goes global...
+## https://securityaffairs.co/wordpress/87923/apt/silence-apt-cyber-heist.html …
+## #securityaffairs #hacking #cybercrime
+## https://twitter.com/securityaffairs/status/1146789202832568320<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-07-04 17:30:13
 ## ~ Iranian Cyber-Espionage Exposed: An Iranian hacking team's lists of its victims, attack strategies, alleged areas of access & employee lists relevant to espionage systems. http://ow.ly/vasn30oL6FX  #MuddyWater #cybersecuritypic.twitter.com/sxWijKVtpM
