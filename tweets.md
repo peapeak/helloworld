@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-07-05 14:01:40
+## ~ Britain Wants More Women In Cyber Security: Lots of schoolgirls are creating digital waves there are still too few women in the cyber security sector. The UK government want to fix that. http://ow.ly/CXVt30p3697  #cybersecurity @WomenInCyberpic.twitter.com/dBNLxMAshL
+## https://twitter.com/CyberSecInt/status/1147143510778425344<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-07-05 10:17:21
 ## #APT33https://twitter.com/blackorbird/status/1146990214918725633 …
