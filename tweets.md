@@ -1,3 +1,8 @@
+# @FireEye
+## 2019-07-05 03:00:07
+## FireEye Knowledge Base | 
+## @FireEye Field Notice (FEFN) #439_2: EXTENDED: FireEye Email Security Cloud Edition Release 2019.7 Upgrade Maintenance, Commercial Americas, EMEA, APJ and Government Instances https://fireeyecommunity.force.com/CustomerCommunity/s/article/000002789 …
+## https://twitter.com/FireEyeSupport/status/1146977025300848640<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-04 18:42:26
 ## Bangladesh Cyber Heist 2.0: #Silence #APT goes global.
