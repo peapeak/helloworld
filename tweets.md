@@ -1,3 +1,7 @@
+# @Treadstone71LLC
+## 2019-07-05 22:05:35
+## Border patrol agency knew of 'offensive' Facebook group ran by leadership since 2018https://abcnews.go.com/Politics/cbp-officials-knew-private-facebook-group-back-february/story?id=64151788 …
+## https://twitter.com/Treadstone71LLC/status/1147265292206141440<br><br><br><br><br>
 # @cahlberg
 ## 2019-07-05 21:07:46
 ## First out in #rfthanks (to help the conspiratorially minded!) - ex and current unnamed government employees in various countries around the world. With the highest degree of ethics and morals, your input, guidance, and support has been instrumental on so many levels. Thanks!
