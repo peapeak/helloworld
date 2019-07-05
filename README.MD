@@ -1,3 +1,18 @@
+# ‘Twas the night before
+## Kaspersky
+## 2019-07-04T15:48:55+00:00
+## Recently, the United States Cyber Command highlighted several VirusTotal uploads of theirs – and the executable objects relating to 2016 – 2017 NewsBeef/APT33 activity are interesting for a variety of reasons. 
+## https://securelist.com/twas-the-night-before/91599/<br><br><br>
+# Donot团伙（APT-C-35）移动端新攻击框架工具分析
+## 奇安信
+## 2019-07-03By红雨滴团队|事件追踪
+## 肚脑虫(APT-C-35)，由奇安信高级威胁研究团队持续跟踪发现并命名，其主要针对巴基斯坦等南亚地区国家进行网络间谍活动的组织。该组织主要针对政府机构等领域进行攻击，其中以窃取敏感信息为主。自第一次发现该组织的攻击活动以来，奇安信威胁情报中心对该组织一直保持着持续跟踪，近期发现了其包名为com.tencent.mm(微信包名)最新的移动样本，相比于之前发现的Donot(肚脑虫)移动端程序，此次发现的程序对其代码结构进行了调整，但其C&C和功能方面依然保持了之前Donot(肚脑虫)的风格。
+## https://ti.360.net/blog/tag/APT/<br><br><br>
+# 全球高级持续性威胁（APT）2019年中报告
+## 奇安信
+## 2019-07-04By红雨滴团队|专题报告
+## 奇安信威胁情报中心在2018年曾公开发布了两篇全球高级持续性威胁研究总结报告[参考链接：23]，其中总结了高级持续性威胁背后的攻击组织在过去一年中的攻击活动和战术技术特点。如今，2019年已经过去一半，我们在对历史活跃APT组织近半年的攻击活动情况的持续跟踪过程中，呈现地缘政治特征的国家背景黑客组织作为观察的重点，其实施的网络威胁活动始终穿插在现实的大国政治和军事博弈过程中，网络空间威胁或已成为各国情报机构和军事行动达到其情报获取或破坏目的所依赖的重要手段之一。
+## https://ti.360.net/blog/tag/APT/<br><br><br>
 # ViceLeaker Operation: mobile espionage targeting Middle East
 ## Kaspersky
 ## 2019-06-26T10:00:58+00:00
