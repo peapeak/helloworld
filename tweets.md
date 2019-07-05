@@ -1,3 +1,13 @@
+# @kaspersky
+## 2019-07-05 19:01:10
+## #Carbanak
+##  Status: Active 
+##  Discovery: 2015
+##  Purpose: Stealing money
+##  Propagation method: Exploits, social engineering
+## 
+## More #APT stats here: https://kas.pr/y6oi pic.twitter.com/crItNrwjtI
+## https://twitter.com/kaspersky/status/1147218880697458689<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-05 21:00:17
 ## #ThreatSpotlight: #Ratsnif - New Network Vermin from OceanLotus. The #OceanLotus Group (aka #APT32, #CobaltKitty) is using a suite of remote access trojans dubbed 'Ratsnif' to leverage new network attack capabilities. Learn more. https://bit.ly/2LvDY7U pic.twitter.com/Z0tWRGLHY0
