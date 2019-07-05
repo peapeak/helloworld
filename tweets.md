@@ -1,3 +1,7 @@
+# @cahlberg
+## 2019-07-05 21:07:46
+## First out in #rfthanks (to help the conspiratorially minded!) - ex and current unnamed government employees in various countries around the world. With the highest degree of ethics and morals, your input, guidance, and support has been instrumental on so many levels. Thanks!
+## https://twitter.com/cahlberg/status/1147250742622871552<br><br><br><br><br>
 # @kaspersky
 ## 2019-07-05 19:01:10
 ## #Carbanak
