@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-07-05 21:00:17
+## #ThreatSpotlight: #Ratsnif - New Network Vermin from OceanLotus. The #OceanLotus Group (aka #APT32, #CobaltKitty) is using a suite of remote access trojans dubbed 'Ratsnif' to leverage new network attack capabilities. Learn more. https://bit.ly/2LvDY7U pic.twitter.com/Z0tWRGLHY0
+## https://twitter.com/cylanceinc/status/1147248858759651328<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-07-05 15:43:22
 ## #APT33 According with the Kaspersky analysis about the campaign of APT33 (2017). Instead of a pem certificates, this uses an NSIS installer who usurps Citrix Company, this executes from the internal resource a bat file "Citrix Certificate.bat" for execute and download the implant
