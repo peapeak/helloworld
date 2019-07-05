@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-07-05 10:19:46
+## Good analysis
+## #APT #gamaredon
+## thanks to @VK_Intelhttps://twitter.com/VK_Intel/status/1147021849567617026 …
+## https://twitter.com/Rmy_Reserve/status/1147087666866876417<br><br><br><br><br>
 # @VK_Intel
 ## 2019-07-05 05:58:14
 ## 2019-07-04: Active #Gamaredon #Pteranodon #APT 
