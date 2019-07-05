@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-07-05 15:43:22
+## #APT33 According with the Kaspersky analysis about the campaign of APT33 (2017). Instead of a pem certificates, this uses an NSIS installer who usurps Citrix Company, this executes from the internal resource a bat file "Citrix Certificate.bat" for execute and download the implant
+## https://twitter.com/Arkbird_SOLG/status/1147169103880347655<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-07-05 16:22:16
 ## #info what the fuck of somebody use my idname to write in the info of #APT33 sample on #anyrun What a dangerous joke!pic.twitter.com/ijb5FLIImZ
