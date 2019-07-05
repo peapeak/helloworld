@@ -1,3 +1,14 @@
+# @VK_Intel
+## 2019-07-05 05:58:14
+## 2019-07-04: Active #Gamaredon #Pteranodon #APT 
+## Targeting  Military & Gov 
+## Version %1_603 | *icon Document Parser | 'schtasks' | Startup
+## C2:
+## barathrum. space
+## zombieland. info
+## MD5: 074f111510844bba2e0efd91f92951f2
+## Same majorly as I covered before -> https://www.vkremez.com/2019/01/lets-learn-deeper-dive-into-gamaredon.html …pic.twitter.com/lLdXYHDdxa
+## https://twitter.com/VK_Intel/status/1147021849567617026<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-05 08:01:06
 ## Apple: iPhone info requests from Chinese government have explodedhttp://www.zdnet.com/article/apple-iphone-info-requests-from-chinese-government-have-exploded/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d1f03a48e73cc000163e518&utm_medium=trueAnthem&utm_source=twitter …
