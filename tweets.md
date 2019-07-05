@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-05 15:01:03
+## Croatian government targeted by mysterious hackers https://zd.net/2Yysowk  by @campuscodi
+## https://twitter.com/ZDNet/status/1147158455377022976<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-07-05 14:01:40
 ## ~ Britain Wants More Women In Cyber Security: Lots of schoolgirls are creating digital waves there are still too few women in the cyber security sector. The UK government want to fix that. http://ow.ly/CXVt30p3697  #cybersecurity @WomenInCyberpic.twitter.com/dBNLxMAshL
