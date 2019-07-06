@@ -1,3 +1,7 @@
+# @Treadstone71LLC
+## 2019-07-06 14:15:11
+## Information on the exploits of Mr.Tekide is found on information security and research firm sites such as TheCitizenLab out of Canada http://ow.ly/Gfnu30p4B0H  and the plethora of reports on OilRig / APT34 at http://ow.ly/LBZG30p4B0I  using Mitre ATT&CK.http://ow.ly/mwyV30p4B0J 
+## https://twitter.com/Treadstone71LLC/status/1147509299595370497<br><br><br><br><br>
 # @BLeeJones
 ## 2019-07-06 13:23:56
 ## Stolen military technology 
