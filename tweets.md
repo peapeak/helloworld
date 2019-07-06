@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-06 17:01:04
+## UK ISP group names Mozilla 'Internet Villain' for supporting 'DNS-over-HTTPS' http://www.zdnet.com/article/uk-isp-group-names-mozilla-internet-villain-for-supporting-dns-over-https/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d20d3b28e73cc0001640188&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1147551046484578306<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-06 18:00:24
 ## #ThreatSpotlight: #Ratsnif - New Network Vermin from OceanLotus. The #OceanLotus Group (aka #APT32, #CobaltKitty) is using a suite of remote access trojans dubbed 'Ratsnif' to leverage new network attack capabilities. Learn more. https://bit.ly/2LvDY7U pic.twitter.com/rLCFJesAka
