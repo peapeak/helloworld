@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-06 21:30:49
+## UK ISP group names Mozilla 'Internet Villain' for supporting 'DNS-over-HTTPS'http://www.zdnet.com/article/uk-isp-group-names-mozilla-internet-villain-for-supporting-dns-over-https/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d2112f20ca7240001cab64b&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1147618932653797379<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-06 19:00:19
 ## #Vietnamese hacking group has a ‘Swiss Army knife’ of tools at its disposal.. "There is “sloppy code & programmatical errors and debug messages not typically present in #OceanLotus malware." @thomas_bonner. More on @CyberScoopNews: https://bit.ly/2xpYzCg  #APT32 #Ratsnifpic.twitter.com/cFOYkCDfKx
