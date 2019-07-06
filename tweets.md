@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-07-06 18:00:24
+## #ThreatSpotlight: #Ratsnif - New Network Vermin from OceanLotus. The #OceanLotus Group (aka #APT32, #CobaltKitty) is using a suite of remote access trojans dubbed 'Ratsnif' to leverage new network attack capabilities. Learn more. https://bit.ly/2LvDY7U pic.twitter.com/rLCFJesAka
+## https://twitter.com/cylanceinc/status/1147565979263746055<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-06 14:15:11
 ## Information on the exploits of Mr.Tekide is found on information security and research firm sites such as TheCitizenLab out of Canada http://ow.ly/Gfnu30p4B0H  and the plethora of reports on OilRig / APT34 at http://ow.ly/LBZG30p4B0I  using Mitre ATT&CK.http://ow.ly/mwyV30p4B0J 
