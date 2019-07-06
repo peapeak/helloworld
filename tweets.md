@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-07-06 12:00:41
+## ~ Britain Wants More Women In Cyber Security: Lots of schoolgirls are creating digital waves there are still too few women in the cyber security sector. The UK government want to fix that. http://ow.ly/CXVt30p3697  #cybersecurity @WomenInCyberpic.twitter.com/SIwMu2N5GT
+## https://twitter.com/CyberSecInt/status/1147475453172748288<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-05 22:05:35
 ## Border patrol agency knew of 'offensive' Facebook group ran by leadership since 2018https://abcnews.go.com/Politics/cbp-officials-knew-private-facebook-group-back-february/story?id=64151788 …
