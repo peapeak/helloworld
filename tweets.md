@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-06 12:45:54
+## UK ISP group names Mozilla 'Internet Villain' for supporting 'DNS-over-HTTPS'http://www.zdnet.com/article/uk-isp-group-names-mozilla-internet-villain-for-supporting-dns-over-https/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d2097f20ca7240001caae6c&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1147486831870713856<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-07-06 12:00:41
 ## ~ Britain Wants More Women In Cyber Security: Lots of schoolgirls are creating digital waves there are still too few women in the cyber security sector. The UK government want to fix that. http://ow.ly/CXVt30p3697  #cybersecurity @WomenInCyberpic.twitter.com/SIwMu2N5GT
