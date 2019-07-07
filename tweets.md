@@ -1,4 +1,10 @@
 # @securityaffairs
+## 2019-07-07 08:52:22
+## @ptsecurity @Marco_Ramilli @MalwarePatrol @CNMF_VirusAlert @Malwageddon @zlab_team @yoroisecurity @_odisseus #Croatia government agencies targeted with news #SilentTrinity #malware
+## https://securityaffairs.co/wordpress/88021/apt/croatia-government-silenttrinity-malware.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1147790449052127235<br><br><br><br><br>
+# @securityaffairs
 ## 2019-07-07 08:53:37
 ## @GiulioTerzi @GianfrancoIncar @mrtlgu @francescom_talo #Croatia government agencies targeted with news #SilentTrinity #malware
 ## https://securityaffairs.co/wordpress/88021/apt/croatia-government-silenttrinity-malware.html …
