@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-07-07 14:30:06
+## #APT #BITTER
+## Thanks to @h4ckak
+## @Arkbird_SOLGhttps://twitter.com/h4ckak/status/1147710998817542145 …
+## https://twitter.com/Rmy_Reserve/status/1147875442222723074<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-07 08:52:22
 ## @ptsecurity @Marco_Ramilli @MalwarePatrol @CNMF_VirusAlert @Malwageddon @zlab_team @yoroisecurity @_odisseus #Croatia government agencies targeted with news #SilentTrinity #malware
