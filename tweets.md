@@ -1,3 +1,7 @@
+# @MalwarePatrol
+## 2019-07-07 20:00:21
+## Targeted ransomware attacks: the easy choice for cybercriminals https://www.pandasecurity.com/mediacenter/security/targeted-ransomware/ … via @Panda_Securitypic.twitter.com/gDvF2hYRTi
+## https://twitter.com/MalwarePatrol/status/1147958553531080704<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-07 18:18:24
 ## #Croatia government agencies targeted with news #SilentTrinity #malware.
