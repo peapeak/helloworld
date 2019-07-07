@@ -1,3 +1,7 @@
+# @Treadstone71LLC
+## 2019-07-07 18:26:06
+## #MuddyWater analysis of attacks in Tajikistan #oilrig #apt34 http://ow.ly/bdTr30p54HN 
+## https://twitter.com/Treadstone71LLC/status/1147934835304030209<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-07 14:59:47
 ## #Croatia government agencies targeted with news #SilentTrinity #malware
