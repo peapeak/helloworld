@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-07 18:18:24
+## #Croatia government agencies targeted with news #SilentTrinity #malware.
+## https://securityaffairs.co/wordpress/88021/apt/croatia-government-silenttrinity-malware.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1147932896411430912<br><br><br><br><br>
 # @JayTHL
 ## 2019-07-07 18:27:22
 ## Comfort cam pro is ok but don't use their awful phone app, use the undocumented web interface on port 8080. And like bitterman said keep it off the internet.
