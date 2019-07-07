@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-07 21:00:51
+## Croatian government targeted by mysterious hackershttp://www.zdnet.com/article/croatian-government-targeted-by-mysterious-hackers/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d225d688e73cc0001641a59&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1147973778699366400<br><br><br><br><br>
 # @MalwarePatrol
 ## 2019-07-07 20:00:21
 ## Targeted ransomware attacks: the easy choice for cybercriminals https://www.pandasecurity.com/mediacenter/security/targeted-ransomware/ … via @Panda_Securitypic.twitter.com/gDvF2hYRTi
