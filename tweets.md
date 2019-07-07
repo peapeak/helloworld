@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-07 08:53:37
+## @GiulioTerzi @GianfrancoIncar @mrtlgu @francescom_talo #Croatia government agencies targeted with news #SilentTrinity #malware
+## https://securityaffairs.co/wordpress/88021/apt/croatia-government-silenttrinity-malware.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1147790761943076865<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-07 01:45:45
 ## UK ISP group names Mozilla 'Internet Villain' for supporting 'DNS-over-HTTPS'http://www.zdnet.com/article/uk-isp-group-names-mozilla-internet-villain-for-supporting-dns-over-https/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d214eb88e73cc0001640967&utm_medium=trueAnthem&utm_source=twitter …
