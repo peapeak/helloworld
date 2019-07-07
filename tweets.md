@@ -1,3 +1,7 @@
+# @JayTHL
+## 2019-07-07 18:27:22
+## Comfort cam pro is ok but don't use their awful phone app, use the undocumented web interface on port 8080. And like bitterman said keep it off the internet.
+## https://twitter.com/JayTHL/status/1147935151567048706<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-07 18:26:06
 ## #MuddyWater analysis of attacks in Tajikistan #oilrig #apt34 http://ow.ly/bdTr30p54HN 
