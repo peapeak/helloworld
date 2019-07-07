@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-07 14:59:47
+## #Croatia government agencies targeted with news #SilentTrinity #malware
+## https://securityaffairs.co/wordpress/88021/apt/croatia-government-silenttrinity-malware.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1147882911317839872<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-07-07 14:30:06
 ## #APT #BITTER
