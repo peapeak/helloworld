@@ -1,3 +1,7 @@
+# @Rmy_Reserve
+## 2019-07-08 10:30:15
+## #APT #APT28 #FancyBearhttps://twitter.com/daphiel/status/1148128770014011392 …
+## https://twitter.com/Rmy_Reserve/status/1148177470639579141<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-08 09:00:12
 ## #ThreatSpotlight: #Ratsnif - New Network Vermin from OceanLotus. The #OceanLotus Group (aka #APT32, #CobaltKitty) is using a suite of remote access trojans dubbed 'Ratsnif' to leverage new network attack capabilities. Learn more. https://bit.ly/2LvDY7U pic.twitter.com/EMPkr4kfOF
