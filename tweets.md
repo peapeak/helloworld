@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-07-08 09:00:12
+## #ThreatSpotlight: #Ratsnif - New Network Vermin from OceanLotus. The #OceanLotus Group (aka #APT32, #CobaltKitty) is using a suite of remote access trojans dubbed 'Ratsnif' to leverage new network attack capabilities. Learn more. https://bit.ly/2LvDY7U pic.twitter.com/EMPkr4kfOF
+## https://twitter.com/cylanceinc/status/1148154807934423041<br><br><br><br><br>
 # @daphiel
 ## 2019-07-08 07:16:44
 ## #APT #FancyBear Microsoft-like #typosquatting recent C2 domains 
