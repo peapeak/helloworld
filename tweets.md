@@ -1,3 +1,7 @@
+# @bsmuir
+## 2019-07-08 04:36:43
+## #NATO @ccdcoe examine the legal implications of using autonomous cyber capabilities under international law. #cyberwar #infosec #Cybersecurity #DFIR #cyberespionage https://lnkd.in/fZsQ6Fx 
+## https://twitter.com/bsmuir/status/1148088499926704130<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-07 21:00:51
 ## Croatian government targeted by mysterious hackershttp://www.zdnet.com/article/croatian-government-targeted-by-mysterious-hackers/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d225d688e73cc0001641a59&utm_medium=trueAnthem&utm_source=twitter …
