@@ -1,3 +1,14 @@
+# @blackorbird
+## 2019-07-08 04:25:06
+## During the period from February to April this year, #hackergroups carried out a series of #cyberattacks on #Croatian government agencies. 
+## frame：
+## https://github.com/byt3bl33d3r/SILENTTRINITY …
+## https://github.com/EmpireProject/Empire …)
+## Analysis：
+## http://blog.ptsecurity.com/2019/07/ironpython-darkly-how-we-uncovered.html …
+## https://www.fireeye.com/blog/threat-research/2019/03/winrar-zero-day-abused-in-multiple-campaigns.html …
+## https://static.ptsecurity.com/phdays/presentations/phdays-9-ironpython-on-the-dark-side-the-silent-trio-from-croatia.pdf …pic.twitter.com/rxQCDd11Xx
+## https://twitter.com/blackorbird/status/1148085575779377158<br><br><br><br><br>
 # @bsmuir
 ## 2019-07-08 04:36:43
 ## #NATO @ccdcoe examine the legal implications of using autonomous cyber capabilities under international law. #cyberwar #infosec #Cybersecurity #DFIR #cyberespionage https://lnkd.in/fZsQ6Fx 
