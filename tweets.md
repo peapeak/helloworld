@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-07-08 11:00:20
+## #Webinar: Prevent #CyberAttacks at #Government Agencies. Join our upcoming webinar on July 18th at 9:30 AM PDT/12:30 PM EDT to see how #BlackBerryCylance can shift your government agency’s security posture to prevention instead of response. Register here: https://bit.ly/2xoEQmf pic.twitter.com/mPqI7qCetV
+## https://twitter.com/cylanceinc/status/1148185041803120640<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-08 10:30:59
 ## Croatian government targeted by mysterious hackershttp://www.zdnet.com/article/croatian-government-targeted-by-mysterious-hackers/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d231b490ca7240001cad699&utm_medium=trueAnthem&utm_source=twitter …
