@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-09 13:01:20
+## 5G and Huawei: Mobile networks race ahead as government delayshttp://www.zdnet.com/article/5g-and-huawei-mobile-networks-race-ahead-as-government-delays/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d248ffa0ca7240001caed19&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1148577880718401541<br><br><br><br><br>
 # @RedDrip7
 ## 2019-07-09 03:58:20
 ## Malicious Excel document with file name relating to #Agrani #Bank seems used by #Donot #APT-C-35 to drop harmful bat file and execute the final payload. The attack approach is similar to our previous report: 
