@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-07-09 13:32:12
+## This is school Central Board of Secondary Education (CBSE) is a national level board of education in India for public and private schools, controlled and managed by Union Government of India.
+## https://twitter.com/Arkbird_SOLG/status/1148585646832926720<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-07-09 17:30:16
 ## ~ China’s Dirty Secret - Intellectual Property Theft: Hackers have stolen masses of corporate and government secrets, with the aim to improve Chinese business and economic competitiveness. http://ow.ly/fF6C30p5K7C  #cybersecuritypic.twitter.com/5fkg8WUbHH
