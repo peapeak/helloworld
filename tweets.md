@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-07-09 12:52:46
+## Yep, target since a while the government and the army infrastructure of India.
+## https://twitter.com/Arkbird_SOLG/status/1148575721784324096<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-09 13:01:20
 ## 5G and Huawei: Mobile networks race ahead as government delayshttp://www.zdnet.com/article/5g-and-huawei-mobile-networks-race-ahead-as-government-delays/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d248ffa0ca7240001caed19&utm_medium=trueAnthem&utm_source=twitter …
