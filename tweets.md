@@ -1,3 +1,8 @@
+# @bsmuir
+## 2019-07-09 01:23:47
+## @TrendLabs analysis uncovers over 17K samples of #Anubis #Android #malware; used for #cyberespionage, #cybercrime, #ransomware. Leverages #Twitter for #C2. #infosec #Cybersecurity #DFIR #forensics #mobile #IOC
+## https://lnkd.in/fSvnSZ5 https://lnkd.in/fYb-cmp 
+## https://twitter.com/bsmuir/status/1148402332700479490<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-08 11:15:55
 ## Apple: iPhone info requests from Chinese government have explodedhttp://www.zdnet.com/article/apple-iphone-info-requests-from-chinese-government-have-exploded/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d2325d60ca7240001cad76d&utm_medium=trueAnthem&utm_source=twitter …
