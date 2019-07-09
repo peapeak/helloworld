@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-09 07:04:22
+## Cyberattack shuts down #LaPorte County government systems.
+## https://securityaffairs.co/wordpress/88124/malware/cyberattack-shuts-down-la-porte-county-government-systems.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1148488043587932161<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-07-09 04:30:12
 ## #Donot APT Group
