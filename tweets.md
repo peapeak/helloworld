@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-09 18:01:10
+## 5G and Huawei: Mobile networks race ahead as government delayshttp://www.zdnet.com/article/5g-and-huawei-mobile-networks-race-ahead-as-government-delays/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d24d6460ca7240001caf128&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1148653336373190656<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-07-09 13:32:12
 ## This is school Central Board of Secondary Education (CBSE) is a national level board of education in India for public and private schools, controlled and managed by Union Government of India.
