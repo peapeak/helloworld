@@ -1,3 +1,11 @@
+# @RedDrip7
+## 2019-07-09 03:58:20
+## Malicious Excel document with file name relating to #Agrani #Bank seems used by #Donot #APT-C-35 to drop harmful bat file and execute the final payload. The attack approach is similar to our previous report: 
+## https://ti.qianxin.com/blog/articles/donot-group-is-targeting-pakistani-businessman-working-in-china-en/ …
+## 
+## CC: servicejobs[.]life
+## https://www.virustotal.com/gui/file/a06a5b1d63ca67da90ba6cd9cbc00d6872707a1b49d44de26d6eb5ce7dd7d545/ …pic.twitter.com/bPU7s9xSQT
+## https://twitter.com/RedDrip7/status/1148441227773132800<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-09 07:04:22
 ## Cyberattack shuts down #LaPorte County government systems.
