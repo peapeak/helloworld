@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-07-09 17:30:16
+## ~ China’s Dirty Secret - Intellectual Property Theft: Hackers have stolen masses of corporate and government secrets, with the aim to improve Chinese business and economic competitiveness. http://ow.ly/fF6C30p5K7C  #cybersecuritypic.twitter.com/5fkg8WUbHH
+## https://twitter.com/CyberSecInt/status/1148645560028684289<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-09 13:04:53
 ## Cyberattack shuts down #LaPorte County government systems
