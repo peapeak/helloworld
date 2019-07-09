@@ -1,3 +1,8 @@
+# @Rmy_Reserve
+## 2019-07-09 04:30:12
+## #Donot APT Group
+## Thanks to @RedDrip7https://twitter.com/RedDrip7/status/1148441227773132800 …
+## https://twitter.com/Rmy_Reserve/status/1148449246254780417<br><br><br><br><br>
 # @bsmuir
 ## 2019-07-09 01:23:47
 ## @TrendLabs analysis uncovers over 17K samples of #Anubis #Android #malware; used for #cyberespionage, #cybercrime, #ransomware. Leverages #Twitter for #C2. #infosec #Cybersecurity #DFIR #forensics #mobile #IOC
