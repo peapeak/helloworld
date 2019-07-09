@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-09 13:04:53
+## Cyberattack shuts down #LaPorte County government systems
+## https://securityaffairs.co/wordpress/88124/malware/cyberattack-shuts-down-la-porte-county-government-systems.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1148578773106909184<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-07-09 13:31:08
 ## Sidewinder have target Military infrastructure and Government in Pakistan, many South Asian countries in the past, this is suspected to be an Indian APT group. For the lnk, this can provide form an archive of word execution as artefact that why I have add it.
