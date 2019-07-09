@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-09 18:08:21
+## Cyberattack shuts down #LaPorte County government systems.
+## https://securityaffairs.co/wordpress/88124/malware/cyberattack-shuts-down-la-porte-county-government-systems.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1148655139953287168<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-09 18:01:10
 ## 5G and Huawei: Mobile networks race ahead as government delayshttp://www.zdnet.com/article/5g-and-huawei-mobile-networks-race-ahead-as-government-delays/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d24d6460ca7240001caf128&utm_medium=trueAnthem&utm_source=twitter …
