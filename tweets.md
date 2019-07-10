@@ -1,3 +1,7 @@
+# @Mr_ohadm
+## 2019-07-10 10:40:37
+## Sea Turtle campaign keeps going, points to targets in the middle-east via DNS hijacking techniques. Wonder who is behind this attack, due to the fact OilRig stands behind the great DNSespinage campaign early this year...  https://blog.talosintelligence.com/2019/07/sea-turtle-keeps-on-swimming.html …
+## https://twitter.com/Mr_ohadm/status/1148904852971511808<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-07-10 10:26:12
 ## #APT #Lazarus 
