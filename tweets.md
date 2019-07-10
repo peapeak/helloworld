@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-07-10 16:00:45
+## Flirting With IDA and APT28: This blog shares a methodology used to develop Hex-Rays' Interactive Disassembler (IDA) signatures created as part of pre-analysis for a recently published #APT28 sample. https://bit.ly/2S4v7Lo  #malware #securitypic.twitter.com/ZQ62aLvKW7
+## https://twitter.com/cylanceinc/status/1148985417628303360<br><br><br><br><br>
 # @threatpost
 ## 2019-07-10 16:00:53
 ## The latest #iOS and Android versions of the FinSpy #malware have been deployed in the wild. The espionage tool can eavesdrop on Signal, Telegram and WhatsApp messages and calls.https://threatpost.com/finspy-modules-secure-messaging-apps/146372/ …
