@@ -1,3 +1,11 @@
+# @blackorbird
+## 2019-07-10 06:37:37
+## #lazarus #NukeSped #KEYMARBLE
+## Russian submit
+## 4d6013932982a453cd0ea3e6ffc90703
+## C2：194.45.8.41:443
+## related：https://research.checkpoint.com/north-korea-turns-against-russian-targets/ …
+## https://twitter.com/blackorbird/status/1148843702690832385<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-10 07:00:13
 ## #Webinar: Prevent #CyberAttacks at #Government Agencies. Join our upcoming webinar on July 18th at 9:30 AM PDT/12:30 PM EDT to see how #BlackBerryCylance can shift your government agency’s security posture to prevention instead of response. Register here: https://bit.ly/2xoEQmf pic.twitter.com/hF0RXtuftk
