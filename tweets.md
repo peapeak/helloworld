@@ -1,3 +1,7 @@
+# @threatpost
+## 2019-07-10 16:00:53
+## The latest #iOS and Android versions of the FinSpy #malware have been deployed in the wild. The espionage tool can eavesdrop on Signal, Telegram and WhatsApp messages and calls.https://threatpost.com/finspy-modules-secure-messaging-apps/146372/ …
+## https://twitter.com/threatpost/status/1148985451245645827<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-10 13:30:59
 ## 5G and Huawei: Mobile networks race ahead as government delayshttp://www.zdnet.com/article/5g-and-huawei-mobile-networks-race-ahead-as-government-delays/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d25e8748e73cc000164518d&utm_medium=trueAnthem&utm_source=twitter …
