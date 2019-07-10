@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-10 16:21:43
+## NEW: Why Cyber Command’s latest warning is a win for the government's information sharing efforts https://hubs.ly/H0jJ_l50 
+## https://twitter.com/CyberScoopNews/status/1148990696315076610<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-10 16:00:45
 ## Flirting With IDA and APT28: This blog shares a methodology used to develop Hex-Rays' Interactive Disassembler (IDA) signatures created as part of pre-analysis for a recently published #APT28 sample. https://bit.ly/2S4v7Lo  #malware #securitypic.twitter.com/ZQ62aLvKW7
