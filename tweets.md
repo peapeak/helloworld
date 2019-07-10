@@ -1,3 +1,7 @@
+# @bsmuir
+## 2019-07-10 23:43:44
+## #Kaspersky @SecureList examine the capabilities of the latest #FinSpy #cyberespionage implants for #iOS & #Android. #infosec #Cybersecurity #DFIR #cybercrime #malware #malware #spyware #mobilehttps://lnkd.in/fUX3xfD 
+## https://twitter.com/bsmuir/status/1149101933032091649<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-10 21:04:05
 ## Why Cyber Command’s latest warning is a win for the government's information sharing efforts https://hubs.ly/H0jK2_M0  by @shanvavpic.twitter.com/z6krcm60wg
