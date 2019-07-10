@@ -1,3 +1,11 @@
+# @RedDrip7
+## 2019-07-10 09:31:29
+## #Lazarus new Test #NukeSped Sample，which use LAN ip for testing.
+## The decypt code is similar to Sony attack which happen in 2014.
+## Maybe this website is hacked by Lazarus and use it at next attack.
+## URL:hxxps://www.byucksanpaint.com/community/com_gon_open.as
+## https://www.virustotal.com/gui/file/6b90e2a3f0ad8819b5afe67bf13451c9782af26a9f2bdac3a0e042569054e5fd/detection …pic.twitter.com/dz10MRcCoG
+## https://twitter.com/RedDrip7/status/1148887458152472576<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-10 08:45:54
 ## 5G and Huawei: Mobile networks race ahead as government delayshttp://www.zdnet.com/article/5g-and-huawei-mobile-networks-race-ahead-as-government-delays/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d25a5ad0ca7240001cafdec&utm_medium=trueAnthem&utm_source=twitter …
