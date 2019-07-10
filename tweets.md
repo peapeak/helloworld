@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-07-10 07:00:13
+## #Webinar: Prevent #CyberAttacks at #Government Agencies. Join our upcoming webinar on July 18th at 9:30 AM PDT/12:30 PM EDT to see how #BlackBerryCylance can shift your government agency’s security posture to prevention instead of response. Register here: https://bit.ly/2xoEQmf pic.twitter.com/hF0RXtuftk
+## https://twitter.com/cylanceinc/status/1148849387017256961<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-09 18:08:21
 ## Cyberattack shuts down #LaPorte County government systems.
