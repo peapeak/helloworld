@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-10 21:04:05
+## Why Cyber Command’s latest warning is a win for the government's information sharing efforts https://hubs.ly/H0jK2_M0  by @shanvavpic.twitter.com/z6krcm60wg
+## https://twitter.com/CyberScoopNews/status/1149061754330259457<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-07-10 16:30:28
 ## ~ Britain Wants More Women In Cyber Security: Lots of schoolgirls are creating digital waves there are still too few women in the cyber security sector. The UK government want to fix that. http://ow.ly/CXVt30p3697  #cybersecurity @WomenInCyberpic.twitter.com/SIwMu2N5GT
