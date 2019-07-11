@@ -1,3 +1,8 @@
+# @welivesecurity
+## 2019-07-11 09:45:06
+## #Breaking: In this @ESET research, @jiboutin reveals which threat actor has used the #Windows #ZeroDay #exploit we wrote about yesterday. 
+## #Buhtrap #APT #espionage #cybercrimehttps://www.welivesecurity.com/2019/07/11/buhtrap-zero-day-espionage-campaigns/ …
+## https://twitter.com/welivesecurity/status/1149253272626184193<br><br><br><br><br>
 # @Timele9527
 ## 2019-07-11 03:34:54
 ## #Bitterhttps://twitter.com/RedDrip7/status/1146300270407749632 …
