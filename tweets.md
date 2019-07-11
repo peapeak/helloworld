@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-11 09:30:05
+## Recent Windows zero-day used by Buhtrap gang for cyber-espionage https://zd.net/2NMXWxH  by @campuscodi
+## https://twitter.com/ZDNet/status/1149249493214224384<br><br><br><br><br>
 # @welivesecurity
 ## 2019-07-11 09:45:06
 ## #Breaking: In this @ESET research, @jiboutin reveals which threat actor has used the #Windows #ZeroDay #exploit we wrote about yesterday. 
