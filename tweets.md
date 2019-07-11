@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-11 01:30:59
+## Why Cyber Command’s latest warning is a win for the government's information sharing efforts https://hubs.ly/H0jK2l30  by @shanvavpic.twitter.com/XHaWVKa8Fg
+## https://twitter.com/CyberScoopNews/status/1149128923722199040<br><br><br><br><br>
 # @bsmuir
 ## 2019-07-10 23:43:44
 ## #Kaspersky @SecureList examine the capabilities of the latest #FinSpy #cyberespionage implants for #iOS & #Android. #infosec #Cybersecurity #DFIR #cybercrime #malware #malware #spyware #mobilehttps://lnkd.in/fUX3xfD 
