@@ -1,3 +1,18 @@
+# Should governments pay extortion payments after a ransomware attack?
+## Cisco
+## July 11, 2019 -         
+## When it comes to ransomware attacks this year, it’s been a tale of three cities.In May, the city of Baltimore suffered a  that took many of its systems down for weeks — restricting employees’ access to email, closing online payment portals and even preventing parking enforcement officials from writing parking tickets. After the attack, the city’s mayor said several times the city would  the extortion request, but it’s still expected to .But two cities — albeit smaller ones — in Florida chose to take a different route. Last month, the governments in  and  chose to pay off their attackers in exchange for the return of their data after ransomware attacks, though they still face some work in .The cities paid the hackers a combined $1 million in Bitcoin — and researchers say these kinds of attacks . So when the next city or state government gets hit, should they pay up, or start the long process of manually recovering their data? We asked experts from Cisco Talos and Cisco Security to weigh in. Check out their answers over on the Cisco blog .
+## https://blogs.cisco.com/security/talos/should-governments-pay-extortion-payments-after-a-ransomware-attack<br><br><br>
+# Waterbug: Espionage Group Rolls Out Brand-New Toolset in Attacks Against Governments
+## Symantec
+## 20 Jun, 2019
+## Waterbug: Espionage Group Rolls Out Brand-New Toolset in Attacks Against Governments
+## https://www.symantec.com/blogs/threat-intelligence/waterbug-espionage-governments<br><br><br>
+# Buhtrap group uses zero‑day in latest espionage campaigns
+## ESET
+## 2019-07-11 11:30:59
+## ESET research reveals notorious crime group also conducting espionage campaigns for the past five years
+## https://www.welivesecurity.com/2019/07/11/buhtrap-zero-day-espionage-campaigns/<br><br><br>
 # Sea Turtle Keeps on Swimming
 ## Cisco
 ## July 9, 2019 -         
