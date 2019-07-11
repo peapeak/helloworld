@@ -1,3 +1,7 @@
+# @TrendMicroRSRCH
+## 2019-07-11 01:00:00
+## The #Anubis #Android malware has changed a lot since it first emerged, and has been used as a ransomware, banking trojan, and cyberespionage tool. How this threat has evolved so far:http://bit.ly/32eUFdx 
+## https://twitter.com/TrendMicroRSRCH/status/1149121124338405377<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-11 01:30:59
 ## Why Cyber Command’s latest warning is a win for the government's information sharing efforts https://hubs.ly/H0jK2l30  by @shanvavpic.twitter.com/XHaWVKa8Fg
