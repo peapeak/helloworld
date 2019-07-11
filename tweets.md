@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-07-11 15:55:08
+## Chinese Hackers Demonstrate Their Global Cyber Espionage Reach with Breach at 10 of the World’s Biggest Telecoms | CPOhttp://ow.ly/LsHb30p5Kk5 
+## https://twitter.com/CyberSecInt/status/1149346391262715905<br><br><br><br><br>
 # @0x2AE
 ## 2019-07-11 14:00:07
 ## #lazarus #NukeSped #KEYMARBLE
