@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-07-11 17:00:34
+## #Webinar: Prevent #CyberAttacks at #Government Agencies. Join our upcoming webinar on July 18th at 9:30 AM PDT/12:30 PM EDT to see how #BlackBerryCylance can shift your government agency’s security posture to prevention instead of response. Register here: https://bit.ly/2xoEQmf pic.twitter.com/CqmJkHiM0X
+## https://twitter.com/cylanceinc/status/1149362860918808576<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-11 16:05:59
 ## Why Cyber Command’s latest warning is a win for the government's information sharing efforts https://hubs.ly/H0jKZD60  by @shanvavpic.twitter.com/w0JzJK7itF
