@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-11 23:00:54
+## US mayors group adopts resolution not to pay any more ransoms to hackershttp://www.zdnet.com/article/us-mayors-group-adopts-resolution-not-to-pay-any-more-ransoms-to-hackers/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d27bf8b8e73cc0001646d26&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1149453539455971328<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-11 23:14:00
 ## Why Cyber Command’s latest warning is a win for the government's information sharing efforts https://hubs.ly/H0jLjWP0  by @shanvavpic.twitter.com/lPHm2CpaKB
