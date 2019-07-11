@@ -1,3 +1,7 @@
+# @BleepinComputer
+## 2019-07-11 12:04:58
+## Windows Zero-Day Used by Buhtrap Group For Cyber-Espionage - by @sergheihttps://www.bleepingcomputer.com/news/security/windows-zero-day-used-by-buhtrap-group-for-cyber-espionage/ …
+## https://twitter.com/BleepinComputer/status/1149288467500871681<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-07-11 12:30:22
 ## ~ China’s Dirty Secret - Intellectual Property Theft: Hackers have stolen masses of corporate and government secrets, with the aim to improve Chinese business and economic competitiveness. http://ow.ly/fF6C30p5K7C  #cybersecuritypic.twitter.com/BUqvjCU71k
