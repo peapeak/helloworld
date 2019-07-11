@@ -1,3 +1,7 @@
+# @0xffff0800
+## 2019-07-11 15:06:37
+## https://www.welivesecurity.com/2019/07/11/buhtrap-zero-day-espionage-campaigns/ …pic.twitter.com/zAQJA2xIeZ
+## https://twitter.com/0xffff0800/status/1149334181706686464<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-07-11 15:55:08
 ## Chinese Hackers Demonstrate Their Global Cyber Espionage Reach with Breach at 10 of the World’s Biggest Telecoms | CPOhttp://ow.ly/LsHb30p5Kk5 
