@@ -1,3 +1,7 @@
+# @0x2AE
+## 2019-07-11 14:02:03
+## advanced persistent threat
+## https://twitter.com/0x2AE/status/1149317933782355968<br><br><br><br><br>
 # @BleepinComputer
 ## 2019-07-11 12:04:58
 ## Windows Zero-Day Used by Buhtrap Group For Cyber-Espionage - by @sergheihttps://www.bleepingcomputer.com/news/security/windows-zero-day-used-by-buhtrap-group-for-cyber-espionage/ …
