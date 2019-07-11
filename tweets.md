@@ -1,4 +1,11 @@
 # @0x2AE
+## 2019-07-11 14:00:07
+## #lazarus #NukeSped #KEYMARBLE
+## Russian submit
+## 4d6013932982a453cd0ea3e6ffc90703
+## C2：194.45.8.41:443https://research.checkpoint.com/north-korea-turns-against-russian-targets/ …
+## https://twitter.com/0x2AE/status/1149317446131539969<br><br><br><br><br>
+# @0x2AE
 ## 2019-07-11 14:02:03
 ## advanced persistent threat
 ## https://twitter.com/0x2AE/status/1149317933782355968<br><br><br><br><br>
