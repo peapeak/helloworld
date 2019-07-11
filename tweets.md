@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-11 16:05:59
+## Why Cyber Command’s latest warning is a win for the government's information sharing efforts https://hubs.ly/H0jKZD60  by @shanvavpic.twitter.com/w0JzJK7itF
+## https://twitter.com/CyberScoopNews/status/1149349125026123779<br><br><br><br><br>
 # @0xffff0800
 ## 2019-07-11 15:06:37
 ## https://www.welivesecurity.com/2019/07/11/buhtrap-zero-day-espionage-campaigns/ …pic.twitter.com/zAQJA2xIeZ
