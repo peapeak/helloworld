@@ -1,3 +1,13 @@
+# @kaspersky
+## 2019-07-12 21:50:05
+## #BlackOasis
+##  Status: Active 
+##  Discovery: 2016
+##  Purpose: Cyberespionage
+##  Propagation method: Exploits, social engineering
+## 
+## More #APT stats here: https://kas.pr/y6oi pic.twitter.com/fh7BzZMOdW
+## https://twitter.com/kaspersky/status/1149798107984683008<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-12 22:36:56
 ## Alleged Iranian hacker who aided cyber espionage attacks on the US unmasked | Fox News http://ow.ly/QA0C30p7heX  @holliesmckay #iran #irgc #mois #sepah #pasdaran #basij #apt34 #muddywater #oilrig
