@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-12 18:56:40
+## CVE-2019-1132 #Windows #ZeroDay exploited by #Buhtrap Group in government attack_
+## https://securityaffairs.co/wordpress/88282/cyber-crime/buhtrap-exploits-cve-2019-1132.html …
+## #securityaffairs #hacking #APT
+## https://twitter.com/securityaffairs/status/1149754462837379072<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-07-12 16:51:51
 ## #APT #Turla
