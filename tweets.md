@@ -1,3 +1,7 @@
+# @welivesecurity
+## 2019-07-12 11:15:59
+## Public concern about falling victim to #cybercrime is increasing, and @zcobb examines what this says about government and corporate efforts at cybercrime deterrence #infosec #cybersecurityhttps://www.welivesecurity.com/2019/07/12/cybercrime-seen-getting-worse-time-act/ …
+## https://twitter.com/welivesecurity/status/1149638529749680128<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-12 06:34:18
 ## @MalwarePatrol @Malwageddon @ESETUK @ESET @esetitalia @ESET_ES CVE-2019-1132 #Windows #ZeroDay exploited by #Buhtrap Group in government attack
