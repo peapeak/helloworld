@@ -1,3 +1,8 @@
+# @DrunkBinary
+## 2019-07-12 16:39:11
+## Possible Turla Implant
+## 3c98235a50b76050b18d2908261fd7c2
+## https://twitter.com/DrunkBinary/status/1149719864317292544<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-12 16:00:40
 ## #ThreatSpotlight: #Ratsnif - New Network Vermin from OceanLotus. The #OceanLotus Group (aka #APT32, #CobaltKitty) is using a suite of remote access trojans dubbed 'Ratsnif' to leverage new network attack capabilities. Learn more. https://bit.ly/2LvDY7U pic.twitter.com/9o1m1Guzq7
