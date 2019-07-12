@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-07-12 19:00:23
+## #Webinar: Prevent #CyberAttacks at #Government Agencies. Join our upcoming webinar on July 18th at 9:30 AM PDT/12:30 PM EDT to see how #BlackBerryCylance can shift your government agency’s security posture to prevention instead of response. Register here: https://bit.ly/2xoEQmf pic.twitter.com/OvtB0VHcDr
+## https://twitter.com/cylanceinc/status/1149755399643586563<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-12 18:56:40
 ## CVE-2019-1132 #Windows #ZeroDay exploited by #Buhtrap Group in government attack_
