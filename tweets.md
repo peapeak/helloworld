@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-07-12 16:51:51
+## #APT #Turla
+## Thanks to @DrunkBinary
+## @Arkbird_SOLGhttps://twitter.com/DrunkBinary/status/1149719864317292544 …
+## https://twitter.com/Rmy_Reserve/status/1149723054756417538<br><br><br><br><br>
 # @DrunkBinary
 ## 2019-07-12 16:39:11
 ## Possible Turla Implant
