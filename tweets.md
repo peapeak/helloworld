@@ -1,4 +1,8 @@
 # @malware_traffic
+## 2019-07-12 15:46:57
+## Indeed. It just ran from the EXE.  I logged out, and it stopped. Usually #Dridex is made persistent as a DLL  loaded by a legit Windows system file, used in 2 or 3 places and made persistent by a registry update, scheduled task, and/or link in the Start Menu startup folder.
+## https://twitter.com/malware_traffic/status/1149706723206279168<br><br><br><br><br>
+# @malware_traffic
 ## 2019-07-12 15:48:51
 ## Not so with this one.  Just an EXE that generated #Dridex-style traffic and did not stay persistent after a logoff.
 ## https://twitter.com/malware_traffic/status/1149707199201075201<br><br><br><br><br>
