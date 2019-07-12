@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-12 16:37:59
+## Via @State_Scoop: BlueKeep poses "bleak" outlook for local government  https://hubs.ly/H0jL_6s0  by @brfreed
+## https://twitter.com/CyberScoopNews/status/1149719562788777984<br><br><br><br><br>
 # @cyberwar_15
 ## 2019-07-12 14:09:36
 ## #NorthKorea #DPRK #APT #Lazarushttps://blog.alyac.co.kr/2416 
