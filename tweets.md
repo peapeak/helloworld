@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-12 13:15:46
+## US mayors group adopts resolution not to pay any more ransoms to hackershttp://www.zdnet.com/article/us-mayors-group-adopts-resolution-not-to-pay-any-more-ransoms-to-hackers/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d2887f50ca7240001cb2b58&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1149668675613388800<br><br><br><br><br>
 # @welivesecurity
 ## 2019-07-12 11:15:59
 ## Public concern about falling victim to #cybercrime is increasing, and @zcobb examines what this says about government and corporate efforts at cybercrime deterrence #infosec #cybersecurityhttps://www.welivesecurity.com/2019/07/12/cybercrime-seen-getting-worse-time-act/ …
