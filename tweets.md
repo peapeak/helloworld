@@ -1,3 +1,7 @@
+# @cyberwar_15
+## 2019-07-12 14:09:36
+## #NorthKorea #DPRK #APT #Lazarushttps://blog.alyac.co.kr/2416 
+## https://twitter.com/cyberwar_15/status/1149682220665204736<br><br><br><br><br>
 # @malware_traffic
 ## 2019-07-12 15:46:57
 ## Indeed. It just ran from the EXE.  I logged out, and it stopped. Usually #Dridex is made persistent as a DLL  loaded by a legit Windows system file, used in 2 or 3 places and made persistent by a registry update, scheduled task, and/or link in the Start Menu startup folder.
