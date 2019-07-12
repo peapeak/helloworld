@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-07-12 20:24:16
+## That is definitely an issue and there is no oversight of her personal emails so how are we to know otherwise? Public officials should be required to use government email accounts/infrastructure for official business, but I think we all know that doesn't happen 100% of the time.
+## https://twitter.com/z3roTrust/status/1149776511806799872<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-12 19:52:04
 ## Alleged Iranian hacker who aided cyber espionage attacks on the US unmasked | Fox News @holliesmckayhttp://ow.ly/JuNb30p7faC 
