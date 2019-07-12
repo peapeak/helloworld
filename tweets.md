@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-12 13:15:46
+## CVE-2019-1132 #Windows #ZeroDay exploited by #Buhtrap Group in government attack
+## https://securityaffairs.co/wordpress/88282/cyber-crime/buhtrap-exploits-cve-2019-1132.html …
+## #securityaffairs #hacking #APT
+## https://twitter.com/securityaffairs/status/1149668675877822464<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-12 13:15:46
 ## US mayors group adopts resolution not to pay any more ransoms to hackershttp://www.zdnet.com/article/us-mayors-group-adopts-resolution-not-to-pay-any-more-ransoms-to-hackers/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d2887f50ca7240001cb2b58&utm_medium=trueAnthem&utm_source=twitter …
