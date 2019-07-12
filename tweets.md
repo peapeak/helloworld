@@ -1,3 +1,7 @@
+# @malware_traffic
+## 2019-07-12 15:48:51
+## Not so with this one.  Just an EXE that generated #Dridex-style traffic and did not stay persistent after a logoff.
+## https://twitter.com/malware_traffic/status/1149707199201075201<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-12 13:15:46
 ## CVE-2019-1132 #Windows #ZeroDay exploited by #Buhtrap Group in government attack
