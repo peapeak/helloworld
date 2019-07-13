@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-13 21:14:05
+## CVE-2019-1132 #Windows #ZeroDay exploited by #Buhtrap Group in government attack
+## https://securityaffairs.co/wordpress/88282/cyber-crime/buhtrap-exploits-cve-2019-1132.html …
+## #securityaffairs #hacking #APT
+## https://twitter.com/securityaffairs/status/1150151433150443522<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-13 21:09:59
 ## Cybersecurity has done more to drive government cloud use than any other feature, intel official sayshttps://hubs.ly/H0jMv_S0 
