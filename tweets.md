@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-13 21:09:59
+## Cybersecurity has done more to drive government cloud use than any other feature, intel official sayshttps://hubs.ly/H0jMv_S0 
+## https://twitter.com/CyberScoopNews/status/1150150403939590145<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-13 15:38:03
 ## Air Force AC-130J Ghostrider Gunship Flies First Combat Mission In Afghanistan - Task & Purpose https://taskandpurpose.com/air-force-ac-130j-ghostrider-combat-mission-afghanistan … #SmartNews
