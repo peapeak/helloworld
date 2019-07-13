@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-07-13 12:00:54
+## ~ China’s Dirty Secret - Intellectual Property Theft: Hackers have stolen masses of corporate and government secrets, with the aim to improve Chinese business and economic competitiveness. http://ow.ly/OX7h30p6DCt  #cybersecuritypic.twitter.com/kQ4UOeSpsr
+## https://twitter.com/CyberSecInt/status/1150012221679759362<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-13 08:29:18
 ## CVE-2019-1132 #Windows #ZeroDay exploited by #Buhtrap Group in government attack
