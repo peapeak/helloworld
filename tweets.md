@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-13 14:04:59
+## Why Cyber Command’s latest warning is a win for the government's information sharing effortshttps://hubs.ly/H0jMwRW0 
+## https://twitter.com/CyberScoopNews/status/1150043447862149120<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-13 11:45:04
 ## #Tekide Unveiled - #BASIJ #APT34 ( #Muddywater - #OilRig ) - The Cyber Shafarat - Treadstone 71 http://ow.ly/EMXg30p7ohw  #Vet
