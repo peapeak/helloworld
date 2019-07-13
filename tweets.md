@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-13 00:30:00
+## Why Cyber Command’s latest warning is a win for the government's information sharing efforts https://hubs.ly/H0jM9750  by @shanvavpic.twitter.com/kp2JamauHU
+## https://twitter.com/CyberScoopNews/status/1149838350582521861<br><br><br><br><br>
 # @MalwarePatrol
 ## 2019-07-13 00:10:03
 ## Should governments pay extortion payments after a #ransomware attack? https://blog.talosintelligence.com/2019/07/ransomware-extortion-roundtable-government-payments.html … via: @TalosSecuritypic.twitter.com/dTawFtMbJl
