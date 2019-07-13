@@ -1,3 +1,7 @@
+# @Treadstone71LLC
+## 2019-07-13 15:38:03
+## Air Force AC-130J Ghostrider Gunship Flies First Combat Mission In Afghanistan - Task & Purpose https://taskandpurpose.com/air-force-ac-130j-ghostrider-combat-mission-afghanistan … #SmartNews
+## https://twitter.com/Treadstone71LLC/status/1150066868482379777<br><br><br><br><br>
 # @0x2AE
 ## 2019-07-13 15:27:08
 ## CVE-2019-1132 : A Windows Zero-Day exploited by Buhtrap Group in espionage campaignshttps://www.andreafortuna.org/2019/07/12/cve-2019-1132-a-windows-zero-day-exploited-by-buhtrap-group-in-espionage-campaigns/ …
