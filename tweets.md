@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-13 08:29:18
+## CVE-2019-1132 #Windows #ZeroDay exploited by #Buhtrap Group in government attack
+## https://securityaffairs.co/wordpress/88282/cyber-crime/buhtrap-exploits-cve-2019-1132.html …
+## #securityaffairs #hacking #APT
+## https://twitter.com/securityaffairs/status/1149958969949085696<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-13 04:10:02
 ## Tekide Unveiled - APT34 (Muddywater - OilRig) - The Cyber Shafarat - Treadstone 71http://ow.ly/f7Zo30p7iad 
