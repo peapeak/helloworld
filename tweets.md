@@ -1,3 +1,7 @@
+# @0x2AE
+## 2019-07-13 15:27:08
+## CVE-2019-1132 : A Windows Zero-Day exploited by Buhtrap Group in espionage campaignshttps://www.andreafortuna.org/2019/07/12/cve-2019-1132-a-windows-zero-day-exploited-by-buhtrap-group-in-espionage-campaigns/ …
+## https://twitter.com/0x2AE/status/1150064123473870848<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-13 14:50:53
 ## CVE-2019-1132 #Windows #ZeroDay exploited by #Buhtrap Group in government attack-
