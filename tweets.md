@@ -1,3 +1,7 @@
+# @MalwarePatrol
+## 2019-07-13 00:10:03
+## Should governments pay extortion payments after a #ransomware attack? https://blog.talosintelligence.com/2019/07/ransomware-extortion-roundtable-government-payments.html … via: @TalosSecuritypic.twitter.com/dTawFtMbJl
+## https://twitter.com/MalwarePatrol/status/1149833330524925953<br><br><br><br><br>
 # @kaspersky
 ## 2019-07-12 21:50:05
 ## #BlackOasis
