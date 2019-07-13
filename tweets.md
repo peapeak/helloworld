@@ -1,3 +1,7 @@
+# @Treadstone71LLC
+## 2019-07-13 04:10:02
+## Tekide Unveiled - APT34 (Muddywater - OilRig) - The Cyber Shafarat - Treadstone 71http://ow.ly/f7Zo30p7iad 
+## https://twitter.com/Treadstone71LLC/status/1149893725906247680<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-13 00:30:00
 ## Why Cyber Command’s latest warning is a win for the government's information sharing efforts https://hubs.ly/H0jM9750  by @shanvavpic.twitter.com/kp2JamauHU
