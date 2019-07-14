@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-07-14 19:00:08
+## #Vietnamese hacking group has a ‘Swiss Army knife’ of tools at its disposal.. "There is “sloppy code & programmatical errors and debug messages not typically present in #OceanLotus malware." @thomas_bonner. More on @CyberScoopNews: https://bit.ly/2xpYzCg  #APT32 #Ratsnifpic.twitter.com/IKsPGQkyIX
+## https://twitter.com/cylanceinc/status/1150480115157143552<br><br><br><br><br>
 # @TalosSecurity
 ## 2019-07-14 18:00:02
 ## Should governments be paying extortion payments after ransomware attacks? Does it only encourage attackers to try again? What makes the most fiscal sense? Experts from Talos and Cisco IR debate here http://cs.co/6018Evdgm pic.twitter.com/FnbYVhGEos
