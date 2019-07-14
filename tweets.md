@@ -1,3 +1,7 @@
+# @TalosSecurity
+## 2019-07-14 18:00:02
+## Should governments be paying extortion payments after ransomware attacks? Does it only encourage attackers to try again? What makes the most fiscal sense? Experts from Talos and Cisco IR debate here http://cs.co/6018Evdgm pic.twitter.com/FnbYVhGEos
+## https://twitter.com/TalosSecurity/status/1150464986990501889<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-14 18:46:13
 ## US mayors group adopts resolution not to pay any more ransoms to hackershttp://www.zdnet.com/article/us-mayors-group-adopts-resolution-not-to-pay-any-more-ransoms-to-hackers/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d2b785b0ca7240001cb5a3c&utm_medium=trueAnthem&utm_source=twitter …
