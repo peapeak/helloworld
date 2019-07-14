@@ -1,3 +1,10 @@
+# @Treadstone71LLC
+## 2019-07-14 12:04:17
+## As we promised for our fight against the Iranian Ministry of Intelligence, we are exposing information about another shameful employee (number 16) of this ministry. We have a lot more to expose. 
+## Hossein Khan Beigi حسین خان بیگی
+## MOIS/APT34/Oilrig Hacker
+## +989126143413pic.twitter.com/unjSKIGTRR
+## https://twitter.com/Treadstone71LLC/status/1150375461094080512<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-13 21:14:05
 ## CVE-2019-1132 #Windows #ZeroDay exploited by #Buhtrap Group in government attack
