@@ -1,3 +1,7 @@
+# @threatpost
+## 2019-07-14 13:00:01
+## Several dozen unique #mobile devices have been infected over the past year by the FinSpy espionage #malware.https://threatpost.com/finspy-modules-secure-messaging-apps/146372/ …
+## https://twitter.com/threatpost/status/1150389484879351812<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-14 14:10:00
 ## How the government and private sector can better defend against a cascading cyberattackhttps://hubs.ly/H0jMwS50 
