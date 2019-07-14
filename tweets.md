@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-14 23:01:14
+## US mayors group adopts resolution not to pay any more ransoms to hackershttp://www.zdnet.com/article/us-mayors-group-adopts-resolution-not-to-pay-any-more-ransoms-to-hackers/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d2bb4208e73cc000164ac00&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1150540789275119617<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-14 21:00:10
 ## #Webinar: Prevent #CyberAttacks at #Government Agencies. Join our upcoming webinar on July 18th at 9:30 AM PDT/12:30 PM EDT to see how #BlackBerryCylance can shift your government agency’s security posture to prevention instead of response. Register here: https://bit.ly/2xoEQmf pic.twitter.com/wu0g0DQShQ
