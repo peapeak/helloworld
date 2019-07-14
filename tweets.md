@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-14 19:09:10
+## CVE-2019-1132 #Windows #ZeroDay exploited by #Buhtrap Group in government attack
+## https://securityaffairs.co/wordpress/88282/cyber-crime/buhtrap-exploits-cve-2019-1132.html …
+## #securityaffairs #hacking #APT
+## https://twitter.com/securityaffairs/status/1150482386230173696<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-14 19:00:08
 ## #Vietnamese hacking group has a ‘Swiss Army knife’ of tools at its disposal.. "There is “sloppy code & programmatical errors and debug messages not typically present in #OceanLotus malware." @thomas_bonner. More on @CyberScoopNews: https://bit.ly/2xpYzCg  #APT32 #Ratsnifpic.twitter.com/IKsPGQkyIX
