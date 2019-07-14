@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-14 14:10:00
+## How the government and private sector can better defend against a cascading cyberattackhttps://hubs.ly/H0jMwS50 
+## https://twitter.com/CyberScoopNews/status/1150407097017913348<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-14 09:00:06
 ## #OceanLotus APT Uses New #Ratsnif Trojan for Network Attacks via @BleepinComputer @Ionut_Ilascu #APT32 #CobaltKitty #BlackBerryCylance #BBCy https://bit.ly/2LuQPa5 pic.twitter.com/CIj6kNIx5x
