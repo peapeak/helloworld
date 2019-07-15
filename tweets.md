@@ -1,3 +1,10 @@
+# @cyberwar_15
+## 2019-07-15 09:49:45
+## #NorthKorea #Lazarus #ELF
+## 
+## 5621c89102d84f4a335218cb84a94852
+## 3fb44f4698168b53642c8a4a8ba32ee8
+## https://twitter.com/cyberwar_15/status/1150703990889316354<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-15 09:31:15
 ## Recent Windows zero-day used by Buhtrap gang for cyber-espionagehttp://www.zdnet.com/article/recent-windows-zero-day-used-by-buhtrap-gang-for-cyber-espionage/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d2c47c50ca7240001cb6724&utm_medium=trueAnthem&utm_source=twitter …
