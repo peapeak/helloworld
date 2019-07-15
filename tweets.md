@@ -1,3 +1,11 @@
+# @kaspersky
+## 2019-07-15 13:00:28
+## #Turla, a complex cyberattack platform focused almost entirely on diplomatic & governmental targets in the Middle East is evolving.
+## 
+## Recently it was spotted spreading through poisoned anti-internet censorship software.
+## 
+## Learn more: https://kas.pr/3tfc pic.twitter.com/hsVVWu4s4a
+## https://twitter.com/kaspersky/status/1150751988843503616<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-15 12:45:52
 ## 5G and Huawei: Mobile networks race ahead as government delayshttp://www.zdnet.com/article/5g-and-huawei-mobile-networks-race-ahead-as-government-delays/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d2c75670ca7240001cb69fa&utm_medium=trueAnthem&utm_source=twitter …
