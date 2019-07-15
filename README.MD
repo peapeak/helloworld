@@ -1,3 +1,18 @@
+# Turla renews its arsenal with Topinambour
+## Kaspersky
+## 2019-07-15T10:00:01+00:00
+## 2019 has seen the Turla actor actively renew its arsenal. Its developers are still using a familiar coding style, but they’re creating new tools. Here we’ll tell you about several of them, namely “Topinambour” and its related modules.
+## https://securelist.com/turla-renews-its-arsenal-with-topinambour/91687/<br><br><br>
+# Waterbug: Espionage Group Rolls Out Brand-New Toolset in Attacks Against Governments
+## Symantec
+## 20 Jun, 2019
+## Waterbug: Espionage Group Rolls Out Brand-New Toolset in Attacks Against Governments
+## https://www.symantec.com/blogs/threat-intelligence/waterbug-espionage-governments<br><br><br>
+# 巴基斯坦政府遭到疑似Confucius组织的攻击
+## 微步在线
+## 2019-07-15 20:09:29
+## 
+## https://x.threatbook.cn/nodev4/vb4/article?threatInfoID=1714<br><br><br>
 # Should governments pay extortion payments after a ransomware attack?
 ## Cisco
 ## July 11, 2019 -         
