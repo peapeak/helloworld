@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-15 07:46:03
+## 5G and Huawei: Mobile networks race ahead as government delayshttp://www.zdnet.com/article/5g-and-huawei-mobile-networks-race-ahead-as-government-delays/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d2c2f248e73cc000164b3fe&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1150672862338002944<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-07-15 07:30:11
 ## ~ Britain Wants More Women In Cyber Security: Lots of schoolgirls are creating digital waves there are still too few women in the cyber security sector. The UK government want to fix that. http://ow.ly/CXVt30p3697  #cybersecurity @WomenInCyberpic.twitter.com/dBNLxMAshL
