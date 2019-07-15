@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-15 09:31:15
+## Recent Windows zero-day used by Buhtrap gang for cyber-espionagehttp://www.zdnet.com/article/recent-windows-zero-day-used-by-buhtrap-gang-for-cyber-espionage/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d2c47c50ca7240001cb6724&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1150699337258852352<br><br><br><br><br>
 # @cyberwar_15
 ## 2019-07-15 08:15:02
 ## #NorthKorea #APT #Lazarus
