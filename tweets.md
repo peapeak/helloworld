@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-07-15 14:34:01
+## good report of #Turla #APT
+## Thanks to @Securelist
+## @Arkbird_SOLGhttps://twitter.com/Securelist/status/1150720429587337216 …
+## https://twitter.com/Rmy_Reserve/status/1150775530548948993<br><br><br><br><br>
 # @DrunkBinary
 ## 2019-07-15 13:52:05
 ## A GReAT report on Turlahttps://securelist.com/turla-renews-its-arsenal-with-topinambour/91687/ …
