@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-07-15 04:00:04
+## #ThreatSpotlight: #Ratsnif - New Network Vermin from OceanLotus. The #OceanLotus Group (aka #APT32, #CobaltKitty) is using a suite of remote access trojans dubbed 'Ratsnif' to leverage new network attack capabilities. Learn more. https://bit.ly/2LvDY7U pic.twitter.com/x0hAVrTd7C
+## https://twitter.com/cylanceinc/status/1150615992491544577<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-14 23:01:14
 ## US mayors group adopts resolution not to pay any more ransoms to hackershttp://www.zdnet.com/article/us-mayors-group-adopts-resolution-not-to-pay-any-more-ransoms-to-hackers/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d2bb4208e73cc000164ac00&utm_medium=trueAnthem&utm_source=twitter …
