@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-07-15 11:01:04
+## #APT #LAZARUS
+## Thanks to @cyberwar_15
+## @Arkbird_SOLGhttps://twitter.com/cyberwar_15/status/1150703990889316354 …
+## https://twitter.com/Rmy_Reserve/status/1150721938035077120<br><br><br><br><br>
 # @TrendMicroRSRCH
 ## 2019-07-15 11:00:01
 ## #BEC operators managed to defraud a Georgia city’s government of over US$800,000 by posing as a vendor that it has worked with for years. Report:http://bit.ly/2NMjN87 
