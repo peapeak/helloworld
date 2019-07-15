@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-15 15:46:02
+## Ban Huawei from core of 5G networks, government told http://www.zdnet.com/article/ban-huawei-from-core-of-5g-networks-government-told/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d2c9f9f8e73cc000164bb45&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1150793655986348032<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-07-15 14:34:01
 ## good report of #Turla #APT
