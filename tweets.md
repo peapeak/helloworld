@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-15 04:45:52
+## Recent Windows zero-day used by Buhtrap gang for cyber-espionagehttp://www.zdnet.com/article/recent-windows-zero-day-used-by-buhtrap-gang-for-cyber-espionage/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d2c04e58e73cc000164b14a&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1150627518120173569<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-15 04:00:04
 ## #ThreatSpotlight: #Ratsnif - New Network Vermin from OceanLotus. The #OceanLotus Group (aka #APT32, #CobaltKitty) is using a suite of remote access trojans dubbed 'Ratsnif' to leverage new network attack capabilities. Learn more. https://bit.ly/2LvDY7U pic.twitter.com/x0hAVrTd7C
