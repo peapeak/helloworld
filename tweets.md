@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-07-15 07:30:11
+## ~ Britain Wants More Women In Cyber Security: Lots of schoolgirls are creating digital waves there are still too few women in the cyber security sector. The UK government want to fix that. http://ow.ly/CXVt30p3697  #cybersecurity @WomenInCyberpic.twitter.com/dBNLxMAshL
+## https://twitter.com/CyberSecInt/status/1150668868421070848<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-15 04:45:52
 ## Recent Windows zero-day used by Buhtrap gang for cyber-espionagehttp://www.zdnet.com/article/recent-windows-zero-day-used-by-buhtrap-gang-for-cyber-espionage/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d2c04e58e73cc000164b14a&utm_medium=trueAnthem&utm_source=twitter …
