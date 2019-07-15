@@ -1,3 +1,9 @@
+# @kaspersky
+## 2019-07-15 20:00:05
+## #Turla's latest tool-- #Topinambour.
+## 
+## Full report on how Topinambour spreads, what it wants from targets, interesting features, and cheekily-named #Trojans below.https://securelist.com/turla-renews-its-arsenal-with-topinambour/91687/?utm_source=twitter&utm_medium=social&utm_campaign=gl_securelist_Zt0106_organic&utm_content=sm-post&utm_term=gl_twitter_organic_Zt0106_sm-post_social_securelist …
+## https://twitter.com/kaspersky/status/1150857588466245632<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-15 20:02:06
 ## Russia’s Turla group goes trolling with code labeled “TrumpTower” https://hubs.ly/H0jNWDh0  by @snlyngaaspic.twitter.com/0KlKw3aMjR
