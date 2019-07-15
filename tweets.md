@@ -1,3 +1,7 @@
+# @DrunkBinary
+## 2019-07-15 13:52:05
+## A GReAT report on Turlahttps://securelist.com/turla-renews-its-arsenal-with-topinambour/91687/ …
+## https://twitter.com/DrunkBinary/status/1150764977202094081<br><br><br><br><br>
 # @kaspersky
 ## 2019-07-15 13:00:28
 ## #Turla, a complex cyberattack platform focused almost entirely on diplomatic & governmental targets in the Middle East is evolving.
