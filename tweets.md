@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-15 20:02:06
+## Russia’s Turla group goes trolling with code labeled “TrumpTower” https://hubs.ly/H0jNWDh0  by @snlyngaaspic.twitter.com/0KlKw3aMjR
+## https://twitter.com/CyberScoopNews/status/1150858096966819841<br><br><br><br><br>
 # @0x2AE
 ## 2019-07-15 17:10:30
 ## https://github.com/kevthehermit/PasteHunter …
