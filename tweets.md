@@ -1,3 +1,11 @@
+# @Securelist
+## 2019-07-15 10:55:04
+## #Turla, a complex cyberattack platform focused almost entirely on diplomatic & governmental targets in the Middle East is evolving.
+## 
+## Recently it was spotted spreading through poisoned anti-internet censorship software.
+## 
+## Learn more: https://kas.pr/3tfc pic.twitter.com/xx9hJCwH3H
+## https://twitter.com/Securelist/status/1150720429587337216<br><br><br><br><br>
 # @cyberwar_15
 ## 2019-07-15 09:49:45
 ## #NorthKorea #Lazarus #ELF
