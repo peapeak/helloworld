@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-16 10:18:25
+## CVE-2019-1132 #Windows #ZeroDay exploited by #Buhtrap Group in government attack
+## https://securityaffairs.co/wordpress/88282/cyber-crime/buhtrap-exploits-cve-2019-1132.html …
+## #securityaffairs #hacking #APT
+## https://twitter.com/securityaffairs/status/1151073593931026433<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-07-16 10:00:45
 ## ~ Britain Wants More Women In Cyber Security: Lots of schoolgirls are creating digital waves there are still too few women in the cyber security sector. The UK government want to fix that. http://ow.ly/CXVt30p3697  #cybersecurity @WomenInCyberpic.twitter.com/dBNLxMAshL
