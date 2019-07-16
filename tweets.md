@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-16 12:38:59
+## Russia’s Turla group goes trolling with code labeled “TrumpTower” https://hubs.ly/H0jPl2M0  by @snlyngaas
+## https://twitter.com/CyberScoopNews/status/1151108970951729154<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-16 10:18:25
 ## CVE-2019-1132 #Windows #ZeroDay exploited by #Buhtrap Group in government attack
