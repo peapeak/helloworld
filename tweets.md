@@ -1,3 +1,9 @@
+# @kaspersky
+## 2019-07-16 18:23:07
+## New #malware, new angle, same #Turla. 
+## 
+## #infosec #researchhttps://threatpost.com/turla-apt-malware-anti-censorship/146472/?utm_source=twitter&utm_medium=social&utm_campaign=us_threatpost_Zt0106_organic&utm_content=sm-post&utm_term=us_twitter_organic_Zt0106_sm-post_social_threatpost …
+## https://twitter.com/kaspersky/status/1151195573581688833<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-16 16:00:40
 ## #Webinar: Prevent #CyberAttacks at #Government Agencies. Join our upcoming webinar on July 18th at 9:30 AM PDT/12:30 PM EDT to see how #BlackBerryCylance can shift your government agency’s security posture to prevention instead of response. Register here: https://bit.ly/2xoEQmf pic.twitter.com/5MVzZ7Rguy
