@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-16 09:15:47
+## Ban Huawei from core of 5G networks, government toldhttp://www.zdnet.com/article/ban-huawei-from-core-of-5g-networks-government-told/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d2d95ab0ca7240001cb7b78&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1151057833267474434<br><br><br><br><br>
 # @bsmuir
 ## 2019-07-16 09:38:50
 ## Analysis of latest #Turla #APT #malware component, dubbed #Topinambour by @SecureList. #infosec #Cybersecurity #DFIR #cybercrime #CISO #forensics #cyberespionagehttps://lnkd.in/fXD8CYU 
