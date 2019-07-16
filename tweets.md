@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-07-16 10:00:45
+## ~ Britain Wants More Women In Cyber Security: Lots of schoolgirls are creating digital waves there are still too few women in the cyber security sector. The UK government want to fix that. http://ow.ly/CXVt30p3697  #cybersecurity @WomenInCyberpic.twitter.com/dBNLxMAshL
+## https://twitter.com/CyberSecInt/status/1151069150007062528<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-16 09:15:47
 ## Ban Huawei from core of 5G networks, government toldhttp://www.zdnet.com/article/ban-huawei-from-core-of-5g-networks-government-told/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d2d95ab0ca7240001cb7b78&utm_medium=trueAnthem&utm_source=twitter …
