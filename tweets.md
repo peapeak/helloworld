@@ -1,3 +1,8 @@
+# @Rmy_Reserve
+## 2019-07-16 12:15:25
+## seems like #FIN7 #APT Group
+## Implant jscript
+## https://twitter.com/Rmy_Reserve/status/1151103037315792897<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-16 12:38:59
 ## Russia’s Turla group goes trolling with code labeled “TrumpTower” https://hubs.ly/H0jPl2M0  by @snlyngaas
