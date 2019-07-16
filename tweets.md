@@ -1,3 +1,18 @@
+# @daphiel
+## 2019-07-16 06:56:07
+## #Turla spread new tools. 
+## C2 IP's are similiar to LAN classes:
+## 
+## 197.168.0.73
+## 197.168.0.98
+## 197.168.0.212
+## 197.168.0.243
+## 197.168.0.247
+## 197.168.0.250
+## 
+## Samples contains Easter Eggs inside their code, such: "TrumpTower", "RocketMan!" and "MiamiBeach" 
+## #KopiLuwak #Topinambour #APT
+## https://twitter.com/daphiel/status/1151022685415194624<br><br><br><br><br>
 # @TrendMicroRSRCH
 ## 2019-07-16 07:00:00
 ## #BEC scammers used legitimate-looking invoices to steal over US$800,000 from the city government of Griffin, Georgia. Learn ways to stay protected from BEC scams:http://bit.ly/2NMjN87 
