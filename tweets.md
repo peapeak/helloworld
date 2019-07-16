@@ -1,3 +1,7 @@
+# @bsmuir
+## 2019-07-16 09:38:50
+## Analysis of latest #Turla #APT #malware component, dubbed #Topinambour by @SecureList. #infosec #Cybersecurity #DFIR #cybercrime #CISO #forensics #cyberespionagehttps://lnkd.in/fXD8CYU 
+## https://twitter.com/bsmuir/status/1151063631959924736<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-07-16 07:34:57
 ## #Turla #APT
