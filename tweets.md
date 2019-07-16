@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-07-16 07:34:57
+## #Turla #APT
+## Thanks to @daphiel
+## @Arkbird_SOLGhttps://twitter.com/daphiel/status/1151022685415194624 …
+## https://twitter.com/Rmy_Reserve/status/1151032457208242176<br><br><br><br><br>
 # @cyb3rops
 ## 2019-07-16 08:01:52
 ## Lazarus APT Group reporthttps://blog.alyac.co.kr/2418 
