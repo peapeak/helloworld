@@ -1,3 +1,7 @@
+# @TrendMicroRSRCH
+## 2019-07-16 07:00:00
+## #BEC scammers used legitimate-looking invoices to steal over US$800,000 from the city government of Griffin, Georgia. Learn ways to stay protected from BEC scams:http://bit.ly/2NMjN87 
+## https://twitter.com/TrendMicroRSRCH/status/1151023660762828800<br><br><br><br><br>
 # @kaspersky
 ## 2019-07-15 20:00:05
 ## #Turla's latest tool-- #Topinambour.
