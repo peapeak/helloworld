@@ -1,3 +1,7 @@
+# @Treadstone71LLC
+## 2019-07-17 12:42:22
+## Cyber-attacks Around the world: From Business For millions to Political Shocks and Espionage - http://Novinite.com  - Sofia News Agencyhttps://www.novinite.com/articles/198602/Cyber-attacks+Around+the+world%3A+From+Business+For+millions+to+Political+Shocks+and+Espionage …
+## https://twitter.com/Treadstone71LLC/status/1151472208562348032<br><br><br><br><br>
 # @Mr_ohadm
 ## 2019-07-17 12:40:12
 ## @HuffPost reveals a deal between the regime and the BBC to not share its reporting from Iran on BBC Persian channels has angered staffers who see it as complicity with a government that endangers journalists.https://www.huffpost.com/entry/bbc-persian-iran-coverage-blackout_n_5d2d033be4b04927c1c89a1b?ncid=engmodushpmg00000004 …
