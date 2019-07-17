@@ -1,3 +1,7 @@
+# @securityaffairs
+## 2019-07-17 13:19:35
+## Turla APT group adds  Topinambour Trojan to its arsenalhttps://securityaffairs.co/wordpress/88520/apt/turla-apt-topinambour-trojan.html …
+## https://twitter.com/securityaffairs/status/1151481573721673729<br><br><br><br><br>
 # @kaspersky
 ## 2019-07-17 15:02:33
 ## Kaspersky researchers uncover new technique used by #Turla threat group, hiding its #malware behind anti-internet censorship #software. https://usa.kaspersky.com/about/press-releases/2019_turla-hides-malware-in-anti-internet-censorship-software?utm_source=newsletter&utm_medium=email&utm_campaign=us_DNF_Zt0106_organic&utm_content=sm-post&utm_term=us_newsletter_organic_Zt0106_sm-post_email_DNF …pic.twitter.com/GIzoQqSJJR
