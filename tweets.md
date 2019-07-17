@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-07-17 07:55:05
+## ~ Britain Wants More Women In Cyber Security: Lots of schoolgirls are creating digital waves there are still too few women in the cyber security sector. The UK government want to fix that. http://ow.ly/CXVt30p3697  #cybersecurity @WomenInCyberpic.twitter.com/SIwMu2N5GT
+## https://twitter.com/CyberSecInt/status/1151399909507117056<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-17 06:00:10
 ## #ThreatSpotlight: #Ratsnif - New Network Vermin from OceanLotus. The #OceanLotus Group (aka #APT32, #CobaltKitty) is using a suite of remote access trojans dubbed 'Ratsnif' to leverage new network attack capabilities. Learn more. https://bit.ly/2LvDY7U pic.twitter.com/snBoCL4Bhb
