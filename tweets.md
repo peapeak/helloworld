@@ -1,3 +1,7 @@
+# @Mr_ohadm
+## 2019-07-17 12:40:12
+## @HuffPost reveals a deal between the regime and the BBC to not share its reporting from Iran on BBC Persian channels has angered staffers who see it as complicity with a government that endangers journalists.https://www.huffpost.com/entry/bbc-persian-iran-coverage-blackout_n_5d2d033be4b04927c1c89a1b?ncid=engmodushpmg00000004 …
+## https://twitter.com/Mr_ohadm/status/1151471663923564549<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-17 07:30:45
 ## @MalwarePatrol @Malwageddon @KasperskyLabIT @kaspersky @Kaspersky_ru @KasperskyME @e_kaspersky @e_kaspersky @Kaspersky_DACH @MauraFrusone @zlab_team @_odisseus #Turla #APT group adds #Topinambour #Trojan to its arsenal
