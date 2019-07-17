@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-17 19:50:55
+## NEW: Bulgaria hacking suspect worked on government cybersecurity before tax agency breach https://hubs.ly/H0jRcdh0  by @jeffstone500
+## https://twitter.com/CyberScoopNews/status/1151580057237905408<br><br><br><br><br>
 # @threatpost
 ## 2019-07-17 18:13:26
 ## UPDATED news with more details on the StrongPity APT espionage campaign: https://bit.ly/2YYGiIm 
