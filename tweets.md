@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-17 07:30:45
+## @MalwarePatrol @Malwageddon @KasperskyLabIT @kaspersky @Kaspersky_ru @KasperskyME @e_kaspersky @e_kaspersky @Kaspersky_DACH @MauraFrusone @zlab_team @_odisseus #Turla #APT group adds #Topinambour #Trojan to its arsenal
+## https://securityaffairs.co/wordpress/88520/apt/turla-apt-topinambour-trojan.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1151393786188238848<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-07-17 07:55:05
 ## ~ Britain Wants More Women In Cyber Security: Lots of schoolgirls are creating digital waves there are still too few women in the cyber security sector. The UK government want to fix that. http://ow.ly/CXVt30p3697  #cybersecurity @WomenInCyberpic.twitter.com/SIwMu2N5GT
