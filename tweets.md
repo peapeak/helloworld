@@ -1,3 +1,7 @@
+# @TrendMicroRSRCH
+## 2019-07-17 17:00:01
+## An increasing number of #ransomware attacks on local governments and organizations highlights the need for more effective ransomware policies. More in this report:http://bit.ly/2Sh7sYp 
+## https://twitter.com/TrendMicroRSRCH/status/1151537046915375106<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-17 13:19:35
 ## Turla APT group adds  Topinambour Trojan to its arsenalhttps://securityaffairs.co/wordpress/88520/apt/turla-apt-topinambour-trojan.html …
