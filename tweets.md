@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-17 19:33:00
+## ICYMI: Russia’s Turla group goes trolling with code labeled “TrumpTower” https://hubs.ly/H0jQLJ00  by @snlyngaaspic.twitter.com/njDB3cItzf
+## https://twitter.com/CyberScoopNews/status/1151575548944158720<br><br><br><br><br>
 # @BleepinComputer
 ## 2019-07-17 16:01:10
 ## Group Behind Windows 10 App Malvertising Pushed 100M Ads in 2019 - by @LawrenceAbramshttps://www.bleepingcomputer.com/news/security/group-behind-windows-10-app-malvertising-pushed-100m-ads-in-2019/ …
