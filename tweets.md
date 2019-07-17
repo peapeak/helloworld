@@ -1,3 +1,7 @@
+# @kaspersky
+## 2019-07-17 15:02:33
+## Kaspersky researchers uncover new technique used by #Turla threat group, hiding its #malware behind anti-internet censorship #software. https://usa.kaspersky.com/about/press-releases/2019_turla-hides-malware-in-anti-internet-censorship-software?utm_source=newsletter&utm_medium=email&utm_campaign=us_DNF_Zt0106_organic&utm_content=sm-post&utm_term=us_newsletter_organic_Zt0106_sm-post_email_DNF …pic.twitter.com/GIzoQqSJJR
+## https://twitter.com/kaspersky/status/1151507486987493377<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-17 12:42:22
 ## Cyber-attacks Around the world: From Business For millions to Political Shocks and Espionage - http://Novinite.com  - Sofia News Agencyhttps://www.novinite.com/articles/198602/Cyber-attacks+Around+the+world%3A+From+Business+For+millions+to+Political+Shocks+and+Espionage …
