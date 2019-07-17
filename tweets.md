@@ -1,3 +1,7 @@
+# @BleepinComputer
+## 2019-07-17 16:01:10
+## Group Behind Windows 10 App Malvertising Pushed 100M Ads in 2019 - by @LawrenceAbramshttps://www.bleepingcomputer.com/news/security/group-behind-windows-10-app-malvertising-pushed-100m-ads-in-2019/ …
+## https://twitter.com/BleepinComputer/status/1151522238539190274<br><br><br><br><br>
 # @TrendMicroRSRCH
 ## 2019-07-17 17:00:01
 ## An increasing number of #ransomware attacks on local governments and organizations highlights the need for more effective ransomware policies. More in this report:http://bit.ly/2Sh7sYp 
