@@ -1,3 +1,7 @@
+# @threatpost
+## 2019-07-17 18:13:26
+## UPDATED news with more details on the StrongPity APT espionage campaign: https://bit.ly/2YYGiIm 
+## https://twitter.com/threatpost/status/1151555523768127489<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-17 19:33:00
 ## ICYMI: Russia’s Turla group goes trolling with code labeled “TrumpTower” https://hubs.ly/H0jQLJ00  by @snlyngaaspic.twitter.com/njDB3cItzf
