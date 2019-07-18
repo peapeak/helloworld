@@ -1,3 +1,7 @@
+# @thehellu
+## 2019-07-18 12:40:42
+## The South American threat actor APT-C-36 is rather targeted cybercrime than APT. The second stage malware uses YopMail, a disposable email service, to retrieve its C&C. It was probably based on a source code published in 2010 named Proyecto RAT.https://blog.trendmicro.com/trendlabs-security-intelligence/spam-campaign-targets-colombian-entities-with-custom-proyecto-rat-email-service-yopmail-for-cc/ …
+## https://twitter.com/thehellu/status/1151834175353307136<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-18 12:44:59
 ## Bulgaria hacking suspect worked on government cybersecurity before tax agency breach https://hubs.ly/H0jRHvt0  by @jeffstone500
