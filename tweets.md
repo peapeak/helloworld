@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-18 14:22:56
+## Ke3chang hacking campaign targeted diplomats from Slovakia, South America https://hubs.ly/H0jRTq-0  by @jeffstone500pic.twitter.com/HzrZZV633x
+## https://twitter.com/CyberScoopNews/status/1151859904187121664<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-18 14:20:14
 ## @attcyber Experts detailed new #StrongPity #cyberespionage campaigns
