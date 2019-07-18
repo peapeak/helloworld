@@ -1,3 +1,7 @@
+# @BleepinComputer
+## 2019-07-18 18:17:51
+## Microsoft Adds Office 365 Group Lifetime Auto-Renewal Feature - by @sergheihttps://www.bleepingcomputer.com/news/microsoft/microsoft-adds-office-365-group-lifetime-auto-renewal-feature/ …
+## https://twitter.com/BleepinComputer/status/1151919025393491968<br><br><br><br><br>
 # @0xffff0800
 ## 2019-07-18 17:16:40
 ## I decided to upload the MuddyC3 V1.0.1 FULL source to my Github. Enjoy fellow malware researchers! https://github.com/0xffff0800/MuddyC3v1.0.1- … #malware #infosec #MuddyWater #APTpic.twitter.com/vmJU55rl1h
