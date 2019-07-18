@@ -1,3 +1,10 @@
+# @_odisseus
+## 2019-07-18 08:38:32
+## New #Malware for Linux Desktop goes undetected.  "The binary was not stripped, which allowed us to read symbols and understand the developer’s intentions.”
+## Via @securityaffairs
+## #EvilGnome #Gamaredon
+## https://securityaffairs.co/wordpress/88551/malware/evilgnome-linux-spyware.html …pic.twitter.com/XdfFU32gWu
+## https://twitter.com/_odisseus/status/1151773232128770049<br><br><br><br><br>
 # @FireEye
 ## 2019-07-18 03:00:11
 ## FireEye Knowledge Base | 
