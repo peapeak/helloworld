@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-18 21:43:54
+## Experts detailed new #StrongPity #cyberespionage campaigns
+## https://securityaffairs.co/wordpress/88577/apt/strongpity-cyberespionage-campaigns.html …
+## #securityaffairs #hacking #APT #malware
+## https://twitter.com/securityaffairs/status/1151970876738457601<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-18 21:18:00
 ## Ke3chang hacking campaign targeted diplomats from Slovakia, South America  https://hubs.ly/H0jScHW0  by @jeffstone500pic.twitter.com/Hqa6256vLf
