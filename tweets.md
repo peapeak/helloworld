@@ -1,3 +1,7 @@
+# @ESET
+## 2019-07-18 13:14:48
+## Hello @tlansec indeed, it pre-dates 2015 and we say that. Its activities were traced back to at least 2010. The news is that we uncovered its new project - Okrum. https://www.welivesecurity.com/2019/07/18/okrum-ke3chang-targets-diplomatic-missions/ …
+## https://twitter.com/ESETresearch/status/1151842758950367233<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-18 13:00:30
 ## Don't forget to register for today's #Webinar: Prevent Cyber Attacks at Government Agencies at 9:30 AM PDT / 12:30 PM EDT. Register now to see how #BlackBerryCylance can shift your government agency’s security posture to prevention instead of response. https://bit.ly/2xoEQmf pic.twitter.com/Pc2oPcSHx7
