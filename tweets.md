@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-18 21:18:00
+## Ke3chang hacking campaign targeted diplomats from Slovakia, South America  https://hubs.ly/H0jScHW0  by @jeffstone500pic.twitter.com/Hqa6256vLf
+## https://twitter.com/CyberScoopNews/status/1151964358966173709<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-18 19:38:20
 ## Kazakhstan government is now intercepting all HTTPS traffic https://zd.net/2O3lRJ2  by @campuscodi
