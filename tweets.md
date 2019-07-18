@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-18 09:51:10
+## #Turla #APT group adds #Topinambour #Trojan to its arsenal
+## https://securityaffairs.co/wordpress/88520/apt/turla-apt-topinambour-trojan.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1151791513686421505<br><br><br><br><br>
 # @ESET
 ## 2019-07-18 10:10:25
 ## The #Ke3chang APT group has been on the radar of #cybersecurity researchers because of its decade-long operation. Now, ESET has discovered #Okrum, a previously unreported #backdoor linked to the elusive group. @welivesecurity https://bit.ly/2Sr1Mv4 pic.twitter.com/GyUClMh6JB
