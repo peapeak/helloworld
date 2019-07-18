@@ -1,3 +1,12 @@
+# @ESET
+## 2019-07-18 10:10:25
+## The #Ke3chang APT group has been on the radar of #cybersecurity researchers because of its decade-long operation. Now, ESET has discovered #Okrum, a previously unreported #backdoor linked to the elusive group. @welivesecurity https://bit.ly/2Sr1Mv4 pic.twitter.com/GyUClMh6JB
+## https://twitter.com/ESET/status/1151796357994360833<br><br><br><br><br>
+# @welivesecurity
+## 2019-07-18 09:47:32
+## New @ESET white paper: @zuzana_hromcova dissects new #malware deployed by the elusive #Ke3chang aka #APT15 group #Okrum #backdoor #APT #infosec
+## https://www.welivesecurity.com/2019/07/18/okrum-ke3chang-targets-diplomatic-missions/ …
+## https://twitter.com/welivesecurity/status/1151790597537247234<br><br><br><br><br>
 # @bsmuir
 ## 2019-07-18 09:46:46
 ## Latest #StrongPity / #PROMETHIUM campaign leveraging backdoored #WinBox software (an administration utility for #Mikrotik RouterOS). Via @alienvault. #infosec #Cybersecurity #DFIR #cybercrime #CISO #malware #cyberespionage #forensics https://lnkd.in/ffhhRi6 
