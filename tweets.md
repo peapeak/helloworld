@@ -1,3 +1,7 @@
+# @Treadstone71LLC
+## 2019-07-18 11:19:10
+## Colbert Thinks Trump Accidentally Revealed Way Too Much About His Marriage. "Wedded to bitterness and hate?” he said. “You know it’s serious when Trump starts quoting his marriage vows"http://ow.ly/HEgI30p9ANr 
+## https://twitter.com/Treadstone71LLC/status/1151813658978242562<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-18 09:51:10
 ## #Turla #APT group adds #Topinambour #Trojan to its arsenal
