@@ -1,3 +1,9 @@
+# @Securelist
+## 2019-07-18 22:15:04
+## ICYMI: #Turla, a complex cyberattack platform focused almost entirely on diplomatic & governmental targets in the Middle East is evolving.
+## 
+## Recently it was spotted spreading through poisoned anti-internet censorship software.https://kas.pr/3tfc 
+## https://twitter.com/Securelist/status/1151978720447647744<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-18 22:15:12
 ## Alleged Iranian hacker who aided cyber espionage attacks on the US unmasked | Fox Newshttps://www.foxnews.com/tech/alleged-iranian-hacker-unmasked …
