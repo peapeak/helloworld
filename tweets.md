@@ -1,3 +1,7 @@
+# @BleepinComputer
+## 2019-07-18 11:03:12
+## New Okrum Malware Used by Ke3chang Group to Target Diplomats - by @sergheihttps://www.bleepingcomputer.com/news/security/new-okrum-malware-used-by-ke3chang-group-to-target-diplomats/ …
+## https://twitter.com/BleepinComputer/status/1151809641866813441<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-18 11:19:10
 ## Colbert Thinks Trump Accidentally Revealed Way Too Much About His Marriage. "Wedded to bitterness and hate?” he said. “You know it’s serious when Trump starts quoting his marriage vows"http://ow.ly/HEgI30p9ANr 
