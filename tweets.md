@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-18 12:44:59
+## Bulgaria hacking suspect worked on government cybersecurity before tax agency breach https://hubs.ly/H0jRHvt0  by @jeffstone500
+## https://twitter.com/CyberScoopNews/status/1151835254447058946<br><br><br><br><br>
 # @BleepinComputer
 ## 2019-07-18 11:03:12
 ## New Okrum Malware Used by Ke3chang Group to Target Diplomats - by @sergheihttps://www.bleepingcomputer.com/news/security/new-okrum-malware-used-by-ke3chang-group-to-target-diplomats/ …
