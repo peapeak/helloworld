@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-18 07:36:47
+## #Turla #APT group adds #Topinambour #Trojan to its arsenal
+## https://securityaffairs.co/wordpress/88520/apt/turla-apt-topinambour-trojan.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1151757691930460160<br><br><br><br><br>
 # @_odisseus
 ## 2019-07-18 08:38:32
 ## New #Malware for Linux Desktop goes undetected.  "The binary was not stripped, which allowed us to read symbols and understand the developer’s intentions.”
