@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-18 02:36:00
+## Bulgaria hacking suspect worked on government cybersecurity before tax agency breach https://hubs.ly/H0jRcdJ0  by @jeffstone500
+## https://twitter.com/CyberScoopNews/status/1151681997703700480<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-17 20:35:07
 ## Tekide Unveiled - APT34 (Muddywater - OilRig)https://cybershafarat.com/2019/07/12/tekide-unveiled/ …
