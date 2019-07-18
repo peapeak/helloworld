@@ -1,3 +1,7 @@
+# @bsmuir
+## 2019-07-18 09:46:46
+## Latest #StrongPity / #PROMETHIUM campaign leveraging backdoored #WinBox software (an administration utility for #Mikrotik RouterOS). Via @alienvault. #infosec #Cybersecurity #DFIR #cybercrime #CISO #malware #cyberespionage #forensics https://lnkd.in/ffhhRi6 
+## https://twitter.com/bsmuir/status/1151790405354213376<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-18 07:36:47
 ## #Turla #APT group adds #Topinambour #Trojan to its arsenal
