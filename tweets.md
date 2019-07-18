@@ -1,3 +1,9 @@
+# @FireEye
+## 2019-07-18 22:00:12
+## BLOG | @mbromileyDFIR, @ab1ff, Noah, and Jessica discuss a #phishing campaign conducted by #APT34. With increasing tensions in the Middle East, we can expect Iran to significantly increase the volume & scope of #cyberespionage campaigns.
+## 
+## >> Read more: https://feye.io/2YfvRCU pic.twitter.com/L7cmPrIC5B
+## https://twitter.com/FireEye/status/1151974979392692224<br><br><br><br><br>
 # @Securelist
 ## 2019-07-18 22:15:04
 ## ICYMI: #Turla, a complex cyberattack platform focused almost entirely on diplomatic & governmental targets in the Middle East is evolving.
