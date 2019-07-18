@@ -1,3 +1,9 @@
+# @FireEye
+## 2019-07-18 03:00:11
+## FireEye Knowledge Base | 
+## 
+## There has been an extension to @FireEye Field Notice (FEFN) #439. See, FEFN #439_3: EXTENDED: FireEye Email Security Cloud Edition Release 2019.7 Upgrade Maintenance, Commercial Americas, EMEA, APJ and Government Instances: https://fireeyecommunity.force.com/CustomerCommunity/s/article/000002793 …pic.twitter.com/HLGoCEpNot
+## https://twitter.com/FireEyeSupport/status/1151688084926402560<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-18 02:36:00
 ## Bulgaria hacking suspect worked on government cybersecurity before tax agency breach https://hubs.ly/H0jRcdJ0  by @jeffstone500
