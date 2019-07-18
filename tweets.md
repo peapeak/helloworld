@@ -1,4 +1,8 @@
 # @ESET
+## 2019-07-18 14:20:30
+## @ESET anuncia el descubrimiento de #Okrum, una amenaza relacionada con el grupo de ciberdelincuentes #Ke3chang que lleva casi una década atacando a objetivos gubernamentales en varios países. http://go.eset.es/9p1r7u 
+## https://twitter.com/ESET_ES/status/1151859294029131777<br><br><br><br><br>
+# @ESET
 ## 2019-07-18 13:14:48
 ## Hello @tlansec indeed, it pre-dates 2015 and we say that. Its activities were traced back to at least 2010. The news is that we uncovered its new project - Okrum. https://www.welivesecurity.com/2019/07/18/okrum-ke3chang-targets-diplomatic-missions/ …
 ## https://twitter.com/ESETresearch/status/1151842758950367233<br><br><br><br><br>
