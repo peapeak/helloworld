@@ -1,3 +1,7 @@
+# @0xffff0800
+## 2019-07-18 17:16:40
+## I decided to upload the MuddyC3 V1.0.1 FULL source to my Github. Enjoy fellow malware researchers! https://github.com/0xffff0800/MuddyC3v1.0.1- … #malware #infosec #MuddyWater #APTpic.twitter.com/vmJU55rl1h
+## https://twitter.com/0xffff0800/status/1151903628359323648<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-18 14:22:56
 ## Ke3chang hacking campaign targeted diplomats from Slovakia, South America https://hubs.ly/H0jRTq-0  by @jeffstone500pic.twitter.com/HzrZZV633x
