@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-18 19:38:20
+## Kazakhstan government is now intercepting all HTTPS traffic https://zd.net/2O3lRJ2  by @campuscodi
+## https://twitter.com/ZDNet/status/1151939276315058176<br><br><br><br><br>
 # @BleepinComputer
 ## 2019-07-18 18:17:51
 ## Microsoft Adds Office 365 Group Lifetime Auto-Renewal Feature - by @sergheihttps://www.bleepingcomputer.com/news/microsoft/microsoft-adds-office-365-group-lifetime-auto-renewal-feature/ …
