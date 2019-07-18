@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-07-18 13:00:30
+## Don't forget to register for today's #Webinar: Prevent Cyber Attacks at Government Agencies at 9:30 AM PDT / 12:30 PM EDT. Register now to see how #BlackBerryCylance can shift your government agency’s security posture to prevention instead of response. https://bit.ly/2xoEQmf pic.twitter.com/Pc2oPcSHx7
+## https://twitter.com/cylanceinc/status/1151839159222452225<br><br><br><br><br>
 # @thehellu
 ## 2019-07-18 12:40:42
 ## The South American threat actor APT-C-36 is rather targeted cybercrime than APT. The second stage malware uses YopMail, a disposable email service, to retrieve its C&C. It was probably based on a source code published in 2010 named Proyecto RAT.https://blog.trendmicro.com/trendlabs-security-intelligence/spam-campaign-targets-colombian-entities-with-custom-proyecto-rat-email-service-yopmail-for-cc/ …
