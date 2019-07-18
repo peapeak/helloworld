@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-18 14:20:14
+## @attcyber Experts detailed new #StrongPity #cyberespionage campaigns
+## https://securityaffairs.co/wordpress/88577/apt/strongpity-cyberespionage-campaigns.html …
+## #securityaffairs #hacking #APT #malware
+## https://twitter.com/securityaffairs/status/1151859223518752769<br><br><br><br><br>
 # @ESET
 ## 2019-07-18 14:20:30
 ## @ESET anuncia el descubrimiento de #Okrum, una amenaza relacionada con el grupo de ciberdelincuentes #Ke3chang que lleva casi una década atacando a objetivos gubernamentales en varios países. http://go.eset.es/9p1r7u 
