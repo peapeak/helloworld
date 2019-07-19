@@ -1,3 +1,10 @@
+# @securityaffairs
+## 2019-07-19 14:20:18
+## Experts detailed new #StrongPity #cyberespionage campaigns,
+## https://securityaffairs.co/wordpress/88577/apt/strongpity-cyberespionage-campaigns.html …
+## #securityaffairs #hacking #APT #malware
+## .
+## https://twitter.com/securityaffairs/status/1152221630090940416<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-07-19 14:46:10
 ## #APT34 According with the Fireeye analysis, the both document have the same creation date (2019:05:02 05:26:37), and have the same code except some parts which indicate that the second sample are do before the first sample.pic.twitter.com/uOb5DRhJiA
