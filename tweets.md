@@ -1,3 +1,14 @@
+# @cyberwar_15
+## 2019-07-19 02:35:12
+## #Lazarus
+## @blackorbird @Timele9527 @RedDrip7 @Rmy_Reserve @navSi16 
+## 
+## MD5 : cadd2b04166499db6065128f4dc97c39
+## 회장님 개명.hwp
+## 
+## https://www.fabiocanducci[.]com/img2.dat 
+## https://www.fabiocanducci[.]com/img4.dat
+## https://twitter.com/cyberwar_15/status/1152044185429561344<br><br><br><br><br>
 # @blackorbird
 ## 2019-07-19 02:28:32
 ## #APT34 #IRAN Masquerading as a member of Cambridge University to gain victims' trust to open malicious documents
