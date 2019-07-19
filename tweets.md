@@ -1,3 +1,7 @@
+# @peterkruse
+## 2019-07-19 12:55:06
+## For my Danish followers: Vi har postet to vigtige adviseringer til vores platinum alert kunder der vedrører dels #Lazarus, og dels #APT33 der misbruger Android SandroRAT i målrettet #smishing kampagne. Mål i Danmark er bekræftet fra begge kampagner. @Cybersikkerhed
+## https://twitter.com/peterkruse/status/1152200187298951169<br><br><br><br><br>
 # @welivesecurity
 ## 2019-07-19 11:53:28
 ## In this edition of Week in Security, @TonyAtESET covers #malware linked to #Ke3chang aka #APT15 group, latest data on systems susceptible to #BlueKeep, and a bug in #Instagram. #infosec #okrumhttps://www.welivesecurity.com/videos/week-security-tony-anscombe-32/ …
