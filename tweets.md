@@ -1,4 +1,10 @@
 # @Rmy_Reserve
+## 2019-07-19 15:11:52
+## #APT
+## I don't know why 
+## #APT34 and #Muddywater  are so keen to extract malicious code from the VBA project
+## https://twitter.com/Rmy_Reserve/status/1152234606420062211<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-07-19 15:14:03
 ## #APT34:https://twitter.com/Arkbird_SOLG/status/1152228140061790209 …
 ## #MuddyWater:https://twitter.com/Arkbird_SOLG/status/1136311153460678657 …
