@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-07-19 15:36:25
+## The goals of the APT are different (Muddywater -> petroleum war and economic strategies about it and APT34 -> various like finances, economic intelligence, administration, energy, telecommunications or the chemical industry). One is specialized and the other in global operations.
+## https://twitter.com/Arkbird_SOLG/status/1152240783837282305<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-19 15:15:48
 ## Huawei and 5G: Make the decision quickly because delay is hurting the UK, government warnedhttps://www.zdnet.com/article/huawei-and-5g-make-the-decision-quickly-because-delay-is-hurting-the-uk-government-warned/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d31de92eb25fa0001be6f40&utm_medium=trueAnthem&utm_source=twitter …
