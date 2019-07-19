@@ -1,3 +1,7 @@
+# @welivesecurity
+## 2019-07-19 11:53:28
+## In this edition of Week in Security, @TonyAtESET covers #malware linked to #Ke3chang aka #APT15 group, latest data on systems susceptible to #BlueKeep, and a bug in #Instagram. #infosec #okrumhttps://www.welivesecurity.com/videos/week-security-tony-anscombe-32/ …
+## https://twitter.com/welivesecurity/status/1152184678348185600<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-19 11:00:23
 ## Flirting With IDA and APT28: This blog shares a methodology used to develop Hex-Rays' Interactive Disassembler (IDA) signatures created as part of pre-analysis for a recently published #APT28 sample. https://bit.ly/2S4v7Lo  #malware #securitypic.twitter.com/raToLMOSlS
