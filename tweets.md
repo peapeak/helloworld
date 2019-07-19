@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-19 18:11:55
+## Experts detailed new #StrongPity #cyberespionage campaigns
+## https://securityaffairs.co/wordpress/88577/apt/strongpity-cyberespionage-campaigns.html …
+## #securityaffairs #hacking #APT #malware
+## https://twitter.com/securityaffairs/status/1152279916488142848<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-19 16:48:27
 ## BREAKING: Former NSA contractor Hal Martin sentenced to 9 years for theft of government info  https://hubs.ly/H0jT41k0 pic.twitter.com/L65bNJLwwl
