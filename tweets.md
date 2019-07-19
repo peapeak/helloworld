@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-07-19 06:43:39
+## #APT34 good catch
+## Thanks to @RedDrip7
+## @Arkbird_SOLGhttps://twitter.com/RedDrip7/status/1152093278633746433 …
+## https://twitter.com/Rmy_Reserve/status/1152106712003821568<br><br><br><br><br>
 # @RedDrip7
 ## 2019-07-19 05:50:17
 ## Seems new #APT34 #人面马 attack samples pretending as job questionnaires from #Cambridge #University and inducing victims to enable macro to release #TODEDEAF malware.
