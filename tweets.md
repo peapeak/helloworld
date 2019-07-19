@@ -1,3 +1,7 @@
+# @MalwarePatrol
+## 2019-07-19 11:10:06
+## New Okrum #Malware Used by Ke3chang Group to Target Diplomats. https://www.bleepingcomputer.com/news/security/new-okrum-malware-used-by-ke3chang-group-to-target-diplomats/ … via @BleepinComputerpic.twitter.com/CEsJRm7Vby
+## https://twitter.com/MalwarePatrol/status/1152173766564306947<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-19 10:35:22
 ## Huawei and 5G: Make the decision quickly because delay is hurting the UK, government warned https://zd.net/2O4nwyl  by @steveranger
