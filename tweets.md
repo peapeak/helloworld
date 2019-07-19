@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-19 16:48:27
+## BREAKING: Former NSA contractor Hal Martin sentenced to 9 years for theft of government info  https://hubs.ly/H0jT41k0 pic.twitter.com/L65bNJLwwl
+## https://twitter.com/CyberScoopNews/status/1152258915029192704<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-07-19 15:35:53
 ## Yep, both are Iranian APT, this currently used (here on Muddywater) but the architecture of the macro code are different, probably same TTPs have been chosen but two teams.pic.twitter.com/sbImDLC9zD
