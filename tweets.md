@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-19 20:39:21
+## Israel #surveillance firm #NSOgroup can mine data from major social media
+## https://securityaffairs.co/wordpress/88638/intelligence/nso-group-mine-social-media.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1152317019141877760<br><br><br><br><br>
 # @MalwarePatrol
 ## 2019-07-19 20:10:04
 ## No man’s land: How a Magecart group is running a web skimming operation from a war zone. https://blog.malwarebytes.com/cybercrime/2019/07/no-mans-land-how-a-magecart-group-is-running-a-web-skimming-operation-from-a-war-zone/ … via @Malwarebytespic.twitter.com/mxmENugcky
