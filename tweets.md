@@ -1,4 +1,10 @@
 # @Rmy_Reserve
+## 2019-07-19 02:05:58
+## #APT #Lazarus
+## thanks to @cyberwar_15
+## @Arkbird_SOLG @Tihome_ @dontsmokejointshttps://twitter.com/cyberwar_15/status/1152035187196223488 …
+## https://twitter.com/Rmy_Reserve/status/1152036827299119105<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-07-19 03:21:06
 ## nice hunte
 ## thanks to @cyberwar_15
