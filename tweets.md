@@ -1,4 +1,8 @@
 # @Arkbird_SOLG
+## 2019-07-19 15:35:53
+## Yep, both are Iranian APT, this currently used (here on Muddywater) but the architecture of the macro code are different, probably same TTPs have been chosen but two teams.pic.twitter.com/sbImDLC9zD
+## https://twitter.com/Arkbird_SOLG/status/1152240652622663681<br><br><br><br><br>
+# @Arkbird_SOLG
 ## 2019-07-19 15:36:25
 ## The goals of the APT are different (Muddywater -> petroleum war and economic strategies about it and APT34 -> various like finances, economic intelligence, administration, energy, telecommunications or the chemical industry). One is specialized and the other in global operations.
 ## https://twitter.com/Arkbird_SOLG/status/1152240783837282305<br><br><br><br><br>
