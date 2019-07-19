@@ -1,3 +1,10 @@
+# @Rmy_Reserve
+## 2019-07-19 03:21:06
+## nice hunte
+## thanks to @cyberwar_15
+## #APT #Lazarus
+## @Arkbird_SOLGhttps://twitter.com/cyberwar_15/status/1152046366048149505 …
+## https://twitter.com/Rmy_Reserve/status/1152055736890884096<br><br><br><br><br>
 # @Mandiant
 ## 2019-07-18 23:00:11
 ## BLOG | @mbromileyDFIR, @ab1ff, Noah, and Jessica discuss a #phishing campaign conducted by #APT34. With increasing tensions in the Middle East, we can expect Iran to significantly increase the volume & scope of #cyberespionage campaigns.
