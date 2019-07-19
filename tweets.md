@@ -1,3 +1,7 @@
+# @cyb3rops
+## 2019-07-19 06:54:52
+## Hard Pass: Declining APT34’s Invite to Join Their Professional Network | @FireEyehttps://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html …
+## https://twitter.com/cyb3rops/status/1152109534544052224<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-07-19 07:55:04
 ## ~ China’s Dirty Secret - Intellectual Property Theft: Hackers have stolen masses of corporate and government secrets, with the aim to improve Chinese business and economic competitiveness. http://ow.ly/fF6C30p5K7C  #cybersecuritypic.twitter.com/ktYpMnkyP7
