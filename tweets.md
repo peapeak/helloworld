@@ -1,4 +1,11 @@
 # @Rmy_Reserve
+## 2019-07-19 14:52:53
+## good analysis about #APT34
+## In terms of code similarity 
+## APT34 should have a tool to generate malicious vba
+## cc:@Arkbird_SOLGhttps://twitter.com/Arkbird_SOLG/status/1152228140061790209 …
+## https://twitter.com/Rmy_Reserve/status/1152229831746023425<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-07-19 15:11:52
 ## #APT
 ## I don't know why 
