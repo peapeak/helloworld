@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-19 19:50:51
+## UPDATED: Former NSA contractor Hal Martin sentenced to 9 years for theft of government info https://hubs.ly/H0jTgN20  by @shanvavpic.twitter.com/JIwyvAouCj
+## https://twitter.com/CyberScoopNews/status/1152304816925872128<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-19 18:11:55
 ## Experts detailed new #StrongPity #cyberespionage campaigns
