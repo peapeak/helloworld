@@ -1,3 +1,7 @@
+# @MalwarePatrol
+## 2019-07-19 20:10:04
+## No man’s land: How a Magecart group is running a web skimming operation from a war zone. https://blog.malwarebytes.com/cybercrime/2019/07/no-mans-land-how-a-magecart-group-is-running-a-web-skimming-operation-from-a-war-zone/ … via @Malwarebytespic.twitter.com/mxmENugcky
+## https://twitter.com/MalwarePatrol/status/1152309650831921153<br><br><br><br><br>
 # @kaspersky
 ## 2019-07-19 20:00:31
 ## Cyberespionage group K3Chang has been tied to a backdoor called 'Okrum' that has been used to target diplomatic missions throughout Europe and Latin America.https://threatpost.com/ke3chang-apt-undocumented-backdoor/146537/?utm_source=twitter&utm_medium=social&utm_campaign=us_threatpost_Zt0106_organic&utm_content=sm-post&utm_term=us_twitter_organic_Zt0106_sm-post_social_threatpost …
