@@ -1,3 +1,12 @@
+# @VK_Intel
+## 2019-07-19 04:17:12
+## 2019-07-18:  #PoSeidon/#FindPOS/#FindStr Point-of-Sale #Malware | #Signed
+## -> [Lingarder Limited] #Thawte
+## { Credit Card Scraper + RAWINPUT Keylogger }
+## Version '15.10' | Memory Sentinel Parser + Luhn Algo | .cfg
+## h/t @malwrhunterteam 
+## MD5: a3ce2ec1e8b127df7f92be2a74459c8cpic.twitter.com/8qYKSNmFL5
+## https://twitter.com/VK_Intel/status/1152069855073275911<br><br><br><br><br>
 # @bsmuir
 ## 2019-07-19 00:38:44
 ## #ESET examine #Ke3chang #APT group (aka #APT15) and identify new #malware versions used in their #cyberespionage campaigns targeting diplomatic missions in Europe & South America. Via @WeLiveSecurity. #Ketrican #Okrum #RoyalDNS #in…https://lnkd.in/fS-7PDg https://lnkd.in/fBNUYJf 
