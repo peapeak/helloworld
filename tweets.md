@@ -1,3 +1,7 @@
+# @kaspersky
+## 2019-07-19 20:00:31
+## Cyberespionage group K3Chang has been tied to a backdoor called 'Okrum' that has been used to target diplomatic missions throughout Europe and Latin America.https://threatpost.com/ke3chang-apt-undocumented-backdoor/146537/?utm_source=twitter&utm_medium=social&utm_campaign=us_threatpost_Zt0106_organic&utm_content=sm-post&utm_term=us_twitter_organic_Zt0106_sm-post_social_threatpost …
+## https://twitter.com/kaspersky/status/1152307248049393668<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-19 19:50:51
 ## UPDATED: Former NSA contractor Hal Martin sentenced to 9 years for theft of government info https://hubs.ly/H0jTgN20  by @shanvavpic.twitter.com/JIwyvAouCj
