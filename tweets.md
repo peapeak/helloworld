@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-07-19 11:00:23
+## Flirting With IDA and APT28: This blog shares a methodology used to develop Hex-Rays' Interactive Disassembler (IDA) signatures created as part of pre-analysis for a recently published #APT28 sample. https://bit.ly/2S4v7Lo  #malware #securitypic.twitter.com/raToLMOSlS
+## https://twitter.com/cylanceinc/status/1152171318764343297<br><br><br><br><br>
 # @MalwarePatrol
 ## 2019-07-19 11:10:06
 ## New Okrum #Malware Used by Ke3chang Group to Target Diplomats. https://www.bleepingcomputer.com/news/security/new-okrum-malware-used-by-ke3chang-group-to-target-diplomats/ … via @BleepinComputerpic.twitter.com/CEsJRm7Vby
