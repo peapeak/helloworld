@@ -1,3 +1,8 @@
+# @blackorbird
+## 2019-07-19 02:28:32
+## #APT34 #IRAN Masquerading as a member of Cambridge University to gain victims' trust to open malicious documents
+## https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html …pic.twitter.com/7Q3nBmeSL4
+## https://twitter.com/blackorbird/status/1152042507888254978<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-07-19 02:05:58
 ## #APT #Lazarus
