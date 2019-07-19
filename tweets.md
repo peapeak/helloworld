@@ -1,4 +1,8 @@
 # @Arkbird_SOLG
+## 2019-07-19 14:46:10
+## #APT34 According with the Fireeye analysis, the both document have the same creation date (2019:05:02 05:26:37), and have the same code except some parts which indicate that the second sample are do before the first sample.pic.twitter.com/uOb5DRhJiA
+## https://twitter.com/Arkbird_SOLG/status/1152228140061790209<br><br><br><br><br>
+# @Arkbird_SOLG
 ## 2019-07-19 14:46:13
 ## Original tweet tweet:https://twitter.com/RedDrip7/status/1152093278633746433 …
 ## Links Anyrun:https://app.any.run/tasks/28c8cdfa-c55d-46f7-961c-4aeec4cb2cc0 …
