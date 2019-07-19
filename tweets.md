@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-19 04:30:45
+## Trump's trade war with China is leaving tech with a growing tab, trade group warnshttp://www.zdnet.com/article/trumps-trade-war-with-china-is-leaving-tech-with-a-growing-tab-trade-group-warns/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d3147650ca7240001cbb2c2&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1152073263578669056<br><br><br><br><br>
 # @VK_Intel
 ## 2019-07-19 04:17:12
 ## 2019-07-18:  #PoSeidon/#FindPOS/#FindStr Point-of-Sale #Malware | #Signed
