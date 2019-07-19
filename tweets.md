@@ -1,3 +1,11 @@
+# @Swati_THN
+## 2019-07-19 10:06:40
+## Kazakhstan ISPs begin "forceful" interception of HTTPS Internet traffic for all its citizens, allowing Government to spy on them and censor online content.
+## 
+## ISPs forcing users into installing a Government-issued root certificate on their devices.
+## 
+## Read ➤ https://thehackernews.com/2019/07/kazakhstan-https-security-certificate.html?utm_source=social_share …pic.twitter.com/DiNK78qK9O
+## https://twitter.com/Swati_THN/status/1152157802103787520<br><br><br><br><br>
 # @cyb3rops
 ## 2019-07-19 06:54:52
 ## Hard Pass: Declining APT34’s Invite to Join Their Professional Network | @FireEyehttps://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html …
