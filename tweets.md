@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-19 10:35:22
+## Huawei and 5G: Make the decision quickly because delay is hurting the UK, government warned https://zd.net/2O4nwyl  by @steveranger
+## https://twitter.com/ZDNet/status/1152165021675163649<br><br><br><br><br>
 # @Swati_THN
 ## 2019-07-19 10:06:40
 ## Kazakhstan ISPs begin "forceful" interception of HTTPS Internet traffic for all its citizens, allowing Government to spy on them and censor online content.
