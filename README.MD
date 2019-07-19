@@ -1,3 +1,18 @@
+# Hard Pass: Declining APT34’s Invite to Join Their Professional Network
+## Fireeye
+## Jul 18
+## Hard Pass: Declining APT34’s Invite to Join Their Professional Network
+## https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html<br><br><br>
+# Spam Campaign Targets Colombian Entities with Custom-made ‘Proyecto RAT,’ Uses Email Service YOPmail for C&C
+## Trendmicro
+## July 18, 2019
+## We observed a recent campaign that primarily targets financial institutions and governmental organizations in the South American region, particularly in Colombia. This blog post covers the activities we observed, the remote access tools (RATs) used, the campaign’s techniques and procedures, and its indicators of compromise (IoCs). Our findings indicate that the campaign appears to be the work of a group involved in business email compromise (BEC) or cybercrime, and unlikely to be an advanced persistent threat (APT).
+## https://blog.trendmicro.com/trendlabs-security-intelligence/spam-campaign-targets-colombian-entities-with-custom-proyecto-rat-email-service-yopmail-for-cc/<br><br><br>
+# Okrum: Ke3chang group targets diplomatic missions
+## ESET
+## 2019-07-18 11:30:18
+## Tracking the malicious activities of the elusive Ke3chang APT group, ESET researchers have discovered new versions of malware families linked to the group, and a previously unreported backdoor
+## https://www.welivesecurity.com/2019/07/18/okrum-ke3chang-targets-diplomatic-missions/<br><br><br>
 # Turla renews its arsenal with Topinambour
 ## Kaspersky
 ## 2019-07-15T10:00:01+00:00
