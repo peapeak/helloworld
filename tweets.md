@@ -1,3 +1,7 @@
+# @bsmuir
+## 2019-07-19 00:38:44
+## #ESET examine #Ke3chang #APT group (aka #APT15) and identify new #malware versions used in their #cyberespionage campaigns targeting diplomatic missions in Europe & South America. Via @WeLiveSecurity. #Ketrican #Okrum #RoyalDNS #in…https://lnkd.in/fS-7PDg https://lnkd.in/fBNUYJf 
+## https://twitter.com/bsmuir/status/1152014875872202752<br><br><br><br><br>
 # @cyberwar_15
 ## 2019-07-19 01:59:27
 ## #NorthKorea #Lazarus #cryptocurrency
