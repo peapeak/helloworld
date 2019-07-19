@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-19 21:31:06
+## Kazakhstan government is now intercepting all HTTPS traffichttps://www.zdnet.com/article/kazakhstan-government-is-now-intercepting-all-https-traffic/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d32367eeb25fa0001be73de&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1152330044632645632<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-19 21:56:59
 ## Ke3chang hacking campaign targeted diplomats from Slovakia, South America https://hubs.ly/H0jTgNS0  by @jeffstone500pic.twitter.com/TF1bQWAac2
