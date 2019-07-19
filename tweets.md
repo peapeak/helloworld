@@ -1,3 +1,10 @@
+# @RedDrip7
+## 2019-07-19 05:50:17
+## Seems new #APT34 #人面马 attack samples pretending as job questionnaires from #Cambridge #University and inducing victims to enable macro to release #TODEDEAF malware.
+## 
+## https://www.virustotal.com/gui/file/69f7c95ab1ef1c2448d195b0388a5d0d297df0d8ee906790cd8aa2e130f8c616 …
+## https://www.virustotal.com/gui/file/2b9bac1e59e76170a8b0bbd9dab67dfbca9c3fe336e57e875fb47982d8677903 …pic.twitter.com/ccKs8bi5g9
+## https://twitter.com/RedDrip7/status/1152093278633746433<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-19 04:30:45
 ## Trump's trade war with China is leaving tech with a growing tab, trade group warnshttp://www.zdnet.com/article/trumps-trade-war-with-china-is-leaving-tech-with-a-growing-tab-trade-group-warns/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d3147650ca7240001cbb2c2&utm_medium=trueAnthem&utm_source=twitter …
