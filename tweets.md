@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-19 21:56:59
+## Ke3chang hacking campaign targeted diplomats from Slovakia, South America https://hubs.ly/H0jTgNS0  by @jeffstone500pic.twitter.com/TF1bQWAac2
+## https://twitter.com/CyberScoopNews/status/1152336560068734977<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-19 20:39:21
 ## Israel #surveillance firm #NSOgroup can mine data from major social media
