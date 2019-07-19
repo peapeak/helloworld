@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-19 06:44:59
+## Experts detailed new #StrongPity #cyberespionage campaigns
+## https://securityaffairs.co/wordpress/88577/apt/strongpity-cyberespionage-campaigns.html …
+## #securityaffairs #hacking #APT #malware
+## https://twitter.com/securityaffairs/status/1152107044368998400<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-07-19 06:43:39
 ## #APT34 good catch
