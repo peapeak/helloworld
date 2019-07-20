@@ -1,3 +1,13 @@
+# @kaspersky
+## 2019-07-19 22:23:05
+## #Machete
+##  Status: Inactive since 2014
+##  Discovery: 2016
+##  Purpose: Cyberespionage, data theft, data wiping
+##  Propagation method: Social engineering
+## 
+## More #APT stats here: https://kas.pr/y6oi pic.twitter.com/svhAn3hh6Q
+## https://twitter.com/kaspersky/status/1152343128524959746<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-19 23:57:59
 ## Former NSA contractor Hal Martin sentenced to 9 years for theft of government info https://hubs.ly/H0jTfQq0  by @shanvavpic.twitter.com/qoq56GqCew
