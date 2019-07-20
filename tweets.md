@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-20 20:12:20
+## Experts detailed new #StrongPity #cyberespionage campaigns
+## https://securityaffairs.co/wordpress/88577/apt/strongpity-cyberespionage-campaigns.html …
+## #securityaffairs #hacking #APT #malware
+## https://twitter.com/securityaffairs/status/1152672610947424257<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-20 21:10:00
 ## Cybersecurity has done more to drive government cloud use than any other feature, intel official sayshttps://hubs.ly/H0jTmTd0 
