@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-19 23:57:59
+## Former NSA contractor Hal Martin sentenced to 9 years for theft of government info https://hubs.ly/H0jTfQq0  by @shanvavpic.twitter.com/qoq56GqCew
+## https://twitter.com/CyberScoopNews/status/1152367010384363521<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-19 21:31:06
 ## Kazakhstan government is now intercepting all HTTPS traffichttps://www.zdnet.com/article/kazakhstan-government-is-now-intercepting-all-https-traffic/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d32367eeb25fa0001be73de&utm_medium=trueAnthem&utm_source=twitter …
