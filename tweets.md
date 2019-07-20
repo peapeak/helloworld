@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-20 21:10:00
+## Cybersecurity has done more to drive government cloud use than any other feature, intel official sayshttps://hubs.ly/H0jTmTd0 
+## https://twitter.com/CyberScoopNews/status/1152687120852619265<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-20 18:33:05
 ## Israel #surveillance firm #NSOgroup can mine data from major social media
