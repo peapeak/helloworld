@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-20 20:00:53
+## Kazakhstan government is now intercepting all HTTPS traffichttps://www.zdnet.com/article/kazakhstan-government-is-now-intercepting-all-https-traffic/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d3372dfeb25fa0001be876d&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1152669729024368640<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-20 14:00:22
 ## Flirting With IDA and APT28: This blog shares a methodology used to develop Hex-Rays' Interactive Disassembler (IDA) signatures created as part of pre-analysis for a recently published #APT28 sample. https://bit.ly/2S4v7Lo  #malware #securitypic.twitter.com/PZIzCGoUk4
