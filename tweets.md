@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-20 14:04:59
+## Why Cyber Command’s latest warning is a win for the government's information sharing effortshttps://hubs.ly/H0jTnyT0 
+## https://twitter.com/CyberScoopNews/status/1152580162464231426<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-20 10:45:49
 ## Kazakhstan government is now intercepting all HTTPS traffichttps://www.zdnet.com/article/kazakhstan-government-is-now-intercepting-all-https-traffic/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d32f0c5b9415600019b0dde&utm_medium=trueAnthem&utm_source=twitter …
