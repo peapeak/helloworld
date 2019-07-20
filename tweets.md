@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-20 10:45:49
+## Kazakhstan government is now intercepting all HTTPS traffichttps://www.zdnet.com/article/kazakhstan-government-is-now-intercepting-all-https-traffic/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d32f0c5b9415600019b0dde&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1152530043089936385<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-20 10:09:59
 ## GitHub - 0xffff0800/MuddyC3v1.0.1-: This is the MuddyWater APT C3 v1.0.1 Sourcehttps://github.com/0xffff0800/MuddyC3v1.0.1- …
