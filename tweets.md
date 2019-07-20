@@ -1,4 +1,8 @@
 # @ZDNet
+## 2019-07-20 06:00:49
+## Kazakhstan government is now intercepting all HTTPS traffichttps://www.zdnet.com/article/kazakhstan-government-is-now-intercepting-all-https-traffic/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d32adf8eb25fa0001be7ad3&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1152458318050283520<br><br><br><br><br>
+# @ZDNet
 ## 2019-07-20 01:46:04
 ## Kazakhstan government is now intercepting all HTTPS traffichttps://www.zdnet.com/article/kazakhstan-government-is-now-intercepting-all-https-traffic/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d327244eb25fa0001be773d&utm_medium=trueAnthem&utm_source=twitter …
 ## https://twitter.com/ZDNet/status/1152394209242091520<br><br><br><br><br>
