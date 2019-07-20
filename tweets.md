@@ -1,4 +1,8 @@
 # @CyberSecInt
+## 2019-07-20 07:00:23
+## Should governments pay extortion payments after a #ransomware attack? |  Cisco Talos http://ow.ly/lvYv30p8osL  #cybersecurity
+## https://twitter.com/CyberSecInt/status/1152473310183272449<br><br><br><br><br>
+# @CyberSecInt
 ## 2019-07-20 08:00:21
 ## ~ Britain Wants More Women In Cyber Security: Lots of schoolgirls are creating digital waves there are still too few women in the cyber security sector. The UK government want to fix that. http://ow.ly/CXVt30p3697  #cybersecurity @WomenInCyberpic.twitter.com/SIwMu2N5GT
 ## https://twitter.com/CyberSecInt/status/1152488402190831618<br><br><br><br><br>
