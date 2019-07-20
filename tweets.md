@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-20 05:22:18
+## Israel #surveillance firm #NSOgroup can mine data from major social media.
+## https://securityaffairs.co/wordpress/88638/intelligence/nso-group-mine-social-media.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1152448623927549953<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-20 06:00:49
 ## Kazakhstan government is now intercepting all HTTPS traffichttps://www.zdnet.com/article/kazakhstan-government-is-now-intercepting-all-https-traffic/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d32adf8eb25fa0001be7ad3&utm_medium=trueAnthem&utm_source=twitter …
