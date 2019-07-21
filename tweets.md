@@ -1,3 +1,7 @@
+# @Treadstone71LLC
+## 2019-07-21 22:10:06
+## Tekide Unveiled - APT34 (Muddywater - OilRig)https://cybershafarat.com/2019/07/12/tekide-unveiled/ …
+## https://twitter.com/Treadstone71LLC/status/1153064635190452225<br><br><br><br><br>
 # @bsmuir
 ## 2019-07-21 21:52:33
 ## Recent #APT34 #cyberespionage campaign leverages fake #LinkedIn profiles to snare users, includes some new #malware packages: #VALUEVAULT - #Golang version of "Windows Vault Password Dumper" browser credential dumpling tool. Via @F…https://lnkd.in/fghKaM3 https://lnkd.in/f2eHBgK 
