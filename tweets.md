@@ -1,3 +1,7 @@
+# @bsmuir
+## 2019-07-21 21:52:33
+## Recent #APT34 #cyberespionage campaign leverages fake #LinkedIn profiles to snare users, includes some new #malware packages: #VALUEVAULT - #Golang version of "Windows Vault Password Dumper" browser credential dumpling tool. Via @F…https://lnkd.in/fghKaM3 https://lnkd.in/f2eHBgK 
+## https://twitter.com/bsmuir/status/1153060220043706369<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-21 15:30:29
 ## #Cylance Operation Cleaver report debunked then - now they have AI? Really? "... starting from report name, letter from the CEO, down to the summary – the rhetoric of the report is bombastic and plays into this unrealistic model of Iran as an intl actor."http://ow.ly/JXtj30paXBD 
