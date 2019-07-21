@@ -1,3 +1,7 @@
+# @Treadstone71LLC
+## 2019-07-21 15:30:29
+## #Cylance Operation Cleaver report debunked then - now they have AI? Really? "... starting from report name, letter from the CEO, down to the summary – the rhetoric of the report is bombastic and plays into this unrealistic model of Iran as an intl actor."http://ow.ly/JXtj30paXBD 
+## https://twitter.com/Treadstone71LLC/status/1152964068338221056<br><br><br><br><br>
 # @MalwarePatrol
 ## 2019-07-21 15:15:05
 ## Okrum: Ke3chang group targets diplomatic missions. https://www.welivesecurity.com/2019/07/18/okrum-ke3chang-targets-diplomatic-missions/ … via @welivesecuritypic.twitter.com/HaplZc4sHg
