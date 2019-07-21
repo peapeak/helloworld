@@ -1,4 +1,8 @@
 # @CyberScoopNews
+## 2019-07-21 00:54:59
+## Former NSA contractor sentenced to 9 years for theft of government infohttps://hubs.ly/H0jTmTj0 
+## https://twitter.com/CyberScoopNews/status/1152743740303429632<br><br><br><br><br>
+# @CyberScoopNews
 ## 2019-07-21 03:15:00
 ## Bulgaria hacking suspect worked on government cybersecurity before tax agency breachhttps://hubs.ly/H0jTnz70 
 ## https://twitter.com/CyberScoopNews/status/1152778976202543104<br><br><br><br><br>
