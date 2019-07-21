@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-21 14:09:59
+## How the government and private sector can better defend against a cascading cyberattackhttps://hubs.ly/H0jTnz90 
+## https://twitter.com/CyberScoopNews/status/1152943810613325824<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-21 09:15:32
 ## Israel #surveillance firm #NSOgroup can mine data from major social media
