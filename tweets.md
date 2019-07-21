@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-21 09:15:32
+## Israel #surveillance firm #NSOgroup can mine data from major social media
+## https://securityaffairs.co/wordpress/88638/intelligence/nso-group-mine-social-media.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1152869709152444421<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-21 06:00:05
 ## #ThreatSpotlight: #Ratsnif - New Network Vermin from OceanLotus. The #OceanLotus Group (aka #APT32, #CobaltKitty) is using a suite of remote access trojans dubbed 'Ratsnif' to leverage new network attack capabilities. Learn more. https://bit.ly/2LvDY7U pic.twitter.com/kMVZhxJach
