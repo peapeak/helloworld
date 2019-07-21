@@ -1,3 +1,7 @@
+# @MalwarePatrol
+## 2019-07-21 15:15:05
+## Okrum: Ke3chang group targets diplomatic missions. https://www.welivesecurity.com/2019/07/18/okrum-ke3chang-targets-diplomatic-missions/ … via @welivesecuritypic.twitter.com/HaplZc4sHg
+## https://twitter.com/MalwarePatrol/status/1152960191362719746<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-21 11:00:12
 ## Flirting With IDA and APT28: This blog shares a methodology used to develop Hex-Rays' Interactive Disassembler (IDA) signatures created as part of pre-analysis for a recently published #APT28 sample. https://bit.ly/2S4v7Lo  #malware #securitypic.twitter.com/G1pp8QlLhi
