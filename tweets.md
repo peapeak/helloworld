@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-07-22 21:30:11
+## NEW! #InSecurityPodcast: @selectedwisdom on the World of Advanced Persistent Manipulators. In this week’s episode, @packmatt73 welcomes Clint Watts to talk about surviving in a #socialmedia world of #hackers, terrorists, #Russians, and #fakenews. OH MY! https://bit.ly/2SAt5TM pic.twitter.com/cD92HD4gve
+## https://twitter.com/cylanceinc/status/1153416977152663552<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-22 18:18:34
 ## New #APT34 campaign uses #LinkedIn to deliver fresh #malware
