@@ -1,3 +1,7 @@
+# @symantec
+## 2019-07-22 15:06:28
+## Our VP of Global Government Affairs & Policy, Jeff Greene, discussed #cybersecurity at the #AspenSecurity Forum with industry thought leaders last week.pic.twitter.com/xkyDjfapTX
+## https://twitter.com/symantec/status/1153320411993710592<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-22 16:07:22
 ## Tekide Unveiled APT34 (Muddywater OilRig)https://cybershafarat.com/2019/07/22/tekide-unveiled/ …
