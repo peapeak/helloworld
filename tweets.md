@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-22 08:07:07
+## @FireEye @FireEyeEMEA New #APT34 campaign uses #LinkedIn to deliver fresh #malware
+## https://securityaffairs.co/wordpress/88737/apt/apt34-cyberspionage-linkedin.html …
+## #securityaffairs #hacking #cyberespionage #APT
+## https://twitter.com/securityaffairs/status/1153214879978987520<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-22 09:15:34
 ## SwarmFarm scales up with AU$250,000 QLD government granthttps://www.zdnet.com/article/swarmfarm-scales-up-with-au250000-qld-government-grant/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d357eadb9415600019b3742&utm_medium=trueAnthem&utm_source=twitter …
