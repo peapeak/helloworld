@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-22 11:13:44
+## ICYMI: Former NSA contractor Hal Martin sentenced to 9 years for theft of government info https://hubs.ly/H0jTZPB0  by @shanvav
+## https://twitter.com/CyberScoopNews/status/1153261843462393856<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-22 08:07:07
 ## @FireEye @FireEyeEMEA New #APT34 campaign uses #LinkedIn to deliver fresh #malware
