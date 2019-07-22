@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-22 18:18:34
+## New #APT34 campaign uses #LinkedIn to deliver fresh #malware
+## https://securityaffairs.co/wordpress/88737/apt/apt34-cyberspionage-linkedin.html …
+## #securityaffairs #hacking #cyberespionage #APT
+## https://twitter.com/securityaffairs/status/1153368756086878209<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-22 19:18:59
 ## Opinion: When it comes to cybersecurity, the federal government is nowhere to be foundhttps://hubs.ly/H0jVyFY0 
