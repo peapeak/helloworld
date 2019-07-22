@@ -1,3 +1,11 @@
+# @Treadstone71LLC
+## 2019-07-22 12:34:51
+## The drip method of feeding you largely nothing #lab_dookhtegan keeps followers in suspense for nothing...our fight against the Iranian MOIS, exposing information about another shameful employee (number 18)
+## 
+## Hossein Mirzade fard  سید حسین میرزاده فرد
+## 
+## MOIS/APT34/Oilrig Hacker
+## https://twitter.com/Treadstone71LLC/status/1153282257123258375<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-22 11:13:44
 ## ICYMI: Former NSA contractor Hal Martin sentenced to 9 years for theft of government info https://hubs.ly/H0jTZPB0  by @shanvav
