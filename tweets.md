@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-22 13:04:50
+## Opinion: When it comes to cybersecurity, the federal government is nowhere to be foundhttps://hubs.ly/H0jV1D30 
+## https://twitter.com/CyberScoopNews/status/1153289801082257409<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-22 12:31:33
 ## As we promised for our fight against the Iranian Ministry of Intelligence, we are exposing information about another shameful employee (number 18) of this ministry. #lab_dookhtegan
