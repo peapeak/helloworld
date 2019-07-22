@@ -1,3 +1,8 @@
+# @Treadstone71LLC
+## 2019-07-22 14:28:41
+## Mr.Tekide - The open files on his role in APT34 / Muddywater / OilRig https://lnkd.in/gbJNrPF 
+## #muddywater #oilrig #intelligence #iran #hackinghttps://lnkd.in/gi_pY2X 
+## https://twitter.com/Treadstone71LLC/status/1153310904219365376<br><br><br><br><br>
 # @kaspersky
 ## 2019-07-22 14:16:11
 ## #Turla, a complex cyberattack platform focused almost entirely on diplomatic & governmental targets in the Middle East is evolving.
