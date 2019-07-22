@@ -1,3 +1,7 @@
+# @0xffff0800
+## 2019-07-22 14:46:12
+## APT28 outside you’re network.https://twitter.com/moscow_approach/status/1153133908986335233 …
+## https://twitter.com/0xffff0800/status/1153315312764411906<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-22 14:28:41
 ## Mr.Tekide - The open files on his role in APT34 / Muddywater / OilRig https://lnkd.in/gbJNrPF 
