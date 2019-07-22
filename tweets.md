@@ -1,4 +1,8 @@
 # @ZDNet
+## 2019-07-22 09:15:34
+## SwarmFarm scales up with AU$250,000 QLD government granthttps://www.zdnet.com/article/swarmfarm-scales-up-with-au250000-qld-government-grant/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d357eadb9415600019b3742&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1153232104995655680<br><br><br><br><br>
+# @ZDNet
 ## 2019-07-22 04:46:38
 ## SwarmFarm scales up with AU$250,000 QLD government grant https://zd.net/32Gh7fR  by @achanthadavong
 ## https://twitter.com/ZDNet/status/1153164423718002689<br><br><br><br><br>
