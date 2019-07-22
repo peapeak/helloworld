@@ -1,3 +1,9 @@
+# @FireEye
+## 2019-07-22 18:00:12
+## We'll see you on Thursday @ID_Cybertech #CyberTechMidwest with @VerodinInc for our panel where we'll give a briefing on the global threat landscape & why everyone should be concerned about it; not just big government or corporations.
+## 
+## >> Agenda: https://feye.io/2YsiijX pic.twitter.com/GjQU3HCFms
+## https://twitter.com/FireEye/status/1153364131581485057<br><br><br><br><br>
 # @threatpost
 ## 2019-07-22 16:30:45
 ## Cybercriminals were able to infiltrate Bulgaria's tax revenue office, lifting personal #data of 5 million Bulgarians. #databreachhttps://threatpost.com/government-hacks-russia-bulgaria/146587/ …
