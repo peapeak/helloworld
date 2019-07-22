@@ -1,3 +1,7 @@
+# @Treadstone71LLC
+## 2019-07-22 13:55:11
+## Tekide Unveiled APT34 (Muddywater OilRig)https://cybershafarat.com/?p=5361 
+## https://twitter.com/Treadstone71LLC/status/1153302471688826881<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-22 13:25:53
 ## New #APT34 campaign uses #LinkedIn to deliver fresh #malware
