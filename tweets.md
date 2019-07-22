@@ -1,5 +1,9 @@
 # @CyberScoopNews
 ## 2019-07-22 19:18:59
+## Opinion: When it comes to cybersecurity, the federal government is nowhere to be foundhttps://hubs.ly/H0jVyFY0 
+## https://twitter.com/CyberScoopNews/status/1153383959394476032<br><br><br><br><br>
+# @CyberScoopNews
+## 2019-07-22 19:18:59
 ## Ke3chang hacking campaign targeted diplomats from Slovakia, South America  https://hubs.ly/H0jVyGw0  by @jeffstone500pic.twitter.com/1QkyrMGPyd
 ## https://twitter.com/CyberScoopNews/status/1153383960979922945<br><br><br><br><br>
 # @symantec
