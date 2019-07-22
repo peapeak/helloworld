@@ -1,3 +1,15 @@
+# @JayTHL
+## 2019-07-22 05:54:12
+## It's a good time to bring the family together and talk about things.
+## 
+## Like what if the power stays out for 3 days?
+## A week?
+## 3 weeks?
+## Do you have plans?
+## Do you have food, water, contingencies? 
+## 
+## Talk to your kids about fiat currencies and iodine tablets.https://twitter.com/Bitterman59/status/1153180710691364865 …
+## https://twitter.com/JayTHL/status/1153181430471692288<br><br><br><br><br>
 # @cyberwar_15
 ## 2019-07-22 02:05:27
 ## #NorthKorea #APT #Lazarus #cryptocurrency 
