@@ -1,3 +1,7 @@
+# @threatpost
+## 2019-07-22 16:30:45
+## Cybercriminals were able to infiltrate Bulgaria's tax revenue office, lifting personal #data of 5 million Bulgarians. #databreachhttps://threatpost.com/government-hacks-russia-bulgaria/146587/ …
+## https://twitter.com/threatpost/status/1153341624090537984<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-22 16:45:01
 ## Tekide Unveiled APT34 (Muddywater OilRig) @ncsc_nl @NCSC @ccdcoe @CENTCOM @fbi @europol @interpolhttps://cybershafarat.com/2019/07/22/tekide-unveiled/ …
