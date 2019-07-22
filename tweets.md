@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-22 19:18:59
+## Ke3chang hacking campaign targeted diplomats from Slovakia, South America  https://hubs.ly/H0jVyGw0  by @jeffstone500pic.twitter.com/1QkyrMGPyd
+## https://twitter.com/CyberScoopNews/status/1153383960979922945<br><br><br><br><br>
 # @symantec
 ## 2019-07-22 18:00:07
 ## The reality of cloud adoption is complex. Join our Smart Gov: #CyberRedefined Luncheon where we'll break it down with government experts and cyber practitioners. https://symc.ly/2YlXNVQ pic.twitter.com/LbZImzjhSw
