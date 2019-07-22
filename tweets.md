@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-22 21:06:28
+## Israel #surveillance firm #NSOgroup can mine data from major social media
+## https://securityaffairs.co/wordpress/88638/intelligence/nso-group-mine-social-media.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1153411010151309314<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-22 21:30:11
 ## NEW! #InSecurityPodcast: @selectedwisdom on the World of Advanced Persistent Manipulators. In this week’s episode, @packmatt73 welcomes Clint Watts to talk about surviving in a #socialmedia world of #hackers, terrorists, #Russians, and #fakenews. OH MY! https://bit.ly/2SAt5TM pic.twitter.com/cD92HD4gve
