@@ -1,3 +1,11 @@
+# @Treadstone71LLC
+## 2019-07-22 13:00:21
+## Cross a vet with a hacker and what do you get?
+## 
+## Tekide Unveiled APT34 (Muddywater OilRig)
+## 
+## News report: Tekide Unveiled  The full Adversary Baseball Card from Treadstone 71: Baseball Cardhttps://cybershafarat.com/?p=5361 
+## https://twitter.com/Treadstone71LLC/status/1153288674311888897<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-22 13:04:50
 ## Opinion: When it comes to cybersecurity, the federal government is nowhere to be foundhttps://hubs.ly/H0jV1D30 
