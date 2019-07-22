@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-22 13:45:56
+## SwarmFarm scales up with AU$250,000 QLD government granthttps://www.zdnet.com/article/swarmfarm-scales-up-with-au250000-qld-government-grant/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d35bdfeb9415600019b3b22&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1153300146446393346<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-22 13:00:21
 ## Cross a vet with a hacker and what do you get?
