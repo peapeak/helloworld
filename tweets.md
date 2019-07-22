@@ -1,3 +1,7 @@
+# @symantec
+## 2019-07-22 18:00:07
+## The reality of cloud adoption is complex. Join our Smart Gov: #CyberRedefined Luncheon where we'll break it down with government experts and cyber practitioners. https://symc.ly/2YlXNVQ pic.twitter.com/LbZImzjhSw
+## https://twitter.com/symantec/status/1153364114040926208<br><br><br><br><br>
 # @FireEye
 ## 2019-07-22 18:00:12
 ## We'll see you on Thursday @ID_Cybertech #CyberTechMidwest with @VerodinInc for our panel where we'll give a briefing on the global threat landscape & why everyone should be concerned about it; not just big government or corporations.
