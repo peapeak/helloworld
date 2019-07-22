@@ -1,3 +1,7 @@
+# @Treadstone71LLC
+## 2019-07-22 16:45:01
+## Tekide Unveiled APT34 (Muddywater OilRig) @ncsc_nl @NCSC @ccdcoe @CENTCOM @fbi @europol @interpolhttps://cybershafarat.com/2019/07/22/tekide-unveiled/ …
+## https://twitter.com/Treadstone71LLC/status/1153345212615462912<br><br><br><br><br>
 # @symantec
 ## 2019-07-22 15:06:28
 ## Our VP of Global Government Affairs & Policy, Jeff Greene, discussed #cybersecurity at the #AspenSecurity Forum with industry thought leaders last week.pic.twitter.com/xkyDjfapTX
