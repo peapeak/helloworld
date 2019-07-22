@@ -1,3 +1,11 @@
+# @kaspersky
+## 2019-07-22 14:16:11
+## #Turla, a complex cyberattack platform focused almost entirely on diplomatic & governmental targets in the Middle East is evolving.
+## 
+## Recently it was spotted spreading through poisoned anti-internet censorship software.
+## 
+## Learn more: https://kas.pr/3tfc pic.twitter.com/QFu2tSXNEf
+## https://twitter.com/kaspersky/status/1153307757040275456<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-22 13:55:11
 ## Tekide Unveiled APT34 (Muddywater OilRig)https://cybershafarat.com/?p=5361 
