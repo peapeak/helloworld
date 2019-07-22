@@ -1,4 +1,13 @@
 # @Treadstone71LLC
+## 2019-07-22 12:31:33
+## As we promised for our fight against the Iranian Ministry of Intelligence, we are exposing information about another shameful employee (number 18) of this ministry. #lab_dookhtegan
+## 
+## "Hossein Mirzade fard  سید حسین میرزاده فرد"
+## MOIS/APT34/Oilrig Hacker
+## 
+## #PrettyWeak
+## https://twitter.com/Treadstone71LLC/status/1153281424902041600<br><br><br><br><br>
+# @Treadstone71LLC
 ## 2019-07-22 12:34:51
 ## The drip method of feeding you largely nothing #lab_dookhtegan keeps followers in suspense for nothing...our fight against the Iranian MOIS, exposing information about another shameful employee (number 18)
 ## 
