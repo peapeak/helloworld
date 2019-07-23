@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-23 18:16:22
+## Czech public radio says #Huawei #Czech Unit secretly collected data ...
+## https://securityaffairs.co/wordpress/88780/intelligence/huawei-czech-unit-espionage.html …
+## #securityaffairs #espionage #China
+## https://twitter.com/securityaffairs/status/1153730589201260544<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-07-23 18:30:17
 ## ~ China’s Dirty Secret - Intellectual Property Theft: Hackers have stolen masses of corporate and government secrets, with the aim to improve Chinese business and economic competitiveness. http://ow.ly/fF6C30p5K7C  #cybersecuritypic.twitter.com/sWdCLBtd1Z
