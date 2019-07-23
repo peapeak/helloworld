@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-23 11:10:06
+## Opinion: When it comes to cybersecurity, the federal government is nowhere to be foundhttps://hubs.ly/H0jWddY0 
+## https://twitter.com/CyberScoopNews/status/1153623317468893184<br><br><br><br><br>
 # @cyberwar_15
 ## 2019-07-23 08:01:08
 ## #NorthKorea #APT #Lazarus
