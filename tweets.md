@@ -1,3 +1,7 @@
+# @TrendMicroRSRCH
+## 2019-07-23 11:00:01
+## A recent #spam campaign delivers different documents that purport to come from financial institutions and governmental organizations. More on the payloads here:http://bit.ly/2O99taF 
+## https://twitter.com/TrendMicroRSRCH/status/1153620778107265024<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-23 07:05:11
 ## Maduro government blames Venezuela blackout on Electromagnetic  attackhttps://p.dw.com/p/3MZUs 
