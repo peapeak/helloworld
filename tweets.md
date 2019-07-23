@@ -1,4 +1,8 @@
 # @Treadstone71LLC
+## 2019-07-23 22:01:42
+## Tekide Unveiled APT34 #Muddywater #OilRig http://ow.ly/Gmin30pc9c9 
+## https://twitter.com/Treadstone71LLC/status/1153787297747226628<br><br><br><br><br>
+# @Treadstone71LLC
 ## 2019-07-23 23:20:04
 ## The Iranian hacker “Mr.Tekide” who aided cyber espionage attacks on the US unmasked by Treadstone 71. Scroll down for the slideshow and link to the PDF version of this filehttp://ow.ly/Oh4U30pc9Vp 
 ## https://twitter.com/Treadstone71LLC/status/1153807019515641856<br><br><br><br><br>
