@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-07-23 18:30:17
+## ~ China’s Dirty Secret - Intellectual Property Theft: Hackers have stolen masses of corporate and government secrets, with the aim to improve Chinese business and economic competitiveness. http://ow.ly/fF6C30p5K7C  #cybersecuritypic.twitter.com/sWdCLBtd1Z
+## https://twitter.com/CyberSecInt/status/1153734091835150336<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-23 16:08:51
 ## Czech public radio says Huawei Czech Unit secretly collected datahttps://securityaffairs.co/wordpress/88780/intelligence/huawei-czech-unit-espionage.html …
