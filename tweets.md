@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-23 14:00:54
+## Czech public radio says #Huawei #Czech Unit secretly collected data
+## https://securityaffairs.co/wordpress/88780/intelligence/huawei-czech-unit-espionage.html …
+## #securityaffairs #espionage #China
+## https://twitter.com/securityaffairs/status/1153666298632691712<br><br><br><br><br>
 # @attcyber
 ## 2019-07-23 13:03:27
 ## #Ransomware has reached crisis level for state and local governments; National Association of State Chief Information Officers says external help is needed to fight problem http://ow.ly/feLO50v90rE  @govtechnews
