@@ -1,3 +1,12 @@
+# @cyberwar_15
+## 2019-07-23 08:01:08
+## #NorthKorea #APT #Lazarus
+## @Timele9527 @RedDrip7 @chrisdoman @Rmy_Reserve @_jsoo_ @navSi16 
+## 8d673685d8e99fd2b6a23a6651bccb6b
+## castorbyg[.]dk/wp-content/themes/302.php
+## matthias-dlugi[.]de/wp-content/themes/twentyfifteen/helper.php
+## locphuland[.]com/wp-content/themes/hikma/total.phppic.twitter.com/rP157vC9XV
+## https://twitter.com/cyberwar_15/status/1153575761221046273<br><br><br><br><br>
 # @TrendMicroRSRCH
 ## 2019-07-23 11:00:01
 ## A recent #spam campaign delivers different documents that purport to come from financial institutions and governmental organizations. More on the payloads here:http://bit.ly/2O99taF 
