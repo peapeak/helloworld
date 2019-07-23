@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-07-23 19:00:31
+## NEW! #InSecurityPodcast: @selectedwisdom on the World of Advanced Persistent Manipulators. In this week’s episode, @packmatt73 welcomes Clint Watts to talk about surviving in a #socialmedia world of #hackers, terrorists, #Russians, and #fakenews. OH MY! https://bit.ly/2SAt5TM pic.twitter.com/kCJvAYTzUx
+## https://twitter.com/cylanceinc/status/1153741699933511680<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-23 18:16:22
 ## Czech public radio says #Huawei #Czech Unit secretly collected data ...
