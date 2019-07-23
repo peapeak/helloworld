@@ -1,4 +1,10 @@
 # @securityaffairs
+## 2019-07-23 06:40:43
+## @GiulioTerzi @mrtlgu Czech public radio says #Huawei #Czech Unit secretly collected data
+## https://securityaffairs.co/wordpress/88780/intelligence/huawei-czech-unit-espionage.html …
+## #securityaffairs #espionage #China
+## https://twitter.com/securityaffairs/status/1153555522286759937<br><br><br><br><br>
+# @securityaffairs
 ## 2019-07-23 06:48:01
 ## New #APT34 campaign uses #LinkedIn to deliver fresh #malware
 ## https://securityaffairs.co/wordpress/88737/apt/apt34-cyberspionage-linkedin.html …
