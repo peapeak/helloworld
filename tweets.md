@@ -1,3 +1,8 @@
+# @attcyber
+## 2019-07-23 13:03:27
+## #Ransomware has reached crisis level for state and local governments; National Association of State Chief Information Officers says external help is needed to fight problem http://ow.ly/feLO50v90rE  @govtechnews
+## #cybersecurity #ITpic.twitter.com/9XH4yFwxx2
+## https://twitter.com/attcyber/status/1153651839771922432<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-23 12:20:08
 ## Tekide Unveiled #APT34 #Muddywater #OilRig. Student of @jabeh_siah
