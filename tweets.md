@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-23 20:11:04
+## New #APT34 campaign uses #LinkedIn to deliver fresh #malware
+## https://securityaffairs.co/wordpress/88737/apt/apt34-cyberspionage-linkedin.html …
+## #securityaffairs #hacking #cyberespionage #APT
+## https://twitter.com/securityaffairs/status/1153759456292986880<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-23 19:00:31
 ## NEW! #InSecurityPodcast: @selectedwisdom on the World of Advanced Persistent Manipulators. In this week’s episode, @packmatt73 welcomes Clint Watts to talk about surviving in a #socialmedia world of #hackers, terrorists, #Russians, and #fakenews. OH MY! https://bit.ly/2SAt5TM pic.twitter.com/kCJvAYTzUx
