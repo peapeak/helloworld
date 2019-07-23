@@ -1,4 +1,10 @@
 # @securityaffairs
+## 2019-07-23 06:48:01
+## New #APT34 campaign uses #LinkedIn to deliver fresh #malware
+## https://securityaffairs.co/wordpress/88737/apt/apt34-cyberspionage-linkedin.html …
+## #securityaffairs #hacking #cyberespionage #APT
+## https://twitter.com/securityaffairs/status/1153557361627455488<br><br><br><br><br>
+# @securityaffairs
 ## 2019-07-22 21:06:28
 ## Israel #surveillance firm #NSOgroup can mine data from major social media
 ## https://securityaffairs.co/wordpress/88638/intelligence/nso-group-mine-social-media.html …
