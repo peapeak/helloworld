@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-07-23 15:36:00
+## Hear from top leaders in government and tech discuss the most important #cybersecurity priorities at #CyberTalks 10/24. Register and save your spot: https://hubs.ly/H0jzx3D0 pic.twitter.com/D34kZQcIja
+## https://twitter.com/CyberScoopNews/status/1153690233533341697<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-23 14:00:54
 ## Czech public radio says #Huawei #Czech Unit secretly collected data
