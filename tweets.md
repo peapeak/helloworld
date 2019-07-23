@@ -1,3 +1,9 @@
+# @Treadstone71LLC
+## 2019-07-23 12:20:08
+## Tekide Unveiled #APT34 #Muddywater #OilRig. Student of @jabeh_siah
+## Mr.Tekide crypters used to hide malware payload used in espionage hacks against the West, EU, Israel, Saudi, UAE, etc.
+## http://ow.ly/3mwd30pbHEE pic.twitter.com/e1MbkmVgOK
+## https://twitter.com/Treadstone71LLC/status/1153640940508200966<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-23 11:10:06
 ## Opinion: When it comes to cybersecurity, the federal government is nowhere to be foundhttps://hubs.ly/H0jWddY0 
