@@ -1,4 +1,8 @@
 # @Treadstone71LLC
+## 2019-07-23 07:05:11
+## Maduro government blames Venezuela blackout on Electromagnetic  attackhttps://p.dw.com/p/3MZUs 
+## https://twitter.com/Treadstone71LLC/status/1153561681324314624<br><br><br><br><br>
+# @Treadstone71LLC
 ## 2019-07-23 07:14:26
 ## Government Marine Piracy, a phenomenon that the mullahs regime bring to the world at the same time as the collapse of their government in Iranpic.twitter.com/aHCpmsAvqW
 ## https://twitter.com/Treadstone71LLC/status/1153564008882081792<br><br><br><br><br>
