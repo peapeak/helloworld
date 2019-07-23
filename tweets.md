@@ -1,3 +1,9 @@
+# @cyberwar_15
+## 2019-07-23 15:11:48
+## #NorthKorea #APT #Lazarus #cryptocurrency
+## @blackorbird @Timele9527 @RedDrip7 @Rmy_Reserve @navSi16 @_jsoo_ @Arkbird_SOLG
+## https://blog.alyac.co.kr/2431 
+## https://twitter.com/cyberwar_15/status/1153684141247885312<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-07-23 15:36:00
 ## Hear from top leaders in government and tech discuss the most important #cybersecurity priorities at #CyberTalks 10/24. Register and save your spot: https://hubs.ly/H0jzx3D0 pic.twitter.com/D34kZQcIja
