@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-24 18:24:03
+## APT-doxing group expose APT17 as Jinan bureau of China's Security Ministry https://zd.net/2Yf8PIz  by @campuscodi
+## https://twitter.com/ZDNet/status/1154094909084749824<br><br><br><br><br>
 # @MalwarePatrol
 ## 2019-07-24 18:00:56
 ## ESET researchers reported that China-linked cyberespionage group APT15 has been using a previously undocumented backdoor for more than two years. https://securityaffairs.co/wordpress/88824/apt/apt15-okrum-backdoor.html …pic.twitter.com/PFfzfygsBx
