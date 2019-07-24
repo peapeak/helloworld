@@ -1,3 +1,9 @@
+# @kaspersky
+## 2019-07-24 14:15:06
+## German industry is under attack from #Winnti - a "very, very persistent group."
+## 
+## Read the full story from @br24 here https://web.br.de/interaktiv/winnti/english/ …
+## https://twitter.com/kaspersky/status/1154032261034958850<br><br><br><br><br>
 # @cyb3rops
 ## 2019-07-24 16:01:50
 ## Resurgent Iron Liberty Targeting Energy Sector
