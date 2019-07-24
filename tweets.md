@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-24 10:25:11
+## #China-Linked #APT15 group is using a previously undocumented #backdoor
+## https://securityaffairs.co/wordpress/88824/apt/apt15-okrum-backdoor.html …
+## #securityaffairs #hacking #cyberespionage #malware
+## https://twitter.com/securityaffairs/status/1153974400682790912<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-24 10:00:12
 ## NEW! #InSecurityPodcast: @selectedwisdom on the World of Advanced Persistent Manipulators. In this week’s episode, @packmatt73 welcomes Clint Watts to talk about surviving in a #socialmedia world of #hackers, terrorists, #Russians, and #fakenews. OH MY! https://bit.ly/2SAt5TM pic.twitter.com/d0ag82h84J
