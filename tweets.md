@@ -1,3 +1,13 @@
+# @cyb3rops
+## 2019-07-24 16:33:16
+## MCMD Malware Analysis
+## 
+## 3rd report
+## 
+## by @Secureworks
+## #EnergeticBear #Dragonfly #CrouchingYeti
+## https://www.secureworks.com/research/mcmd-malware-analysis …
+## https://twitter.com/cyb3rops/status/1154067031697842177<br><br><br><br><br>
 # @kaspersky
 ## 2019-07-24 14:15:06
 ## German industry is under attack from #Winnti - a "very, very persistent group."
