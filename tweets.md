@@ -1,4 +1,17 @@
 # @cyb3rops
+## 2019-07-24 16:41:01
+## Detection nation state actors with log management and a public #Sigma rule from 2018
+## 
+## > generic signatures rule 
+## #EnergeticBear #Dragonfly #CrouchingYeti
+## 
+## Report
+## https://www.secureworks.com/research/updated-karagany-malware-targets-energy-sector …
+## 
+## Sigma Rule
+## https://github.com/Neo23x0/sigma/blob/master/rules/windows/process_creation/win_susp_procdump.yml …pic.twitter.com/Ok2Xu1n6pq
+## https://twitter.com/cyb3rops/status/1154068983403995136<br><br><br><br><br>
+# @cyb3rops
 ## 2019-07-24 16:22:34
 ## Updated Karagany Malware Targets Energy Sector
 ## 
