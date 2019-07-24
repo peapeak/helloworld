@@ -1,3 +1,7 @@
+# @securityaffairs
+## 2019-07-24 05:44:25
+## China-Linked APT15 group is using a previously undocumented backdoorhttps://securityaffairs.co/wordpress/88824/apt/apt15-okrum-backdoor.html …
+## https://twitter.com/securityaffairs/status/1153903745102745600<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-23 22:01:42
 ## Tekide Unveiled APT34 #Muddywater #OilRig http://ow.ly/Gmin30pc9c9 
