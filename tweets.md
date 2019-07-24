@@ -1,3 +1,7 @@
+# @MalwarePatrol
+## 2019-07-24 18:00:56
+## ESET researchers reported that China-linked cyberespionage group APT15 has been using a previously undocumented backdoor for more than two years. https://securityaffairs.co/wordpress/88824/apt/apt15-okrum-backdoor.html …pic.twitter.com/PFfzfygsBx
+## https://twitter.com/MalwarePatrol/status/1154089093598498816<br><br><br><br><br>
 # @ESET
 ## 2019-07-24 17:45:02
 ## Last week, @esetresearch announced their discovery of new malware families linked to the #Ke3chang group. Get the white paper here: https://bit.ly/2SzjJr2  #Okrumpic.twitter.com/FarWvXYoZ3
