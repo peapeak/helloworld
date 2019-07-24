@@ -1,3 +1,11 @@
+# @cyb3rops
+## 2019-07-24 16:01:50
+## Resurgent Iron Liberty Targeting Energy Sector
+## 
+## by @secureworks
+## #EnergeticBear #Dragonfly #CrouchingYeti
+## https://www.secureworks.com/research/resurgent-iron-liberty-targeting-energy-sector …
+## https://twitter.com/cyb3rops/status/1154059119835385858<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-24 14:12:11
 ## #China-Linked #APT15 group is using a previously undocumented #backdoor
