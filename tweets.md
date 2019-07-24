@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-24 14:12:11
+## #China-Linked #APT15 group is using a previously undocumented #backdoor
+## https://securityaffairs.co/wordpress/88824/apt/apt15-okrum-backdoor.html …
+## #securityaffairs #hacking #cyberespionage #malware
+## https://twitter.com/securityaffairs/status/1154031527245692930<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-24 13:54:06
 ## Far-right extremism to be included in official terror warnings alongside Islamist threat for first time, government announces | The Independenthttp://ow.ly/ekgN30pcqVV 
