@@ -1,3 +1,11 @@
+# @cylanceinc
+## 2019-07-24 10:00:12
+## NEW! #InSecurityPodcast: @selectedwisdom on the World of Advanced Persistent Manipulators. In this week’s episode, @packmatt73 welcomes Clint Watts to talk about surviving in a #socialmedia world of #hackers, terrorists, #Russians, and #fakenews. OH MY! https://bit.ly/2SAt5TM pic.twitter.com/d0ag82h84J
+## https://twitter.com/cylanceinc/status/1153968113890877440<br><br><br><br><br>
+# @Arkbird_SOLG
+## 2019-07-24 09:54:05
+## So hard to prove more on this but Blackshades RAT, the Cyberespionage of the Italian services of Samsung and the report of using this tool demonstrates the common and increased usage for this. Rest this an opportunity that North Korea have be used.pic.twitter.com/nNBme3tiOr
+## https://twitter.com/Arkbird_SOLG/status/1153966575592120320<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-07-24 09:02:08
 ## #APT
