@@ -1,4 +1,14 @@
 # @cyb3rops
+## 2019-07-24 16:22:34
+## Updated Karagany Malware Targets Energy Sector
+## 
+## 2nd report
+## 
+## by @Secureworks
+## #EnergeticBear #Dragonfly #CrouchingYeti
+## https://www.secureworks.com/research/updated-karagany-malware-targets-energy-sector …
+## https://twitter.com/cyb3rops/status/1154064338392666114<br><br><br><br><br>
+# @cyb3rops
 ## 2019-07-24 16:33:16
 ## MCMD Malware Analysis
 ## 
