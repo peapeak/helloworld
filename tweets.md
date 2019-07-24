@@ -1,3 +1,9 @@
+# @Securelist
+## 2019-07-24 13:01:05
+## German industry is under attack from #Winnti - a "very, very persistent group."
+## 
+## Read the full story from @br24 here https://web.br.de/interaktiv/winnti/english/ …
+## https://twitter.com/Securelist/status/1154013632721805312<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-24 12:23:50
 ## Tekide Unveiled #APT34 #Muddywater #OilRig
