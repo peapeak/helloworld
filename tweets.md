@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-24 19:39:17
+## #China-Linked #APT15 group is using a previously undocumented #backdoor
+## https://securityaffairs.co/wordpress/88824/apt/apt15-okrum-backdoor.html …
+## #securityaffairs #hacking #cyberespionage #malware
+## https://twitter.com/securityaffairs/status/1154113845713149952<br><br><br><br><br>
 # @JayTHL
 ## 2019-07-24 23:01:54
 ## Of course there's also the little issue of it's not an authority granted to our government to dictate in what manner citizens communicate.https://twitter.com/mattblaze/status/1153715320630198273?s=19 …
