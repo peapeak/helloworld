@@ -1,3 +1,7 @@
+# @JayTHL
+## 2019-07-24 23:01:54
+## Of course there's also the little issue of it's not an authority granted to our government to dictate in what manner citizens communicate.https://twitter.com/mattblaze/status/1153715320630198273?s=19 …
+## https://twitter.com/JayTHL/status/1154164836340658176<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-24 18:24:03
 ## APT-doxing group expose APT17 as Jinan bureau of China's Security Ministry https://zd.net/2Yf8PIz  by @campuscodi
