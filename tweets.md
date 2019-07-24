@@ -1,3 +1,7 @@
+# @Treadstone71LLC
+## 2019-07-24 13:54:06
+## Far-right extremism to be included in official terror warnings alongside Islamist threat for first time, government announces | The Independenthttp://ow.ly/ekgN30pcqVV 
+## https://twitter.com/Treadstone71LLC/status/1154026975075475456<br><br><br><br><br>
 # @Securelist
 ## 2019-07-24 13:01:05
 ## German industry is under attack from #Winnti - a "very, very persistent group."
