@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-07-25 11:55:04
+## A former US government contractor has been sentenced to nine years behind bars after stealing as much as 50TB of sensitive information over two decades | infosecurityhttp://ow.ly/cSWV30pbJeZ 
+## https://twitter.com/CyberSecInt/status/1154359409096744962<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-25 08:08:34
 ## #China-Linked #APT15 group is using a previously undocumented #backdoor
