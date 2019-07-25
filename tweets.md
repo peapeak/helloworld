@@ -1,3 +1,8 @@
+# @Arkbird_SOLG
+## 2019-07-25 15:17:02
+## Some interesting samples spotted by the YARA rules of various groups : APT28, MiniDuke (APT29), RAT Newcore, TA17-293A, APT-C-01, Leviathan ...
+## The list is on CSV.
+## https://twitter.com/Arkbird_SOLG/status/1154410236117172224<br><br><br><br><br>
 # @FireEye
 ## 2019-07-25 17:42:18
 ## Tune in at 12pm PT/3pm ET to watch our latest #StateOfTheHack episode. @cglyer and @ItsReallyNick speak with @BarryV on #FIN7, #APT34 targeting organizations via LinkedIn messaging, and more!pic.twitter.com/pXxTzkZiWX
