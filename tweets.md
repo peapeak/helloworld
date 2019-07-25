@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-07-25 14:01:15
+## ~ As Latin American companies and governments race to embrace the Internet, #cybersecurity and the related risks of #cybercrime risk being ignored. http://ow.ly/Jp8I50va6CN pic.twitter.com/1GZ68Zw74T
+## https://twitter.com/CyberSecInt/status/1154391162276450304<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-25 13:46:05
 ## APT-doxing group exposes APT17 as Jinan bureau of China's Security Ministryhttps://www.zdnet.com/article/apt-doxing-group-expose-apt17-as-jinan-bureau-of-chinas-security-ministry/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d39b283595b5a0001c31022&utm_medium=trueAnthem&utm_source=twitter …
