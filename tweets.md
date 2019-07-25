@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-25 13:46:05
+## APT-doxing group exposes APT17 as Jinan bureau of China's Security Ministryhttps://www.zdnet.com/article/apt-doxing-group-expose-apt17-as-jinan-bureau-of-chinas-security-ministry/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d39b283595b5a0001c31022&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1154387347754143744<br><br><br><br><br>
 # @FireEye
 ## 2019-07-25 13:00:14
 ## We hope to see you in an hour if you're attending #CyberTechMidwest! We'll be on a panel with @VerodinInc and #CISOs in the midwest discussing the global #threatlandscape and how it impacts more than big governments and corporations.
