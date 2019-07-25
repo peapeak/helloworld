@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-07-25 08:08:34
+## #China-Linked #APT15 group is using a previously undocumented #backdoor
+## https://securityaffairs.co/wordpress/88824/apt/apt15-okrum-backdoor.html …
+## #securityaffairs #hacking #cyberespionage #malware
+## https://twitter.com/securityaffairs/status/1154302407754600449<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-25 08:00:16
 ## #ThreatSpotlight: #Ratsnif - New Network Vermin from OceanLotus. The #OceanLotus Group (aka #APT32, #CobaltKitty) is using a suite of remote access trojans dubbed 'Ratsnif' to leverage new network attack capabilities. Learn more. https://bit.ly/2LvDY7U pic.twitter.com/ODn0vsjlE2
