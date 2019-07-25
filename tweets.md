@@ -1,4 +1,10 @@
 # @FireEye
+## 2019-07-25 19:00:11
+## WEBINAR | Join @FireEye on 8/1 with #cyberdefense experts from @NYSDHSES and @DYNTEK to learn how local governments can protect their election infrastructure against #cyberthreats.
+## 
+## >> Register: https://feye.io/2JPueE1 pic.twitter.com/taKs2zxkJp
+## https://twitter.com/FireEyePartners/status/1154466392021688320<br><br><br><br><br>
+# @FireEye
 ## 2019-07-25 19:03:11
 ## .@cglyer and @ItsReallyNick speak with @BarryV on #FIN7, #APT34 targeting organizations via LinkedIn messaging, and more on this latest #StateOfTheHack.
 ## https://twitter.com/FireEye/status/1154467147076128769<br><br><br><br><br>
