@@ -1,3 +1,9 @@
+# @FireEye
+## 2019-07-25 13:00:14
+## We hope to see you in an hour if you're attending #CyberTechMidwest! We'll be on a panel with @VerodinInc and #CISOs in the midwest discussing the global #threatlandscape and how it impacts more than big governments and corporations.
+## 
+## >> Agenda: https://feye.io/2Yf0OD9 pic.twitter.com/A7sq0pqAl1
+## https://twitter.com/FireEye/status/1154375809064472576<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-25 12:00:24
 ## Flirting With IDA and APT28: This blog shares a methodology used to develop Hex-Rays' Interactive Disassembler (IDA) signatures created as part of pre-analysis for a recently published #APT28 sample. https://bit.ly/2S4v7Lo  #malware #securitypic.twitter.com/Rk35nKUBQ7
