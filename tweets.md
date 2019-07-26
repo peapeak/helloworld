@@ -1,3 +1,7 @@
+# @VK_Intel
+## 2019-07-26 14:05:00
+## It is, indeed, very active targeting Ukrainian military and government lately. They are not the most sophisticated; however, they are pretty successful.
+## https://twitter.com/VK_Intel/status/1154754496347746304<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-07-26 18:30:10
 ## ~ As Latin American companies and governments race to embrace the Internet, #cybersecurity and the related risks of #cybercrime risk being ignored. (link: http://ow.ly/Jp8I50va6CN ) http://ow.ly/Jp8I50va6CN pic.twitter.com/RtSfcglZ1D
