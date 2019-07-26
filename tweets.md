@@ -1,3 +1,10 @@
+# @RedDrip7
+## 2019-07-26 10:12:48
+## From the recent attack by #Gordon Group, which used a new method of obfuscating macros.
+## Then, they get the code in combination with http://bit.ly  + blogspot + 3 times pastebin and release #RevengeRAT at the end.
+## Our report link：
+## https://ti.qianxin.com/blog/articles/gorgon-group-campaign-aggah-with-pastebin/ …pic.twitter.com/36sBrTglxS
+## https://twitter.com/RedDrip7/status/1154696058846322688<br><br><br><br><br>
 # @James_inthe_box
 ## 2019-07-26 13:54:46
 ## Possible #gorgon #group
