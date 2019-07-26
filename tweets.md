@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-07-26 09:40:24
+## Maybe, I think that these group have a correct database and valid informations for have good maturity to designate that the better targets with the better rate of success. This APT is very active actually on Ukraine.https://securityaffairs.co/wordpress/86561/apt/gamaredon-eastern-europe-attacks.html …
+## https://twitter.com/Arkbird_SOLG/status/1154687907703267328<br><br><br><br><br>
 # @Timele9527
 ## 2019-07-26 01:53:05
 ## #APT #Gamaredon
