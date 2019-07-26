@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-07-26 18:30:10
+## ~ As Latin American companies and governments race to embrace the Internet, #cybersecurity and the related risks of #cybercrime risk being ignored. (link: http://ow.ly/Jp8I50va6CN ) http://ow.ly/Jp8I50va6CN pic.twitter.com/RtSfcglZ1D
+## https://twitter.com/CyberSecInt/status/1154821225253875712<br><br><br><br><br>
 # @RedDrip7
 ## 2019-07-26 10:12:48
 ## From the recent attack by #Gordon Group, which used a new method of obfuscating macros.
