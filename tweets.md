@@ -1,3 +1,8 @@
+# @James_inthe_box
+## 2019-07-26 13:54:46
+## Possible #gorgon #group
+## https://ti.qianxin.com/blog/articles/gorgon-group-campaign-aggah-with-pastebin/ …
+## https://twitter.com/James_inthe_box/status/1154751917710430210<br><br><br><br><br>
 # @securityaffairs
 ## 2019-07-26 09:23:52
 ## China-Linked APT15 group is using a previously undocumented backdoorhttps://securityaffairs.co/wordpress/88824/apt/apt15-okrum-backdoor.html …
