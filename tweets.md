@@ -1,3 +1,8 @@
+# @Rmy_Reserve
+## 2019-07-26 03:20:03
+## good analysis of #Gamaredon #APT
+## @Arkbird_SOLGhttps://twitter.com/Arkbird_SOLG/status/1154587261595475968 …
+## https://twitter.com/Rmy_Reserve/status/1154592187809579009<br><br><br><br><br>
 # @FireEye
 ## 2019-07-25 19:00:11
 ## WEBINAR | Join @FireEye on 8/1 with #cyberdefense experts from @NYSDHSES and @DYNTEK to learn how local governments can protect their election infrastructure against #cyberthreats.
