@@ -1,3 +1,11 @@
+# @Timele9527
+## 2019-07-26 01:53:05
+## #APT #Gamaredon
+## ITW:
+## e6c7740e22a800c4fd5bad5e3e530f91
+## FileName: стратком.doc
+## @VK_Intel @HONKONE_Kpic.twitter.com/nYjuqGwXxb
+## https://twitter.com/Timele9527/status/1154570300635303937<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-07-26 03:00:29
 ## #APT #Gamaredon 
