@@ -1,3 +1,8 @@
+# @Arkbird_SOLG
+## 2019-07-26 03:00:29
+## #APT #Gamaredon 
+## Use the NATO event (20 Jul. 2019) about the seizure of two commercial ships in the Strait of Hormuz in Iran. This uses the computer name and the serial of the hard disk (C:) for identifying the victim and drop the PE (list of valid links).pic.twitter.com/D0yYo0YtK2
+## https://twitter.com/Arkbird_SOLG/status/1154587261595475968<br><br><br><br><br>
 # @Unit42_Intel
 ## 2019-07-26 02:56:33
 ## Our principal researcher @0xVK explains how data science can be used to hunt for cyber threats. To learn how we leveraged these tools in our investigation of the #OceanLotus group, read the full research report: https://unit42.paloaltonetworks.com/tracking-oceanlotus-new-downloader-kerrdown/ … #datasciencepic.twitter.com/nhcGX5VIWn
