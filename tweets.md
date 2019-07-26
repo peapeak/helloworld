@@ -1,3 +1,7 @@
+# @securityaffairs
+## 2019-07-26 09:23:52
+## China-Linked APT15 group is using a previously undocumented backdoorhttps://securityaffairs.co/wordpress/88824/apt/apt15-okrum-backdoor.html …
+## https://twitter.com/securityaffairs/status/1154683743627599872<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-07-26 09:40:24
 ## Maybe, I think that these group have a correct database and valid informations for have good maturity to designate that the better targets with the better rate of success. This APT is very active actually on Ukraine.https://securityaffairs.co/wordpress/86561/apt/gamaredon-eastern-europe-attacks.html …
