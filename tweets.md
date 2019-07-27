@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-07-27 06:00:04
+## NEW! #InSecurityPodcast: @selectedwisdom on the World of Advanced Persistent Manipulators. In this week’s episode, @packmatt73 welcomes Clint Watts to talk about surviving in a #socialmedia world of #hackers, terrorists, #Russians, and #fakenews. OH MY! https://bit.ly/2SAt5TM pic.twitter.com/ayqx2rQiJS
+## https://twitter.com/cylanceinc/status/1154994844940587013<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-27 16:02:10
 ## The #Singapore government has claimed that a #Chinese tanker carrying LPG has been suspended in connection with US sanctions.
