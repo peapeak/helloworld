@@ -1,4 +1,9 @@
 # @Treadstone71LLC
+## 2019-07-27 16:05:52
+## The #Singapore government has claimed that a #Chinese tanker carrying LPG has been suspended in connection with US sanctions.
+##  Singapore authorities claim that it is the second Chinese tanker to be seized last week due to Iranian gas shipmentshttps://lnkd.in/ex_WnwM 
+## https://twitter.com/Treadstone71LLC/status/1155147297866620930<br><br><br><br><br>
+# @Treadstone71LLC
 ## 2019-07-27 18:33:20
 ## His family owed nine thousand rial to the government sometime around 1970. #hypocrite
 ## This indicates that Suleimani’s relatives were landless peasants who initially benefitted from the Shah’s land-reform program of 1962.http://ow.ly/rD7430peaA4 
