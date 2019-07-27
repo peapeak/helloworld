@@ -1,3 +1,8 @@
+# @Treadstone71LLC
+## 2019-07-27 18:33:20
+## His family owed nine thousand rial to the government sometime around 1970. #hypocrite
+## This indicates that Suleimani’s relatives were landless peasants who initially benefitted from the Shah’s land-reform program of 1962.http://ow.ly/rD7430peaA4 
+## https://twitter.com/Treadstone71LLC/status/1155184412704813058<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-27 06:00:04
 ## NEW! #InSecurityPodcast: @selectedwisdom on the World of Advanced Persistent Manipulators. In this week’s episode, @packmatt73 welcomes Clint Watts to talk about surviving in a #socialmedia world of #hackers, terrorists, #Russians, and #fakenews. OH MY! https://bit.ly/2SAt5TM pic.twitter.com/ayqx2rQiJS
