@@ -1,3 +1,8 @@
+# @Treadstone71LLC
+## 2019-07-27 16:02:10
+## The #Singapore government has claimed that a #Chinese tanker carrying LPG has been suspended in connection with US sanctions.
+##  Singapore authorities claim that it is the second Chinese tanker to be seized last week due to Iranian gas shipments.pic.twitter.com/WbRKxjNUB6
+## https://twitter.com/Treadstone71LLC/status/1155146369532944385<br><br><br><br><br>
 # @VK_Intel
 ## 2019-07-26 14:05:00
 ## It is, indeed, very active targeting Ukrainian military and government lately. They are not the most sophisticated; however, they are pretty successful.
