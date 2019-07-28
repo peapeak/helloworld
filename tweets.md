@@ -1,4 +1,11 @@
 # @Treadstone71LLC
+## 2019-07-28 12:15:33
+## Mr.Tekide Unveiled #APT34 #Muddywater #OilRig - #crypters #ARGBED
+## https://lnkd.in/eb3vuMT 
+## 
+## The writer of many crypters used in attacks against the US, Israel, KSA, Gulf States, critical infrastructures https://lnkd.in/eZK5hip 
+## https://twitter.com/Treadstone71LLC/status/1155451724783636480<br><br><br><br><br>
+# @Treadstone71LLC
 ## 2019-07-27 16:05:52
 ## The #Singapore government has claimed that a #Chinese tanker carrying LPG has been suspended in connection with US sanctions.
 ##  Singapore authorities claim that it is the second Chinese tanker to be seized last week due to Iranian gas shipmentshttps://lnkd.in/ex_WnwM 
