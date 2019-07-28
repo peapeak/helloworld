@@ -1,3 +1,7 @@
+# @cahlberg
+## 2019-07-28 15:26:41
+## China and Russia governments are same sh*t dictatorshttps://twitter.com/maximeristavi/status/1155116719792435201 …
+## https://twitter.com/cahlberg/status/1155499824659255296<br><br><br><br><br>
 # @kaspersky
 ## 2019-07-28 01:00:03
 ## German industry is under attack from #Winnti - a "very, very persistent group."
