@@ -1,3 +1,7 @@
+# @Treadstone71LLC
+## 2019-07-28 21:45:04
+## Tekide Unveiled APT34 (Muddywater OilRig) - The Cyber Shafarat - Treadstone 71http://ow.ly/GmU130peAcU 
+## https://twitter.com/Treadstone71LLC/status/1155595050140745728<br><br><br><br><br>
 # @cahlberg
 ## 2019-07-28 15:26:41
 ## China and Russia governments are same sh*t dictatorshttps://twitter.com/maximeristavi/status/1155116719792435201 …
