@@ -1,3 +1,9 @@
+# @kaspersky
+## 2019-07-28 01:00:03
+## German industry is under attack from #Winnti - a "very, very persistent group."
+## 
+## Read the full story from @br24 here  https://web.br.de/interaktiv/winnti/english/ …pic.twitter.com/OupvmhSbTS
+## https://twitter.com/kaspersky/status/1155281730313609218<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-28 12:15:33
 ## Mr.Tekide Unveiled #APT34 #Muddywater #OilRig - #crypters #ARGBED
