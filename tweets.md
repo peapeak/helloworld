@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-07-29 07:00:10
+## NEW! #InSecurityPodcast: @selectedwisdom on the World of Advanced Persistent Manipulators. In this week’s episode, @packmatt73 welcomes Clint Watts to talk about surviving in a #socialmedia world of #hackers, terrorists, #Russians, and #fakenews. OH MY! https://bit.ly/2SAt5TM pic.twitter.com/RYU9FDc3fl
+## https://twitter.com/cylanceinc/status/1155734744325402624<br><br><br><br><br>
 # @DrunkBinary
 ## 2019-07-29 00:45:25
 ## Gamaredon Group Pteranodon Implant
