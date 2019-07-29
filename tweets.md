@@ -1,3 +1,8 @@
+# @DrunkBinary
+## 2019-07-29 00:45:25
+## Gamaredon Group Pteranodon Implant
+## 4ca32e745ec278d45aa3442434f2c17b
+## https://twitter.com/DrunkBinary/status/1155640434552705024<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-29 04:30:08
 ## Australia Post a 'trusted' service provider for government identificationhttps://zd.net/2YtaYAe 
