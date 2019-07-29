@@ -1,3 +1,8 @@
+# @cyb3rops
+## 2019-07-29 11:06:01
+## Government forces Facebook to detect and delete hate speech & illegal content, Facebook implements necessary measures. These measures allow governments, which can force companies into compliance, to read our encrypted communication.
+## Yeah, it totally Facebook's fault.
+## https://twitter.com/cyb3rops/status/1155796614860214273<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-29 11:05:10
 ## CounterIntelligence training - prepare for the election. Get ready to counter the espionage of the adversaries @Gartner_Careers @gartner_inc @KeiserU @hodgesu @fgcu @FSWCollege @Rasmussen http://ow.ly/KLqM30pe5VH 
