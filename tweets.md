@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-29 10:30:49
+## APT-doxing group exposes APT17 as Jinan bureau of China's Security Ministryhttps://www.zdnet.com/article/apt-doxing-group-expose-apt17-as-jinan-bureau-of-chinas-security-ministry/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d3ecacb595b5a0001c35fd6&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1155787755768766465<br><br><br><br><br>
 # @cyb3rops
 ## 2019-07-29 11:06:01
 ## Government forces Facebook to detect and delete hate speech & illegal content, Facebook implements necessary measures. These measures allow governments, which can force companies into compliance, to read our encrypted communication.
