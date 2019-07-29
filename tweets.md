@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-29 06:15:39
+## APT-doxing group exposes APT17 as Jinan bureau of China's Security Ministryhttps://www.zdnet.com/article/apt-doxing-group-expose-apt17-as-jinan-bureau-of-chinas-security-ministry/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d3e8f05ba8d0400013caf80&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1155723541733621760<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-29 07:00:10
 ## NEW! #InSecurityPodcast: @selectedwisdom on the World of Advanced Persistent Manipulators. In this week’s episode, @packmatt73 welcomes Clint Watts to talk about surviving in a #socialmedia world of #hackers, terrorists, #Russians, and #fakenews. OH MY! https://bit.ly/2SAt5TM pic.twitter.com/RYU9FDc3fl
