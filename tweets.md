@@ -1,3 +1,13 @@
+# @1ZRR4H
+## 2019-07-29 08:30:20
+## At some point these government websites ( and ) suffered a Ransomware incident and were indexed in the Google cache. 
+## 
+## Extension's: 
+## #Phobos .ACTIN 
+## #Dharma .CRY 
+## 
+## @demonslay335 @GrujaRS @Amigo_A_pic.twitter.com/FMeRycuCyW
+## https://twitter.com/1ZRR4H/status/1155757436944494599<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-07-29 07:37:19
 ## German Government #Cybersecurity Chief: 'The Only Thing That Can Help Is Preventative Action' https://spon.de/afwTl  @SPIEGELONLINE
