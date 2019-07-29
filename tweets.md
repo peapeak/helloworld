@@ -1,3 +1,11 @@
+# @ThreatBookLabs
+## 2019-07-29 12:21:28
+## #APT32
+## c7eead9b2a622dd7f14f2ddb9bcd4ea3c4cf3a7dddc30283a057482c4ed6a93e
+## WN: ប្រកាសតែងតាំងមុខតំណែង_docx.exe
+## C2: get[.]freelicenses[.]net
+## https://s.threatbook.cn/report/file/c7eead9b2a622dd7f14f2ddb9bcd4ea3c4cf3a7dddc30283a057482c4ed6a93e/?sign=history&env=win7_sp1_enx86_office2013 …pic.twitter.com/hTMGqeP2re
+## https://twitter.com/ThreatBookLabs/status/1155815604332273666<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-07-29 12:55:05
 ## ~ China’s Dirty Secret - Intellectual Property Theft: Hackers have stolen masses of corporate and government secrets, with the aim to improve Chinese business and economic competitiveness. http://ow.ly/fF6C30p5K7C  #cybersecuritypic.twitter.com/sWdCLBtd1Z
