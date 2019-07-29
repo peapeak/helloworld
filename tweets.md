@@ -1,3 +1,7 @@
+# @Rmy_Reserve
+## 2019-07-29 14:07:55
+## #APT32https://twitter.com/ThreatBookLabs/status/1155815604332273666 …
+## https://twitter.com/Rmy_Reserve/status/1155842392513306624<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-29 15:05:18
 ## CounterIntelligence training -prepare for the election. Get ready to counter the espionage of the adversaries #Gartner_Careers @gartner_inc @KeiserU @hodgesu @fgcu @FSWCollege @Rasmussen http://ow.ly/2X7130pe5Wy 
