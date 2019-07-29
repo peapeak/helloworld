@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-07-29 12:55:05
+## ~ China’s Dirty Secret - Intellectual Property Theft: Hackers have stolen masses of corporate and government secrets, with the aim to improve Chinese business and economic competitiveness. http://ow.ly/fF6C30p5K7C  #cybersecuritypic.twitter.com/sWdCLBtd1Z
+## https://twitter.com/CyberSecInt/status/1155824065292263430<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-29 10:30:49
 ## APT-doxing group exposes APT17 as Jinan bureau of China's Security Ministryhttps://www.zdnet.com/article/apt-doxing-group-expose-apt17-as-jinan-bureau-of-chinas-security-ministry/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d3ecacb595b5a0001c35fd6&utm_medium=trueAnthem&utm_source=twitter …
