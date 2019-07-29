@@ -1,3 +1,7 @@
+# @Treadstone71LLC
+## 2019-07-29 15:05:18
+## CounterIntelligence training -prepare for the election. Get ready to counter the espionage of the adversaries #Gartner_Careers @gartner_inc @KeiserU @hodgesu @fgcu @FSWCollege @Rasmussen http://ow.ly/2X7130pe5Wy 
+## https://twitter.com/Treadstone71LLC/status/1155856832159768579<br><br><br><br><br>
 # @ThreatBookLabs
 ## 2019-07-29 12:21:28
 ## #APT32
