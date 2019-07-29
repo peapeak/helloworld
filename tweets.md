@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-29 04:30:08
+## Australia Post a 'trusted' service provider for government identificationhttps://zd.net/2YtaYAe 
+## https://twitter.com/ZDNet/status/1155696989675249665<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-07-28 21:45:04
 ## Tekide Unveiled APT34 (Muddywater OilRig) - The Cyber Shafarat - Treadstone 71http://ow.ly/GmU130peAcU 
