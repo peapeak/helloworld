@@ -1,3 +1,11 @@
+# @Rmy_Reserve
+## 2019-07-30 15:47:09
+## #APT
+## #APT37
+## Nice hunte!
+## Thanks to @cyberwar_15
+## @Arkbird_SOLGhttps://twitter.com/cyberwar_15/status/1156223872766660609 …
+## https://twitter.com/Rmy_Reserve/status/1156229751511535618<br><br><br><br><br>
 # @ESET
 ## 2019-07-30 12:45:03
 ## At ESET, we have been busy in July, taking a look at how scammers are leveraging #FaceApp’s fame, exposing #Ke3chang’s latest backdoor, discovering vulnerabilities in Apps from Microsoft and #CirqueduSoleil and much more. https://bit.ly/2OBNDwS pic.twitter.com/tyerCwECAD
