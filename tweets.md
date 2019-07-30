@@ -1,3 +1,9 @@
+# @JayTHL
+## 2019-07-30 15:06:53
+## how is that the right and proper place of an enlightenment-model constitutional republic for the protection of life, liberty, and property?
+## 
+## none of those things should be an authority of the government to mandate either way.
+## https://twitter.com/JayTHL/status/1156219618253516801<br><br><br><br><br>
 # @ZDNet
 ## 2019-07-30 06:16:35
 ## Government to continue 'robo-debt' in the name of mutual responsibility https://zd.net/32ZAlx5  by @ashabeeeee
