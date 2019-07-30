@@ -1,3 +1,7 @@
+# @ESET
+## 2019-07-30 12:45:03
+## At ESET, we have been busy in July, taking a look at how scammers are leveraging #FaceApp’s fame, exposing #Ke3chang’s latest backdoor, discovering vulnerabilities in Apps from Microsoft and #CirqueduSoleil and much more. https://bit.ly/2OBNDwS pic.twitter.com/tyerCwECAD
+## https://twitter.com/ESET/status/1156183925301161984<br><br><br><br><br>
 # @JayTHL
 ## 2019-07-30 15:06:53
 ## how is that the right and proper place of an enlightenment-model constitutional republic for the protection of life, liberty, and property?
