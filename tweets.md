@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-30 06:16:35
+## Government to continue 'robo-debt' in the name of mutual responsibility https://zd.net/32ZAlx5  by @ashabeeeee
+## https://twitter.com/ZDNet/status/1156086166799581184<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-30 01:00:22
 ## #ThreatSpotlight: #Ratsnif - New Network Vermin from OceanLotus. The #OceanLotus Group (aka #APT32, #CobaltKitty) is using a suite of remote access trojans dubbed 'Ratsnif' to leverage new network attack capabilities. Learn more. https://bit.ly/2LvDY7U pic.twitter.com/1ZK0yn7Pvv
