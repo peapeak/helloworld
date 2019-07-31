@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-07-31 17:55:06
+## ~ As Latin American companies and governments race to embrace the Internet, #cybersecurity and the related risks of #cybercrime risk being ignored. (link: http://ow.ly/Jp8I50va6CN  ) http://ow.ly/Jp8I50va6CN pic.twitter.com/RtSfcglZ1D
+## https://twitter.com/CyberSecInt/status/1156624339384582146<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-31 10:15:02
 ## With governments all over the world in a state of perpetual #electionmanipulation mode, and candidates running their own Troll farms, do we even know what to prepare for? Tune in and find out more via @selectedwisdom. #InSecurityPodcast https://bit.ly/2SAt5TM  #podcastpic.twitter.com/ofuaXIWZbF
