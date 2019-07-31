@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-07-31 10:15:02
+## With governments all over the world in a state of perpetual #electionmanipulation mode, and candidates running their own Troll farms, do we even know what to prepare for? Tune in and find out more via @selectedwisdom. #InSecurityPodcast https://bit.ly/2SAt5TM  #podcastpic.twitter.com/ofuaXIWZbF
+## https://twitter.com/cylanceinc/status/1156508562878849024<br><br><br><br><br>
 # @_odisseus
 ## 2019-07-31 08:00:44
 ## Hunting Pastebin (and #ELF malware) with #PasteHunter using #YARArules and #ELK Stack by @KevTheHermit
