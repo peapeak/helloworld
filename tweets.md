@@ -1,3 +1,12 @@
+# @cyb3rops
+## 2019-07-31 16:17:17
+## It seems that I have some fans over in Russia 
+## #TurlaLicksAss
+## 
+## thx to the FireEye analyst who brought this to my attention
+## 
+## https://www.virustotal.com/gui/file/4417cc080e421e3cd9e318073d2c0d1c865b309dfae573386df20abeb7667efb/details …pic.twitter.com/zSdV6EDcXv
+## https://twitter.com/cyb3rops/status/1156599722326528009<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-07-31 17:55:06
 ## ~ As Latin American companies and governments race to embrace the Internet, #cybersecurity and the related risks of #cybercrime risk being ignored. (link: http://ow.ly/Jp8I50va6CN  ) http://ow.ly/Jp8I50va6CN pic.twitter.com/RtSfcglZ1D
