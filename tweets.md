@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-07-31 01:15:01
+## With governments all over the world in a state of perpetual #electionmanipulation mode, and candidates running their own Troll farms, do we even know what to prepare for? Tune in and find out more via @selectedwisdom. #InSecurityPodcast https://bit.ly/2SAt5TM  #podcastpic.twitter.com/XA99uigW0f
+## https://twitter.com/cylanceinc/status/1156372661456592896<br><br><br><br><br>
 # @BleepinComputer
 ## 2019-07-31 01:42:23
 ## Russian FSB considers OneWeb's satellite system a national threat given it could be used for intelligence and espionage purposes
