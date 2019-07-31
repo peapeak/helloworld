@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-07-31 23:25:06
+## Cisco to pay $8.6 million for selling vulnerable software to US government https://zd.net/2KabT3m  by @campuscodi
+## https://twitter.com/ZDNet/status/1156707389288013825<br><br><br><br><br>
 # @JayTHL
 ## 2019-07-31 21:47:48
 ## many .edu's, several state and local governments, and some big corporate names in the victim data. whew-eeee!https://twitter.com/InvertedLina/status/1156673095823962112 …
