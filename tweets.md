@@ -1,3 +1,17 @@
+# @_odisseus
+## 2019-07-31 08:00:44
+## Hunting Pastebin (and #ELF malware) with #PasteHunter using #YARArules and #ELK Stack by @KevTheHermit
+## 
+## https://github.com/kevthehermit/PasteHunter …
+## 
+## Installing on VirtualBox:
+## https://run-as-root.com/2019/01/25/pastehunter/ …
+## 
+## And on the Cloud: 
+## https://run-as-root.com/2019/02/17/setting-up-pastehunter-part-2-email-alerts-moving-to-the-cloud/ …
+## 
+## cc: @0xrbpic.twitter.com/JR4jAPW8k7
+## https://twitter.com/_odisseus/status/1156474761788166144<br><br><br><br><br>
 # @cylanceinc
 ## 2019-07-31 01:15:01
 ## With governments all over the world in a state of perpetual #electionmanipulation mode, and candidates running their own Troll farms, do we even know what to prepare for? Tune in and find out more via @selectedwisdom. #InSecurityPodcast https://bit.ly/2SAt5TM  #podcastpic.twitter.com/XA99uigW0f
