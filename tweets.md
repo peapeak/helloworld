@@ -1,3 +1,7 @@
+# @JayTHL
+## 2019-07-31 21:47:48
+## many .edu's, several state and local governments, and some big corporate names in the victim data. whew-eeee!https://twitter.com/InvertedLina/status/1156673095823962112 …
+## https://twitter.com/JayTHL/status/1156682902416924673<br><br><br><br><br>
 # @cyb3rops
 ## 2019-07-31 16:17:17
 ## It seems that I have some fans over in Russia 
