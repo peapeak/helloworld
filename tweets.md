@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-01 13:15:35
+## Cisco to pay $8.6 million for selling vulnerable software to US governmenthttps://www.zdnet.com/article/cisco-to-pay-8-6-million-for-selling-vulnerable-software-to-us-government/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d42e5ee3ba246000197480a&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1156916387681624064<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-08-01 13:11:00
 ## The latest Voigt-Kampff Analyzer! http://www.voigt-kampffanalyzer.com/?edition_id=cd7b7850-b45d-11e9-a59d-0cc47a0d1609 … Thanks to @enedis_bretagne @toushipanda @neuvays #ai #artificialintelligence
