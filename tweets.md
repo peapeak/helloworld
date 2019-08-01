@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-01 08:30:41
+## Cisco to pay $8.6 million for selling vulnerable software to US governmenthttps://www.zdnet.com/article/cisco-to-pay-8-6-million-for-selling-vulnerable-software-to-us-government/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d42a3213ba24600019743b6&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1156844686511890432<br><br><br><br><br>
 # @blackorbird
 ## 2019-08-01 04:22:45
 ## Maybe #MuddyWater
