@@ -1,3 +1,12 @@
+# @_CPResearch_
+## 2019-08-01 13:13:28
+## #CobaltGroup is back in Kazakhstan, going after Kassa Nova Bank:
+## Lure document hosted on the bank's website
+## Payload signed by COMODO
+## Cobalt Strike beacon with Office OWA traffic
+## Shellcode loader with a time
+## https://research.checkpoint.com/cobalt-group-returns-to-kazakhstan/ …pic.twitter.com/IEWmQRMHeR
+## https://twitter.com/_CPResearch_/status/1156915853377585152<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-01 13:15:35
 ## Cisco to pay $8.6 million for selling vulnerable software to US governmenthttps://www.zdnet.com/article/cisco-to-pay-8-6-million-for-selling-vulnerable-software-to-us-government/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d42e5ee3ba246000197480a&utm_medium=trueAnthem&utm_source=twitter …
