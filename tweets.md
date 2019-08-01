@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-08-01 15:33:11
+## The macro and the Powershell script have the same method of the TTPs of the Muddywater group. The complexity of the method, the informations stolen and the level of the lure indicate this like more a recon for a future operation on the group but not against some opportunities.pic.twitter.com/yq8NMegAvr
+## https://twitter.com/Arkbird_SOLG/status/1156951015322726401<br><br><br><br><br>
 # @_CPResearch_
 ## 2019-08-01 13:13:28
 ## #CobaltGroup is back in Kazakhstan, going after Kassa Nova Bank:
