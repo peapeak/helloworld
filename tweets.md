@@ -1,3 +1,7 @@
+# @BleepinComputer
+## 2019-08-01 11:13:10
+## New Hexane Group Targets Oil and Gas, Telco Providers - by @Ionut_Ilascuhttps://www.bleepingcomputer.com/news/security/new-hexane-group-targets-oil-and-gas-telco-providers/ …
+## https://twitter.com/BleepinComputer/status/1156885579449208832<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-01 10:12:55
 ## I agree ... Kaspersky or Huawei never intentionally sold flawed software to the US government.
