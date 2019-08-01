@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-01 10:30:47
+## Indian government likely to cave in on data localisation stance after pressure from US https://www.zdnet.com/article/indian-govt-likely-to-cave-in-on-data-localisation-stance-after-pressure-from-us/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d42bf4408fd96000181bb0f&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1156874910486212610<br><br><br><br><br>
 # @BleepinComputer
 ## 2019-08-01 11:13:10
 ## New Hexane Group Targets Oil and Gas, Telco Providers - by @Ionut_Ilascuhttps://www.bleepingcomputer.com/news/security/new-hexane-group-targets-oil-and-gas-telco-providers/ …
