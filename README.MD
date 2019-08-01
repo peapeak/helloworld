@@ -1,3 +1,18 @@
+# APT trends report Q2 2019
+## Kaspersky
+## 2019-08-01T10:00:05+00:00
+## The quarterly summaries of APT activity are based on our threat intelligence research and provide a representative snapshot of what we have published and discussed in greater detail in our private reports. This is our latest installment, focusing on activities that we observed during Q2 2019.
+## https://securelist.com/apt-trends-report-q2-2019/91897/<br><br><br>
+# Cobalt Group Returns To Kazakhstan
+## Checkpoint
+## July 31, 2019
+## Cobalt Group Returns To Kazakhstan
+## https://research.checkpoint.com/cobalt-group-returns-to-kazakhstan/<br><br><br>
+# 商贸信病毒针对某精密仪器公司的APT攻击
+## 腾讯
+## 2019-07-31 20:11:18
+## 腾讯安全御见威胁情报中监测到有黑客组织利用“商贸信”病毒针对外贸行业的APT攻击再次活跃。此轮攻击的特点为，利用2017年微软公布的office公式编辑器漏洞CVE-2017-11882构造钓鱼文档，文档触发漏洞后通过mshta.exe执行由短链接bit.ly构造的远程代码，从而将后门木马植入。
+## https://s.tencent.com/research/report/770.html<br><br><br>
 # Hard Pass: Declining APT34’s Invite to Join Their Professional Network
 ## Fireeye
 ## Jul 18
