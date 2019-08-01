@@ -1,3 +1,7 @@
+# @securityaffairs
+## 2019-08-01 10:12:55
+## I agree ... Kaspersky or Huawei never intentionally sold flawed software to the US government.
+## https://twitter.com/securityaffairs/status/1156870414565556225<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-01 08:30:41
 ## Cisco to pay $8.6 million for selling vulnerable software to US governmenthttps://www.zdnet.com/article/cisco-to-pay-8-6-million-for-selling-vulnerable-software-to-us-government/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d42a3213ba24600019743b6&utm_medium=trueAnthem&utm_source=twitter …
