@@ -1,3 +1,7 @@
+# @blackorbird
+## 2019-08-01 04:22:45
+## Maybe #MuddyWater
+## https://twitter.com/blackorbird/status/1156782292750094336<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-01 04:00:56
 ## Cisco to pay $8.6 million for selling vulnerable software to US governmenthttps://www.zdnet.com/article/cisco-to-pay-8-6-million-for-selling-vulnerable-software-to-us-government/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d4263dc32d2950001464829&utm_medium=trueAnthem&utm_source=twitter …
