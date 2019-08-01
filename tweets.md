@@ -1,3 +1,8 @@
+# @Mr_ohadm
+## 2019-08-01 12:04:27
+## Ocean Lotus (APT32). Check for example the file named Thu Moi Tham, attributed by @FireEye on 2017 to the group.
+## https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html …pic.twitter.com/uWQTOUD2ma
+## https://twitter.com/Mr_ohadm/status/1156898482495664128<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-01 10:30:47
 ## Indian government likely to cave in on data localisation stance after pressure from US https://www.zdnet.com/article/indian-govt-likely-to-cave-in-on-data-localisation-stance-after-pressure-from-us/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d42bf4408fd96000181bb0f&utm_medium=trueAnthem&utm_source=twitter …
