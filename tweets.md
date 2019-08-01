@@ -1,4 +1,8 @@
 # @Arkbird_SOLG
+## 2019-08-01 15:33:09
+## #APT #Muddywater The full name on the document seems more a mix between the different people of government on the Tajikistan. The email address is valid. The address is near the Ministry of Foreign Affairs of the Republic of Tajikistan.pic.twitter.com/NJ8EwTx9KH
+## https://twitter.com/Arkbird_SOLG/status/1156951005382217728<br><br><br><br><br>
+# @Arkbird_SOLG
 ## 2019-08-01 15:33:11
 ## The macro and the Powershell script have the same method of the TTPs of the Muddywater group. The complexity of the method, the informations stolen and the level of the lure indicate this like more a recon for a future operation on the group but not against some opportunities.pic.twitter.com/yq8NMegAvr
 ## https://twitter.com/Arkbird_SOLG/status/1156951015322726401<br><br><br><br><br>
