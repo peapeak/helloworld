@@ -1,3 +1,7 @@
+# @Treadstone71LLC
+## 2019-08-01 13:11:00
+## The latest Voigt-Kampff Analyzer! http://www.voigt-kampffanalyzer.com/?edition_id=cd7b7850-b45d-11e9-a59d-0cc47a0d1609 … Thanks to @enedis_bretagne @toushipanda @neuvays #ai #artificialintelligence
+## https://twitter.com/Treadstone71LLC/status/1156915231593050112<br><br><br><br><br>
 # @Mr_ohadm
 ## 2019-08-01 12:04:27
 ## Ocean Lotus (APT32). Check for example the file named Thu Moi Tham, attributed by @FireEye on 2017 to the group.
