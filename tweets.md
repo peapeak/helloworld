@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-08-02 16:44:53
+## good analysis of #APT32 #Oceanlotus
+## thanks to @Arkbird_SOLG
+## @ThreatBookLabshttps://twitter.com/Arkbird_SOLG/status/1157319745584148480 …
+## https://twitter.com/Rmy_Reserve/status/1157331446429700101<br><br><br><br><br>
 # @cyberwar_15
 ## 2019-08-02 15:23:02
 ## #NorthKorea #APT #Geumseong121 #Lazarus #FalseFlag
