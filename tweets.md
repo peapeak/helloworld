@@ -1,3 +1,10 @@
+# @Rmy_Reserve
+## 2019-08-02 17:02:09
+## it is interesting way to run the {GUID} 
+## of #muddywater #APT group
+## Command Sample:
+## rundll32.exe zipfldr.dll RouteTheCall shell::{GUID}pic.twitter.com/7SosE1EUTY
+## https://twitter.com/Rmy_Reserve/status/1157335789082042368<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-02 16:52:45
 ## @MalwarePatrol @Malwageddon @proofpoint @zlab_team @Marco_Ramilli @yoroisecurity Nation-state actor uses new #LookBack #RAT to target US utilities
