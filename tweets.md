@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-02 18:31:15
+## Suspected state-sponsored hacking group tried to break into US utilitieshttps://www.zdnet.com/article/suspected-state-sponsored-hacking-group-tried-to-break-into-us-utilities/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d44815308fd96000181d5fc&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1157358213391618051<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-08-02 17:38:00
 ## We're bringing together 1,000 of the most influential cyber leaders from tech and government for DC #CyberTalks as part of CyberWeek. Save your spot today: https://hubs.ly/H0jHYwd0 pic.twitter.com/hz8eQh97lj
