@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-08-02 17:38:00
+## We're bringing together 1,000 of the most influential cyber leaders from tech and government for DC #CyberTalks as part of CyberWeek. Save your spot today: https://hubs.ly/H0jHYwd0 pic.twitter.com/hz8eQh97lj
+## https://twitter.com/CyberScoopNews/status/1157344811143368705<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-02 16:54:59
 ## #Lotsy group targets Italian and Spanish-speaking users
