@@ -1,4 +1,8 @@
 # @Arkbird_SOLG
+## 2019-08-02 15:58:23
+## #APT32 The SFX archive drop and execute a lure (docx file) for decoy the victim and the dll file (pkg file) for loader the Quasar RAT with the bin file. Its have for the role to reorganize the final PE.pic.twitter.com/CnYhky5Kmw
+## https://twitter.com/Arkbird_SOLG/status/1157319745584148480<br><br><br><br><br>
+# @Arkbird_SOLG
 ## 2019-08-02 15:58:26
 ## Original tweet:https://twitter.com/ThreatBookLabs/status/1155815604332273666 …
 ## Anyrun Links : https://app.any.run/tasks/0a3adf14-653c-43e8-bbdc-8d5d8c48d2e1/ …
