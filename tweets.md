@@ -1,3 +1,9 @@
+# @cyberwar_15
+## 2019-08-02 15:23:02
+## #NorthKorea #APT #Geumseong121 #Lazarus #FalseFlag
+## 
+## 북한의 대표 해킹조직 'Geumseong121'이 또다른 북한 해킹조직 'Lazarus'처럼 위장한 사례가 발견됐네요.https://blog.alyac.co.kr/2453 
+## https://twitter.com/cyberwar_15/status/1157310847380668416<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-08-02 15:58:23
 ## #APT32 The SFX archive drop and execute a lure (docx file) for decoy the victim and the dll file (pkg file) for loader the Quasar RAT with the bin file. Its have for the role to reorganize the final PE.pic.twitter.com/CnYhky5Kmw
