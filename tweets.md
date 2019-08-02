@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-08-02 00:04:06
+## #Muddywater Little post for show why the persistence doesn't works  and the level of this sample is more for the opportunities than a specific operation. Since the creation of this method for getting the GUID, this blocked by default and the both methods are well-known by AV.pic.twitter.com/ki2mqvwiF8
+## https://twitter.com/Arkbird_SOLG/status/1157079588943663104<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-02 11:31:08
 ## Cisco to pay $8.6 million for selling vulnerable software to US governmenthttps://www.zdnet.com/article/cisco-to-pay-8-6-million-for-selling-vulnerable-software-to-us-government/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d441edcffeb9a00013b471d&utm_medium=trueAnthem&utm_source=twitter …
