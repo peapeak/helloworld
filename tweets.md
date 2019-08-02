@@ -1,3 +1,7 @@
+# @Manu_De_Lucia
+## 2019-08-02 07:11:30
+## #APT28 #Zebrocy delphi variant md5: ff03e53ccdf82e9310f15ec4796819e3
+## https://twitter.com/Manu_De_Lucia/status/1157187147780300800<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-08-01 15:33:09
 ## #APT #Muddywater The full name on the document seems more a mix between the different people of government on the Tajikistan. The email address is valid. The address is near the Ministry of Foreign Affairs of the Republic of Tajikistan.pic.twitter.com/NJ8EwTx9KH
