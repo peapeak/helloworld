@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-02 16:52:45
+## @MalwarePatrol @Malwageddon @proofpoint @zlab_team @Marco_Ramilli @yoroisecurity Nation-state actor uses new #LookBack #RAT to target US utilities
+## https://securityaffairs.co/wordpress/89323/apt/lookback-rat-attacks.html …
+## #securityaffairs #hacking #malware #APT10
+## https://twitter.com/securityaffairs/status/1157333426959200257<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-02 16:44:53
 ## good analysis of #APT32 #Oceanlotus
