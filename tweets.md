@@ -1,4 +1,11 @@
 # @Rmy_Reserve
+## 2019-08-02 08:03:34
+## #APT #APT28
+## #Zebrocy delphi implant
+## Thanks to @Manu_De_Lucia 
+## Cc:@Arkbird_SOLGhttps://twitter.com/Manu_De_Lucia/status/1157187147780300800 …
+## https://twitter.com/Rmy_Reserve/status/1157200252446732288<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-08-02 10:29:03
 ## yep #donot #APT group
 ## https://twitter.com/Rmy_Reserve/status/1157236864383799297<br><br><br><br><br>
