@@ -1,3 +1,7 @@
+# @RecordedFuture
+## 2019-08-02 19:07:22
+## In this blog, we take a look at the threat landscape for government organizations and explore how they can use #threatintelligence to enhance their security profile: http://bit.ly/2Zz99U0  #Cybersecuritypic.twitter.com/FS98IkOVdw
+## https://twitter.com/RecordedFuture/status/1157367304629489676<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-02 18:31:15
 ## Suspected state-sponsored hacking group tried to break into US utilitieshttps://www.zdnet.com/article/suspected-state-sponsored-hacking-group-tried-to-break-into-us-utilities/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d44815308fd96000181d5fc&utm_medium=trueAnthem&utm_source=twitter …
