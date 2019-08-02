@@ -1,3 +1,11 @@
+# @VK_Intel
+## 2019-08-02 13:25:38
+## 2019-08-02: "Cobalt Group Returns To Kazakhstan" |
+## Why no attribution @_CPResearch_ ?
+## It seems like we found it way earlier & reported w/ the time check execution. Also used @sysopfb's decoder to generate CS cfg (no attrib).
+## Ref: https://twitter.com/VK_Intel/status/1141366603969441794 …
+## cc /@malwrhunterteampic.twitter.com/EOAwOEVJR5
+## https://twitter.com/VK_Intel/status/1157281301306728450<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-02 11:51:51
 ## @GroupIB_GIB @GroupIB @Sachkov_GIB #Lotsy group targets Italian and Spanish-speaking users
