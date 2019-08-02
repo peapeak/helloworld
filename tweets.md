@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-02 13:40:33
+## #Lotsy group targets Italian and Spanish-speaking users
+## https://securityaffairs.co/wordpress/89287/cyber-crime/lotsy-group-scam-campaigns.html …
+## #securityaffairs #cybercrime #hacking #scam
+## https://twitter.com/securityaffairs/status/1157285055909306368<br><br><br><br><br>
 # @VK_Intel
 ## 2019-08-02 13:25:38
 ## 2019-08-02: "Cobalt Group Returns To Kazakhstan" |
