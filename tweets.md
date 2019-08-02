@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-02 11:51:51
+## @GroupIB_GIB @GroupIB @Sachkov_GIB #Lotsy group targets Italian and Spanish-speaking users
+## https://securityaffairs.co/wordpress/89287/cyber-crime/lotsy-group-scam-campaigns.html …
+## #securityaffairs #cybercrime #hacking #scam @arturodicorinto @Luke_like @zlab_team
+## https://twitter.com/securityaffairs/status/1157257699450609664<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-08-02 00:04:06
 ## #Muddywater Little post for show why the persistence doesn't works  and the level of this sample is more for the opportunities than a specific operation. Since the creation of this method for getting the GUID, this blocked by default and the both methods are well-known by AV.pic.twitter.com/ki2mqvwiF8
