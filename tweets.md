@@ -1,3 +1,9 @@
+# @Mr_ohadm
+## 2019-08-03 18:40:30
+## In the last few months I observed many reports exposing their efforts, more than before.
+## Chicken or Egg? Is APT10 attack more due to the trade war between the US and China or because of the trade war their efforts are exposed?
+## #APT10https://www.forbes.com/sites/zakdoffman/2019/08/03/chinese-state-hackers-suspected-of-malicious-cyber-attack-on-u-s-utilities/ …
+## https://twitter.com/Mr_ohadm/status/1157722928223531008<br><br><br><br><br>
 # @MalwarePatrol
 ## 2019-08-03 18:10:03
 ## It's a bird! It's a plane! No, it's two-dozen government surveillance balloons over America.https://www.theregister.co.uk/2019/08/02/government_spy_balloons/ …
