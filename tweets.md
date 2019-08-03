@@ -1,3 +1,9 @@
+# @cyberwar_15
+## 2019-08-03 13:20:13
+## #northkorea #APT #Geumseong121 #Lazarus 
+## 
+## 북한(North Korea) APT 해킹 조직 위장전술(False Flag) 전술도 쓴다. (Zdnet Korean News)http://www.zdnet.co.kr/view/?no=20190803140259 …
+## https://twitter.com/cyberwar_15/status/1157642326006784000<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-03 11:02:58
 ## Lotsy group targets Italian and Spanish-speaking usershttps://securityaffairs.co/wordpress/89287/cyber-crime/lotsy-group-scam-campaigns.html …
