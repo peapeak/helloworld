@@ -1,3 +1,10 @@
+# @dewan202
+## 2019-08-03 21:54:59
+## Russia Turla upload from Macedonia using png dropper 
+## 'GdipCreateBitmapFromStreamICM' string. 
+## #APT #Malware #Russia #Turla
+## 3e792792bd6ddead1d0ecc76b8d71ab3
+## https://twitter.com/dewan202/status/1157771874832715776<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-08-03 20:35:03
 ## Adversary Baseball Cards
