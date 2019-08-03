@@ -1,3 +1,7 @@
+# @securityaffairs
+## 2019-08-03 11:02:58
+## Lotsy group targets Italian and Spanish-speaking usershttps://securityaffairs.co/wordpress/89287/cyber-crime/lotsy-group-scam-campaigns.html …
+## https://twitter.com/securityaffairs/status/1157607789524594689<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-03 13:15:45
 ## Cisco to pay $8.6 million for selling vulnerable software to US governmenthttps://www.zdnet.com/article/cisco-to-pay-8-6-million-for-selling-vulnerable-software-to-us-government/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d4588f608fd96000181e635&utm_medium=trueAnthem&utm_source=twitter …
