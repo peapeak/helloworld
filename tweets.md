@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-03 05:15:52
+## Indian government likely to cave in on data localisation stance after pressure from UShttps://www.zdnet.com/article/indian-govt-likely-to-cave-in-on-data-localisation-stance-after-pressure-from-us/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d45187c08fd96000181def0&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1157520437351522304<br><br><br><br><br>
 # @Timele9527
 ## 2019-08-03 01:08:31
 ## #APT #Gamaredon
