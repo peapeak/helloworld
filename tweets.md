@@ -1,3 +1,12 @@
+# @Timele9527
+## 2019-08-03 01:08:31
+## #APT #Gamaredon
+## ITW:
+## 73bc90e40f241df4e7b60125ad372ab8
+## FileName:
+## Наказ командира адміністративної групи оперативно-тактичного угруповання Північ № 127-19 ДСК від 01 серпня 2019 року.scr
+## C2:http://shell-create.ddns.net pic.twitter.com/X2YEFaX30p
+## https://twitter.com/Timele9527/status/1157458188792262656<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-03 01:32:05
 ## #APT #Gamaredon 
