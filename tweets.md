@@ -1,4 +1,10 @@
 # @securityaffairs
+## 2019-08-03 05:19:38
+## Nation-state actor uses new #LookBack #RAT to target US utilities
+## https://securityaffairs.co/wordpress/89323/apt/lookback-rat-attacks.html …
+## #securityaffairs #hacking #malware #APT10
+## https://twitter.com/securityaffairs/status/1157521383355834373<br><br><br><br><br>
+# @securityaffairs
 ## 2019-08-03 05:20:47
 ## #Lotsy group targets Italian and Spanish-speaking users
 ## https://securityaffairs.co/wordpress/89287/cyber-crime/lotsy-group-scam-campaigns.html …
