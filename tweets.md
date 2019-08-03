@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-03 05:20:47
+## #Lotsy group targets Italian and Spanish-speaking users
+## https://securityaffairs.co/wordpress/89287/cyber-crime/lotsy-group-scam-campaigns.html …
+## #securityaffairs #cybercrime #hacking #scam
+## https://twitter.com/securityaffairs/status/1157521675774287873<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-03 05:15:52
 ## Indian government likely to cave in on data localisation stance after pressure from UShttps://www.zdnet.com/article/indian-govt-likely-to-cave-in-on-data-localisation-stance-after-pressure-from-us/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d45187c08fd96000181def0&utm_medium=trueAnthem&utm_source=twitter …
