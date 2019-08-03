@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-03 15:36:00
+## #Lotsy group targets Italian and Spanish-speaking users
+## https://securityaffairs.co/wordpress/89287/cyber-crime/lotsy-group-scam-campaigns.html … -
+## #securityaffairs #cybercrime #hacking #scam
+## https://twitter.com/securityaffairs/status/1157676497177440256<br><br><br><br><br>
 # @cyberwar_15
 ## 2019-08-03 13:20:13
 ## #northkorea #APT #Geumseong121 #Lazarus 
