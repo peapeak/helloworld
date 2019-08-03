@@ -1,3 +1,7 @@
+# @RecordedFuture
+## 2019-08-03 20:55:04
+## From organized crime to state-sponsored hacking groups, government organizations face some of the most persistent and advanced cyber threats around: http://bit.ly/2Kn7YAl  #ThreatIntelligence #Cybersecurity
+## https://twitter.com/RecordedFuture/status/1157756795328389120<br><br><br><br><br>
 # @Mr_ohadm
 ## 2019-08-03 18:40:30
 ## In the last few months I observed many reports exposing their efforts, more than before.
