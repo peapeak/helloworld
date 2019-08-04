@@ -1,3 +1,10 @@
+# @securityaffairs
+## 2019-08-04 14:02:36
+## Nation-state actor uses new #LookBack #RAT to target US utilities
+## https://securityaffairs.co/wordpress/89323/apt/lookback-rat-attacks.html …
+## #securityaffairs #hacking #malware #APT10
+##  .
+## https://twitter.com/securityaffairs/status/1158015381325459458<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-08-04 12:45:05
 ## #Tekide Unveiled #APT34 ( #Muddywater #OilRig ) - The Cyber Shafarat - Treadstone 71http://ow.ly/5CJ230phE0H 
