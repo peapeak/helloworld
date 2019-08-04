@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-08-04 22:02:48
+## By the fact that security updates are no longer applied since two years or are not disabled in the registry, the payload isn't executed. This shows that if we compared to the target (government) that is normally correctly secure, this can't be success.
+## https://twitter.com/Arkbird_SOLG/status/1158136226999934981<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-04 23:31:15
 ## Suspected state-sponsored hacking group tried to break into US utilitieshttps://www.zdnet.com/article/suspected-state-sponsored-hacking-group-tried-to-break-into-us-utilities/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d476aa5ffeb9a00013b7a56&utm_medium=trueAnthem&utm_source=twitter …
