@@ -1,3 +1,7 @@
+# @Treadstone71LLC
+## 2019-08-04 00:30:09
+## Tekide Unveiled APT34 (Muddywater OilRig) - The Cyber Shafarat - Treadstone 71https://cybershafarat.com/2019/07/22/tekide-unveiled/ …
+## https://twitter.com/Treadstone71LLC/status/1157810922037096448<br><br><br><br><br>
 # @cylanceinc
 ## 2019-08-03 22:00:14
 ## Flirting With IDA and APT28: This blog shares a methodology used to develop Hex-Rays' Interactive Disassembler (IDA) signatures created as part of pre-analysis for a recently published #APT28 sample. https://bit.ly/2S4v7Lo  #malware #securitypic.twitter.com/DMUl3wk0wV
