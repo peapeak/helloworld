@@ -1,3 +1,13 @@
+# @cyberwar_15
+## 2019-08-04 02:57:05
+## #NorthKorea #APT #Lazarus_Variant #NukeSped_Sony_Pictures
+## #리명일_NK_Attacker_Real_Name #Rifle #MarkAny_Signed
+## 
+## f1af683eba25bb9cdf4fa88176fc6128
+## 63e69d12ce86dfb2103f8e996ff7f710
+## 9758efcf96343d0ef83854860195c4b4
+## ce5a42eb9741d0429eccb42db9e00f20pic.twitter.com/Sw52cNqrOx
+## https://twitter.com/cyberwar_15/status/1157847898530304001<br><br><br><br><br>
 # @z3roTrust
 ## 2019-08-04 02:24:05
 ## Find out why physical security is just as important as information security. Read "A Case Study in a Foiled Chinese Cyber Espionage Attempt" - via @z3roTrust #Cybersecurity #NationalSecurity #InformationSecurity #PhysicalSecurity #CyberEspionagehttps://www.lnk.xyz/HJ0erAgAV?aduc=c3MCiOA1564885445278 …
