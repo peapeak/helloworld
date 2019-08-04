@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-04 08:09:17
+## #Lotsy group targets Italian and Spanish-speaking users
+## https://securityaffairs.co/wordpress/89287/cyber-crime/lotsy-group-scam-campaigns.html …
+## #securityaffairs #cybercrime #hacking #scam
+## https://twitter.com/securityaffairs/status/1157926464949542912<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-04 04:46:02
 ## Suspected state-sponsored hacking group tried to break into US utilitieshttps://www.zdnet.com/article/suspected-state-sponsored-hacking-group-tried-to-break-into-us-utilities/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d4662f008fd96000181f3db&utm_medium=trueAnthem&utm_source=twitter …
