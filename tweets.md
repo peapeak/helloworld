@@ -1,3 +1,18 @@
+# @Treadstone71LLC
+## 2019-08-04 17:49:03
+## #Zurich @issa_intl
+## @NCSC @ncsc_nl
+## @NATO
+## @ccdcoe
+## #Estonia
+## #Finland
+## #Belgium
+## #MISP
+## INTEL training Sep 9-14
+## @belgiandefence
+## @Belgian_Army
+## @FinGovernmenthttps://youtu.be/qzaG_43t9wU 
+## https://twitter.com/Treadstone71LLC/status/1158072367828131840<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-04 14:02:36
 ## Nation-state actor uses new #LookBack #RAT to target US utilities
