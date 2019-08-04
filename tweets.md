@@ -1,4 +1,9 @@
 # @Treadstone71LLC
+## 2019-08-04 16:00:22
+## Tekide Unveiled APT34 (Muddywater OilRig) - The Cyber Shafarat - Treadstone 71
+## See this link for the PDF version of this file.https://cybershafarat.com/2019/07/22/tekide-unveiled/ …
+## https://twitter.com/Treadstone71LLC/status/1158045020492042241<br><br><br><br><br>
+# @Treadstone71LLC
 ## 2019-08-04 17:49:03
 ## #Zurich @issa_intl
 ## @NCSC @ncsc_nl
