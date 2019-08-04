@@ -1,3 +1,7 @@
+# @i_intelligence
+## 2019-08-04 06:53:11
+## The Wartime Spies Who Used Knitting as an Espionage Toolhttp://atlasobscura.com/articles/knitting-spies-wwi-wwii …
+## https://twitter.com/i_intelligence/status/1157907313329614848<br><br><br><br><br>
 # @cyberwar_15
 ## 2019-08-04 02:57:05
 ## #NorthKorea #APT #Lazarus_Variant #NukeSped_Sony_Pictures
