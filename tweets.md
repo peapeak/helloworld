@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-08-04 02:24:05
+## Find out why physical security is just as important as information security. Read "A Case Study in a Foiled Chinese Cyber Espionage Attempt" - via @z3roTrust #Cybersecurity #NationalSecurity #InformationSecurity #PhysicalSecurity #CyberEspionagehttps://www.lnk.xyz/HJ0erAgAV?aduc=c3MCiOA1564885445278 …
+## https://twitter.com/z3roTrust/status/1157839593418436608<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-08-04 00:30:09
 ## Tekide Unveiled APT34 (Muddywater OilRig) - The Cyber Shafarat - Treadstone 71https://cybershafarat.com/2019/07/22/tekide-unveiled/ …
