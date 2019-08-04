@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-04 04:46:02
+## Suspected state-sponsored hacking group tried to break into US utilitieshttps://www.zdnet.com/article/suspected-state-sponsored-hacking-group-tried-to-break-into-us-utilities/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d4662f008fd96000181f3db&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1157875315986841600<br><br><br><br><br>
 # @i_intelligence
 ## 2019-08-04 06:53:11
 ## The Wartime Spies Who Used Knitting as an Espionage Toolhttp://atlasobscura.com/articles/knitting-spies-wwi-wwii …
