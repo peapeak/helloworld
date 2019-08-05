@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-05 14:01:08
+## A cyber-espionage group has been stealing files from the Venezuelan militaryhttps://www.zdnet.com/article/a-cyber-espionage-group-has-been-stealing-files-from-the-venezuelan-military/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d48368cffeb9a00013b870b&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1158377400474001408<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-05 10:36:57
 ## Nation-state actor uses new #LookBack #RAT to target US utilities
