@@ -1,4 +1,14 @@
 # @JayTHL
+## 2019-08-05 22:01:34
+## a free citizens rights existed before the creation of a government. 
+## they weren't surrendered as enumerated powers by free people to form the government.
+## those rights are retained by the people.
+## 
+## DP exists above the government.
+## 
+## you are trying to put all of this below gov.
+## https://twitter.com/JayTHL/status/1158498306319880193<br><br><br><br><br>
+# @JayTHL
 ## 2019-08-05 22:06:10
 ## imagine the power of a government that gets to decide what constraints against the government were no longer in effect due to "society evolves."
 ## 
