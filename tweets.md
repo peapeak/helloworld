@@ -1,3 +1,11 @@
+# @ZDNet
+## 2019-08-05 04:01:17
+## Suspected state-sponsored hacking group tried to break into US utilitieshttps://www.zdnet.com/article/suspected-state-sponsored-hacking-group-tried-to-break-into-us-utilities/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d47a9e5ffeb9a00013b7e0c&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1158226445015179266<br><br><br><br><br>
+# @Rmy_Reserve
+## 2019-08-05 00:28:32
+## That's how the sample is constructed, and that's how muddywater technique
+## https://twitter.com/Rmy_Reserve/status/1158172902027669504<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-05 00:29:11
 ## If you don't even know muddywater, who's in a position to say that
