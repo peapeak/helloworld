@@ -1,3 +1,7 @@
+# @JayTHL
+## 2019-08-05 19:31:04
+## no one NEEDS encryption without government backdoors.
+## https://twitter.com/JayTHL/status/1158460432526565377<br><br><br><br><br>
 # @cyb3rops
 ## 2019-08-05 19:30:02
 ## Regarding the  #STRONTIUM #APT28 #FancyBear on IOT devices report
