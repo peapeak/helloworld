@@ -1,4 +1,8 @@
 # @ZDNet
+## 2019-08-05 03:47:08
+## WA proposes new Privacy Commissioner and government Chief Data Officer https://zd.net/31jK2VG  by @ashabeeeee
+## https://twitter.com/ZDNet/status/1158222881710432256<br><br><br><br><br>
+# @ZDNet
 ## 2019-08-05 04:01:17
 ## Suspected state-sponsored hacking group tried to break into US utilitieshttps://www.zdnet.com/article/suspected-state-sponsored-hacking-group-tried-to-break-into-us-utilities/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d47a9e5ffeb9a00013b7e0c&utm_medium=trueAnthem&utm_source=twitter …
 ## https://twitter.com/ZDNet/status/1158226445015179266<br><br><br><br><br>
