@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-08-05 17:37:01
+## Russian government hackers used office technology to try to breach privileged accounts  https://hubs.ly/H0k5Tt_0  by @shanvavpic.twitter.com/CwZ8vQ6Jhs
+## https://twitter.com/CyberScoopNews/status/1158431728681267201<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-05 13:08:13
 ## #Machete #cyberespionage group targets #LatinAmerica military
