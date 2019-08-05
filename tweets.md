@@ -1,3 +1,11 @@
+# @kaspersky
+## 2019-08-05 15:00:42
+## Summary of #APT trends in Q2 2019:
+## 
+##  #TajMahal-- a highly sophisticated, previously unknown APT that has been active for 5 years
+##  #Zebrocy adds new tools using various programming languages
+##  #Lazarus targeting mobile gaming companies in S. Koreahttps://securelist.com/apt-trends-report-q2-2019/91897/?utm_source=twitter&utm_medium=social&utm_campaign=us_securelist_Zt0106_organic&utm_content=sm-post&utm_term=us_twitter_organic_Zt0106_sm-post_social_securelist …
+## https://twitter.com/kaspersky/status/1158392389662314497<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-08-05 17:37:01
 ## Russian government hackers used office technology to try to breach privileged accounts  https://hubs.ly/H0k5Tt_0  by @shanvavpic.twitter.com/CwZ8vQ6Jhs
