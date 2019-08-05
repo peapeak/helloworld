@@ -1,4 +1,10 @@
 # @JayTHL
+## 2019-08-05 21:32:44
+## no, i'll chose freedom. that's why we kicked England out in the first place.
+## 
+## crime is low because the people are good, not because government coercion.
+## https://twitter.com/JayTHL/status/1158491050874417154<br><br><br><br><br>
+# @JayTHL
 ## 2019-08-05 21:56:02
 ## if the government gets to define your rights, they get to define due process.
 ## 
