@@ -1,4 +1,10 @@
 # @JayTHL
+## 2019-08-05 22:06:10
+## imagine the power of a government that gets to decide what constraints against the government were no longer in effect due to "society evolves."
+## 
+## you might say that government would have no constraints at all.
+## https://twitter.com/JayTHL/status/1158499464098832384<br><br><br><br><br>
+# @JayTHL
 ## 2019-08-05 21:32:44
 ## no, i'll chose freedom. that's why we kicked England out in the first place.
 ## 
