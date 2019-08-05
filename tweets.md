@@ -1,4 +1,8 @@
 # @Rmy_Reserve
+## 2019-08-05 00:31:49
+## But to be honest, #muddywater's chances of success are also pretty low
+## https://twitter.com/Rmy_Reserve/status/1158173727449911297<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-08-05 00:58:53
 ## yep,i know your meaning. The #muddywater sample use it too Simple.and it can not bypass AV/EDR
 ## Sorry, i can not know your meaning.
