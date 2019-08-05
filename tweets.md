@@ -1,3 +1,7 @@
+# @Rmy_Reserve
+## 2019-08-05 12:12:04
+## When i ANALYSIS #Turla interesting sample it seems to Remind me to learn code protection techniquespic.twitter.com/7EIhedwOSb
+## https://twitter.com/Rmy_Reserve/status/1158349950826082305<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-05 09:30:08
 ## A cyber-espionage group has been stealing files from the Venezuelan military https://zd.net/31gTI34  by @campuscodi
