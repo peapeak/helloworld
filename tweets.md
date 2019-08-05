@@ -1,3 +1,7 @@
+# @welivesecurity
+## 2019-08-05 09:40:41
+## #Breaking: New @ESET research uncovers an ongoing #cyberespionage operation that takes aim at the military forces of Venezuela and other Latin American countries. #Machete #malware #backdoor #infosechttps://www.welivesecurity.com/2019/08/05/sharpening-machete-cyberespionage/ …
+## https://twitter.com/welivesecurity/status/1158311857473671168<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-05 08:30:42
 ## WA proposes new Privacy Commissioner and government Chief Data Officerhttps://www.zdnet.com/article/wa-proposes-new-privacy-commissioner-and-government-chief-data-officer/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d47e92408fd960001820c81&utm_medium=trueAnthem&utm_source=twitter …
