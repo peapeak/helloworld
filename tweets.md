@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-05 19:27:41
+## #Machete #cyberespionage group targets #LatinAmerica military
+## https://securityaffairs.co/wordpress/89437/apt/machete-targets-venezuela.html …
+## #securityaffairs
+## https://twitter.com/securityaffairs/status/1158459580235558914<br><br><br><br><br>
 # @BleepinComputer
 ## 2019-08-05 19:23:33
 ## IoT devices were used by STRONTIUM (aka APT28) as a foothold within their targets' corporate networks
