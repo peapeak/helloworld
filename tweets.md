@@ -1,3 +1,7 @@
+# @RecordedFuture
+## 2019-08-05 22:21:59
+## Learn how #threatintelligence helps government organizations identify the most pressing threats, allowing them to allocate resources accordingly while staying accountable to the public: http://bit.ly/2KlhdkO  #Cybersecurity
+## https://twitter.com/RecordedFuture/status/1158503443159494657<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-08-05 22:49:18
 ## 'Machete' cyber-espionage group goes after military in Venezuela https://hubs.ly/H0k6lPX0  by @shanvavpic.twitter.com/M9nJRrdq1s
