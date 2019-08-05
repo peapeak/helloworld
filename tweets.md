@@ -1,3 +1,12 @@
+# @cyb3rops
+## 2019-08-05 19:30:02
+## Regarding the  #STRONTIUM #APT28 #FancyBear on IOT devices report
+## 
+## For your convenience - I've added the IOCs (C2s & script keywords) to the standard IOC set of Fenrir, my simple Bash IOC scanner
+## 
+## Happy hunting 
+## https://github.com/Neo23x0/Fenrir pic.twitter.com/o0BAjiPivz
+## https://twitter.com/cyb3rops/status/1158460171510792192<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-05 19:27:41
 ## #Machete #cyberespionage group targets #LatinAmerica military
