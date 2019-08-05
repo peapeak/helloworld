@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-05 08:30:42
+## WA proposes new Privacy Commissioner and government Chief Data Officerhttps://www.zdnet.com/article/wa-proposes-new-privacy-commissioner-and-government-chief-data-officer/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d47e92408fd960001820c81&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1158294246031577088<br><br><br><br><br>
 # @attcyber
 ## 2019-08-05 07:15:00
 ## Government survey of UK businesses and organizations to identify issues in finding #cybersecurity talent http://spr.ly/6011E0367  @ComputerWeekly @Warwick_Ashford #infosecpic.twitter.com/23avsykHKg
