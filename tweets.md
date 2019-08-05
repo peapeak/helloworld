@@ -1,4 +1,10 @@
 # @JayTHL
+## 2019-08-05 21:56:02
+## if the government gets to define your rights, they get to define due process.
+## 
+## maybe you'll get it later. maybe not. i dunno.
+## https://twitter.com/JayTHL/status/1158496913496379393<br><br><br><br><br>
+# @JayTHL
 ## 2019-08-05 19:31:04
 ## no one NEEDS encryption without government backdoors.
 ## https://twitter.com/JayTHL/status/1158460432526565377<br><br><br><br><br>
