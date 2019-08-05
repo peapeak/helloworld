@@ -1,4 +1,13 @@
 # @DrunkBinary
+## 2019-08-05 06:30:19
+## Gamaredon Group Pteranodon Implant
+## 7adc386261df1e49e71bb4a7b5c33c4c
+## c3e36447b17b7373251b40c04bfceab3
+## 07c82a8bacbd196a9788c9d6cda68f5a
+## fc6aeb444a654eb473aa6f094ac9ee5f
+## 4d373da58026abd1d69ca38faeada36e
+## https://twitter.com/DrunkBinary/status/1158263949135110144<br><br><br><br><br>
+# @DrunkBinary
 ## 2019-08-05 06:33:42
 ## APT28/FANCY BEAR Zekapab Implant
 ## ff03e53ccdf82e9310f15ec4796819e3
