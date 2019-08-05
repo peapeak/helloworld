@@ -1,3 +1,7 @@
+# @ESET
+## 2019-08-05 09:37:42
+## #BREAKING: @ESETresearch has discovered an ongoing #cyberespionage campaign against high-profile, mostly military targets in Latin America. 75% of the attacks, perpetrated by the #Machete group, have taken place in Venezuela. @welivesecurity --> https://bit.ly/2GNbcMH pic.twitter.com/zhVC45gYdn
+## https://twitter.com/ESET/status/1158311105208434688<br><br><br><br><br>
 # @welivesecurity
 ## 2019-08-05 09:40:41
 ## #Breaking: New @ESET research uncovers an ongoing #cyberespionage operation that takes aim at the military forces of Venezuela and other Latin American countries. #Machete #malware #backdoor #infosechttps://www.welivesecurity.com/2019/08/05/sharpening-machete-cyberespionage/ …
