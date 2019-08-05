@@ -1,3 +1,7 @@
+# @attcyber
+## 2019-08-05 07:15:00
+## Government survey of UK businesses and organizations to identify issues in finding #cybersecurity talent http://spr.ly/6011E0367  @ComputerWeekly @Warwick_Ashford #infosecpic.twitter.com/23avsykHKg
+## https://twitter.com/attcyber/status/1158275195280531456<br><br><br><br><br>
 # @DrunkBinary
 ## 2019-08-05 06:30:19
 ## Gamaredon Group Pteranodon Implant
