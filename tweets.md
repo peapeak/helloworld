@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-08-05 22:49:18
+## 'Machete' cyber-espionage group goes after military in Venezuela https://hubs.ly/H0k6lPX0  by @shanvavpic.twitter.com/M9nJRrdq1s
+## https://twitter.com/CyberScoopNews/status/1158510316143165440<br><br><br><br><br>
 # @JayTHL
 ## 2019-08-05 22:01:34
 ## a free citizens rights existed before the creation of a government. 
