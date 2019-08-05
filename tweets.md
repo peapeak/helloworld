@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-05 09:30:08
+## A cyber-espionage group has been stealing files from the Venezuelan military https://zd.net/31gTI34  by @campuscodi
+## https://twitter.com/ZDNet/status/1158309199148748800<br><br><br><br><br>
 # @ESET
 ## 2019-08-05 09:37:42
 ## #BREAKING: @ESETresearch has discovered an ongoing #cyberespionage campaign against high-profile, mostly military targets in Latin America. 75% of the attacks, perpetrated by the #Machete group, have taken place in Venezuela. @welivesecurity --> https://bit.ly/2GNbcMH pic.twitter.com/zhVC45gYdn
