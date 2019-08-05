@@ -1,4 +1,8 @@
 # @Rmy_Reserve
+## 2019-08-05 00:29:11
+## If you don't even know muddywater, who's in a position to say that
+## https://twitter.com/Rmy_Reserve/status/1158173064808546304<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-08-05 00:31:49
 ## But to be honest, #muddywater's chances of success are also pretty low
 ## https://twitter.com/Rmy_Reserve/status/1158173727449911297<br><br><br><br><br>
