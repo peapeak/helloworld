@@ -1,3 +1,8 @@
+# @Rmy_Reserve
+## 2019-08-05 00:58:53
+## yep,i know your meaning. The #muddywater sample use it too Simple.and it can not bypass AV/EDR
+## Sorry, i can not know your meaning.
+## https://twitter.com/Rmy_Reserve/status/1158180538965995520<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-08-04 22:02:48
 ## By the fact that security updates are no longer applied since two years or are not disabled in the registry, the payload isn't executed. This shows that if we compared to the target (government) that is normally correctly secure, this can't be success.
