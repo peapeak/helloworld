@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-05 10:36:57
+## Nation-state actor uses new #LookBack #RAT to target US utilities
+## https://securityaffairs.co/wordpress/89323/apt/lookback-rat-attacks.html …
+## #securityaffairs #hacking #malware #APT10
+## https://twitter.com/securityaffairs/status/1158326015543971841<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-05 12:12:04
 ## When i ANALYSIS #Turla interesting sample it seems to Remind me to learn code protection techniquespic.twitter.com/7EIhedwOSb
