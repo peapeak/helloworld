@@ -1,3 +1,7 @@
+# @BleepinComputer
+## 2019-08-05 19:23:33
+## IoT devices were used by STRONTIUM (aka APT28) as a foothold within their targets' corporate networks
+## https://twitter.com/BleepinComputer/status/1158458537875517445<br><br><br><br><br>
 # @kaspersky
 ## 2019-08-05 15:00:42
 ## Summary of #APT trends in Q2 2019:
