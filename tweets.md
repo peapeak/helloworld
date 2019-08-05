@@ -1,3 +1,8 @@
+# @DrunkBinary
+## 2019-08-05 06:33:42
+## APT28/FANCY BEAR Zekapab Implant
+## ff03e53ccdf82e9310f15ec4796819e3
+## https://twitter.com/DrunkBinary/status/1158264799324778496<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-05 03:47:08
 ## WA proposes new Privacy Commissioner and government Chief Data Officer https://zd.net/31jK2VG  by @ashabeeeee
