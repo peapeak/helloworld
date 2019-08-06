@@ -1,4 +1,8 @@
 # @cylanceinc
+## 2019-08-06 02:00:03
+## Flirting With IDA and APT28: This blog shares a methodology used to develop Hex-Rays' Interactive Disassembler (IDA) signatures created as part of pre-analysis for a recently published #APT28 sample. https://bit.ly/2S4v7Lo  #malware #securitypic.twitter.com/MsO69Wu9P3
+## https://twitter.com/cylanceinc/status/1158558322733330433<br><br><br><br><br>
+# @cylanceinc
 ## 2019-08-06 03:00:02
 ## NEW! #InSecurityPodcast: @selectedwisdom on the World of Advanced Persistent Manipulators. In this week’s episode, @packmatt73 welcomes Clint Watts to talk about surviving in a #socialmedia world of #hackers, terrorists, #Russians, and #fakenews. OH MY! https://bit.ly/2SAt5TM pic.twitter.com/qEzBFFTB2p
 ## https://twitter.com/cylanceinc/status/1158573418687676416<br><br><br><br><br>
