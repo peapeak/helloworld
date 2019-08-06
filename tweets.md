@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-05 23:15:41
+## A cyber-espionage group has been stealing files from the Venezuelan military https://www.zdnet.com/article/a-cyber-espionage-group-has-been-stealing-files-from-the-venezuelan-military/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d48b894ffeb9a00013b8ea9&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1158516959048339456<br><br><br><br><br>
 # @RecordedFuture
 ## 2019-08-05 22:21:59
 ## Learn how #threatintelligence helps government organizations identify the most pressing threats, allowing them to allocate resources accordingly while staying accountable to the public: http://bit.ly/2KlhdkO  #Cybersecurity
