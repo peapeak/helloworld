@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-06 07:11:24
+## #Machete #cyberespionage group targets #LatinAmerica military...
+## https://securityaffairs.co/wordpress/89437/apt/machete-targets-venezuela.html …
+## #securityaffairs
+## https://twitter.com/securityaffairs/status/1158636677386133504<br><br><br><br><br>
 # @bsmuir
 ## 2019-08-06 00:36:29
 ## #ESET @WeLiveSecurity analyse #Machete #cyberespionage campaign targeting military in Venezuela; favor compiling #malware binaries via #py2exe, obfuscated with #pyobfuscate. #infosec #Cybersecurity #DFIR #cybercrime
