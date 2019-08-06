@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-06 12:16:23
+## #Machete #cyberespionage group targets #LatinAmerica military
+## https://securityaffairs.co/wordpress/89437/apt/machete-targets-venezuela.html …
+## #securityaffairs
+## https://twitter.com/securityaffairs/status/1158713425733853184<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-06 10:15:49
 ## #APT #Gamaredon
