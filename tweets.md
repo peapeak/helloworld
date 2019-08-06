@@ -1,5 +1,9 @@
 # @Arkbird_SOLG
 ## 2019-08-05 23:58:32
+## Like observed with muddywater, this repeats until the group edit a URL with  the next payload if the target is interesting. This check the connectivity to internet by requesting the DNS of Google and use the shellscript.exe for try to download by the edited URL.pic.twitter.com/pqhzwX6QZ9
+## https://twitter.com/Arkbird_SOLG/status/1158527738912890880<br><br><br><br><br>
+# @Arkbird_SOLG
+## 2019-08-05 23:58:32
 ## This PE file uses the OpenSSL, SMTP, FTP and various algorithms libraries in C, this a compiled version of Wget. The C2 is host by a provider in Russia.This seems be a sample of the campaign of Gamaredon group in June 2018 by the very similar TTPs.pic.twitter.com/3bQF2LYqtD
 ## https://twitter.com/Arkbird_SOLG/status/1158527741513388033<br><br><br><br><br>
 # @Arkbird_SOLG
