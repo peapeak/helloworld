@@ -1,4 +1,8 @@
 # @Arkbird_SOLG
+## 2019-08-05 23:58:29
+## #APT #Gamaredon The SFX archive executes a runas for get a bypass of UAC elevation, once this done, this show a fake window of Word with riche020.dll method. Define the language of thread in Russian.pic.twitter.com/1NtXlJ15cE
+## https://twitter.com/Arkbird_SOLG/status/1158527727651213313<br><br><br><br><br>
+# @Arkbird_SOLG
 ## 2019-08-05 23:58:32
 ## Like observed with muddywater, this repeats until the group edit a URL with  the next payload if the target is interesting. This check the connectivity to internet by requesting the DNS of Google and use the shellscript.exe for try to download by the edited URL.pic.twitter.com/pqhzwX6QZ9
 ## https://twitter.com/Arkbird_SOLG/status/1158527738912890880<br><br><br><br><br>
