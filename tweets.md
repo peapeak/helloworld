@@ -1,4 +1,8 @@
 # @Arkbird_SOLG
+## 2019-08-05 23:58:32
+## This PE file uses the OpenSSL, SMTP, FTP and various algorithms libraries in C, this a compiled version of Wget. The C2 is host by a provider in Russia.This seems be a sample of the campaign of Gamaredon group in June 2018 by the very similar TTPs.pic.twitter.com/3bQF2LYqtD
+## https://twitter.com/Arkbird_SOLG/status/1158527741513388033<br><br><br><br><br>
+# @Arkbird_SOLG
 ## 2019-08-05 23:58:33
 ## This version of Wget is used on many campaigns of this group since 2017.
 ## Original tweet: https://twitter.com/Timele9527/status/1157458188792262656 …
