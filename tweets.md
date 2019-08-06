@@ -1,3 +1,8 @@
+# @bsmuir
+## 2019-08-06 00:36:29
+## #ESET @WeLiveSecurity analyse #Machete #cyberespionage campaign targeting military in Venezuela; favor compiling #malware binaries via #py2exe, obfuscated with #pyobfuscate. #infosec #Cybersecurity #DFIR #cybercrime
+## https://lnkd.in/dussai7 https://lnkd.in/dR6U5De 
+## https://twitter.com/bsmuir/status/1158537293357113346<br><br><br><br><br>
 # @Timele9527
 ## 2019-08-06 01:44:50
 ## Maybe #Gamaredon 
