@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-08-06 10:15:49
+## #APT #Gamaredon
+## Thanks to @Timele9527 
+## Cc:@Arkbird_SOLGhttps://twitter.com/Timele9527/status/1158554492746383361 …
+## https://twitter.com/Rmy_Reserve/status/1158683083710746626<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-06 07:11:24
 ## #Machete #cyberespionage group targets #LatinAmerica military...
