@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-08-06 15:39:00
+## Russian government hackers used office technology to try to breach privileged accounts  https://hubs.ly/H0k6KBV0  by @shanvavpic.twitter.com/GIOB9C94LC
+## https://twitter.com/CyberScoopNews/status/1158764418014072833<br><br><br><br><br>
 # @MalwarePatrol
 ## 2019-08-06 14:00:45
 ## ESET research uncovers a cyberespionage operation targeting the Venezuelan military. https://www.welivesecurity.com/2019/08/05/sharpening-machete-cyberespionage/ … via @welivesecuritypic.twitter.com/svpDj88HHO
