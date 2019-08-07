@@ -1,3 +1,7 @@
+# @bsmuir
+## 2019-08-07 00:37:26
+## I have always been interested in #webshells hosted on print servers, which is a good way to fly under the radar in most organisations. This is a good example of an #APT group leveraging #IoT devices to facilitate a #cyberespionage…https://lnkd.in/gddWKSM  https://lnkd.in/gbpTZmF 
+## https://twitter.com/bsmuir/status/1158899918376861696<br><br><br><br><br>
 # @cylanceinc
 ## 2019-08-06 17:00:28
 ## #OceanLotus APT Uses New #Ratsnif Trojan for Network Attacks via @BleepinComputer @Ionut_Ilascu #APT32 #CobaltKitty #BlackBerryCylance #BBCy https://bit.ly/2LuQPa5 pic.twitter.com/yNGxWb37CB
