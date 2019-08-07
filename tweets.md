@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-08-07 07:45:05
+## Find out why physical security is just as important as information security. Read "A Case Study in a Foiled Chinese Cyber Espionage Attempt" - via @z3roTrust #Cybersecurity #NationalSecurity #InformationSecurity #PhysicalSecurity #CyberEspionagehttps://www.lnk.xyz/HJ0erAgAV?aduc=bIJaCW91565163903287 …
+## https://twitter.com/z3roTrust/status/1159007540635734016<br><br><br><br><br>
 # @bsmuir
 ## 2019-08-07 00:37:26
 ## I have always been interested in #webshells hosted on print servers, which is a good way to fly under the radar in most organisations. This is a good example of an #APT group leveraging #IoT devices to facilitate a #cyberespionage…https://lnkd.in/gddWKSM  https://lnkd.in/gbpTZmF 
