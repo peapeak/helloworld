@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-08-06 21:02:02
+## SPOTTED: Bill Hagested (@RedDragon1949) discussing #cyberespionage with @packmatt73 at Black Hat! #BHUSA2019 #BHUSApic.twitter.com/322GVZ5msK
+## https://twitter.com/cylanceinc/status/1158845709099175936<br><br><br><br><br>
 # @RecordedFuture
 ## 2019-08-06 22:24:00
 ## Monzy Merza, VP and head of security research at @Splunk, joins our #podcast to share his journey into tech and security, including leadership positions in both the government and private sectors: http://bit.ly/2ZxD12Q  #ThreatIntelligence
