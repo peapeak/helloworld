@@ -1,4 +1,8 @@
 # @CyberScoopNews
+## 2019-08-06 14:39:00
+## "Machete" cyber-espionage group goes after military in Venezuela https://hubs.ly/H0k6KBx0  by @shanvavpic.twitter.com/JK23QHrPya
+## https://twitter.com/CyberScoopNews/status/1158749316007243776<br><br><br><br><br>
+# @CyberScoopNews
 ## 2019-08-06 15:39:00
 ## Russian government hackers used office technology to try to breach privileged accounts  https://hubs.ly/H0k6KBV0  by @shanvavpic.twitter.com/GIOB9C94LC
 ## https://twitter.com/CyberScoopNews/status/1158764418014072833<br><br><br><br><br>
