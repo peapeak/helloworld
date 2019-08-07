@@ -1,4 +1,8 @@
 # @cylanceinc
+## 2019-08-06 17:00:28
+## #OceanLotus APT Uses New #Ratsnif Trojan for Network Attacks via @BleepinComputer @Ionut_Ilascu #APT32 #CobaltKitty #BlackBerryCylance #BBCy https://bit.ly/2LuQPa5 pic.twitter.com/yNGxWb37CB
+## https://twitter.com/cylanceinc/status/1158784920241737728<br><br><br><br><br>
+# @cylanceinc
 ## 2019-08-06 21:02:02
 ## SPOTTED: Bill Hagested (@RedDragon1949) discussing #cyberespionage with @packmatt73 at Black Hat! #BHUSA2019 #BHUSApic.twitter.com/322GVZ5msK
 ## https://twitter.com/cylanceinc/status/1158845709099175936<br><br><br><br><br>
