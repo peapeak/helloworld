@@ -1,3 +1,7 @@
+# @MalwarePatrol
+## 2019-08-06 14:00:45
+## ESET research uncovers a cyberespionage operation targeting the Venezuelan military. https://www.welivesecurity.com/2019/08/05/sharpening-machete-cyberespionage/ … via @welivesecuritypic.twitter.com/svpDj88HHO
+## https://twitter.com/MalwarePatrol/status/1158739690603929600<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-06 12:16:23
 ## #Machete #cyberespionage group targets #LatinAmerica military
