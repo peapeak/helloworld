@@ -1,3 +1,7 @@
+# @RecordedFuture
+## 2019-08-06 22:24:00
+## Monzy Merza, VP and head of security research at @Splunk, joins our #podcast to share his journey into tech and security, including leadership positions in both the government and private sectors: http://bit.ly/2ZxD12Q  #ThreatIntelligence
+## https://twitter.com/RecordedFuture/status/1158866336715616257<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-08-06 14:39:00
 ## "Machete" cyber-espionage group goes after military in Venezuela https://hubs.ly/H0k6KBx0  by @shanvavpic.twitter.com/JK23QHrPya
