@@ -1,3 +1,7 @@
+# @MalwarePatrol
+## 2019-08-08 16:01:05
+## APT41: A Dual Espionage and Cyber Crime Operation. https://www.fireeye.com/blog/threat-research/2019/08/apt41-dual-espionage-and-cyber-crime-operation.html … via @FireEyepic.twitter.com/1mWOVZHbjM
+## https://twitter.com/MalwarePatrol/status/1159494751533588481<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-08 15:06:56
 ## #OilRig #APT group: the evolution of attack techniques over time
