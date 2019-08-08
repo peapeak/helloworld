@@ -1,3 +1,7 @@
+# @Rmy_Reserve
+## 2019-08-08 11:47:16
+## #APT #Gamaredonhttps://twitter.com/RedDrip7/status/1159410461139320833 …
+## https://twitter.com/Rmy_Reserve/status/1159430876628955136<br><br><br><br><br>
 # @cylanceinc
 ## 2019-08-08 13:00:24
 ## Flirting With IDA and APT28: This blog shares a methodology used to develop Hex-Rays' Interactive Disassembler (IDA) signatures created as part of pre-analysis for a recently published #APT28 sample. https://bit.ly/2S4v7Lo  #malware #securitypic.twitter.com/svMzShwu4k
