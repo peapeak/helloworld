@@ -1,3 +1,7 @@
+# @bsmuir
+## 2019-08-08 01:53:55
+## Purportedly Chinese-based #APT41 group mixing #cyberespionage with #cybercrime; taking a page out of the #Lazarus playbook? Via @FireEye. #infosec #Cybersecurity #DFIR #malware #CISOhttps://lnkd.in/d3KnEiN 
+## https://twitter.com/bsmuir/status/1159281551953338369<br><br><br><br><br>
 # @KseProso
 ## 2019-08-08 07:07:15
 ## Can somebody explain me why they say that this is #APT28? Because I don't see any approve of it on their article. Everyone can say this is APT28, or MuddyWater, or China, etc. without evidence it does not work.  https://msrc-blog.microsoft.com/2019/08/05/corporate-iot-a-path-to-intrusion/ …
