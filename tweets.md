@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-08 18:16:05
+## #OilRig #APT group: the evolution of attack techniques over time-
+## https://securityaffairs.co/wordpress/89586/apt/oilrig-apt-techniques-evolution.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1159528722959085576<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-08-08 19:33:00
 ## "Machete" cyber-espionage group goes after military in Venezuela https://hubs.ly/H0k9BTP0  by @shanvavpic.twitter.com/QxLENm44Go
