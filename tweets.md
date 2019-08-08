@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-08-08 13:00:24
+## Flirting With IDA and APT28: This blog shares a methodology used to develop Hex-Rays' Interactive Disassembler (IDA) signatures created as part of pre-analysis for a recently published #APT28 sample. https://bit.ly/2S4v7Lo  #malware #securitypic.twitter.com/svMzShwu4k
+## https://twitter.com/cylanceinc/status/1159449281868308481<br><br><br><br><br>
 # @Manu_De_Lucia
 ## 2019-08-08 09:31:49
 ## #APT #APT32 #OCEANLOTUS #SectorF01 may be #Korplug cluster ref. @nshcthreatrecon repo of 25/07 md5:05b5707d79ca0aee269eb1b02db75b19
