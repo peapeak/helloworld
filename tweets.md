@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-08-08 20:00:20
+## #InSecurityPodcast: @selectedwisdom on the World of Advanced Persistent Manipulators. With governments all over the world in a state of perpetual election-manipulation-mode, and candidates running their own Troll farms, do we even know what to prepare for? https://bit.ly/2SAt5TM pic.twitter.com/lCzVGOuvS0
+## https://twitter.com/cylanceinc/status/1159554958997544960<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-08-08 21:14:55
 ## A phishing campaign with nation-state hallmarks is targeting Chinese government agencies https://hubs.ly/H0k9Sh_0  by @jeffstone500pic.twitter.com/frs5Cuq0e5
