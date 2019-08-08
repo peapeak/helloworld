@@ -1,4 +1,8 @@
 # @KseProso
+## 2019-08-08 07:07:15
+## Can somebody explain me why they say that this is #APT28? Because I don't see any approve of it on their article. Everyone can say this is APT28, or MuddyWater, or China, etc. without evidence it does not work.  https://msrc-blog.microsoft.com/2019/08/05/corporate-iot-a-path-to-intrusion/ …
+## https://twitter.com/KseProso/status/1159360408609808384<br><br><br><br><br>
+# @KseProso
 ## 2019-08-08 08:59:05
 ## Is it North Korea? Who? #Lazarus? Somebody hear it? Some 
 ## technical data?
