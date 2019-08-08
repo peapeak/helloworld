@@ -1,3 +1,7 @@
+# @JayTHL
+## 2019-08-08 14:01:09
+## yes totally the founders would add in the "bill of rights" a provision to define an authority the government has. just kinda plopped in there with authorities the government specifically does not have. exactly the move you'd do if restricting gov power.
+## https://twitter.com/JayTHL/status/1159464566688026624<br><br><br><br><br>
 # @BLeeJones
 ## 2019-08-08 14:40:35
 ## Emerging technology in digital government 
