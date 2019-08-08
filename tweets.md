@@ -1,3 +1,10 @@
+# @RedDrip7
+## 2019-08-08 10:26:09
+## New attack seems carried out by #Gamaredon to target #Ukraine. The decoy document pretends to contain activity information of the Chief of Regime Service at the A2267 #Military Branch.
+## 
+## https://app.any.run/tasks/14de7a1a-6593-4666-a58f-15df86cf918f/ …
+## https://www.virustotal.com/gui/file/268c8c226cfa3d3a70c1bb4f35aea54e121a104fdaf76314470c1928a4d7a7ee/details …pic.twitter.com/qWtkHLtJE2
+## https://twitter.com/RedDrip7/status/1159410461139320833<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-08 09:43:30
 ## #APT #Oceanlotus
