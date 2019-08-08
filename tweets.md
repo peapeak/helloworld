@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-08-08 19:33:00
+## "Machete" cyber-espionage group goes after military in Venezuela https://hubs.ly/H0k9BTP0  by @shanvavpic.twitter.com/QxLENm44Go
+## https://twitter.com/CyberScoopNews/status/1159548079865040896<br><br><br><br><br>
 # @kaspersky
 ## 2019-08-08 18:01:30
 ## Summary of #APT trends in Q2 2019:
