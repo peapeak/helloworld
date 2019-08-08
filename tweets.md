@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-08-08 15:00:34
+## NEW! #InSecurityPodcast: @selectedwisdom on the World of Advanced Persistent Manipulators. In this week’s episode, @packmatt73 welcomes Clint Watts to talk about surviving in a #socialmedia world of #hackers, terrorists, #Russians, and #fakenews. OH MY! https://bit.ly/2SAt5TM pic.twitter.com/WfpfczoL0X
+## https://twitter.com/cylanceinc/status/1159479522665926657<br><br><br><br><br>
 # @JayTHL
 ## 2019-08-08 14:01:09
 ## yes totally the founders would add in the "bill of rights" a provision to define an authority the government has. just kinda plopped in there with authorities the government specifically does not have. exactly the move you'd do if restricting gov power.
