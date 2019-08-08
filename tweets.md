@@ -1,3 +1,9 @@
+# @KseProso
+## 2019-08-08 08:59:05
+## Is it North Korea? Who? #Lazarus? Somebody hear it? Some 
+## technical data?
+## @cyberwar_15 @kjkwak12 @blackorbird @issuemakerslab @barac_iohttps://www.computerweekly.com/news/252467937/African-bank-foils-suspected-North-Korean-cyber-attack …
+## https://twitter.com/KseProso/status/1159388549202006017<br><br><br><br><br>
 # @z3roTrust
 ## 2019-08-07 07:45:05
 ## Find out why physical security is just as important as information security. Read "A Case Study in a Foiled Chinese Cyber Espionage Attempt" - via @z3roTrust #Cybersecurity #NationalSecurity #InformationSecurity #PhysicalSecurity #CyberEspionagehttps://www.lnk.xyz/HJ0erAgAV?aduc=bIJaCW91565163903287 …
