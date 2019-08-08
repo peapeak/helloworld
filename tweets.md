@@ -1,3 +1,7 @@
+# @blackorbird
+## 2019-08-08 10:02:19
+## lazarus
+## https://twitter.com/blackorbird/status/1159404464903577600<br><br><br><br><br>
 # @RedDrip7
 ## 2019-08-08 10:26:09
 ## New attack seems carried out by #Gamaredon to target #Ukraine. The decoy document pretends to contain activity information of the Chief of Regime Service at the A2267 #Military Branch.
