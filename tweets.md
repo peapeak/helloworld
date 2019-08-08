@@ -1,3 +1,11 @@
+# @kaspersky
+## 2019-08-08 18:01:30
+## Summary of #APT trends in Q2 2019:
+## 
+##  #TajMahal-- a highly sophisticated, previously unknown APT that has been active for 5 years
+##  #Zebrocy adds new tools using various programming languages
+##  #Lazarus targeting mobile gaming companies in S. Koreahttps://securelist.com/apt-trends-report-q2-2019/91897/?utm_source=twitter&utm_medium=social&utm_campaign=us_securelist_Zt0106_organic&utm_content=sm-post&utm_term=us_twitter_organic_Zt0106_sm-post_social_securelist …
+## https://twitter.com/kaspersky/status/1159525052221730816<br><br><br><br><br>
 # @MalwarePatrol
 ## 2019-08-08 16:01:05
 ## APT41: A Dual Espionage and Cyber Crime Operation. https://www.fireeye.com/blog/threat-research/2019/08/apt41-dual-espionage-and-cyber-crime-operation.html … via @FireEyepic.twitter.com/1mWOVZHbjM
