@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-08-08 21:14:55
+## A phishing campaign with nation-state hallmarks is targeting Chinese government agencies https://hubs.ly/H0k9Sh_0  by @jeffstone500pic.twitter.com/frs5Cuq0e5
+## https://twitter.com/CyberScoopNews/status/1159573730282094592<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-08 18:16:05
 ## #OilRig #APT group: the evolution of attack techniques over time-
