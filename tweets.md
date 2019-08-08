@@ -1,4 +1,9 @@
 # @bsmuir
+## 2019-08-08 00:16:13
+## #Google #ProjectZero team examine the remote attack surface of the #iPhone. #infosec #Cybersecurity #DFIR #cyberespionage #forensics
+## https://lnkd.in/dgVcxm6  https://lnkd.in/dUUg2As 
+## https://twitter.com/bsmuir/status/1159256965706584064<br><br><br><br><br>
+# @bsmuir
 ## 2019-08-08 01:53:55
 ## Purportedly Chinese-based #APT41 group mixing #cyberespionage with #cybercrime; taking a page out of the #Lazarus playbook? Via @FireEye. #infosec #Cybersecurity #DFIR #malware #CISOhttps://lnkd.in/d3KnEiN 
 ## https://twitter.com/bsmuir/status/1159281551953338369<br><br><br><br><br>
