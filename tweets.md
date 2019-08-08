@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-08 15:06:56
+## #OilRig #APT group: the evolution of attack techniques over time
+## https://securityaffairs.co/wordpress/89586/apt/oilrig-apt-techniques-evolution.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1159481122218225665<br><br><br><br><br>
 # @cylanceinc
 ## 2019-08-08 15:00:34
 ## NEW! #InSecurityPodcast: @selectedwisdom on the World of Advanced Persistent Manipulators. In this week’s episode, @packmatt73 welcomes Clint Watts to talk about surviving in a #socialmedia world of #hackers, terrorists, #Russians, and #fakenews. OH MY! https://bit.ly/2SAt5TM pic.twitter.com/WfpfczoL0X
