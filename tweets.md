@@ -1,3 +1,7 @@
+# @Manu_De_Lucia
+## 2019-08-08 09:31:49
+## #APT #APT32 #OCEANLOTUS #SectorF01 may be #Korplug cluster ref. @nshcthreatrecon repo of 25/07 md5:05b5707d79ca0aee269eb1b02db75b19
+## https://twitter.com/Manu_De_Lucia/status/1159396786756362240<br><br><br><br><br>
 # @bsmuir
 ## 2019-08-08 00:16:13
 ## #Google #ProjectZero team examine the remote attack surface of the #iPhone. #infosec #Cybersecurity #DFIR #cyberespionage #forensics
