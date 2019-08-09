@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-08-09 13:35:00
+## A phishing campaign with nation-state hallmarks is targeting Chinese government agencies https://hubs.ly/H0kbjx60  by @jeffstone500pic.twitter.com/C0d1tnFdGQ
+## https://twitter.com/CyberScoopNews/status/1159820374261063681<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-08-09 06:55:03
 ## How the Baltic states spot the Kremlin’s agents: The first step is to look for digital warning signs | Economist http://ow.ly/qQzS30pjDHr  #espionage
