@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-08-09 01:26:00
+## A phishing campaign with nation-state hallmarks is targeting Chinese government agencies https://hubs.ly/H0k9Tb00  by @jeffstone500pic.twitter.com/l9JCefBFop
+## https://twitter.com/CyberScoopNews/status/1159636914443620355<br><br><br><br><br>
 # @cylanceinc
 ## 2019-08-08 20:00:20
 ## #InSecurityPodcast: @selectedwisdom on the World of Advanced Persistent Manipulators. With governments all over the world in a state of perpetual election-manipulation-mode, and candidates running their own Troll farms, do we even know what to prepare for? https://bit.ly/2SAt5TM pic.twitter.com/lCzVGOuvS0
