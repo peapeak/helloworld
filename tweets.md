@@ -1,3 +1,7 @@
+# @JayTHL
+## 2019-08-09 14:26:21
+## we've seen governments and some fortune500 companies in these lists. big tech and tech security companies, financial sector, etc. orgs with real security programs and money to spend on the best appliances and services.
+## https://twitter.com/JayTHL/status/1159833296802668544<br><br><br><br><br>
 # @Timele9527
 ## 2019-08-09 10:50:53
 ## yep，look like apt-c-37
