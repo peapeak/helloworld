@@ -1,3 +1,11 @@
+# @ESET
+## 2019-08-09 12:23:36
+## Don't miss your weekly dose of #cybersecurity news with @TonyAtESET
+##  Cyberespionage against government targets in Latin America
+##  Varenyky spambot poses a real #sextortion campaign threat
+##  FBI warns about dating sites & apps
+## @welivesecurityhttps://bit.ly/2KArrh7 
+## https://twitter.com/ESET/status/1159802408563879936<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-08-09 13:35:00
 ## A phishing campaign with nation-state hallmarks is targeting Chinese government agencies https://hubs.ly/H0kbjx60  by @jeffstone500pic.twitter.com/C0d1tnFdGQ
