@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-08-10 15:36:59
+## A phishing campaign with nation-state hallmarks is targeting Chinese government agencies, @Anomali says https://hubs.ly/H0kbS7Z0  by @jeffstone500pic.twitter.com/F8WEDeihub
+## https://twitter.com/CyberScoopNews/status/1160213462523494401<br><br><br><br><br>
 # @kaspersky
 ## 2019-08-09 14:01:50
 ## Power supply systems, public and governmental institutions,  #Telegram, video game developer-- our recent report on #DDoS attacks in Q2 2019 showed no shortage of high-profile DDoS attacks. Full report on @Securelist  https://securelist.com/ddos-report-q2-2019/91934/?utm_source=twitter&utm_medium=social&utm_campaign=us_securelist_Zt0106_organic&utm_content=sm-post&utm_term=us_twitter_organic_Zt0106_sm-post_social_securelist …pic.twitter.com/V6xyuIZ3MV
