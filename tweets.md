@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-08-10 17:00:57
+## Chinese hackers do double duty operations for espionage and profit @techreviewhttp://ow.ly/HT8T30pjEDt 
+## https://twitter.com/CyberSecInt/status/1160234592990879744<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-08-10 15:36:59
 ## A phishing campaign with nation-state hallmarks is targeting Chinese government agencies, @Anomali says https://hubs.ly/H0kbS7Z0  by @jeffstone500pic.twitter.com/F8WEDeihub
