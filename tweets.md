@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-10 22:09:35
+## #OilRig #APT group: the evolution of attack techniques over time
+## https://securityaffairs.co/wordpress/89586/apt/oilrig-apt-techniques-evolution.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1160312262487416832<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-08-10 20:37:00
 ## Russian government hackers used office technology to try to breach privileged accounts  https://hubs.ly/H0kbRy30  by @shanvavpic.twitter.com/vqPhDD335y
