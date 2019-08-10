@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-08-10 20:37:00
+## Russian government hackers used office technology to try to breach privileged accounts  https://hubs.ly/H0kbRy30  by @shanvavpic.twitter.com/vqPhDD335y
+## https://twitter.com/CyberScoopNews/status/1160288963099267073<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-08-10 17:00:57
 ## Chinese hackers do double duty operations for espionage and profit @techreviewhttp://ow.ly/HT8T30pjEDt 
