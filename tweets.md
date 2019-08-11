@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-08-11 17:00:17
+## Flirting With IDA and APT28: This blog shares a methodology used to develop Hex-Rays' Interactive Disassembler (IDA) signatures created as part of pre-analysis for a recently published #APT28 sample. https://bit.ly/2S4v7Lo  #malware #securitypic.twitter.com/Jeu9o1feCG
+## https://twitter.com/cylanceinc/status/1160596813528911880<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-08-11 20:42:00
 ## Russian government hackers used office technology to try to breach privileged accounts  https://hubs.ly/H0kbRyd0  by @shanvavpic.twitter.com/GeS5xl57PX
