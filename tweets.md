@@ -1,4 +1,8 @@
 # @CyberScoopNews
+## 2019-08-11 20:42:00
+## Russian government hackers used office technology to try to breach privileged accounts  https://hubs.ly/H0kbRyd0  by @shanvavpic.twitter.com/GeS5xl57PX
+## https://twitter.com/CyberScoopNews/status/1160652607968481281<br><br><br><br><br>
+# @CyberScoopNews
 ## 2019-08-11 16:32:00
 ## A phishing campaign with nation-state hallmarks is targeting Chinese government agencies https://hubs.ly/H0kbS820  by @jeffstone500pic.twitter.com/k50lSg5wzJ
 ## https://twitter.com/CyberScoopNews/status/1160589694104678401<br><br><br><br><br>
