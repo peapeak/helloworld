@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-08-11 16:32:00
+## A phishing campaign with nation-state hallmarks is targeting Chinese government agencies https://hubs.ly/H0kbS820  by @jeffstone500pic.twitter.com/k50lSg5wzJ
+## https://twitter.com/CyberScoopNews/status/1160589694104678401<br><br><br><br><br>
 # @MalwarePatrol
 ## 2019-08-11 16:10:05
 ## A phishing campaign with nation-state hallmarks is targeting Chinese government agencies. https://www.cyberscoop.com/securedrop-dhs-vulnerability-disclosure-def-con/ … via @CyberScoopNewspic.twitter.com/cR5jCWf0gp
