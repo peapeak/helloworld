@@ -1,3 +1,7 @@
+# @MalwarePatrol
+## 2019-08-11 16:10:05
+## A phishing campaign with nation-state hallmarks is targeting Chinese government agencies. https://www.cyberscoop.com/securedrop-dhs-vulnerability-disclosure-def-con/ … via @CyberScoopNewspic.twitter.com/cR5jCWf0gp
+## https://twitter.com/MalwarePatrol/status/1160584177613455361<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-10 22:09:35
 ## #OilRig #APT group: the evolution of attack techniques over time
