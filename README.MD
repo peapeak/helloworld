@@ -1,3 +1,18 @@
+# APT41: A Dual Espionage and Cyber Crime Operation
+## Fireeye
+## Aug 7
+## APT41: A Dual Espionage and Cyber Crime Operation
+## https://www.fireeye.com/blog/threat-research/2019/08/apt41-dual-espionage-and-cyber-crime-operation.html<br><br><br>
+# Recent Cloud Atlas activity
+## Kaspersky
+## 2019-08-12T10:00:58+00:00
+## From the beginning of 2019 until July, we have been able to identify different spear-phishing campaigns related to Cloud Atlas mostly focused on Russia, Central Asia and independent regions of Ukraine.
+## https://securelist.com/recent-cloud-atlas-activity/92016/<br><br><br>
+# Sharpening the Machete
+## ESET
+## 2019-08-05 11:31:30
+## ESET research uncovers a cyberespionage operation targeting Venezuelan government institutions
+## https://www.welivesecurity.com/2019/08/05/sharpening-machete-cyberespionage/<br><br><br>
 # APT trends report Q2 2019
 ## Kaspersky
 ## 2019-08-01T10:00:05+00:00
