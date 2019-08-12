@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-12 21:45:50
+## Cloud Atlas threat group updates weaponry with polymorphic malwarehttps://www.zdnet.com/article/cloud-atlas-threat-group-updates-weaponry-with-polymorphic-malware/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d51ddfeaf2ece0001e568db&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1161031061264056320<br><br><br><br><br>
 # @kaspersky
 ## 2019-08-12 18:03:09
 ## Summary of #APT trends in Q2 2019:
