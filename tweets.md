@@ -1,3 +1,7 @@
+# @securityaffairs
+## 2019-08-12 10:15:10
+## Flaws in device drivers from 20 vendors allow hackers to install a persistent backdoorhttps://securityaffairs.co/wordpress/89748/hacking/device-drivers-flaws.html …
+## https://twitter.com/securityaffairs/status/1160857250036158465<br><br><br><br><br>
 # @cylanceinc
 ## 2019-08-12 10:00:20
 ## #OceanLotus APT Uses New #Ratsnif Trojan for Network Attacks via @BleepinComputer @Ionut_Ilascu #APT32 #CobaltKitty #BlackBerryCylance #BBCy https://bit.ly/2LuQPa5 pic.twitter.com/9VgFe4vibv
