@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-08-12 10:00:20
+## #OceanLotus APT Uses New #Ratsnif Trojan for Network Attacks via @BleepinComputer @Ionut_Ilascu #APT32 #CobaltKitty #BlackBerryCylance #BBCy https://bit.ly/2LuQPa5 pic.twitter.com/9VgFe4vibv
+## https://twitter.com/cylanceinc/status/1160853516115730432<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-12 06:13:45
 ## @eclypsium Flaws in device #drivers from 20 vendors allow hackers to install a persistent #backdoor
