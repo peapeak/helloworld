@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-08-12 11:33:59
+## A phishing campaign with nation-state hallmarks is targeting Chinese government agencieshttps://hubs.ly/H0kbX2f0 
+## https://twitter.com/CyberScoopNews/status/1160877084694261761<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-12 10:15:10
 ## Flaws in device drivers from 20 vendors allow hackers to install a persistent backdoorhttps://securityaffairs.co/wordpress/89748/hacking/device-drivers-flaws.html …
