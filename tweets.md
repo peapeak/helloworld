@@ -1,3 +1,7 @@
+# @MalwarePatrol
+## 2019-08-12 16:10:08
+## Security Experts Slam Group Hook-Up App. https://www.infosecurity-magazine.com/news/security-experts-slam-group-hookup/ … via @InfosecurityMagpic.twitter.com/2qa2gGBMUE
+## https://twitter.com/MalwarePatrol/status/1160946578049441792<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-12 14:34:42
 ## Flaws in device #drivers from 20 vendors allow hackers to install a persistent #backdoor
