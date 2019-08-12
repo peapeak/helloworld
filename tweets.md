@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-12 06:13:45
+## @eclypsium Flaws in device #drivers from 20 vendors allow hackers to install a persistent #backdoor
+## https://securityaffairs.co/wordpress/89748/hacking/device-drivers-flaws.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1160796493466521601<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-12 07:34:42
 ## #APT #Lazarus
