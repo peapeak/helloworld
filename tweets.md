@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-08-12 07:34:42
+## #APT #Lazarus
+## Thanks to @KevinPerlow 
+## Cc:@Arkbird_SOLG @Mr_ohadmhttps://twitter.com/KevinPerlow/status/1160766519615381504 …
+## https://twitter.com/Rmy_Reserve/status/1160816865037316096<br><br><br><br><br>
 # @cylanceinc
 ## 2019-08-11 17:00:17
 ## Flirting With IDA and APT28: This blog shares a methodology used to develop Hex-Rays' Interactive Disassembler (IDA) signatures created as part of pre-analysis for a recently published #APT28 sample. https://bit.ly/2S4v7Lo  #malware #securitypic.twitter.com/Jeu9o1feCG
