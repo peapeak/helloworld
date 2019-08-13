@@ -1,3 +1,7 @@
+# @symantec
+## 2019-08-13 17:00:21
+## If you've ever wondered how government agencies protect your data, now's your chance. Today's webinar is all about federal #cloudsecurity. Register now. https://symc.ly/2TyV5aH pic.twitter.com/DDlIfuLZBl
+## https://twitter.com/symantec/status/1161321602627358721<br><br><br><br><br>
 # @James_inthe_box
 ## 2019-08-13 15:52:28
 ## And a #yara sig to match in memory...because mis-identifying things makes me a sad panda ;)https://pastebin.com/c2j08rSv 
