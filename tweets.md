@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-08-13 20:00:09
+## #InSecurityPodcast: @selectedwisdom on the World of Advanced Persistent Manipulators. With governments all over the world in a state of perpetual election-manipulation-mode, and candidates running their own Troll farms, do we even know what to prepare for? https://bit.ly/2SAt5TM pic.twitter.com/AY9rnuB3HH
+## https://twitter.com/cylanceinc/status/1161366853161299974<br><br><br><br><br>
 # @attcyber
 ## 2019-08-13 19:52:28
 ## Check out this new video with Todd Waskelis from AT&T Cybersecurity Consulting on local governments and how they're facing many of the same #security challenges as #SMBshttps://twitter.com/Shirastweet/status/1161356488968941568 …
