@@ -1,3 +1,7 @@
+# @James_inthe_box
+## 2019-08-13 15:52:28
+## And a #yara sig to match in memory...because mis-identifying things makes me a sad panda ;)https://pastebin.com/c2j08rSv 
+## https://twitter.com/James_inthe_box/status/1161304521957494790<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-08-13 14:01:57
 ## ~ The US Power Grid Needs Better Security: Most Americans think the US government is not doing enough to protect the electric grid from cyber attacks.Their fears appear to be justified. http://ow.ly/o5lR50vv7mb  #cybersecurity @DHSgov @nationalgriduspic.twitter.com/Y7xXCpYMbt
