@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-08-13 14:01:57
+## ~ The US Power Grid Needs Better Security: Most Americans think the US government is not doing enough to protect the electric grid from cyber attacks.Their fears appear to be justified. http://ow.ly/o5lR50vv7mb  #cybersecurity @DHSgov @nationalgriduspic.twitter.com/Y7xXCpYMbt
+## https://twitter.com/CyberSecInt/status/1161276707057352704<br><br><br><br><br>
 # @cahlberg
 ## 2019-08-13 14:34:57
 ## Chinese government media.https://twitter.com/globaltimesnews/status/1160831372707028992 …
