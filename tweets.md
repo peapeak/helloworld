@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-08-13 02:23:06
+## “No,” said Rep. Ted Lieu, D-Calif., when asked during the Def Con “Hacking Congress” panel whether the government was well-positioned to fend off attackers. “Cyber in the federal government is pretty messed up.”https://lnkd.in/gVrRSJy 
+## https://twitter.com/z3roTrust/status/1161100838732886016<br><br><br><br><br>
 # @MalwarePatrol
 ## 2019-08-13 02:10:03
 ## Vulnerabilities in Device Drivers From 20 Vendors Expose PCs to Persistent Malware. https://www.securityweek.com/vulnerabilities-device-drivers-20-vendors-expose-pcs-persistent-malware … via @SecurityWeekpic.twitter.com/MUJNRB9Mgd
