@@ -1,4 +1,10 @@
 # @Rmy_Reserve
+## 2019-08-13 08:27:20
+## #APT #PatchWork
+## Thanks to @ecomsch 
+## Cc:@Arkbird_SOLGhttps://twitter.com/ecomsch/status/1161184399989231626 …
+## https://twitter.com/Rmy_Reserve/status/1161192499316056065<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-08-13 08:33:22
 ## #patchwork?
 ## https://twitter.com/Rmy_Reserve/status/1161194017549250561<br><br><br><br><br>
