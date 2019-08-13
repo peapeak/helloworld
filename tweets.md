@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-13 07:31:01
+## Cloud Atlas threat group updates weaponry with polymorphic malwarehttps://www.zdnet.com/article/cloud-atlas-threat-group-updates-weaponry-with-polymorphic-malware/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d52672365fc1d000135780d&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1161178327979384832<br><br><br><br><br>
 # @z3roTrust
 ## 2019-08-13 02:23:06
 ## “No,” said Rep. Ted Lieu, D-Calif., when asked during the Def Con “Hacking Congress” panel whether the government was well-positioned to fend off attackers. “Cyber in the federal government is pretty messed up.”https://lnkd.in/gVrRSJy 
