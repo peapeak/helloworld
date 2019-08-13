@@ -1,3 +1,7 @@
+# @MalwarePatrol
+## 2019-08-13 02:10:03
+## Vulnerabilities in Device Drivers From 20 Vendors Expose PCs to Persistent Malware. https://www.securityweek.com/vulnerabilities-device-drivers-20-vendors-expose-pcs-persistent-malware … via @SecurityWeekpic.twitter.com/MUJNRB9Mgd
+## https://twitter.com/MalwarePatrol/status/1161097554282655745<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-13 02:31:08
 ## Cloud Atlas threat group updates weaponry with polymorphic malwarehttps://www.zdnet.com/article/cloud-atlas-threat-group-updates-weaponry-with-polymorphic-malware/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d5220d1af2ece0001e56c99&utm_medium=trueAnthem&utm_source=twitter …
