@@ -1,3 +1,7 @@
+# @Rmy_Reserve
+## 2019-08-13 08:33:22
+## #patchwork?
+## https://twitter.com/Rmy_Reserve/status/1161194017549250561<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-13 08:01:23
 ## Flaws in device #drivers from 20 vendors allow hackers to install a persistent #backdoor
