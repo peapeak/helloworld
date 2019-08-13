@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-13 08:01:23
+## Flaws in device #drivers from 20 vendors allow hackers to install a persistent #backdoor
+## https://securityaffairs.co/wordpress/89748/hacking/device-drivers-flaws.html …
+## #securityaffairs #hacking #malware
+## https://twitter.com/securityaffairs/status/1161185970710073349<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-13 07:31:01
 ## Cloud Atlas threat group updates weaponry with polymorphic malwarehttps://www.zdnet.com/article/cloud-atlas-threat-group-updates-weaponry-with-polymorphic-malware/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d52672365fc1d000135780d&utm_medium=trueAnthem&utm_source=twitter …
