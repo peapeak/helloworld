@@ -1,3 +1,7 @@
+# @attcyber
+## 2019-08-13 19:52:28
+## Check out this new video with Todd Waskelis from AT&T Cybersecurity Consulting on local governments and how they're facing many of the same #security challenges as #SMBshttps://twitter.com/Shirastweet/status/1161356488968941568 …
+## https://twitter.com/attcyber/status/1161364917183606785<br><br><br><br><br>
 # @symantec
 ## 2019-08-13 17:00:21
 ## If you've ever wondered how government agencies protect your data, now's your chance. Today's webinar is all about federal #cloudsecurity. Register now. https://symc.ly/2TyV5aH pic.twitter.com/DDlIfuLZBl
