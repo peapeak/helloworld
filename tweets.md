@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-08-13 02:33:17
+## #APT #APT39 sample
+## Thanks to @silv0123 
+## Cc:@Arkbird_SOLGhttps://twitter.com/silv0123/status/1160907518882852864 …
+## https://twitter.com/Rmy_Reserve/status/1161103400995418112<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-12 21:45:50
 ## Cloud Atlas threat group updates weaponry with polymorphic malwarehttps://www.zdnet.com/article/cloud-atlas-threat-group-updates-weaponry-with-polymorphic-malware/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d51ddfeaf2ece0001e568db&utm_medium=trueAnthem&utm_source=twitter …
