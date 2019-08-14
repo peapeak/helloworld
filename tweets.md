@@ -1,3 +1,7 @@
+# @MalwarePatrol
+## 2019-08-14 17:10:05
+## InSecurity Podcast: Parham Eftekhari - Is Government Cybersecurity Broken? https://threatvector.cylance.com/en_us/home/insecurity-podcast-parham-eftekhari-is-government-cybersecurity-broken.html … via @cylanceincpic.twitter.com/fSvI04uAht
+## https://twitter.com/MalwarePatrol/status/1161686441082142726<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-08-14 12:17:59
 ## Financial hacking teams FIN7, Cobalt Group update tactics to haunt banks and retail  https://hubs.ly/H0kfTDj0  by @jeffstone500
