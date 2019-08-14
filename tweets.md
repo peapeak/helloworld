@@ -1,4 +1,8 @@
 # @CyberScoopNews
+## 2019-08-14 12:17:59
+## Financial hacking teams FIN7, Cobalt Group update tactics to haunt banks and retail  https://hubs.ly/H0kfTDj0  by @jeffstone500
+## https://twitter.com/CyberScoopNews/status/1161612932670775296<br><br><br><br><br>
+# @CyberScoopNews
 ## 2019-08-14 16:08:50
 ## Financial hacking teams FIN7, Cobalt Group update tactics to haunt banks and retail  https://hubs.ly/H0kf-m90  by @jeffstone500pic.twitter.com/RI0gdgqx9G
 ## https://twitter.com/CyberScoopNews/status/1161671027211943936<br><br><br><br><br>
