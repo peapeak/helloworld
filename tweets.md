@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-08-14 21:08:00
+## Financial hacking teams FIN7, Cobalt Group update tactics to haunt banks and retail  https://hubs.ly/H0kf-ml0  by @jeffstone500pic.twitter.com/X3Bj7sERVk
+## https://twitter.com/CyberScoopNews/status/1161746315052761089<br><br><br><br><br>
 # @Manu_De_Lucia
 ## 2019-08-14 20:24:59
 ## seems like #APT38 tunneling tool
