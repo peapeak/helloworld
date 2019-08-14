@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-08-14 16:08:50
+## Financial hacking teams FIN7, Cobalt Group update tactics to haunt banks and retail  https://hubs.ly/H0kf-m90  by @jeffstone500pic.twitter.com/RI0gdgqx9G
+## https://twitter.com/CyberScoopNews/status/1161671027211943936<br><br><br><br><br>
 # @cylanceinc
 ## 2019-08-13 20:00:09
 ## #InSecurityPodcast: @selectedwisdom on the World of Advanced Persistent Manipulators. With governments all over the world in a state of perpetual election-manipulation-mode, and candidates running their own Troll farms, do we even know what to prepare for? https://bit.ly/2SAt5TM pic.twitter.com/AY9rnuB3HH
