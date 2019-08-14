@@ -1,3 +1,7 @@
+# @Manu_De_Lucia
+## 2019-08-14 17:07:24
+## Cloudy afternoon...Quick and dirty over #APT37 #Group123 APK mobile spying backdoor with #YARA detection rule for extracted malicious dex. https://www.emanueledelucia.net/group123-apt37-quick-and-dirty-over-their-malicious-jpge-viewer-mobile-app/ …
+## https://twitter.com/Manu_De_Lucia/status/1161685766176747526<br><br><br><br><br>
 # @MalwarePatrol
 ## 2019-08-14 17:10:05
 ## InSecurity Podcast: Parham Eftekhari - Is Government Cybersecurity Broken? https://threatvector.cylance.com/en_us/home/insecurity-podcast-parham-eftekhari-is-government-cybersecurity-broken.html … via @cylanceincpic.twitter.com/fSvI04uAht
