@@ -1,3 +1,9 @@
+# @RedDrip7
+## 2019-08-16 06:41:56
+## #APT32 #OceanLotus
+## Decoy document containing the map of Spratly Islands seems used by the #OceanLotus APT group. Similar DLL Side-Loading approach is utilized to carry out related attacks.
+## https://www.virustotal.com/gui/file/c0804ba6eae469c2753e0ef23bb0d0ba953702be8426aa209eac5d6b89d7f886/detection …pic.twitter.com/HtCdrJg8zJ
+## https://twitter.com/RedDrip7/status/1162253139631730689<br><br><br><br><br>
 # @z3roTrust
 ## 2019-08-16 02:26:56
 ## "As for former CIA officer Kevin Mallory, he continues to deny sending any classified information to the Chinese. Last June, a jury in Virginia found him guilty of conspiracy under the Espionage Act and lying to the FBI. In May, Ma…https://lnkd.in/gi6bTSZ https://lnkd.in/gGc6sVQ 
