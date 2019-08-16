@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-08-16 01:24:00
+## Financial hacking teams FIN7, Cobalt Group update tactics to haunt banks and retail  https://hubs.ly/H0khBw50  by @jeffstone500pic.twitter.com/BTNyOT2XCJ
+## https://twitter.com/CyberScoopNews/status/1162173127209750528<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-14 23:01:05
 ## the  #yara of #APT37 #Group123 #APT moboile payload
