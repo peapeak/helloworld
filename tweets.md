@@ -1,3 +1,9 @@
+# @FireEye
+## 2019-08-16 18:00:15
+## BLOG | Solutions and Strategies for Elections Pt 2 - Pre-Election Preparedness
+## 
+## What should state and local governments do to prepare for primary and special elections to ensure the integrity of #elections?https://www.fireeye.com/blog/executive-perspective/2019/08/fireeye-success-story-solutions-and-strategies-for-elections-part-two.html …
+## https://twitter.com/FireEye/status/1162423844411453442<br><br><br><br><br>
 # @Anomali
 ## 2019-08-16 15:45:51
 ## ATTN: 2020 CANDIDATES — Nearly 90 percent of Americans say #cybersecurity should be a top priority for the government, but only about half feel like the gov't is effectively tackling digital threats, according to a survey out by @Anomali https://hubs.ly/H0kjhDB0  @politicopic.twitter.com/zVi39fJfC8
