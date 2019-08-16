@@ -1,4 +1,8 @@
 # @Arkbird_SOLG
+## 2019-08-16 14:59:26
+## #APT #Patchwork Use a Object Linking & Embedding (OLE) for pushing the persistence by a run key and execute the PE. The macro on the doc delete the "enable content" picture at the opening on the doc (reuse the same tool for another usage)pic.twitter.com/JgCu9do6rx
+## https://twitter.com/Arkbird_SOLG/status/1162378339312685056<br><br><br><br><br>
+# @Arkbird_SOLG
 ## 2019-08-16 14:59:30
 ## Ref tweet: https://twitter.com/ecomsch/status/1161184399989231626 …
 ## Old version (July 2018): https://www.hybrid-analysis.com/sample/0b849e5b5b75c72010348f80827efedca3f7ba628ab43cdf6c8e107da7f176bb?environmentId=100 …
