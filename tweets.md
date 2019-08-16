@@ -1,3 +1,7 @@
+# @Anomali
+## 2019-08-16 15:45:51
+## ATTN: 2020 CANDIDATES — Nearly 90 percent of Americans say #cybersecurity should be a top priority for the government, but only about half feel like the gov't is effectively tackling digital threats, according to a survey out by @Anomali https://hubs.ly/H0kjhDB0  @politicopic.twitter.com/zVi39fJfC8
+## https://twitter.com/Anomali/status/1162390018666717184<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-08-16 14:59:26
 ## #APT #Patchwork Use a Object Linking & Embedding (OLE) for pushing the persistence by a run key and execute the PE. The macro on the doc delete the "enable content" picture at the opening on the doc (reuse the same tool for another usage)pic.twitter.com/JgCu9do6rx
