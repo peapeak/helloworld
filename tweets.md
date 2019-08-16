@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-08-16 23:40:00
+## Financial hacking teams FIN7, Cobalt Group update tactics to haunt banks and retail  https://hubs.ly/H0kjDhm0  by @jeffstone500pic.twitter.com/j8pU2UJP9K
+## https://twitter.com/CyberScoopNews/status/1162509343025258496<br><br><br><br><br>
 # @kaspersky
 ## 2019-08-16 18:03:12
 ## Summary of #APT trends in Q2 2019:
