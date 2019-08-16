@@ -1,3 +1,7 @@
+# @peterkruse
+## 2019-08-16 14:27:54
+## First he may want to talk to the Danish government.
+## https://twitter.com/peterkruse/status/1162370402754187265<br><br><br><br><br>
 # @TrendMicroRSRCH
 ## 2019-08-16 14:00:01
 ## Aside from businesses, #ransomware authors seem to be targeting local governments and public sectors this year. More details: http://bit.ly/30fueTq pic.twitter.com/juUHZBb5gR
