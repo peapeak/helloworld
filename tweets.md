@@ -1,3 +1,7 @@
+# @CyberScoopNews
+## 2019-08-16 14:34:39
+##  government-tech podcast alert https://twitter.com/fedscoop/status/1162371431516315648 …
+## https://twitter.com/CyberScoopNews/status/1162372100994347014<br><br><br><br><br>
 # @peterkruse
 ## 2019-08-16 14:27:54
 ## First he may want to talk to the Danish government.
