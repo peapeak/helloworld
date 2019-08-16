@@ -1,3 +1,7 @@
+# @TrendMicroRSRCH
+## 2019-08-16 14:00:01
+## Aside from businesses, #ransomware authors seem to be targeting local governments and public sectors this year. More details: http://bit.ly/30fueTq pic.twitter.com/juUHZBb5gR
+## https://twitter.com/TrendMicroRSRCH/status/1162363385192886272<br><br><br><br><br>
 # @cyberwar_15
 ## 2019-08-16 08:34:58
 ## Yeah 100% Lazarus
