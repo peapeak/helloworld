@@ -1,4 +1,10 @@
 # @Rmy_Reserve
+## 2019-08-16 08:23:30
+## #APT #Oceanlotus
+## thanks to @RedDrip7 @h4ckak
+## @Arkbird_SOLGhttps://twitter.com/RedDrip7/status/1162253139631730689 …
+## https://twitter.com/Rmy_Reserve/status/1162278696897536003<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-08-16 08:26:49
 ## cc:@cyberwar_15
 ## #lazarus?
