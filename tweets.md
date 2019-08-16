@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-08-16 02:26:56
+## "As for former CIA officer Kevin Mallory, he continues to deny sending any classified information to the Chinese. Last June, a jury in Virginia found him guilty of conspiracy under the Espionage Act and lying to the FBI. In May, Ma…https://lnkd.in/gi6bTSZ https://lnkd.in/gGc6sVQ 
+## https://twitter.com/z3roTrust/status/1162188965270568961<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-08-16 01:24:00
 ## Financial hacking teams FIN7, Cobalt Group update tactics to haunt banks and retail  https://hubs.ly/H0khBw50  by @jeffstone500pic.twitter.com/BTNyOT2XCJ
