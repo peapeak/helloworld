@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-08-16 23:06:46
+## #APT #Gamaredon Like the same sample, this uses an SFX archive with the same TTPs, the randomization of the obfuscated strings have been by the algorithm in the archive.pic.twitter.com/xyhdt5eIJF
+## https://twitter.com/Arkbird_SOLG/status/1162500979574607872<br><br><br><br><br>
 # @CyberScoopNews
 ## 2019-08-16 23:40:00
 ## Financial hacking teams FIN7, Cobalt Group update tactics to haunt banks and retail  https://hubs.ly/H0kjDhm0  by @jeffstone500pic.twitter.com/j8pU2UJP9K
