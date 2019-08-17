@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-08-17 13:01:10
+## Huawei Technicians Helped African Governments Spy on Political Opponents - WSJhttp://ow.ly/PWrP30pm504 
+## https://twitter.com/CyberSecInt/status/1162710962077675521<br><br><br><br><br>
 # @Anomali
 ## 2019-08-17 18:04:05
 ## Cloud Atlas, an Advanced Persistent Threat (APT) group also known as Inception, has updated its attack techniques with new tools that allow it to avoid detection through standard indicators of compromise. https://hubs.ly/H0kf6_R0 pic.twitter.com/AOvoWwNQkX
