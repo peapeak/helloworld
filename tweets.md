@@ -1,3 +1,7 @@
+# @Manu_De_Lucia
+## 2019-08-17 18:53:46
+## A quick dive into #APT34 #OilRig #TwoFace webshell. #Yara rules for detecting files of both malicious components (loader + payload) provided as well. dll components may be treated in a separate post ;) https://www.emanueledelucia.net/a-dive-into-apt34-aka-oilrig-aka-cobalt-gypsy-twoface-webshell/ …
+## https://twitter.com/Manu_De_Lucia/status/1162799696605339650<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-08-17 13:01:10
 ## Huawei Technicians Helped African Governments Spy on Political Opponents - WSJhttp://ow.ly/PWrP30pm504 
