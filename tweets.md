@@ -1,3 +1,7 @@
+# @Anomali
+## 2019-08-17 18:04:05
+## Cloud Atlas, an Advanced Persistent Threat (APT) group also known as Inception, has updated its attack techniques with new tools that allow it to avoid detection through standard indicators of compromise. https://hubs.ly/H0kf6_R0 pic.twitter.com/AOvoWwNQkX
+## https://twitter.com/Anomali/status/1162787193057939456<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-17 10:48:44
 ## thanks to @jeFF0Falltrades 
