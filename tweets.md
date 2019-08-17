@@ -1,3 +1,9 @@
+# @FireEye
+## 2019-08-17 12:00:17
+## FireEye Knowledge Base | 
+## @FireEye Field Notice (#FEFN) 451, #FireEyeEmailSecurity Cloud Edition Release 2019.8 Upgrade Maintenance, Commercial Americas, EMEA, APJ and Government Instances 
+## https://feye.io/33FsFjV pic.twitter.com/ZavZqnNLLs
+## https://twitter.com/FireEyeSupport/status/1162695639974760448<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-08-16 23:06:46
 ## #APT #Gamaredon Like the same sample, this uses an SFX archive with the same TTPs, the randomization of the obfuscated strings have been by the algorithm in the archive.pic.twitter.com/xyhdt5eIJF
