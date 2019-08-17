@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-08-17 20:00:07
+## #InSecurityPodcast: @selectedwisdom on the World of Advanced Persistent Manipulators. With governments all over the world in a state of perpetual election-manipulation-mode, and candidates running their own Troll farms, do we even know what to prepare for? https://bit.ly/2SAt5TM pic.twitter.com/eaoiwkkfps
+## https://twitter.com/cylanceinc/status/1162816397505941505<br><br><br><br><br>
 # @Manu_De_Lucia
 ## 2019-08-17 18:53:46
 ## A quick dive into #APT34 #OilRig #TwoFace webshell. #Yara rules for detecting files of both malicious components (loader + payload) provided as well. dll components may be treated in a separate post ;) https://www.emanueledelucia.net/a-dive-into-apt34-aka-oilrig-aka-cobalt-gypsy-twoface-webshell/ …
