@@ -1,3 +1,7 @@
+# @MalwarePatrol
+## 2019-08-18 17:00:34
+## Cyber Attack Targets Texas Government Agencies. https://spectrumlocalnews.com/tx/san-antonio/news/2019/08/17/cyber-attack-targets-texas-government-agencies … via @SpecNewsSApic.twitter.com/tfHJ8gUUbv
+## https://twitter.com/MalwarePatrol/status/1163133597672529921<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-18 14:04:38
 ## At least 20 Texas local governments hit in 'coordinated ransomware attack' https://zd.net/2Moygpl  by @campuscodi
