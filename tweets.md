@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-18 14:04:38
+## At least 20 Texas local governments hit in 'coordinated ransomware attack' https://zd.net/2Moygpl  by @campuscodi
+## https://twitter.com/ZDNet/status/1163089325229133825<br><br><br><br><br>
 # @BleepinComputer
 ## 2019-08-18 12:12:09
 ## 'Coordinated Ransomware Attack' in Texas Hits 23 Local Governments - by @Ionut_Ilascuhttps://www.bleepingcomputer.com/news/security/coordinated-ransomware-attack-in-texas-hits-23-local-governments/ …
