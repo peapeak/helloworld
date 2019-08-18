@@ -1,3 +1,8 @@
+# @BLeeJones
+## 2019-08-18 23:24:39
+## Turmoil in Texas!
+## #ransomware #localgovernmenthttps://lnkd.in/g_RRVGT 
+## https://twitter.com/BLeeJones/status/1163230255210852352<br><br><br><br><br>
 # @z3roTrust
 ## 2019-08-18 19:09:03
 ## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=bWdPJfN1566155343690 …
