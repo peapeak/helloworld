@@ -1,3 +1,7 @@
+# @BleepinComputer
+## 2019-08-18 12:12:09
+## 'Coordinated Ransomware Attack' in Texas Hits 23 Local Governments - by @Ionut_Ilascuhttps://www.bleepingcomputer.com/news/security/coordinated-ransomware-attack-in-texas-hits-23-local-governments/ …
+## https://twitter.com/BleepinComputer/status/1163061017536020480<br><br><br><br><br>
 # @cylanceinc
 ## 2019-08-18 03:00:02
 ## #ThreatSpotlight: Ratsnif - New Network Vermin from OceanLotus. #BlackberryCylance threat researchers have analyzed the #Ratsnif trojans, which offer a veritable swiss-army knife of network attack techniques. Learn more: https://bit.ly/2LvDY7U pic.twitter.com/1jM8S9IJ8o
