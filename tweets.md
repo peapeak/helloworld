@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-08-18 19:09:03
+## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=bWdPJfN1566155343690 …
+## https://twitter.com/z3roTrust/status/1163165933487177729<br><br><br><br><br>
 # @MalwarePatrol
 ## 2019-08-18 19:00:32
 ## How to configure WMI filters for Group Policy to better manage your Windows clients. https://www.techrepublic.com/article/how-to-configure-wmi-filters-for-group-policy-to-better-manage-your-windows-clients/ … via @TechRepublicpic.twitter.com/rLPD0LIYEc
