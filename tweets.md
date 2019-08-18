@@ -1,3 +1,7 @@
+# @MalwarePatrol
+## 2019-08-18 19:00:32
+## How to configure WMI filters for Group Policy to better manage your Windows clients. https://www.techrepublic.com/article/how-to-configure-wmi-filters-for-group-policy-to-better-manage-your-windows-clients/ … via @TechRepublicpic.twitter.com/rLPD0LIYEc
+## https://twitter.com/MalwarePatrol/status/1163163788889284608<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-18 18:45:57
 ## Over 20 Texas local governments hit in 'coordinated ransomware attack'https://www.zdnet.com/article/at-least-20-texas-local-governments-hit-in-coordinated-ransomware-attack/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d599ccca341320001ab591d&utm_medium=trueAnthem&utm_source=twitter …
