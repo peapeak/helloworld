@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-08-18 03:00:02
+## #ThreatSpotlight: Ratsnif - New Network Vermin from OceanLotus. #BlackberryCylance threat researchers have analyzed the #Ratsnif trojans, which offer a veritable swiss-army knife of network attack techniques. Learn more: https://bit.ly/2LvDY7U pic.twitter.com/1jM8S9IJ8o
+## https://twitter.com/cylanceinc/status/1162922072387047426<br><br><br><br><br>
 # @z3roTrust
 ## 2019-08-18 03:03:03
 ## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=etacCS41566097383814 …
