@@ -1,3 +1,7 @@
+# @kaspersky
+## 2019-08-19 18:00:28
+## A new study from #Google found 316,000 users still utilizing passwords that have been previously compromised for some of their most sensitive financial, government and email accounts https://threatpost.com/breached-passwords-still-in-use-by-hundreds-of-thousands/147434/?utm_source=twitter&utm_medium=social&utm_campaign=us_threatpost_Zt0106_organic&utm_content=sm-post&utm_term=us_twitter_organic_Zt0106_sm-post_social_threatpost …
+## https://twitter.com/kaspersky/status/1163511060911050753<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-08-19 17:30:14
 ## ~ Electric Fish: US Cyber Command has released samples of #malware that they say are linked to N. Korean hackers from the Lazarus Group.  http://ow.ly/ZqCM50vBK1a  #cybersecuritypic.twitter.com/R3tdjvSfFh
