@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-08-19 21:00:08
+## #OceanLotus APT Uses New #Ratsnif Trojan for Network Attacks via @BleepinComputer @Ionut_Ilascu #APT32 #CobaltKitty #BlackBerryCylance #BBCy https://bit.ly/2LuQPa5 pic.twitter.com/RdBV4LpXNl
+## https://twitter.com/cylanceinc/status/1163556273150935041<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-19 19:51:32
 ## Twitter bans 936 accounts managed by Chinese government aimed Hong Kong protests https://zd.net/31HdkO6  by @campuscodi
