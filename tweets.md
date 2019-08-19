@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-19 19:51:32
+## Twitter bans 936 accounts managed by Chinese government aimed Hong Kong protests https://zd.net/31HdkO6  by @campuscodi
+## https://twitter.com/ZDNet/status/1163539009466843136<br><br><br><br><br>
 # @kaspersky
 ## 2019-08-19 20:00:04
 ## 23 local government agencies in Texas hit by a coordinated #ransomware attack last weekend.https://threatpost.com/coordinated-ransomware-attack-hits-23-texas-government-agencies/147457/?utm_source=twitter&utm_medium=social&utm_campaign=us_threatpost_zt0106&utm_content=stories-video&utm_term=us_twitter__zt0106_stories-video_social_threatpost …
