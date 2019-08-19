@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-08-19 05:01:02
+## seems #Lazarus #APT 
+## ITW:
+## 39dfb59bfdc599071a3990c1eafbb018e578e7caaadfd8492639a2783fd8b32epic.twitter.com/kbWXvCQPDF
+## https://twitter.com/Rmy_Reserve/status/1163314907783131136<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-18 23:15:58
 ## Over 20 Texas local governments hit in 'coordinated ransomware attack'https://www.zdnet.com/article/at-least-20-texas-local-governments-hit-in-coordinated-ransomware-attack/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d59dc15a341320001ab5d28&utm_medium=trueAnthem&utm_source=twitter …
