@@ -1,3 +1,8 @@
+# @threatpost
+## 2019-08-19 13:42:35
+## A coordinated #ransomware attack has knocked up to 23 Texas local government entities offline. Officials say the targeted #cyberattack was launched by a single threat actor.
+## https://threatpost.com/coordinated-ransomware-attack-hits-23-texas-government-agencies/147457/ …
+## https://twitter.com/threatpost/status/1163446162311045120<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-08-19 14:38:52
 ## I am an #Iranian army officer and I announce that I broke my contract with Ali Khamenei. I'm with the people because I don't want them to be under this corrupt and criminal government anymore. I want all my colleagues to join the ranks.pic.twitter.com/rr2muylq75
