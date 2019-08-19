@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-19 12:30:33
+## Over 20 Texas local governments hit in 'coordinated ransomware attack'https://www.zdnet.com/article/at-least-20-texas-local-governments-hit-in-coordinated-ransomware-attack/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d5a96676f0c9700014b89e1&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1163428035787444225<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-08-19 12:42:22
 ## 360 Group CEO Talked About Cyber Warfare And Their Further Plans https://www.gizchina.com/2019/08/19/360-group-ceo-talked-about-cyber-warfare-and-their-further-plans/ … #360group
