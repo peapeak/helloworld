@@ -1,4 +1,8 @@
 # @kaspersky
+## 2019-08-19 20:00:04
+## 23 local government agencies in Texas hit by a coordinated #ransomware attack last weekend.https://threatpost.com/coordinated-ransomware-attack-hits-23-texas-government-agencies/147457/?utm_source=twitter&utm_medium=social&utm_campaign=us_threatpost_zt0106&utm_content=stories-video&utm_term=us_twitter__zt0106_stories-video_social_threatpost …
+## https://twitter.com/kaspersky/status/1163541160352276486<br><br><br><br><br>
+# @kaspersky
 ## 2019-08-19 18:00:28
 ## A new study from #Google found 316,000 users still utilizing passwords that have been previously compromised for some of their most sensitive financial, government and email accounts https://threatpost.com/breached-passwords-still-in-use-by-hundreds-of-thousands/147434/?utm_source=twitter&utm_medium=social&utm_campaign=us_threatpost_Zt0106_organic&utm_content=sm-post&utm_term=us_twitter_organic_Zt0106_sm-post_social_threatpost …
 ## https://twitter.com/kaspersky/status/1163511060911050753<br><br><br><br><br>
