@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-08-19 11:19:49
+## A wide-ranging ransomware attack has hit 23 government entities in Texas, most of them “smaller, local governments,” the Texas Department of Information Resources (DIR) confirmed Saturday.https://lnkd.in/gG48dTD 
+## https://twitter.com/z3roTrust/status/1163410235693813760<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-19 09:32:03
 ## Seems not #lazarus style
