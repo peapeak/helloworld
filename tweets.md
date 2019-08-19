@@ -1,3 +1,10 @@
+# @Rmy_Reserve
+## 2019-08-19 09:27:48
+## #APT #APT28
+## ITW:3c4de20e464146bec844471867bd1628
+## LINK:
+## https://www.virustotal.com/gui/file/dc030778938b8b6f98236a709d0d18734c325accf44b12a55ecc2d56b8bb9000/detection …
+## https://twitter.com/Rmy_Reserve/status/1163382044161798144<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-19 07:17:24
 ## At least 23 Texas local governments targeted by coordinated #ransomware attacks
