@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-19 03:46:06
+## Over 20 Texas local governments hit in 'coordinated ransomware attack'https://www.zdnet.com/article/at-least-20-texas-local-governments-hit-in-coordinated-ransomware-attack/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d5a1b606f0c9700014b81d4&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1163296054080626689<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-19 05:01:02
 ## seems #Lazarus #APT 
