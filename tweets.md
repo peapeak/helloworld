@@ -1,3 +1,7 @@
+# @Rmy_Reserve
+## 2019-08-19 09:32:03
+## Seems not #lazarus style
+## https://twitter.com/Rmy_Reserve/status/1163383114569142273<br><br><br><br><br>
 # @z3roTrust
 ## 2019-08-19 11:12:05
 ## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=XJdKhab1566213125117 …
