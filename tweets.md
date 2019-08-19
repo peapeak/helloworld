@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-19 21:15:34
+## Over 20 Texas local governments hit in 'coordinated ransomware attack'https://www.zdnet.com/article/at-least-20-texas-local-governments-hit-in-coordinated-ransomware-attack/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d5b117437ca340001cf67d1&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1163560159618244609<br><br><br><br><br>
 # @cylanceinc
 ## 2019-08-19 21:00:08
 ## #OceanLotus APT Uses New #Ratsnif Trojan for Network Attacks via @BleepinComputer @Ionut_Ilascu #APT32 #CobaltKitty #BlackBerryCylance #BBCy https://bit.ly/2LuQPa5 pic.twitter.com/RdBV4LpXNl
