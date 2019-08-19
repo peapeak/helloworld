@@ -1,3 +1,7 @@
+# @Treadstone71LLC
+## 2019-08-19 14:38:52
+## I am an #Iranian army officer and I announce that I broke my contract with Ali Khamenei. I'm with the people because I don't want them to be under this corrupt and criminal government anymore. I want all my colleagues to join the ranks.pic.twitter.com/rr2muylq75
+## https://twitter.com/Treadstone71LLC/status/1163460327020867584<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-19 12:30:33
 ## Over 20 Texas local governments hit in 'coordinated ransomware attack'https://www.zdnet.com/article/at-least-20-texas-local-governments-hit-in-coordinated-ransomware-attack/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d5a96676f0c9700014b89e1&utm_medium=trueAnthem&utm_source=twitter …
