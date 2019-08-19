@@ -1,3 +1,7 @@
+# @securityaffairs
+## 2019-08-19 07:18:32
+## At least 23 Texas local governments targeted by coordinated ransomware attacks   -https://securityaffairs.co/wordpress/90068/hacking/texas-governments-ransomware-attacks.html …
+## https://twitter.com/securityaffairs/status/1163349514033467393<br><br><br><br><br>
 # @cylanceinc
 ## 2019-08-19 06:00:04
 ## #ThreatSpotlight: Ratsnif - New Network Vermin from OceanLotus. #BlackberryCylance threat researchers have analyzed the #Ratsnif trojans, which offer a veritable swiss-army knife of network attack techniques. Learn more: https://bit.ly/2LvDY7U pic.twitter.com/FwlgbsmkWe
