@@ -1,3 +1,7 @@
+# @Treadstone71LLC
+## 2019-08-19 12:42:22
+## 360 Group CEO Talked About Cyber Warfare And Their Further Plans https://www.gizchina.com/2019/08/19/360-group-ceo-talked-about-cyber-warfare-and-their-further-plans/ … #360group
+## https://twitter.com/Treadstone71LLC/status/1163431006696857601<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-19 11:58:46
 ## At least 23 Texas local governments targeted by coordinated ransomware attackshttps://securityaffairs.co/wordpress/90068/hacking/texas-governments-ransomware-attacks.html …
