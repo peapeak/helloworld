@@ -1,3 +1,7 @@
+# @securityaffairs
+## 2019-08-20 22:00:22
+## At least 23 Texas local governments targeted by coordinated ransomware attackshttps://securityaffairs.co/wordpress/90068/hacking/texas-governments-ransomware-attacks.html …
+## https://twitter.com/securityaffairs/status/1163933821621940224<br><br><br><br><br>
 # @threatpost
 ## 2019-08-20 20:04:37
 ## Update: The confirmed number of confirmed #Texas local governments impacted by the targeted #ransomware attack is now 22 (not 23). 
