@@ -1,3 +1,9 @@
+# @FireEye
+## 2019-08-20 08:00:14
+## WEBINAR | Staying ahead of #cyberattacks and not just reacting to them is at the heart of cyber #threatintel. In this webinar, we show you recent intelligence findings from the Iranian government influence campaigns.
+## 
+## >> Watch now: https://feye.io/2TKTSx0 pic.twitter.com/21CPnM8Cve
+## https://twitter.com/FireEye/status/1163722393187160065<br><br><br><br><br>
 # @cyb3rops
 ## 2019-08-20 07:19:03
 ## Question: is there a public sandbox that supports *.hwp files? 
