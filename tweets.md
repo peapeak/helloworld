@@ -1,3 +1,9 @@
+# @threatpost
+## 2019-08-20 20:04:37
+## Update: The confirmed number of confirmed #Texas local governments impacted by the targeted #ransomware attack is now 22 (not 23). 
+## 
+## Texas DIR says more than 25% of entities are in recovery process, with a number back to "operations as usual."https://twitter.com/threatpost/status/1163785910351212546 …
+## https://twitter.com/threatpost/status/1163904693707452416<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-20 18:08:54
 ## At least 23 Texas local governments targeted by coordinated #ransomware attacks - -.
