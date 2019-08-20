@@ -1,3 +1,7 @@
+# @Rmy_Reserve
+## 2019-08-20 03:53:09
+## #Turla #APThttps://twitter.com/GossiTheDog/status/1163541167902007296 …
+## https://twitter.com/Rmy_Reserve/status/1163660214454771712<br><br><br><br><br>
 # @z3roTrust
 ## 2019-08-20 03:07:26
 ## "The healthcare sector suffered 224 breaches, retail 199, finance and insurance 183, government and information 160 each and education 99."https://lnkd.in/gEFN-Yg 
