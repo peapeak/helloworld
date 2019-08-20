@@ -1,3 +1,7 @@
+# @MalwarePatrol
+## 2019-08-20 17:30:15
+## Hacker group launches massive cyberattack campaign; Here's list of affected websites. https://www.ibtimes.sg/hacking-group-launches-massive-cyberattack-campaign-find-out-affected-websites-here-32127 … via @IBTimesSGpic.twitter.com/IUPgCkLQlK
+## https://twitter.com/MalwarePatrol/status/1163865844822265861<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-20 14:02:54
 ## How the government and AI can work together https://zd.net/31S0FYO  by @TonyaHallRadio
