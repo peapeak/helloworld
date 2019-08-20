@@ -1,3 +1,7 @@
+# @threatpost
+## 2019-08-20 12:12:37
+## Researchers say the targeted #ransomware cyberattack on 23 Texas local governments represents a shift from “attacks of opportunity” to more coordinated, malicious #cyberattacks.https://threatpost.com/coordinated-ransomware-attack-hits-23-texas-government-agencies/147457/ …
+## https://twitter.com/threatpost/status/1163785910351212546<br><br><br><br><br>
 # @MalwarePatrol
 ## 2019-08-20 12:30:10
 ## What Makes Local Government an Enticing Cyber Target? https://www.fortinet.com/blog/industry-trends/state-local-government-cyber-target.html … via @Fortinetpic.twitter.com/ibmIXbCqDV
