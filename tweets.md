@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-20 08:02:27
+## At least 23 Texas local governments targeted by coordinated #ransomware attacks
+## https://securityaffairs.co/wordpress/90068/hacking/texas-governments-ransomware-attacks.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1163722951428124672<br><br><br><br><br>
 # @daphiel
 ## 2019-08-20 10:20:39
 ## New #Turla #LightNeuron #APT sample, possible link with the BPA.Transport.dll previous agent
