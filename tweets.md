@@ -1,4 +1,12 @@
 # @Rmy_Reserve
+## 2019-08-20 02:11:25
+## #APT #Gamaredon taeget at #Ukraine 
+## ITW:
+## 4869962606eaf5f066751d4cbd7b77cb2a5702e485e320e8a3f19c89e6e200fd
+## 
+## CC:@Arkbird_SOLG @Timele9527pic.twitter.com/Jx6g6M05gr
+## https://twitter.com/Rmy_Reserve/status/1163634610493779968<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-08-20 03:53:09
 ## #Turla #APThttps://twitter.com/GossiTheDog/status/1163541167902007296 …
 ## https://twitter.com/Rmy_Reserve/status/1163660214454771712<br><br><br><br><br>
