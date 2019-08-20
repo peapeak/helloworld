@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-20 14:02:54
+## How the government and AI can work together https://zd.net/31S0FYO  by @TonyaHallRadio
+## https://twitter.com/ZDNet/status/1163813662135447556<br><br><br><br><br>
 # @kaspersky
 ## 2019-08-20 13:15:20
 ## 23 local governmental agencies in Texas were the target for a ransomware attack.
