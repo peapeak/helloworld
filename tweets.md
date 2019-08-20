@@ -1,4 +1,10 @@
 # @kaspersky
+## 2019-08-20 13:15:20
+## 23 local governmental agencies in Texas were the target for a ransomware attack.
+## 
+## Read the full @threatpost story here: https://kas.pr/egh8 pic.twitter.com/CDB9G2Pg4X
+## https://twitter.com/kaspersky/status/1163801690958680065<br><br><br><br><br>
+# @kaspersky
 ## 2019-08-20 14:04:08
 ## Summary of #APT trends in Q2 2019:
 ## 
