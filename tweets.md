@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-20 15:13:39
+## At least 23 Texas local governments targeted by coordinated #ransomware attacks -
+## https://securityaffairs.co/wordpress/90068/hacking/texas-governments-ransomware-attacks.html …
+## #securityaffairs #hacking
+## https://twitter.com/securityaffairs/status/1163831466549219329<br><br><br><br><br>
 # @MalwarePatrol
 ## 2019-08-20 17:30:15
 ## Hacker group launches massive cyberattack campaign; Here's list of affected websites. https://www.ibtimes.sg/hacking-group-launches-massive-cyberattack-campaign-find-out-affected-websites-here-32127 … via @IBTimesSGpic.twitter.com/IUPgCkLQlK
