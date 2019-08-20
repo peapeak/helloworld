@@ -1,3 +1,7 @@
+# @Rmy_Reserve
+## 2019-08-20 11:01:58
+## #Turla #APThttps://twitter.com/daphiel/status/1163757729762201602 …
+## https://twitter.com/Rmy_Reserve/status/1163768129497030656<br><br><br><br><br>
 # @MalwarePatrol
 ## 2019-08-20 10:30:12
 ## How to avoid .JSE ransomware that hit the Texas government. https://www.techrepublic.com/article/how-to-avoid-jse-ransomware-that-hit-the-texas-government/ … via @TechRepublicpic.twitter.com/MR28wUAEpD
