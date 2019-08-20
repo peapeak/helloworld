@@ -1,3 +1,7 @@
+# @MalwarePatrol
+## 2019-08-20 12:30:10
+## What Makes Local Government an Enticing Cyber Target? https://www.fortinet.com/blog/industry-trends/state-local-government-cyber-target.html … via @Fortinetpic.twitter.com/ibmIXbCqDV
+## https://twitter.com/MalwarePatrol/status/1163790327838400517<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-08-20 11:23:43
 ## P-8A Poseidon نيرودريايى #آمريكا در حال  تعقيب/track سوپر نفتكش ADRIAN DARYA 1 مى باشد.
