@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-08-20 19:16:04
+## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=BWdDqsJ1566328564176 …
+## https://twitter.com/z3roTrust/status/1163892472902238211<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-20 15:13:39
 ## At least 23 Texas local governments targeted by coordinated #ransomware attacks -
