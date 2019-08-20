@@ -1,3 +1,7 @@
+# @MalwarePatrol
+## 2019-08-20 10:30:12
+## How to avoid .JSE ransomware that hit the Texas government. https://www.techrepublic.com/article/how-to-avoid-jse-ransomware-that-hit-the-texas-government/ … via @TechRepublicpic.twitter.com/MR28wUAEpD
+## https://twitter.com/MalwarePatrol/status/1163760135011000322<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-20 08:02:27
 ## At least 23 Texas local governments targeted by coordinated #ransomware attacks
