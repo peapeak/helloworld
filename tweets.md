@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-08-20 11:55:03
+## Texas Cyber Attack Has Taken 23 Government Agencies Offline | Forbeshttp://ow.ly/CvlC30pnQev 
+## https://twitter.com/CyberSecInt/status/1163781489399648257<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-20 11:01:58
 ## #Turla #APThttps://twitter.com/daphiel/status/1163757729762201602 …
