@@ -1,3 +1,12 @@
+# @daphiel
+## 2019-08-20 10:20:39
+## New #Turla #LightNeuron #APT sample, possible link with the BPA.Transport.dll previous agent
+## 
+## MD5: 52beacccecd9342421aa682ad538e677
+## 
+## VT Detection: 30/69
+## Sample VT: https://www.virustotal.com/gui/file/1e0084dad4ce9933a8b8d87050d54b60722308167999a49a9a40966df4326f9e/details …pic.twitter.com/bci9k7wEbG
+## https://twitter.com/daphiel/status/1163757729762201602<br><br><br><br><br>
 # @FireEye
 ## 2019-08-20 08:00:14
 ## WEBINAR | Staying ahead of #cyberattacks and not just reacting to them is at the heart of cyber #threatintel. In this webinar, we show you recent intelligence findings from the Iranian government influence campaigns.
