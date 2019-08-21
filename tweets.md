@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-21 17:59:22
+## @GiulioTerzi @arturodicorinto @Marco_Ramilli @mrtlgu @GianfrancoIncar #Romania is going to exclude #Huawei from its #5G Network
+## https://securityaffairs.co/wordpress/90191/intelligence/romania-bans-huawei-5g.html …
+## #securityaffairs #hacking espionage
+## https://twitter.com/securityaffairs/status/1164235558488608768<br><br><br><br><br>
 # @cyb3rops
 ## 2019-08-21 16:25:17
 ## Powershell / VBS combo ... smells like #OilRig. 
