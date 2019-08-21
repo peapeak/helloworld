@@ -1,3 +1,9 @@
+# @cyb3rops
+## 2019-08-21 19:05:31
+## They have first been tied due to C2 overlaps. 
+## C2 overlap lead to OilRig campaign attributed to Chafer. 
+## For me, they are two distinct groups using the same C2 infra but toolsets differ to 90%.
+## https://twitter.com/cyb3rops/status/1164252205748301833<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-21 17:59:22
 ## @GiulioTerzi @arturodicorinto @Marco_Ramilli @mrtlgu @GianfrancoIncar #Romania is going to exclude #Huawei from its #5G Network
