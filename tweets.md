@@ -1,3 +1,7 @@
+# @Anomali
+## 2019-08-21 20:05:00
+## Anomali Threat Research Team Identifies North Korea Based Cyber Attack Targeting Stanford University, Government Agencies, Think Tanks | @Anomali https://hubs.ly/H0knts80 pic.twitter.com/VQ4xcLT5jl
+## https://twitter.com/Anomali/status/1164267176947326976<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-21 17:59:59
 ## #Romania is going to exclude #Huawei from its #5G Network
