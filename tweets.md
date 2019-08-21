@@ -1,3 +1,7 @@
+# @ESET
+## 2019-08-21 11:30:49
+## As many as 23 government organizations across Texas are reeling from an apparently coordinated #ransomware attack. @welivesecurityhttps://bit.ly/2ZkeyNA 
+## https://twitter.com/ESET/status/1164137776297717760<br><br><br><br><br>
 # @z3roTrust
 ## 2019-08-21 11:18:02
 ## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=NOpk2K61566386282827 …
