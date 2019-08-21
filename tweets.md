@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-21 17:59:59
+## #Romania is going to exclude #Huawei from its #5G Network
+## https://securityaffairs.co/wordpress/90191/intelligence/romania-bans-huawei-5g.html …
+## #securityaffairs #hacking espionage
+## https://twitter.com/securityaffairs/status/1164235714839699458<br><br><br><br><br>
 # @cyb3rops
 ## 2019-08-21 19:05:31
 ## They have first been tied due to C2 overlaps. 
