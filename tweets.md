@@ -1,3 +1,8 @@
+# @threatpost
+## 2019-08-21 13:52:24
+## A pornography website exposed the personal emails – some indicating full user names or even government official status – of more than a million of its users.
+## https://threatpost.com/adult-content-site-exposed-personal-data-of-1m-users/147572/ …
+## https://twitter.com/threatpost/status/1164173408822792194<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-08-21 12:30:19
 ## ~ Electric Fish: US Cyber Command has released samples of #malware that they say are linked to N. Korean hackers from the Lazarus Group. http://ow.ly/ZqCM50vBK1a  #cybersecuritypic.twitter.com/AejjStgPK1
