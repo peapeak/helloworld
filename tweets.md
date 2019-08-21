@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-08-21 22:53:50
+## #APT #APT39
+## Good job @silv0123 
+## Cc:@Arkbird_SOLGhttps://twitter.com/silv0123/status/1160907518882852864 …
+## https://twitter.com/Rmy_Reserve/status/1164309663053049856<br><br><br><br><br>
 # @threatpost
 ## 2019-08-21 19:35:57
 ## On the heels of the coordinated #ransomware attacks of 22 Texas local governments, #security researchers are already worried about the "hype" in underground forums around the cyberattack.
