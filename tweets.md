@@ -1,3 +1,9 @@
+# @cyb3rops
+## 2019-08-21 16:25:17
+## Powershell / VBS combo ... smells like #OilRig. 
+## 
+## But we can't be sure without knowing more about the tools they've used on compromised hosts and methods for persistence.
+## https://twitter.com/cyb3rops/status/1164211883072729090<br><br><br><br><br>
 # @Manu_De_Lucia
 ## 2019-08-21 17:56:47
 ## Blog post modified with the addition of #SNORT rule for the detection of network activity related to the #TwoFace #APT34 #OilRig webshellhttps://twitter.com/Manu_De_Lucia/status/1162799696605339650 …
