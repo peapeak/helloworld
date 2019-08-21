@@ -1,4 +1,8 @@
 # @CyberSecInt
+## 2019-08-21 12:30:19
+## ~ Electric Fish: US Cyber Command has released samples of #malware that they say are linked to N. Korean hackers from the Lazarus Group. http://ow.ly/ZqCM50vBK1a  #cybersecuritypic.twitter.com/AejjStgPK1
+## https://twitter.com/CyberSecInt/status/1164152749757542401<br><br><br><br><br>
+# @CyberSecInt
 ## 2019-08-21 12:55:05
 ## ~ Foreign 'Cyber Intrusions' On The USA: It’s not just happening on Election Day. Foreign governments are using social media to insert themselves into US politics “every single day. http://ow.ly/QIzO50vD3Rb  @Princetonpic.twitter.com/0fdbsKEpir
 ## https://twitter.com/CyberSecInt/status/1164158984867201024<br><br><br><br><br>
