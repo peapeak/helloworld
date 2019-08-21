@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-08-21 02:00:04
+## #ThreatSpotlight: Ratsnif - New Network Vermin from OceanLotus. #BlackberryCylance threat researchers have analyzed the #Ratsnif trojans, which offer a veritable swiss-army knife of network attack techniques. Learn more: https://bit.ly/2LvDY7U pic.twitter.com/k9iEbxdJg6
+## https://twitter.com/cylanceinc/status/1163994142118154246<br><br><br><br><br>
 # @TrendMicroRSRCH
 ## 2019-08-21 04:00:00
 ## The systems of 23 organizations in Texas, mainly those of smaller local governments, were hit by seemingly coordinated #ransomware attacks. More on this news:http://bit.ly/2NikXXe 
