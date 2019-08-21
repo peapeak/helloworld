@@ -1,3 +1,7 @@
+# @TrendMicroRSRCH
+## 2019-08-21 04:00:00
+## The systems of 23 organizations in Texas, mainly those of smaller local governments, were hit by seemingly coordinated #ransomware attacks. More on this news:http://bit.ly/2NikXXe 
+## https://twitter.com/TrendMicroRSRCH/status/1164024326825402376<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-20 22:00:22
 ## At least 23 Texas local governments targeted by coordinated ransomware attackshttps://securityaffairs.co/wordpress/90068/hacking/texas-governments-ransomware-attacks.html …
