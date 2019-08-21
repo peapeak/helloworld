@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-08-21 12:55:05
+## ~ Foreign 'Cyber Intrusions' On The USA: It’s not just happening on Election Day. Foreign governments are using social media to insert themselves into US politics “every single day. http://ow.ly/QIzO50vD3Rb  @Princetonpic.twitter.com/0fdbsKEpir
+## https://twitter.com/CyberSecInt/status/1164158984867201024<br><br><br><br><br>
 # @ESET
 ## 2019-08-21 11:30:49
 ## As many as 23 government organizations across Texas are reeling from an apparently coordinated #ransomware attack. @welivesecurityhttps://bit.ly/2ZkeyNA 
