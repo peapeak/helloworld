@@ -1,3 +1,7 @@
+# @Manu_De_Lucia
+## 2019-08-21 17:56:47
+## Blog post modified with the addition of #SNORT rule for the detection of network activity related to the #TwoFace #APT34 #OilRig webshellhttps://twitter.com/Manu_De_Lucia/status/1162799696605339650 …
+## https://twitter.com/Manu_De_Lucia/status/1164234910216929281<br><br><br><br><br>
 # @kaspersky
 ## 2019-08-21 14:27:07
 ## The online magazine for #digital culture @TmrwUnlocked released a four-part cybercrime series on the notiorious Carbanak APT group and its $1 billion heist https://kas.pr/2md5 pic.twitter.com/xbyA0CTurs
