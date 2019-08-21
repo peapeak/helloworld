@@ -1,3 +1,8 @@
+# @threatpost
+## 2019-08-21 19:35:57
+## On the heels of the coordinated #ransomware attacks of 22 Texas local governments, #security researchers are already worried about the "hype" in underground forums around the cyberattack.
+## https://threatpost.com/the-texas-ransomware-attacks-a-gamechanger-for-cybercriminals/147597/ …pic.twitter.com/KUNxnP6kzi
+## https://twitter.com/threatpost/status/1164259867097542656<br><br><br><br><br>
 # @Anomali
 ## 2019-08-21 20:05:00
 ## Anomali Threat Research Team Identifies North Korea Based Cyber Attack Targeting Stanford University, Government Agencies, Think Tanks | @Anomali https://hubs.ly/H0knts80 pic.twitter.com/VQ4xcLT5jl
