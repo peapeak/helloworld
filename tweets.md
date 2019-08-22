@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-22 13:00:05
+## OtterBox announces OtterSpot expandable, portable wireless charging system https://zd.net/31ZCS95  by @palmsolo
+## https://twitter.com/ZDNet/status/1164522631963406336<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-22 08:41:19
 ## #APT #Gorgonhttps://twitter.com/Rmy_Reserve/status/1164405054746460161 …
