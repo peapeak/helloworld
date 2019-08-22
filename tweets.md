@@ -1,3 +1,10 @@
+# @RedDrip7
+## 2019-08-22 05:58:20
+## #Sednit
+## Decoy document seems utilized by #APT28 to target the Ministry of Foreign Affairs of #Ukraine. Template injection has been used to reduce detection rate and the malicious macro from remote extracts #Nim downloader to retrieve the final payload.
+## 
+## https://www.virustotal.com/gui/file/cd7660ddb2a022a89312965bf29d81c8dd3d5585d8858e626ccac945942c4b4c …pic.twitter.com/Zr0BRxNkg7
+## https://twitter.com/RedDrip7/status/1164416494706384897<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-22 06:01:25
 ## #APT28https://twitter.com/RedDrip7/status/1164416494706384897 …
