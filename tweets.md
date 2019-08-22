@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-22 07:03:55
+## #Romania is going to exclude #Huawei from its #5G Network
+## https://securityaffairs.co/wordpress/90191/intelligence/romania-bans-huawei-5g.html …
+## #securityaffairs #hacking #cyberespionage
+## https://twitter.com/securityaffairs/status/1164432999053766658<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-08-22 06:55:04
 ## Data Leviathan: China’s Burgeoning #Surveillance State | NYR Dailyhttp://ow.ly/RZOC30pnDHQ 
