@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-08-22 19:26:10
+## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=5FQes121566501970325 …
+## https://twitter.com/z3roTrust/status/1164619791216386050<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-08-22 17:55:06
 ## ~ Electric Fish: US Cyber Command has released samples of #malware that they say are linked to N. Korean hackers from the Lazarus Group. http://ow.ly/ZqCM50vBK1a  #cybersecuritypic.twitter.com/n9I46eT1um
