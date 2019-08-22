@@ -1,3 +1,7 @@
+# @threatpost
+## 2019-08-22 17:17:54
+## #Security researchers worry that last weekend’s coordinated attacks on more than 20 Texas governments mark a change in how #ransomware attacks will be launched in the future.https://threatpost.com/the-texas-ransomware-attacks-a-gamechanger-for-cybercriminals/147597/ …
+## https://twitter.com/threatpost/status/1164587512125202432<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-08-22 16:55:07
 ## ~ Foreign Cyber Intrusions On The USA: It’s not just happening on Election Day. Foreign governments are using social media to insert themselves into US politics “every single day'. http://ow.ly/Ipgo50vEF6Y  #cybersecuritypic.twitter.com/HhtX90KsLk
