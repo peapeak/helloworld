@@ -1,3 +1,9 @@
+# @blackorbird
+## 2019-08-22 02:55:05
+## Last time saw it #kimsuky #APT, Now report seen.
+## doc-view./work
+## https://www.anomali.com/blog/suspected-north-korean-cyber-espionage-campaign-targets-multiple-foreign-ministries-and-think-tanks#When:14:00:00Z …pic.twitter.com/H8evKiuvHA
+## https://twitter.com/blackorbird/status/1164370375490228224<br><br><br><br><br>
 # @z3roTrust
 ## 2019-08-22 03:24:03
 ## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=1tJrdmG1566444243269 …
