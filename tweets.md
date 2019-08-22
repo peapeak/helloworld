@@ -1,3 +1,7 @@
+# @Rmy_Reserve
+## 2019-08-22 08:41:19
+## #APT #Gorgonhttps://twitter.com/Rmy_Reserve/status/1164405054746460161 …
+## https://twitter.com/Rmy_Reserve/status/1164457511312695307<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-22 07:03:55
 ## #Romania is going to exclude #Huawei from its #5G Network
