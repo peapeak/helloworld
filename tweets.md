@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-08-22 16:33:22
+## Drop #Frombook, I'm not sure that an APT, but the method used for the obfuscation and the tactics used are like Gorgon group.https://app.any.run/tasks/d7365b93-470c-4e2e-bc6d-5e43c711d72e/ …
+## https://twitter.com/Arkbird_SOLG/status/1164576302944440322<br><br><br><br><br>
 # @MalwarePatrol
 ## 2019-08-22 16:30:21
 ## The Gamaredon Group: A TTP Profile Analysis. https://www.fortinet.com/blog/threat-research/gamaredon-group-ttp-profile-analysis.html … via @Fortinetpic.twitter.com/orkkIH61HB
