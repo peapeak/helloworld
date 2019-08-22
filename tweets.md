@@ -1,4 +1,8 @@
 # @Rmy_Reserve
+## 2019-08-22 06:01:25
+## #APT28https://twitter.com/RedDrip7/status/1164416494706384897 …
+## https://twitter.com/Rmy_Reserve/status/1164417270057074688<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-08-22 05:12:53
 ## #APT #Gorgon
 ## ITW:
