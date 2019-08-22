@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-08-22 05:54:58
+## Similar to #Gorgon APT Group
+## 
+## Link:https://ti.qianxin.com/blog/articles/gorgon-group-campaign-aggah-with-pastebin/ …pic.twitter.com/DRF4hobTGJ
+## https://twitter.com/Rmy_Reserve/status/1164415644382576640<br><br><br><br><br>
 # @blackorbird
 ## 2019-08-22 02:55:05
 ## Last time saw it #kimsuky #APT, Now report seen.
