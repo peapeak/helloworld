@@ -1,3 +1,7 @@
+# @MalwarePatrol
+## 2019-08-22 16:30:21
+## The Gamaredon Group: A TTP Profile Analysis. https://www.fortinet.com/blog/threat-research/gamaredon-group-ttp-profile-analysis.html … via @Fortinetpic.twitter.com/orkkIH61HB
+## https://twitter.com/MalwarePatrol/status/1164575546279419904<br><br><br><br><br>
 # @securityaffairs
 ## 2019-08-22 14:33:10
 ## #Romania is going to exclude #Huawei from its #5G Network -
