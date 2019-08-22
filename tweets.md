@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-08-22 17:55:06
+## ~ Electric Fish: US Cyber Command has released samples of #malware that they say are linked to N. Korean hackers from the Lazarus Group. http://ow.ly/ZqCM50vBK1a  #cybersecuritypic.twitter.com/n9I46eT1um
+## https://twitter.com/CyberSecInt/status/1164596871928647682<br><br><br><br><br>
 # @threatpost
 ## 2019-08-22 17:17:54
 ## #Security researchers worry that last weekend’s coordinated attacks on more than 20 Texas governments mark a change in how #ransomware attacks will be launched in the future.https://threatpost.com/the-texas-ransomware-attacks-a-gamechanger-for-cybercriminals/147597/ …
