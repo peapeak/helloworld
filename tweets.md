@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-08-22 16:55:07
+## ~ Foreign Cyber Intrusions On The USA: It’s not just happening on Election Day. Foreign governments are using social media to insert themselves into US politics “every single day'. http://ow.ly/Ipgo50vEF6Y  #cybersecuritypic.twitter.com/HhtX90KsLk
+## https://twitter.com/CyberSecInt/status/1164581780017618944<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-08-22 16:33:22
 ## Drop #Frombook, I'm not sure that an APT, but the method used for the obfuscation and the tactics used are like Gorgon group.https://app.any.run/tasks/d7365b93-470c-4e2e-bc6d-5e43c711d72e/ …
