@@ -1,3 +1,9 @@
+# @securityaffairs
+## 2019-08-22 14:33:10
+## #Romania is going to exclude #Huawei from its #5G Network -
+## https://securityaffairs.co/wordpress/90191/intelligence/romania-bans-huawei-5g.html …
+## #securityaffairs #hacking #cyberespionage
+## https://twitter.com/securityaffairs/status/1164546053925982208<br><br><br><br><br>
 # @MalwarePatrol
 ## 2019-08-22 13:30:16
 ## Suspected North Korean Cyber Espionage Campaign Targets Multiple Foreign Ministries and Think Tanks. https://www.anomali.com/blog/suspected-north-korean-cyber-espionage-campaign-targets-multiple-foreign-ministries-and-think-tanks#When:14:00:00Z … via @Anomalipic.twitter.com/r9p25MDK2f
