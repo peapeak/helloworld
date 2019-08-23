@@ -1,4 +1,8 @@
 # @Rmy_Reserve
+## 2019-08-23 08:01:27
+## So you're saying APT32 used this sample before this
+## https://twitter.com/Rmy_Reserve/status/1164809864352161792<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-08-23 04:07:55
 ## #APT #Gamaredon
 ## 
