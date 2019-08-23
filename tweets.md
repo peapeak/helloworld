@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-08-23 00:35:09
+## Interesting to see the "Mysexophone" reference, many recent reports proves that gorgon group use this since July but before by Formbook. Secondly, this use the same variables and tactics that the pastebins with Hagga account who dropped RevengeRAT (9th August).
+## https://twitter.com/Arkbird_SOLG/status/1164697550961676288<br><br><br><br><br>
 # @TrendMicroRSRCH
 ## 2019-08-23 01:00:00
 ## #Ransomware attacks knock the systems of local government organizations in Texas offline. More on this incident:http://bit.ly/2NikXXe 
