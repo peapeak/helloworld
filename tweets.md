@@ -1,3 +1,9 @@
+# @RedDrip7
+## 2019-08-23 11:02:19
+## New attack targeting #Pakistan suspected to be carried out by #Bitter. Template injecting is utilized to circumvent detection and only two alerts on VT. To control the victim’s computer, the final payload malware is obtained from http://maq.com.pk/wehs .
+## 
+## https://sandbox.ti.qianxin.com/sandbox/page/detail?type=file&id=AWy-CWpHphNA4CyPn1Z6&env=&time=&sha1=4a34dd5d7f5225f0a9ee6abd2f08130988227f4d#screenshot …pic.twitter.com/Lu6Y5pQ91q
+## https://twitter.com/RedDrip7/status/1164855381052416002<br><br><br><br><br>
 # @z3roTrust
 ## 2019-08-23 11:27:08
 ## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=8Ipvaru1566559628755 …
