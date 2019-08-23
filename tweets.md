@@ -1,3 +1,7 @@
+# @bsmuir
+## 2019-08-23 00:23:10
+## The #NATO @ccdcoe #CyCon call for papers is now open. #infosec #Cybersecurity #cyberwarfare #cyberespionage #CFP https://lnkd.in/fNSmREB 
+## https://twitter.com/bsmuir/status/1164694535718522881<br><br><br><br><br>
 # @z3roTrust
 ## 2019-08-22 19:26:10
 ## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=5FQes121566501970325 …
