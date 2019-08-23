@@ -1,3 +1,7 @@
+# @TrendMicroRSRCH
+## 2019-08-23 01:00:00
+## #Ransomware attacks knock the systems of local government organizations in Texas offline. More on this incident:http://bit.ly/2NikXXe 
+## https://twitter.com/TrendMicroRSRCH/status/1164703802911526913<br><br><br><br><br>
 # @bsmuir
 ## 2019-08-23 00:23:10
 ## The #NATO @ccdcoe #CyCon call for papers is now open. #infosec #Cybersecurity #cyberwarfare #cyberespionage #CFP https://lnkd.in/fNSmREB 
