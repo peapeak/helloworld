@@ -1,4 +1,11 @@
 # @Rmy_Reserve
+## 2019-08-23 07:22:34
+## #APT #Oceanlotus
+## #APT32 use OVH macro to target at #China
+## Date:2019/08/21
+## Last save account:liukehongpic.twitter.com/4t4XcyTwcd
+## https://twitter.com/Rmy_Reserve/status/1164800080404025345<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-08-23 08:01:27
 ## So you're saying APT32 used this sample before this
 ## https://twitter.com/Rmy_Reserve/status/1164809864352161792<br><br><br><br><br>
