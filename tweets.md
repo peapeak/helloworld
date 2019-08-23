@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-08-23 12:20:32
+## #APT #BITTER
+## Thanks to @RedDrip7 
+## Cc:@Arkbird_SOLGhttps://twitter.com/RedDrip7/status/1164855381052416002 …
+## https://twitter.com/Rmy_Reserve/status/1164875066925993985<br><br><br><br><br>
 # @RedDrip7
 ## 2019-08-23 11:02:19
 ## New attack targeting #Pakistan suspected to be carried out by #Bitter. Template injecting is utilized to circumvent detection and only two alerts on VT. To control the victim’s computer, the final payload malware is obtained from http://maq.com.pk/wehs .
