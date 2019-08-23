@@ -1,3 +1,9 @@
+# @RedDrip7
+## 2019-08-23 02:08:28
+## Seems #Gamaredon carried out targeted attack against #Lugansk, #Ukraine. The decoy document disguised as an administrative lawsuit and dropped a legitimate file to hide its malicious activity in the background.
+## 
+## https://www.virustotal.com/gui/file/63bbf3a5ddfb637aea0deaf39aca470f5d58820894c4df6000e57110847e5b5a …pic.twitter.com/oL4ZPIVZuZ
+## https://twitter.com/RedDrip7/status/1164721033699418112<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-08-23 00:35:09
 ## Interesting to see the "Mysexophone" reference, many recent reports proves that gorgon group use this since July but before by Formbook. Secondly, this use the same variables and tactics that the pastebins with Hagga account who dropped RevengeRAT (9th August).
