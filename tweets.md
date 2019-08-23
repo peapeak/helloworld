@@ -1,3 +1,9 @@
+# @JayTHL
+## 2019-08-23 04:17:15
+## yes, in the end, no one actually owns land. push comes to shove.
+## however, governments print money whenever they want. there isn't going to be more land.
+## overall, having a home you "own" is better than a life time of paying some other owner for land HE "owns."
+## https://twitter.com/JayTHL/status/1164753440838311936<br><br><br><br><br>
 # @RedDrip7
 ## 2019-08-23 02:08:28
 ## Seems #Gamaredon carried out targeted attack against #Lugansk, #Ukraine. The decoy document disguised as an administrative lawsuit and dropped a legitimate file to hide its malicious activity in the background.
