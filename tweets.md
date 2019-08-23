@@ -1,3 +1,13 @@
+# @Rmy_Reserve
+## 2019-08-23 04:07:55
+## #APT #Gamaredon
+## 
+## c2:hxxp://document-listing.ddns.net/
+## 
+## ITW:63bbf3a5ddfb637aea0deaf39aca470f5d58820894c4df6000e57110847e5b5a
+## 
+## Thanks @RedDrip7https://twitter.com/RedDrip7/status/1164721033699418112 …
+## https://twitter.com/Rmy_Reserve/status/1164751092820799488<br><br><br><br><br>
 # @JayTHL
 ## 2019-08-23 04:17:15
 ## yes, in the end, no one actually owns land. push comes to shove.
