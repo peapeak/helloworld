@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-23 12:31:06
+## What Amazon Web Services security certification is doing for governmenthttps://www.zdnet.com/article/what-amazon-web-services-security-certification-is-doing-for-government/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d5fdc6f57819f0001690a3e&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1164877723170496514<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-23 12:20:32
 ## #APT #BITTER
