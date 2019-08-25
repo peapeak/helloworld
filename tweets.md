@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-08-25 14:00:17
+## #ThreatSpotlight: Ratsnif - New Network Vermin from OceanLotus. #BlackberryCylance threat researchers have analyzed the #Ratsnif trojans, which offer a veritable swiss-army knife of network attack techniques. Learn more: https://bit.ly/2LvDY7U pic.twitter.com/oPPh42pUjw
+## https://twitter.com/cylanceinc/status/1165624943767425024<br><br><br><br><br>
 # @z3roTrust
 ## 2019-08-25 08:30:32
 ## A pretty clever use of text-based steganography was found in the PLATINUM APT malware to Hide a Backdoor - via @z3roTrust #InformationSecurity #Cybersecurity #CyberEspionage #Malware #Steganographyhttps://www.lnk.xyz/HyHlKR8A4?aduc=MuIlzWE1566721832314 …
