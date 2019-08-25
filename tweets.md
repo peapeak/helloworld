@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-08-25 21:40:31
+## #APT #APT39
+## Thanks @silv0123 
+## Cc: @Arkbird_SOLGhttps://twitter.com/silv0123/status/1165697364201541632 …
+## https://twitter.com/Rmy_Reserve/status/1165740763839266816<br><br><br><br><br>
 # @cylanceinc
 ## 2019-08-25 14:00:17
 ## #ThreatSpotlight: Ratsnif - New Network Vermin from OceanLotus. #BlackberryCylance threat researchers have analyzed the #Ratsnif trojans, which offer a veritable swiss-army knife of network attack techniques. Learn more: https://bit.ly/2LvDY7U pic.twitter.com/oPPh42pUjw
