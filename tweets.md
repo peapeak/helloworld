@@ -1,3 +1,12 @@
+# @cyb3rops
+## 2019-08-24 11:55:10
+## Detecting Droppers that use @MITREattack  'Compile After Delivery' technique T1500  with this #Sigma rule
+## 
+## > staging folders in AppData
+## > have seen this used by #OceanLotus #MuddyWater and others
+## 
+## https://github.com/Neo23x0/sigma/blob/master/rules/windows/process_creation/win_susp_csc_folder.yml …pic.twitter.com/PKsXVIF76V
+## https://twitter.com/cyb3rops/status/1165231067848216577<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-08-24 13:00:39
 ## ~ China’s Hackers Have Stolen EU, US & Global Secrets: #APT10 is a China-based #cybercrime group well known to the information security community that  has been hacking the rest of the world since 2014. http://ow.ly/5xun30nerdr  pic.twitter.com/J9PEZ8dpef @ChinaDaily
