@@ -1,4 +1,8 @@
 # @Rmy_Reserve
+## 2019-08-25 14:09:45
+## #APT #BITTER
+## https://twitter.com/Rmy_Reserve/status/1165627326798782465<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-08-25 21:40:31
 ## #APT #APT39
 ## Thanks @silv0123 
