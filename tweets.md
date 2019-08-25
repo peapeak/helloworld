@@ -1,3 +1,7 @@
+# @Arkbird_SOLG
+## 2019-08-24 21:29:08
+## I have decided to push the recent analysis of the #Gamaredon group on the repository and added the IOC (can be exported in JSON) and the MITRE ATTACK references.https://github.com/StrangerealIntel/CyberThreatIntel/tree/master/Russia/APT/Gamaredon …
+## https://twitter.com/Arkbird_SOLG/status/1165375513709486082<br><br><br><br><br>
 # @DrunkBinary
 ## 2019-08-24 16:34:05
 ## Gamaredon Group Pteranodon Implant
