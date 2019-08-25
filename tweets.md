@@ -1,3 +1,11 @@
+# @z3roTrust
+## 2019-08-25 08:30:32
+## A pretty clever use of text-based steganography was found in the PLATINUM APT malware to Hide a Backdoor - via @z3roTrust #InformationSecurity #Cybersecurity #CyberEspionage #Malware #Steganographyhttps://www.lnk.xyz/HyHlKR8A4?aduc=MuIlzWE1566721832314 …
+## https://twitter.com/z3roTrust/status/1165541958913273856<br><br><br><br><br>
+# @z3roTrust
+## 2019-08-25 11:36:04
+## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=UGqbvQ41566732963905 …
+## https://twitter.com/z3roTrust/status/1165588648613634048<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-25 08:23:25
 ## #APT #Gamaredon
