@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-08-25 08:23:25
+## #APT #Gamaredon
+## Thanks @DrunkBinary 
+## Cc:@Arkbird_SOLGhttps://twitter.com/DrunkBinary/status/1165301260192493568 …
+## https://twitter.com/Rmy_Reserve/status/1165540167995645952<br><br><br><br><br>
 # @cylanceinc
 ## 2019-08-25 05:00:03
 ## #InSecurityPodcast: @selectedwisdom on the World of Advanced Persistent Manipulators. With governments all over the world in a state of perpetual election-manipulation-mode, and candidates running their own Troll farms, do we even know what to prepare for? https://bit.ly/2SAt5TM pic.twitter.com/mWy8dQGFbX
