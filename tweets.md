@@ -1,3 +1,11 @@
+# @DrunkBinary
+## 2019-08-24 16:34:05
+## Gamaredon Group Pteranodon Implant
+## 50ee3d46ce94b7b650ba3b875f87cf94
+## 3804f9ddaefd8aafca97a49f535a2889
+## 
+## #SpicyHoneyIsADumbName
+## https://twitter.com/DrunkBinary/status/1165301260192493568<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-24 22:45:34
 ## #APT
