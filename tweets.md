@@ -1,3 +1,11 @@
+# @cyberwar_15
+## 2019-08-27 09:31:44
+## #NorthKorea #APT #Lazarus
+## 
+## 최신 라자루스 공격이 포착되었습니다. 긴급 분석이 진행 중입니다. 
+## e43fb78165dad0e2e18de1ae304399b7
+## youdermoscopy[.]org/media/fly.avipic.twitter.com/GEMkS8Ze1Q
+## https://twitter.com/cyberwar_15/status/1166282138179624960<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-27 11:30:30
 ## good analysis of #PatchWork #APT target at #Pakistan 
