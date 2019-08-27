@@ -1,3 +1,7 @@
+# @James_inthe_box
+## 2019-08-27 01:44:11
+## Related #Bitterhttps://twitter.com/RedDrip7/status/1164855381052416002 …
+## https://twitter.com/James_inthe_box/status/1166164473003921409<br><br><br><br><br>
 # @Treadstone71LLC
 ## 2019-08-27 03:02:02
 ## "Hashdabi is awaiting an order to attack US headquarters. Head of Shiite Branch Office in Kirkuk: We are waiting for permission to strike at US military headquarters in Iraq.  Islamic groups will not wait for official government action.
