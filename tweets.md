@@ -1,4 +1,9 @@
 # @bsmuir
+## 2019-08-27 02:24:18
+## #ESET identifies known #spyware in #Google Play based on #AhMyth open-source #cyberespionage tool. Via @WeLiveSecurity. #infosec #Cybersecurity #DFIR #cybercrime #malware #mobile #Android
+## https://lnkd.in/fqzSKWY https://lnkd.in/fk9sNe2 
+## https://twitter.com/bsmuir/status/1166174568236625921<br><br><br><br><br>
+# @bsmuir
 ## 2019-08-27 02:41:03
 ## Analysis of suspected North Korean #cyberespionage campaign targeting Foreign Ministries and Think Tanks. Via @anomali. #infosec #Cybersecurity #DFIR #cybercrime #malware https://lnkd.in/f7JfNgW 
 ## https://twitter.com/bsmuir/status/1166178783122087937<br><br><br><br><br>
