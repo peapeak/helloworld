@@ -1,3 +1,7 @@
+# @Manu_De_Lucia
+## 2019-08-26 12:26:35
+## can you explain better this: "but I think the one I am matching is attributed to #APT28" ?
+## https://twitter.com/Manu_De_Lucia/status/1165963752434544641<br><br><br><br><br>
 # @bsmuir
 ## 2019-08-26 04:32:53
 ## @fortiguardlabs examine the TTPs related to #Gamaredon Group, targeting Ukrainian LE/govt agencies. #infosec #Cybersecurity #DFIR #cybercrime #malware #cyberespionage
