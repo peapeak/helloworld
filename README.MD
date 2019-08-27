@@ -1,3 +1,18 @@
+# GAME OVER: Detecting and Stopping an APT41 Operation
+## Fireeye
+## Aug 19
+## GAME OVER: Detecting and Stopping an APT41 Operation
+## https://www.fireeye.com/blog/threat-research/2019/08/game-over-detecting-and-stopping-an-apt41-operation.html<br><br><br>
+# First‑of‑its‑kind spyware sneaks into Google Play
+## ESET
+## 2019-08-22 11:30:34
+## ESET analysis breaks down the first known spyware that is built on the AhMyth open-source espionage tool and has appeared on Google Play – twice
+## https://www.welivesecurity.com/2019/08/22/first-spyware-android-ahmyth-google-play/<br><br><br>
+# 摩诃草团伙利用公用平台分发C&C配置攻击活动揭露
+## 奇安信
+## 2019-08-26By红雨滴团队|事件追踪
+## 近期，奇安信威胁情报中心红雨滴团队利用公开情报发现一个摩诃草团伙的XLSM诱饵文档样本，经过分析发现其载荷主要通过Github和Feed43获取加密的C&C配置。通过关联分析我们找到了更多被摩诃草利用的Github地址，最早可以追溯到2018年7月，并且截至报告完成时，相关账号依然在使用。本文主要对Github上配置文件的解密算法分析和通过解密的数据总结出攻击者的一些活动特征。
+## https://ti.360.net/blog/tag/APT/<br><br><br>
 # APT41: A Dual Espionage and Cyber Crime Operation
 ## Fireeye
 ## Aug 7
