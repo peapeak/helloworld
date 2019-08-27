@@ -1,3 +1,10 @@
+# @Arkbird_SOLG
+## 2019-08-27 01:36:32
+## #APT #BITTER I confirm that this the first variant of Artra malware used by the Bitter group according with Unit42 analysis.
+## Note: this match too by the fact to don't have pdb reference in the strings.
+## Ref tweet : https://twitter.com/RedDrip7/status/1164855381052416002 …
+## Ref analysis : https://unit42.paloaltonetworks.com/multiple-artradownloader-variants-used-by-bitter-to-target-pakistan/ …pic.twitter.com/T8GyzByuts
+## https://twitter.com/Arkbird_SOLG/status/1166162547348836352<br><br><br><br><br>
 # @James_inthe_box
 ## 2019-08-27 01:44:11
 ## Related #Bitterhttps://twitter.com/RedDrip7/status/1164855381052416002 …
