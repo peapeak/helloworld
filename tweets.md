@@ -1,3 +1,9 @@
+# @blackorbird
+## 2019-08-26 14:17:21
+## #Darkhotel #korean #Asruex #APT
+## Asruex backdoor connection to DarkHotel. and the variant can also act as an infector particularly through the use of old vulnerabilities CVE-2012-0158 and CVE-2010-2883, which inject code in Word and PDF files respectively.
+## https://blog.trendmicro.com/trendlabs-security-intelligence/asruex-backdoor-variant-infects-word-documents-and-pdfs-through-old-ms-office-and-adobe-vulnerabilities/ …pic.twitter.com/EbvdztPzJq
+## https://twitter.com/blackorbird/status/1165991628181405698<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-08-26 21:02:22
 ## #APT #Gorgon 
