@@ -1,3 +1,7 @@
+# @CyberSecInt
+## 2019-08-27 17:30:13
+## ~ Ransomware Hits Texas For Six: Over 20 local governments have suffered a co-ordinated attack from somebody who is demanding a $multimillion ransom. http://ow.ly/1Qou50vLho2  @DHSgovpic.twitter.com/WqoMIAgcBG
+## https://twitter.com/CyberSecInt/status/1166402549500600322<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-27 16:15:37
 ## #Lazarus? @cyberwar_15
