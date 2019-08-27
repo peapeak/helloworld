@@ -1,3 +1,13 @@
+# @blackorbird
+## 2019-08-27 13:41:32
+## A new #APT group which targeting oil and gas companies in the Middle East, including #Kuwait.
+## In mid-2018 focused on South#African,too
+## Name: hexane or lyceum
+## Group's ttp look likes OilRig(APT34) and APT33
+## Toolkit is not special.
+## 1.https://dragos.com/resource/hexane/ …
+## 2.https://www.secureworks.com/blog/lyceum-takes-center-stage-in-middle-east-campaign …pic.twitter.com/IbiDdfqHCM
+## https://twitter.com/blackorbird/status/1166345000826724352<br><br><br><br><br>
 # @BleepinComputer
 ## 2019-08-27 14:46:22
 ## Lyceum/Hexane Threat Group Uses Common Hacking Tactics - by @Ionut_Ilascuhttps://www.bleepingcomputer.com/news/security/lyceum-hexane-threat-group-uses-common-hacking-tactics/ …
