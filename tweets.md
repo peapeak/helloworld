@@ -1,3 +1,8 @@
+# @Treadstone71LLC
+## 2019-08-27 03:02:02
+## "Hashdabi is awaiting an order to attack US headquarters. Head of Shiite Branch Office in Kirkuk: We are waiting for permission to strike at US military headquarters in Iraq.  Islamic groups will not wait for official government action.
+## US troops deployed…https://lnkd.in/eXH8dq8 
+## https://twitter.com/Treadstone71LLC/status/1166184064367386625<br><br><br><br><br>
 # @bsmuir
 ## 2019-08-27 00:46:16
 ## #Kaspersky @SecureList discuss the evolution of threats observed during Q2 2019. #infosec #Cybersecurity #DFIR #cybercrime #malware #cyberespionage #CISO
