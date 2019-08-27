@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-08-27 11:45:04
+## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=uDzqHtq1566906304819 …
+## https://twitter.com/z3roTrust/status/1166315692699869184<br><br><br><br><br>
 # @cyberwar_15
 ## 2019-08-27 09:31:44
 ## #NorthKorea #APT #Lazarus
