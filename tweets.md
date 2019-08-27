@@ -1,3 +1,15 @@
+# @Timele9527
+## 2019-08-27 03:19:10
+## #APT Maybe #APT-C-37
+## ITW: c6d3ccfd42856e2656e2e365bf9a1f57830b20fba79b6d10403433da133b325d
+## FileName: فضيحة جديدة لأحد قيادات حماس.zip
+## URL:
+## hxxp://israanews.zz.com.ve/hw.zip.zip
+## hxxp://adamnews.for.ug/hwdownhww
+## C2: mmksba[.]dyndns[.]org:4455
+## 
+## https://twitter.com/Timele9527/status/1159673642332016640 …pic.twitter.com/DHjoHpop2S
+## https://twitter.com/Timele9527/status/1166188375109296128<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-08-27 01:36:32
 ## #APT #BITTER I confirm that this the first variant of Artra malware used by the Bitter group according with Unit42 analysis.
