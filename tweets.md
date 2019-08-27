@@ -1,3 +1,9 @@
+# @PaloAltoNtwks
+## 2019-08-26 15:46:02
+## "Someone who signs up to be a cybersecurity warrior is just as important as someone who’s on the frontlines"
+## 
+## Our field chief security officer, M.K. Palmore, shares his views on how the federal government can retain its cyber workforce. Via @theFifthDomain https://bit.ly/2Zjy3G0 
+## https://twitter.com/PaloAltoNtwks/status/1166013945410445314<br><br><br><br><br>
 # @MalCrawler
 ## 2019-08-26 21:31:41
 ## #APT #Malware Turla Light Neuron malware that targets Microsoft Exchange servers made a few appearances in the past few days (August 2019). Check out our Yara rules for #Turla’s Light Neuron, and feel free to modify and of course Happy Hunting!
