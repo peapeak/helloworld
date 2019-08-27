@@ -1,3 +1,16 @@
+# @James_inthe_box
+## 2019-08-26 23:21:59
+## Pretty fresh (2019-08-21 06:24:46) #artradownloader tagged as #hangover #apt c2:
+## 
+## http://onlinejohnline99[.]org/kvs06v.php
+## 
+## #yara sig here:
+## 
+## https://pastebin.com/bcYfBXcc 
+## https://www.hybrid-analysis.com/yara-search/results/6881c16d9c3c63b3f8d215509b9d636c5141a5e77e1c0bdc3c5a3d44a013f299 …
+## 
+## dcb8531b0879d46949dd63b1ac094f5588c26867805d0795e244f4f9b8077ed1pic.twitter.com/C1zDpvp5iE
+## https://twitter.com/James_inthe_box/status/1166128688175300608<br><br><br><br><br>
 # @z3roTrust
 ## 2019-08-26 19:42:05
 ## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=IN5N3Sk1566848525569 …
