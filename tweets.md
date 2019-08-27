@@ -1,3 +1,7 @@
+# @bsmuir
+## 2019-08-27 02:41:03
+## Analysis of suspected North Korean #cyberespionage campaign targeting Foreign Ministries and Think Tanks. Via @anomali. #infosec #Cybersecurity #DFIR #cybercrime #malware https://lnkd.in/f7JfNgW 
+## https://twitter.com/bsmuir/status/1166178783122087937<br><br><br><br><br>
 # @blackorbird
 ## 2019-08-26 14:17:21
 ## #Darkhotel #korean #Asruex #APT
