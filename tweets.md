@@ -1,3 +1,9 @@
+# @Arkbird_SOLG
+## 2019-08-27 12:29:37
+## I have modified (the strings condition is valid for the first variant only) and put additional comments of decrypting strings.
+## Yara Rule: https://github.com/StrangerealIntel/CyberThreatIntel/blob/master/offshore%20APT%20organization/Bitter/27-08-19/YARA_Rule_Bitter_Variant1_August_2019.txt …
+## Ref Tweet:https://twitter.com/James_inthe_box/status/1166128688175300608 …
+## https://twitter.com/Arkbird_SOLG/status/1166326903566983168<br><br><br><br><br>
 # @z3roTrust
 ## 2019-08-27 11:45:04
 ## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=uDzqHtq1566906304819 …
