@@ -1,3 +1,8 @@
+# @Rmy_Reserve
+## 2019-08-26 22:39:37
+## Good ANALYSIS of #Gorgon #APT Group
+## Thanks @Arkbird_SOLGhttps://twitter.com/Arkbird_SOLG/status/1166093551509417985 …
+## https://twitter.com/Rmy_Reserve/status/1166118024757121024<br><br><br><br><br>
 # @James_inthe_box
 ## 2019-08-26 23:21:59
 ## Pretty fresh (2019-08-21 06:24:46) #artradownloader tagged as #hangover #apt c2:
