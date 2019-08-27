@@ -1,3 +1,9 @@
+# @MalCrawler
+## 2019-08-26 21:31:41
+## #APT #Malware Turla Light Neuron malware that targets Microsoft Exchange servers made a few appearances in the past few days (August 2019). Check out our Yara rules for #Turla’s Light Neuron, and feel free to modify and of course Happy Hunting!
+## 
+## https://www.malcrawler.com/turla-light-neuron-yara-rule/ …pic.twitter.com/nnOWSOGA0c
+## https://twitter.com/MalCrawler/status/1166100931500564481<br><br><br><br><br>
 # @Manu_De_Lucia
 ## 2019-08-26 12:26:35
 ## can you explain better this: "but I think the one I am matching is attributed to #APT28" ?
