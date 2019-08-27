@@ -1,4 +1,9 @@
 # @bsmuir
+## 2019-08-27 00:46:16
+## #Kaspersky @SecureList discuss the evolution of threats observed during Q2 2019. #infosec #Cybersecurity #DFIR #cybercrime #malware #cyberespionage #CISO
+## https://lnkd.in/fHc_bu8 https://lnkd.in/f8-u2NZ 
+## https://twitter.com/bsmuir/status/1166149897697017861<br><br><br><br><br>
+# @bsmuir
 ## 2019-08-27 02:24:18
 ## #ESET identifies known #spyware in #Google Play based on #AhMyth open-source #cyberespionage tool. Via @WeLiveSecurity. #infosec #Cybersecurity #DFIR #cybercrime #malware #mobile #Android
 ## https://lnkd.in/fqzSKWY https://lnkd.in/fk9sNe2 
