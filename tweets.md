@@ -1,3 +1,7 @@
+# @TalosSecurity
+## 2019-08-27 15:21:31
+## Despite being around for nine years, China Chopper is still an active threat. We broke down three recent campaigns where we saw it used to carry out espionage and more http://cs.co/6015EfE1T pic.twitter.com/yCcfbZV0wB
+## https://twitter.com/TalosSecurity/status/1166370164125962240<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-27 15:29:39
 ## #APT #Confucius ?
