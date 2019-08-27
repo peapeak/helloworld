@@ -1,3 +1,7 @@
+# @MalwarePatrol
+## 2019-08-27 11:30:10
+## China’s Spies Are on the Offensive. https://www.theatlantic.com/politics/archive/2019/08/inside-us-china-espionage-war/595747/ … via @TheAtlanticpic.twitter.com/T70pWDmzoo
+## https://twitter.com/MalwarePatrol/status/1166311941809291265<br><br><br><br><br>
 # @RedDrip7
 ## 2019-08-27 04:03:44
 ## #APT #Patchwork Reappeared as Conflict Intensified Between India and Pakistan,which use Github and Feed43 to store C2 configurations.
