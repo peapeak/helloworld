@@ -1,3 +1,7 @@
+# @threatpost
+## 2019-08-27 18:41:36
+## A difficult-to-detect #phishing campaign has been targeting employers with "resume" attachments, which peddle #malware used often for espionage.https://threatpost.com/microsoft-word-resume-phish-malware/147733/ …
+## https://twitter.com/threatpost/status/1166420515818528768<br><br><br><br><br>
 # @CyberSecInt
 ## 2019-08-27 17:30:13
 ## ~ Ransomware Hits Texas For Six: Over 20 local governments have suffered a co-ordinated attack from somebody who is demanding a $multimillion ransom. http://ow.ly/1Qou50vLho2  @DHSgovpic.twitter.com/WqoMIAgcBG
