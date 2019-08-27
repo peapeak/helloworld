@@ -1,4 +1,9 @@
 # @Rmy_Reserve
+## 2019-08-26 15:08:19
+## #APT #Darkhotel
+## Cc:@Arkbird_SOLGhttps://twitter.com/blackorbird/status/1165991628181405698 …
+## https://twitter.com/Rmy_Reserve/status/1166004451347288064<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-08-26 22:39:37
 ## Good ANALYSIS of #Gorgon #APT Group
 ## Thanks @Arkbird_SOLGhttps://twitter.com/Arkbird_SOLG/status/1166093551509417985 …
