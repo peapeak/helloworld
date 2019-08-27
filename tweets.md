@@ -1,3 +1,9 @@
+# @RedDrip7
+## 2019-08-27 04:03:44
+## #APT #Patchwork Reappeared as Conflict Intensified Between India and Pakistan,which use Github and Feed43 to store C2 configurations.
+## Decryption algorithm for configurations will described and the portrait of attacker is partially based on different data.
+## https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/ …pic.twitter.com/hgoy9r3vty
+## https://twitter.com/RedDrip7/status/1166199594729918465<br><br><br><br><br>
 # @thehellu
 ## 2019-08-27 08:55:53
 ## Apart from minor updates, #BADNEWS malware  authors use the same techniques 3 years after the first paper mentioning it: C2 retrieved from GitHub or similar services, same backdoor and file stealing features to overcome air gap... must be effective https://ti.qianxin.com/blog/articles/apt-c-09-reappeared-as-conflict-intensified-between-india-and-pakistan/ …
