@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-08-27 16:16:59
+## #APT #Lazarus 
+## Thanks @navSi16 
+## Cc @Arkbird_SOLG @spider_girl22https://twitter.com/navSi16/status/1166296733539717120 …
+## https://twitter.com/Rmy_Reserve/status/1166384121116942337<br><br><br><br><br>
 # @TalosSecurity
 ## 2019-08-27 15:21:31
 ## Despite being around for nine years, China Chopper is still an active threat. We broke down three recent campaigns where we saw it used to carry out espionage and more http://cs.co/6015EfE1T pic.twitter.com/yCcfbZV0wB
