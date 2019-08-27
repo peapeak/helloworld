@@ -1,4 +1,10 @@
 # @Rmy_Reserve
+## 2019-08-27 11:30:30
+## good analysis of #PatchWork #APT target at #Pakistan 
+## thanks @RedDrip7 
+## cc: @Arkbird_SOLGhttps://twitter.com/RedDrip7/status/1166199594729918465 …
+## https://twitter.com/Rmy_Reserve/status/1166312024852193282<br><br><br><br><br>
+# @Rmy_Reserve
 ## 2019-08-27 11:34:03
 ## maybe #APT-C-37 #APT
 ## Thanks @Timele9527 
