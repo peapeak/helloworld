@@ -1,3 +1,9 @@
+# @Arkbird_SOLG
+## 2019-08-26 21:02:22
+## #APT #Gorgon 
+## Last analysis about the gorgon group sample.
+## Thanks to @Rmy_Reserve @shotgunner101 @CYBERBITHQ (good analysis )https://github.com/StrangerealIntel/CyberThreatIntel/blob/master/Pakistan/APT/Gorgon/23-08-19/Malware%20analysis%2025-08-19.md …
+## https://twitter.com/Arkbird_SOLG/status/1166093551509417985<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-26 15:08:19
 ## #APT #Darkhotel
