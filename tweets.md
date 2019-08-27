@@ -1,3 +1,11 @@
+# @BleepinComputer
+## 2019-08-27 14:46:22
+## Lyceum/Hexane Threat Group Uses Common Hacking Tactics - by @Ionut_Ilascuhttps://www.bleepingcomputer.com/news/security/lyceum-hexane-threat-group-uses-common-hacking-tactics/ …
+## https://twitter.com/BleepinComputer/status/1166361318028447747<br><br><br><br><br>
+# @Arkbird_SOLG
+## 2019-08-27 12:29:37
+## #APT #BITTER This is the first variant too. Interesting to see that the same structure with the php file (kvs06v.php and ehRecvr.php). Make a rule for hunting with these references of structure, will be probably a good help.
+## https://twitter.com/Arkbird_SOLG/status/1166326902572949505<br><br><br><br><br>
 # @Arkbird_SOLG
 ## 2019-08-27 12:29:37
 ## I have modified (the strings condition is valid for the first variant only) and put additional comments of decrypting strings.
