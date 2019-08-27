@@ -1,3 +1,8 @@
+# @bsmuir
+## 2019-08-26 04:32:53
+## @fortiguardlabs examine the TTPs related to #Gamaredon Group, targeting Ukrainian LE/govt agencies. #infosec #Cybersecurity #DFIR #cybercrime #malware #cyberespionage
+## https://lnkd.in/f2kUTRr https://lnkd.in/f2mxk_U 
+## https://twitter.com/bsmuir/status/1165844542391816192<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-25 14:09:45
 ## #APT #BITTER
