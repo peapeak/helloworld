@@ -1,3 +1,7 @@
+# @BleepinComputer
+## 2019-08-28 19:47:34
+## Attackers Target Government and Financial Organizations With Orcus, Revenge Remote Access Trojans - by @sergheihttps://www.bleepingcomputer.com/news/security/attackers-target-govt-and-financial-orgs-with-orcus-revenge-rats/ …
+## https://twitter.com/BleepinComputer/status/1166799505859198976<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-28 16:52:08
 ## #APT Maybe #APT-C-36
