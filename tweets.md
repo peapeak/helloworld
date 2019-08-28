@@ -1,4 +1,8 @@
 # @z3roTrust
+## 2019-08-28 02:24:01
+## "...it’s possible for attackers to enable registration as an Administrator user. However, the attackers are not taking advantage of this and WordFence is instead seeing the access being used to modify the site URL setting in order to place a redirect."https://lnkd.in/gkkaPt2 
+## https://twitter.com/z3roTrust/status/1166536886308884480<br><br><br><br><br>
+# @z3roTrust
 ## 2019-08-28 03:48:03
 ## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=dvvyi7N1566964083677 …
 ## https://twitter.com/z3roTrust/status/1166558034774175744<br><br><br><br><br>
