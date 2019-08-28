@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-08-28 16:52:08
+## #APT Maybe #APT-C-36
+## Thanks @ecomsch 
+## Cc @Arkbird_SOLG @spider_girl22https://twitter.com/ecomsch/status/1166612840976977926 …
+## https://twitter.com/Rmy_Reserve/status/1166755353586888704<br><br><br><br><br>
 # @cylanceinc
 ## 2019-08-28 15:30:07
 ## Inside the APT28 DLL Backdoor Blitz. This report is a follow-up to 'Flirting With IDA and APT28.' This time, researchers perform a deep dive on capabilities found in an #APT28 sample that reveals a backdoor capability... Learn more: https://bit.ly/344FKn7 pic.twitter.com/S2LxTVldSm
