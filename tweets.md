@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-28 13:15:55
+## Middle East cyber-espionage is heating up with a new group joining the foldhttps://www.zdnet.com/article/middle-east-cyber-espionage-is-heating-up-with-a-new-group-joining-the-fold/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d667e777ebf6f00017ac6b7&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1166700941246181380<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-28 13:10:22
 ## #APT #APT32 #Oceanlotus
