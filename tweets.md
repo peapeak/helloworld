@@ -1,3 +1,8 @@
+# @Nima__Nikjoo
+## 2019-08-28 20:03:08
+## https://www.securitynow.com/author.asp?section_id=649&doc_id=751221 …
+## #APT #MuddyWater
+## https://twitter.com/Nima__Nikjoo/status/1166803419769778176<br><br><br><br><br>
 # @z3roTrust
 ## 2019-08-28 19:54:07
 ## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=enWDWqs1567022047459 …
