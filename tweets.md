@@ -1,3 +1,10 @@
+# @Rmy_Reserve
+## 2019-08-28 13:10:22
+## #APT #APT32 #Oceanlotus
+## target at Vietnam Probably against different political views 
+## thanks @trungduc751995 
+## cc: @Arkbird_SOLGhttps://twitter.com/trungduc751995/status/1166609650608934913 …
+## https://twitter.com/Rmy_Reserve/status/1166699544920199168<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-28 02:31:04
 ## Middle East cyber-espionage is heating up with a new group joining the foldhttps://www.zdnet.com/article/middle-east-cyber-espionage-is-heating-up-with-a-new-group-joining-the-fold/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d65e74357819f0001696777&utm_medium=trueAnthem&utm_source=twitter …
