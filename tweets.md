@@ -1,3 +1,7 @@
+# @cylanceinc
+## 2019-08-28 15:30:07
+## Inside the APT28 DLL Backdoor Blitz. This report is a follow-up to 'Flirting With IDA and APT28.' This time, researchers perform a deep dive on capabilities found in an #APT28 sample that reveals a backdoor capability... Learn more: https://bit.ly/344FKn7 pic.twitter.com/S2LxTVldSm
+## https://twitter.com/cylanceinc/status/1166734712628547595<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-28 13:15:55
 ## Middle East cyber-espionage is heating up with a new group joining the foldhttps://www.zdnet.com/article/middle-east-cyber-espionage-is-heating-up-with-a-new-group-joining-the-fold/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d667e777ebf6f00017ac6b7&utm_medium=trueAnthem&utm_source=twitter …
