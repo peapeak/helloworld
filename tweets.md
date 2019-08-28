@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-28 02:31:04
+## Middle East cyber-espionage is heating up with a new group joining the foldhttps://www.zdnet.com/article/middle-east-cyber-espionage-is-heating-up-with-a-new-group-joining-the-fold/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d65e74357819f0001696777&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1166538662005415937<br><br><br><br><br>
 # @z3roTrust
 ## 2019-08-28 02:24:01
 ## "...it’s possible for attackers to enable registration as an Administrator user. However, the attackers are not taking advantage of this and WordFence is instead seeing the access being used to modify the site URL setting in order to place a redirect."https://lnkd.in/gkkaPt2 
