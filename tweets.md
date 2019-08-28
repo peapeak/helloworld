@@ -1,3 +1,7 @@
+# @z3roTrust
+## 2019-08-28 03:48:03
+## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=dvvyi7N1566964083677 …
+## https://twitter.com/z3roTrust/status/1166558034774175744<br><br><br><br><br>
 # @threatpost
 ## 2019-08-27 18:41:36
 ## A difficult-to-detect #phishing campaign has been targeting employers with "resume" attachments, which peddle #malware used often for espionage.https://threatpost.com/microsoft-word-resume-phish-malware/147733/ …
