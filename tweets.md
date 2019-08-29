@@ -1,3 +1,7 @@
+# @ZDNet
+## 2019-08-29 06:38:32
+## Victorian government commits AU$12m to help schools prepare for mobile banhttps://zd.net/2L2GBx3 
+## https://twitter.com/ZDNet/status/1166963326070353920<br><br><br><br><br>
 # @Nima__Nikjoo
 ## 2019-08-28 20:03:08
 ## https://www.securitynow.com/author.asp?section_id=649&doc_id=751221 …
