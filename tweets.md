@@ -1,3 +1,11 @@
+# @RedDrip7
+## 2019-08-29 13:34:24
+## #APT-C-38 #军刀狮 #ZooPark
+## 
+## Attack seems carry out by #ZooPark against the #Middle East. It camouflaged as app of اربعین الجهادیه to lure victime to install so that sensitive credentials could get exfiltrated.
+## 
+## https://www.virustotal.com/gui/file/39bc24d1b9095c9d845979dc82994f8baff95b5d975140afa269a43d0a7935ee/detection …pic.twitter.com/SfHucWPw2v
+## https://twitter.com/RedDrip7/status/1167067983145066497<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-29 13:37:22
 ## #APT #APT-C-38
