@@ -1,4 +1,8 @@
 # @ZDNet
+## 2019-08-29 06:01:06
+## Hong Kong ISPs oppose any government plans to restrict internet networkhttps://www.zdnet.com/article/hong-kong-isps-oppose-any-government-plans-to-restrict-internet-network/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d676a077ebf6f00017ad422&utm_medium=trueAnthem&utm_source=twitter …
+## https://twitter.com/ZDNet/status/1166953904711589890<br><br><br><br><br>
+# @ZDNet
 ## 2019-08-29 06:38:32
 ## Victorian government commits AU$12m to help schools prepare for mobile banhttps://zd.net/2L2GBx3 
 ## https://twitter.com/ZDNet/status/1166963326070353920<br><br><br><br><br>
