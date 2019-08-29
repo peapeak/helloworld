@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-08-29 13:37:22
+## #APT #APT-C-38
+## thanks @RedDrip7
+## @Arkbird_SOLGhttps://twitter.com/RedDrip7/status/1167067983145066497 …
+## https://twitter.com/Rmy_Reserve/status/1167068726329368577<br><br><br><br><br>
 # @kaspersky
 ## 2019-08-29 12:25:36
 ## hacker:HUNTER - a mini-series looking at the biggest ever digital heist - #Carbanak.  
