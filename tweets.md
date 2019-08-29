@@ -1,3 +1,9 @@
+# @kaspersky
+## 2019-08-29 12:25:36
+## hacker:HUNTER - a mini-series looking at the biggest ever digital heist - #Carbanak.  
+## 
+## Watch the full series here: https://kas.pr/8n4v  @TmrwUnlocked #TomorrowUnlockedpic.twitter.com/fVTef0023P
+## https://twitter.com/kaspersky/status/1167050668319956993<br><br><br><br><br>
 # @bsmuir
 ## 2019-08-29 12:45:05
 ## @recordedfuture examine the evolution of #ransomware campaigns targeting state & local governments. #infosec #Cybersecurity #DFIR #cybercrime #CISO #malwarehttps://lnkd.in/fPjN-Ea 
