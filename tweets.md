@@ -1,3 +1,7 @@
+# @bsmuir
+## 2019-08-29 12:45:05
+## @recordedfuture examine the evolution of #ransomware campaigns targeting state & local governments. #infosec #Cybersecurity #DFIR #cybercrime #CISO #malwarehttps://lnkd.in/fPjN-Ea 
+## https://twitter.com/bsmuir/status/1167055568902774787<br><br><br><br><br>
 # @Rmy_Reserve
 ## 2019-08-29 11:22:13
 ## #APT #APT28
