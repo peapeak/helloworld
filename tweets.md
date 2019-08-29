@@ -1,3 +1,9 @@
+# @Rmy_Reserve
+## 2019-08-29 11:22:13
+## #APT #APT28
+## Thanks @unpacker 
+## Cc @Arkbird_SOLGhttps://twitter.com/unpacker/status/1166866305707720704 …
+## https://twitter.com/Rmy_Reserve/status/1167034717780074496<br><br><br><br><br>
 # @z3roTrust
 ## 2019-08-29 11:57:08
 ## There's a whole secretive world of digital espionage and spy vs. spy going on constantly.  Check out "Information Warfare Countermeasures" - via @z3roTrust #Cybersecurity #InformationWarfare #Cyberwar #NationalSecurity #Apthttps://medium.com/@z3roTrust/information-warfare-countermeasures-44878742c9f8?aduc=TlUc62u1567079828791 …
