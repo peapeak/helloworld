@@ -1,3 +1,12 @@
+# @cyb3rops
+## 2019-08-29 10:51:39
+## I case you ask yourself what to look for in your Proxy logs, check out my Sigma rules detecting all kinds of malicious "User Agent" strings
+## 
+## > I've just added a new one for APT28 malware
+## 
+## Rules "proxy_ua_*.yml"
+## https://github.com/Neo23x0/sigma/tree/master/rules/proxy …pic.twitter.com/fTvJnpRYJ3
+## https://twitter.com/cyb3rops/status/1167027024944336897<br><br><br><br><br>
 # @bsmuir
 ## 2019-08-29 10:43:07
 ## Analysis of recent #phishing campaign targeting Kenya, attributed to #Gorgon. Via @360TotalSec. #infosec #Cybersecurity #DFIR #cybercrime #malwarehttps://lnkd.in/fGd33n6 
