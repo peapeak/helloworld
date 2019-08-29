@@ -1,3 +1,7 @@
+# @bsmuir
+## 2019-08-29 10:43:07
+## Analysis of recent #phishing campaign targeting Kenya, attributed to #Gorgon. Via @360TotalSec. #infosec #Cybersecurity #DFIR #cybercrime #malwarehttps://lnkd.in/fGd33n6 
+## https://twitter.com/bsmuir/status/1167024874747039745<br><br><br><br><br>
 # @ZDNet
 ## 2019-08-29 10:30:55
 ## Hong Kong ISPs oppose any government plans to restrict internet networkhttps://www.zdnet.com/article/hong-kong-isps-oppose-any-government-plans-to-restrict-internet-network/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem%3A+Trending+Content&utm_content=5d67a94a7ebf6f00017ad87e&utm_medium=trueAnthem&utm_source=twitter …
